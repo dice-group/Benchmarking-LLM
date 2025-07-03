@@ -1,0 +1,15 @@
+Language,Tokenizer,Samples,Total Tokens,UNK Tokens,Token Coverage (%),Avg Token Length,Performance Flag
+am,mistralai/Mistral-7B-v0.1,5000,38299533,0,100.0,4.97,✅ Good
+kn,mistralai/Mistral-7B-v0.1,5000,19777087,0,100.0,2.95,✅ Good
+ky,mistralai/Mistral-7B-v0.1,5000,10424243,0,100.0,1.55,⚠️ Char-level fallback
+mr,mistralai/Mistral-7B-v0.1,5000,16081377,0,100.0,1.27,⚠️ Char-level fallback
+my,mistralai/Mistral-7B-v0.1,5000,25347119,0,100.0,3.89,✅ Good
+ne,mistralai/Mistral-7B-v0.1,5000,13707067,0,100.0,1.36,⚠️ Char-level fallback
+pa,mistralai/Mistral-7B-v0.1,5000,35786112,0,100.0,5.19,✅ Good
+ps,mistralai/Mistral-7B-v0.1,5000,16627982,0,100.0,1.57,⚠️ Char-level fallback
+si,mistralai/Mistral-7B-v0.1,5000,32935276,0,100.0,3.99,✅ Good
+so,mistralai/Mistral-7B-v0.1,39,8215,0,100.0,1.09,⚠️ Char-level fallback
+sw,mistralai/Mistral-7B-v0.1,5000,6585140,0,100.0,2.03,✅ Good
+te,mistralai/Mistral-7B-v0.1,5000,23191036,0,100.0,3.88,✅ Good
+tg,mistralai/Mistral-7B-v0.1,5000,11852753,0,100.0,1.91,⚠️ Char-level fallback
+yo,mistralai/Mistral-7B-v0.1,192,52334,0,100.0,1.75,⚠️ Char-level fallback

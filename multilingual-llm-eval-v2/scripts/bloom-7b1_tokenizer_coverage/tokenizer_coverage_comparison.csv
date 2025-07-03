@@ -1,0 +1,15 @@
+Language,Tokenizer,Samples,Total Tokens,UNK Tokens,Token Coverage (%),Avg Token Length,Performance Flag
+am,bigscience/bloom-7b1,5000,27490041,0,100.0,1.53,⚠️ Char-level fallback
+kn,bigscience/bloom-7b1,5000,4295409,0,100.0,8.76,✅ Good
+ky,bigscience/bloom-7b1,5000,10815808,0,100.0,2.78,✅ Good
+mr,bigscience/bloom-7b1,5000,4015206,0,100.0,9.62,✅ Good
+my,bigscience/bloom-7b1,5000,27488500,0,100.0,1.57,⚠️ Char-level fallback
+ne,bigscience/bloom-7b1,5000,3150132,0,100.0,10.31,✅ Good
+pa,bigscience/bloom-7b1,5000,4598155,0,100.0,7.99,✅ Good
+ps,bigscience/bloom-7b1,5000,8633905,0,100.0,2.86,✅ Good
+si,bigscience/bloom-7b1,5000,32503788,0,100.0,1.49,⚠️ Char-level fallback
+so,bigscience/bloom-7b1,39,8115,0,100.0,1.94,⚠️ Char-level fallback
+sw,bigscience/bloom-7b1,5000,3691567,0,100.0,3.53,✅ Good
+te,bigscience/bloom-7b1,5000,4115559,0,100.0,8.85,✅ Good
+tg,bigscience/bloom-7b1,5000,12760094,0,100.0,2.7,✅ Good
+yo,bigscience/bloom-7b1,192,22232,0,100.0,3.79,✅ Good

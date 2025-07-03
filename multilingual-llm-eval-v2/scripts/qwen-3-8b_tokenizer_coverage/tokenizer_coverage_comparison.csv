@@ -1,0 +1,15 @@
+Language,Tokenizer,Samples,Total Tokens,UNK Tokens,Token Coverage (%),Avg Token Length,Performance Flag
+am,Qwen/Qwen3-8B,5000,22478196,0,100.0,1.88,⚠️ Char-level fallback
+kn,Qwen/Qwen3-8B,5000,19801207,0,100.0,1.9,⚠️ Char-level fallback
+ky,Qwen/Qwen3-8B,5000,9917301,0,100.0,3.03,✅ Good
+mr,Qwen/Qwen3-8B,5000,14674074,0,100.0,2.63,✅ Good
+my,Qwen/Qwen3-8B,5000,23553851,0,100.0,1.84,⚠️ Char-level fallback
+ne,Qwen/Qwen3-8B,5000,12416774,0,100.0,2.61,✅ Good
+pa,Qwen/Qwen3-8B,5000,22885550,0,100.0,1.61,⚠️ Char-level fallback
+ps,Qwen/Qwen3-8B,5000,9813592,0,100.0,2.51,✅ Good
+si,Qwen/Qwen3-8B,5000,28073530,0,100.0,1.73,⚠️ Char-level fallback
+so,Qwen/Qwen3-8B,39,7543,0,100.0,2.08,✅ Good
+sw,Qwen/Qwen3-8B,5000,5955679,0,100.0,2.19,✅ Good
+te,Qwen/Qwen3-8B,5000,20740415,0,100.0,1.76,⚠️ Char-level fallback
+tg,Qwen/Qwen3-8B,5000,11387650,0,100.0,3.03,✅ Good
+yo,Qwen/Qwen3-8B,192,44732,0,100.0,1.88,⚠️ Char-level fallback

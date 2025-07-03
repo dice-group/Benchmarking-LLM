@@ -1,0 +1,15 @@
+Language,Tokenizer,Samples,Total Tokens,UNK Tokens,Token Coverage (%),Avg Token Length,Performance Flag
+am,meta-llama/Llama-2-7b-hf,5000,44956442,0,100.0,5.49,✅ Good
+kn,meta-llama/Llama-2-7b-hf,5000,34411713,0,100.0,5.31,✅ Good
+ky,meta-llama/Llama-2-7b-hf,5000,10053623,0,100.0,1.6,⚠️ Char-level fallback
+mr,meta-llama/Llama-2-7b-hf,5000,16351083,0,100.0,1.39,⚠️ Char-level fallback
+my,meta-llama/Llama-2-7b-hf,5000,26610456,0,100.0,4.1,✅ Good
+ne,meta-llama/Llama-2-7b-hf,5000,14321967,0,100.0,1.67,⚠️ Char-level fallback
+pa,meta-llama/Llama-2-7b-hf,5000,33560761,0,100.0,4.97,✅ Good
+ps,meta-llama/Llama-2-7b-hf,5000,16827059,0,100.0,1.57,⚠️ Char-level fallback
+si,meta-llama/Llama-2-7b-hf,5000,35606761,0,100.0,4.32,✅ Good
+so,meta-llama/Llama-2-7b-hf,39,7626,0,100.0,1.18,⚠️ Char-level fallback
+sw,meta-llama/Llama-2-7b-hf,5000,6541047,0,100.0,2.04,✅ Good
+te,meta-llama/Llama-2-7b-hf,5000,35290520,0,100.0,5.47,✅ Good
+tg,meta-llama/Llama-2-7b-hf,5000,12041118,0,100.0,2.29,✅ Good
+yo,meta-llama/Llama-2-7b-hf,192,51512,0,100.0,1.78,⚠️ Char-level fallback

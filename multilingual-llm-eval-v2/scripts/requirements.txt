@@ -1,0 +1,13 @@
+pytorch
+transformers 
+datasets 
+ftlangdetect 
+pandas
+scikit-learn 
+sentencepiece 
+nltk
+evaluate
+seaborn
+matplotlib
+pandas
+accelerate

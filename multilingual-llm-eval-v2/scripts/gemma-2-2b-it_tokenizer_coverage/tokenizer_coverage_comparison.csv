@@ -1,0 +1,15 @@
+Language,Tokenizer,Samples,Total Tokens,UNK Tokens,Token Coverage (%),Avg Token Length,Performance Flag
+am,google/gemma-2-2b-it,5000,17337259,0,100.0,0.88,⚠️ Char-level fallback
+kn,google/gemma-2-2b-it,5000,9901782,0,100.0,1.41,⚠️ Char-level fallback
+ky,google/gemma-2-2b-it,5000,8445616,0,100.0,1.84,⚠️ Char-level fallback
+mr,google/gemma-2-2b-it,5000,7323074,0,100.0,1.85,⚠️ Char-level fallback
+my,google/gemma-2-2b-it,5000,14047038,0,100.0,1.27,⚠️ Char-level fallback
+ne,google/gemma-2-2b-it,5000,5862697,0,100.0,1.88,⚠️ Char-level fallback
+pa,google/gemma-2-2b-it,5000,10341366,0,100.0,1.24,⚠️ Char-level fallback
+ps,google/gemma-2-2b-it,5000,7608461,0,100.0,1.65,⚠️ Char-level fallback
+si,google/gemma-2-2b-it,5000,16524804,0,100.0,1.03,⚠️ Char-level fallback
+so,google/gemma-2-2b-it,39,5900,0,100.0,1.51,⚠️ Char-level fallback
+sw,google/gemma-2-2b-it,5000,4935993,0,100.0,2.64,✅ Good
+te,google/gemma-2-2b-it,5000,8622445,0,100.0,1.49,⚠️ Char-level fallback
+tg,google/gemma-2-2b-it,5000,9716832,0,100.0,1.83,⚠️ Char-level fallback
+yo,google/gemma-2-2b-it,192,39616,0,100.0,1.36,⚠️ Char-level fallback
