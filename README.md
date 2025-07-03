@@ -3,7 +3,7 @@ This is repository is about task-agnostic multilingual evaluation and benchmark 
 
 ## Multilingual LLM Evaluation
 
-This script evaluates multilingual LLMs on low resources languages for different tasks using different datasets: CulturaX, Opus, XLSUm and Belebele
+This script evaluates multilingual LLMs on low resources languages for different tasks using different datasets: CulturaX, Opus, XLSum and Belebele
 ### Tasks and Datasets
 - `Text Generation (CulturaX)`
 - `Machine Translation (Opus100)`
@@ -14,8 +14,8 @@ This script evaluates multilingual LLMs on low resources languages for different
 
 <table>
   <tr><th align="left">Iso code</th><th>Language</th><th>Language script</th><th>Language class</th></tr>
-  <tr><th align="left">-am</th><td>Amharic</td><td>Ge'ez</td><td>2</td></tr>
-  <tr><th align="left">-te</th><td>Telugu</td><td>Devanagari</td><td>1</td></tr>
+  <tr><th align="left">am</th><td>Amharic</td><td>Ge'ez</td><td>2</td></tr>
+  <tr><th align="left">te</th><td>Telugu</td><td>Devanagari</td><td>1</td></tr>
   <tr><th align="left">my</th><td>Burmese</td><td>Burmese</td><td>1</td></tr>
   <tr><th align="left">ne</th><td>Nepali</td><td>Devanagari</td><td> 1</td></tr>
   <tr><th align="left">kn</th><td>Kannada</td><td>Kannada</td><td>1</td></tr>
@@ -30,6 +30,20 @@ This script evaluates multilingual LLMs on low resources languages for different
      <tr><th align="left">ky</th><td>Kyrgyz</td><td>Cyrillic</td><td>2</td></tr>
 </table>
 
+
+### Selected Multilingual LLMs
+
+<table>
+  <tr><th align="left">Models</th><th>Tokenizer type</th><th>Task</th></tr>
+  <tr><th align="left">LLama2</th><td>SentencePiece (BPE)</td><td>Generation, Translation , Summarization, QA</td></tr>
+  <tr><th align="left">Mistral</th><td>SentencePiece (BPE)</td><td>Generation, Translation , Summarization, QA</td></tr>
+  <tr><th align="left">XGLM</th><td>Byte-Pair Encoding (BPE)</td><td>Generation, Translation , Summarization, QA</td></tr>
+  <tr><th align="left">BlOOM</th><td>Byte-level BPE</td><td>Generation, Translation , Summarization, QA</td></tr>
+  <tr><th align="left">Qwen</th><td>tiktoken or SentencePiece</td><td>Generation, Translation , Summarization, QA</td></tr>
+  <tr><th align="left">NLLB</th><td>SentencePiece (BPE)</td><td>Translation</td></tr>
+  tr><th align="left">mBART-large</th><td>SentencePiece (BPE)</td><td>Translation</td></tr>
+  <tr><th align="left">mT5-base</th><td>SentencePiece (Unigram)</td><td>Translation</td></tr>
+</table>
 **Usage:**
 
 ```bash
