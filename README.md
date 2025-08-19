@@ -3,9 +3,8 @@ This is repository is about task-agnostic multilingual evaluation and benchmark 
 
 ## Multilingual LLM Evaluation
 
-This script evaluates multilingual LLMs on low resources languages for different tasks using different datasets: CulturaX, Opus, XLSum and Belebele
+This script evaluates multilingual LLMs on low resources languages for different tasks using different datasets: Opus, XLSum and Belebele
 ### Tasks and Datasets
-- `Text Generation (CulturaX)`
 - `Machine Translation (Opus100)`
 - `Text Summarization (XLSum)`
 - `Question Answering (Belebele)`
@@ -35,22 +34,23 @@ This script evaluates multilingual LLMs on low resources languages for different
 
 <table>
   <tr><th align="left">Models</th><th>Tokenizer type</th><th>Task</th></tr>
-  <tr><th align="left">LLama2</th><td>SentencePiece (BPE)</td><td>Generation, Translation , Summarization, QA</td></tr>
-  <tr><th align="left">Mistral</th><td>SentencePiece (BPE)</td><td>Generation, Translation , Summarization, QA</td></tr>
-  <tr><th align="left">XGLM</th><td>Byte-Pair Encoding (BPE)</td><td>Generation, Translation , Summarization, QA</td></tr>
-  <tr><th align="left">BlOOM</th><td>Byte-level BPE</td><td>Generation, Translation , Summarization, QA</td></tr>
-  <tr><th align="left">Qwen</th><td>tiktoken or SentencePiece</td><td>Generation, Translation , Summarization, QA</td></tr>
+  <tr><th align="left">LLama2</th><td>SentencePiece (BPE)</td><td>Translation , Summarization, QA</td></tr>
+  <tr><th align="left">Mistral</th><td>SentencePiece (BPE)</td><td>Translation , Summarization, QA</td></tr>
+  <tr><th align="left">XGLM</th><td>Byte-Pair Encoding (BPE)</td><td>QA</td></tr>
+  <tr><th align="left">BLOOM</th><td>Byte-level BPE</td><td>Translation , Summarization, QA</td></tr>
+  <tr><th align="left">Qwen</th><td>tiktoken or SentencePiece</td><td>QA</td></tr>
   <tr><th align="left">NLLB</th><td>SentencePiece (BPE)</td><td>Translation</td></tr>
-  tr><th align="left">mBART-large</th><td>SentencePiece (BPE)</td><td>Translation</td></tr>
-  <tr><th align="left">mT5-base</th><td>SentencePiece (Unigram)</td><td>Translation</td></tr>
+  tr><th align="left">mBART</th><td>SentencePiece (BPE)</td><td>Translation</td></tr>
+  <tr><th align="left">mT5</th><td>SentencePiece (Unigram)</td><td>Translation, Summarization, QA</td></tr>
 </table>
+
 **Usage:**
 
 ```bash
 python scripts/eval_opus.py \
   --model meta-llama/Llama-2-7b-hf \
-  --task generation \
-  --lang am 
+  --source_lang en\
+  --target_lang mr
 ```
 
 ## Tokenizer Evaluation
@@ -60,12 +60,13 @@ This script evaluates the token coverage of a tokenizer across multiple language
 **Usage:**
 
 ```bash
-python scripts/eval_tokenizer.py \
+python scripts/eval_tokenizer_coverage.py \
   --tokenizer meta-llama/Llama-2-7b-hf \
-  --dataset uonlp/CulturaX \
+  --dataset Helsinki-NLP/opus-100 \
   --text_column text \
   --samples 1000 \
-  --output tokenizer_coverage.csv
+  --lang  mr am kn my \ 
+  --output Llama2_tokenizer_coverage.csv
 ```
 
 

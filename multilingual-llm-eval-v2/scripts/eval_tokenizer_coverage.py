@@ -151,7 +151,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--tokenizer", type=str, nargs="+", required=True,
                         help="Tokenizer names (e.g. 'meta-llama/Llama-2-7b-hf mistralai/Mistral-7B-v0.1')")
-    parser.add_argument("--dataset", type=str, default="uonlp/CulturaX", help="HuggingFace dataset ID")
+    parser.add_argument("--dataset", type=str, default="Helsinki-NLP/opus-100", help="HuggingFace dataset ID")
     parser.add_argument("--text_column", type=str, default="text", help="Column containing the text")
     parser.add_argument("--samples", type=int, default=500, help="Max number of samples per language")
     parser.add_argument("--lang", nargs="+", default=None, help="Language codes to evaluate (e.g. am si lo)")
@@ -166,3 +166,4 @@ if __name__ == "__main__":
         output_dir=args.output_dir,
         langs=args.lang
     )
+

@@ -3,6 +3,7 @@
 
 import argparse
 from datasets import load_dataset
+from huggingface_hub import login
 from transformers import (
     pipeline,
     AutoTokenizer,
@@ -23,12 +24,13 @@ def is_llm(model_name):
 def prompt_translate(text, source_lang="English", target_lang="French"):
     return f"Translate the following text from {source_lang} to {target_lang}:\n{text}\nTranslation:"
 
-
+#login("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")
 def evaluate_opus(model_name, dataset_name, src_lang, tgt_lang, split, max_samples):
     lang_pair = f"{src_lang}-{tgt_lang}"
     print(f"🔍 Loading dataset: {dataset_name}, language pair: {lang_pair}, split: {split}")
 
     try:
+       # login("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")
         dataset = load_dataset(dataset_name, lang_pair, split=f"{split}[:{max_samples}]")
     except Exception as e:
         print(f"⚠️  Could not load split '{split}', trying 'train' instead.")
@@ -75,7 +77,7 @@ if __name__ == "__main__":
     parser.add_argument("--source_lang", type=str, required=True, help="Source language code (e.g. en)")
     parser.add_argument("--target_lang", type=str, required=True, help="Target language code (e.g. fr)")
     parser.add_argument("--split", type=str, default="test", help="Dataset split to use (default: test)")
-    parser.add_argument("--max_samples", type=int, default=50, help="Number of samples to evaluate")
+    parser.add_argument("--max_samples", type=int, default=500, help="Number of samples to evaluate")
 
     args = parser.parse_args()
 
@@ -87,3 +89,4 @@ if __name__ == "__main__":
         split=args.split,
         max_samples=args.max_samples
     )
+

@@ -2,7 +2,6 @@ pytorch
 transformers 
 datasets 
 ftlangdetect 
-pandas
 scikit-learn 
 sentencepiece 
 nltk
