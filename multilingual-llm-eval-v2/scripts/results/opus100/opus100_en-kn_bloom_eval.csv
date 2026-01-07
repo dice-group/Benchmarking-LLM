@@ -1,0 +1,1320 @@
+Source,Reference,Prediction,BLEU,chrF++
+and,ಹಾಗು,"and
+
+A:
+
+I think you can do it in O(n^2) time, where n is the number of words in the input sentence. The idea is to build a trie for each word in the sentence, and then traverse the trie from left to right until we reach the end of the sentence. At that point, we have translated the whole sentence.
+Here is an implementation in Python:
+def translate(sentence):
+    trie = {}
+    for word in sentence:
+        if word not in trie:
+            trie[word] = [None] * (len(trie) + 1)",0.00,0.00
+Your names,ಶಂಕರ ಪ್ರಸಾದ್ ಎಂ ವಿEMAIL OF TRANSLATORS,"My name is John Doe
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split(/\s+/).map((c,i)=>`My name is ${c}`).join(' ')
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split("" "");
+  b = b.trim();
+  return a.map(c => ""My name is "" + c) + "" "" + b;
+}",0.00,1.51
+Name for New Scheme,ಹೊಸ ಪದ್ಧತಿಗೆ ಹೆಸರು,"A name for a new scheme
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>`${c} ${b}`)
+
+Try it online!
+Explanation
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map(c => c + ' ' + b);
+}",0.00,0.00
+Type,ಬಗೆ,"Kn
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split("" "").map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(/\s+/);
+  b = b.trim();
+  return a.map((c, i) => c + ' ' + b);
+}
+
+The idea is to split the input string on whitespace and then map each element of the resulting array to the concatenation of that element and the target string",0.00,0.00
+Default,ಪೂರ್ವನಿಯೋಜಿತName,"Default
+
+A:
+
+Python 2.7.9 (default, Nov  6 2015, 11:02:56) 
+[GCC 4.8.2] on linux2
+Type ""help"", ""copyright"", ""warning"" or ""license"" for more information.
+>>> import sys
+>>> sys.stdin.read()
+'Default'
+>>> 
+>>> from translate.lang import data
+>>> print data.translate('default', 'kn')
+Default",0.00,1.08
+The center of scaling,ಗಾತ್ರ ಬದಲಾವಣೆ ಕೇಂದ್ರ,"The centre of rotation
+
+A:
+
+Python 2.7, 57 bytes
+lambda s:''.join(map(chr,s)[::-1])
+
+Try it online!
+
+A:
+
+JavaScript (ES6), 56 bytes
+f=(a,b)=>a.split("""").reverse().join("""")+(b||"" "")+f(a.slice(0,a.length-1),b)
+
+Test cases
+f(""The center of scaling"", ""The center of rotation"")
+f(""the center of scale"", ""the center of rotation"")
+f()
+f(""a b c d e f",0.00,0.00
+Network,ಜಾಲಬಂಧ,"Netwerk
+
+A:
+
+I think you can do it in two passes. In the first pass, translate each word of the input sentence into its corresponding word in the target language. Then, in the second pass, join the translated words together to form the output sentence.
+For example, let's say we want to translate the English sentence ""Network"" into Dutch. The first pass would look something like this:
+input = 'Network'
+target = 'Netwerk'
+result = []
+for word in input:
+    result.append(target.find(word))
+result = ' '.join(result)
+print(result)",0.00,0.00
+Accessibility,ಸುಲಭಲಭ್ಯತೆ (ಅಕ್ಸೆಸಿಬಲಿಟಿ),"['accessibility', 'accesibilidad']",0.00,0.00
+Percentage:,ಪ್ರತಿಶತ:,"%
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(""%"").join(b)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split('%');
+  b = b.trim();
+  if (a.length !== 2) {
+    return a;
+  }
+  return a[0] + '%' + a[1];
+}",0.00,0.41
+Keep Above Others,ಬೇರೆಯವುಗಳ ಮೇಲಿಡು,"Keeping Above Others
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split("" "").map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(/\s+/);
+  b = b.trim();
+  return a.map((c, i) => c + ' ' + b);
+}
+
+The idea is to split the input string on whitespace and then map each element of the resulting array to the concatenation of that element and",0.00,0.00
+"Your battery has reached critical level. This notification triggers a countdown before doing the configured action, hence it is strongly advised to leave that on.",Name,"You have reached the critical level of your battery. This will trigger a count down before performing the configured actions, so it is highly recommended to leave it on.
+
+A:
+
+I think you can do this in two steps:
+1) Translate the first part of the sentence (""Your battery..."")
+2) Then translate the second part (""this notification..."").",0.00,1.71
+Broadcast,ಪ್ರಸರಿಸು,"Broadcast
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map(c => c + ' ' + b);
+}",0.00,0.00
+General,ಸಾಮಾನ್ಯ,"Kn
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split("" "");
+  b = b.trim();
+  return a.map((c, i) => c + "" "" + b);
+}",0.00,0.00
+New message received,ಹೊಸ ಸಂದೇಶವನ್ನು ಸ್ವೀಕರಿಸಲಾಗಿದೆComment,"The new message has been received
+
+A:
+
+I think you can do something like this:
+import nltk
+from nltk.tokenize import word_tokenize, sent_tokenize
+
+sentences = [""New message received"", ""The new message""]
+
+for sentence in sentences:
+    tokens = [word_tokenize(sentence)]
+    for token in tokens:
+        if len(token) > 1:
+            tokens.append(token[0] + "" "" + token[1])
+    print("" "".join(tokens))",0.00,2.05
+"Transcoding ""%s""","""%s"" ಅನ್ನು ಟ್ರಾನ್ಸ್‌ಕೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ","""Transcoding %s""
+
+A:
+
+I don't know if this is what you are looking for, but here is a solution that I came up with. The idea is to create a function that takes two strings as input and returns a string containing the translated version of the first string using the second string as a template. This way, we can reuse the same function in multiple places without having to modify it.
+def translate(string1, string2):
+    return string1.translate(string2)
+
+print(translate('Transcoding', 'transcoding'))",0.00,1.05
+Aghi,ಅಘಿName,"Aghi
+
+A:
+
+Python 2.7, 57 bytes
+lambda s:''.join(map(chr,s))
+
+Try it online!
+
+A:
+
+JavaScript (ES6), 56 bytes
+f=(a)=>a.split("""").map(c=>c.charCodeAt(0));f(""Aghi"")
+
+Try it here!",0.00,1.90
+"Should brasero filter hidden files. Set to true, brasero will filter hidden files.",ಅಡಗಿಸಲಾದ ಕಡತಗಳನ್ನು brasero ಸೋಸಬೇಕೆ. true ಗೆ ಹೊಂದಿಸಿದಲ್ಲಿ ಅಡಗಿಸದ ಕಡತಗಳನ್ನು brasero ಸೋಸುತ್ತದೆ.,"Brasero should filter out hidden files.
+
+A:
+
+I don't know if this is what you are looking for, but here is a solution that I came up with:
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void)
+{
+    char *input = (char *)malloc(sizeof(char) * 100);
+    char output[100];
+
+    printf(""Input: %s\n"", input);
+
+    while (fgets(input, sizeof(input), stdin) != NULL)
+    {
+        int len = strlen(input);
+
+        if (input[len - 1] == '\n')
+        {
+            input[len",0.00,5.01
+Your emails,svenkate@ redhat. com,"Emails from you
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>`${c} from ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split("" "");
+  b = b.trim();
+  return a.map((c, i) => `${c} by ${b} at ${i}`);
+}
+
+The idea is to split the input string on spaces, and then map each word to a new string with the",0.00,5.63
+Description (Name),ವಿವರ (ಹೆಸರು) @ item: inlistbox Format:,"Name (Description)
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split(/\s+/).map((c,i)=>b.replace(new RegExp(""(^|\\s)""+c+""(\\s|$)"",""g""),""$1""+a[i]+""$2""))
+
+Try it online!
+Explanation
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map(c =>
+    b.replace(
+      new RegExp(`(^",0.00,6.47
+Brazil portuguese,ಬ್ರೆಜಿಲಿಯನ್ ಪೋರ್ಚುಗೀಸ್Name,"Brasil is a country in South America
+
+A:
+
+JavaScript (ES6), 28 bytes
+s=>s.toLowerCase().split("" "").map(t=>t.replace(/\s/g,""""))
+
+Try it online!
+Explanation:
+s => s.toLowerCase() splits the string on spaces, and then maps each element of the array to the result of replacing all whitespace characters with an empty string.",0.00,0.90
+Cayman Islands,ಕೇಮ್ಯಾನ್ ಐಲ್ಯಾಂಡುಗಳುName,"Caiman Islands
+
+A:
+
+JavaScript (ES6), 57 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>`${c} ${b[i]}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map(c => c + ' ' + b[i]);
+}",0.00,0.93
+Creating file layout,ಕಡತ ವಿನ್ಯಾಸವನ್ನು ರಚಿಸಲಾಗುತ್ತಿದೆ,"creating file layout
+
+A:
+
+I think this is what you want:
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{xparse}
+
+\ExplSyntaxOn
+\NewDocumentCommand{\createfilelayout}{m}
+ {
+  \tl_set:Nn \l_tmpa_tl { #1 }
+  \clist_map_inline:nn { #2 }
+   {
+    \tl_put_right:Nx \l_tmplb_tl
+     {
+      \tl_if_blank:nTF { ##1 }
+       {
+        \tl_replace_once:nnN { ##2 }
+         {
+          \tl_skip_to_string:nn",0.00,0.00
+Should the full path be shown inside the location bar,ಲಂಬಸಾಲಿನ ಅಗಲ,"The full path should be shown in the browser's location bar
+
+A:
+
+I think you can do it like this:
+<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <meta http-equiv=""X-UA-Compatible"" content=""ie=edge"">
+    <title>Untitled Document</title>
+</head>
+<body>
+    <form>
+        <input type=""text"" id=""input"" placeholder=""Enter your text here..."">
+        <button id=""submit"">Submit</button>
+    </form>
+    <script>
+        var input = document.getElementById('input');
+        var submit = document
+                .getElementById('sub",0.00,0.00
+Which type of chart should be displayed.,ಯಾವ ಬಗೆಯ ನಕ್ಷೆಯು ಕಾಣಿಸಿಕೊಳ್ಳಬೇಕು.,"A bar chart, a line chart, or a pie chart.",0.00,0.54
+Language,ಭಾಷೆ,"Language
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map(c => c + ' ' + b);
+}",0.00,0.00
+Enabled,ಶಕ್ತಗೊಂಡಿದೆ,"Kn
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.replace(/\s+/g, ' ');
+  return a
+    .split(' ')
+    .map(word => `${word} ${b}`);
+};
+
+The idea is to split the input string on spaces, and then map each word to a new string that contains both the original word and the translated word.",0.00,0.00
+ruler,ಅಳತೆಗೋಲು,"knife
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split("" "").map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(/\s+/);
+  b = b.trim();
+  return a.map((c, i) => c + "" "" + b);
+}
+
+The idea is to split the input string on spaces, and then map each word to a new string that concatenates the current word with the next word",0.00,0.00
+Those names should be changed and truncated to 64 characters.,ಆ ಹೆಸರುಗಳನ್ನು ಬದಲಾಯಿಸಲಾಗುತ್ತದೆ ಹಾಗು ೬೪ ಅಕ್ಷರಗಳಿಗೆ ನಿರ್ಬಂಧಿಸಲಾಗುತ್ತದೆ.,"They should be renamed and shortened to 64 letters.
+
+A:
+
+JavaScript (ES6), 56 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>{for(j=i;j<64;j++)if(c.length>j)c=c.substring(0,j);return c})
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.split(
+    "" ""
+  ).map(
+    (c, i) => {
+      for (j = i; j < 64; j++) {
+        if (
+          c.",0.00,0.17
+Remove the sixes,ಆರುಗಳನ್ನು ತೆಗೆದು ಹಾಕು,"Sixes removed
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split(b).filter(c=>c.length==6)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  let result = [];
+  for (let i = 0; i < a.length; i++) {
+    if (a[i].length === 6) {
+      result.push(a[i]);
+    }
+  }
+  return result;
+}",0.00,0.00
+Type,ಬಗೆ,"Kn
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split("" "").map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(/\s+/);
+  b = b.trim();
+  return a.map((c, i) => c + ' ' + b);
+}
+
+The idea is to split the input string on whitespace and then map each element of the resulting array to the concatenation of that element and the target string",0.00,0.00
+Your names,ಉಮೇಶ್ ರುದ್ರಪಟ್ಟಣEMAIL OF TRANSLATORS,"My name is John Doe
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split(/\s+/).map((c,i)=>`My name is ${c}`).join(' ')
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split("" "");
+  b = b.trim();
+  return a.map(c => ""My name is "" + c) + "" "" + b;
+}",0.00,1.51
+Length,ಉದ್ದno data,"The number of characters in the input string
+
+A:
+
+JavaScript (ES6), 28 bytes
+s=>s.split('').reduce((a,b)=>a+=b.length,0)
+
+Try it online!
+
+A:
+
+Python 2, 32 bytes
+lambda s:sum(map(len,s))
+
+Try it here!
+Explanation:
+The lambda function takes a string as an argument and returns the sum of the lengths of all the words in the string. The map function is used to convert the string into a list of words. The reduce function is then used to add up the length of each word in the list",0.00,1.75
+Other Settings,ಇತರೆ ಸಿದ್ಧತೆಗಳು,"Kn Settings
+
+A:
+
+I think you can do it in two steps. First, translate the first part of the sentence (""Other Settings"") and then translate the second part (""Kn Settings""). The trick is to make sure that the translation of ""Settings"" is the same in both languages. For example, if you want to translate ""settings"" as ""konfigurasjoner"" in English, you should translate it as ""konfigurering"" in Norwegian.
+Here is an example of how I would do it:
+1. Translate ""other settings"" -> ""konfigurering av andre innstillinger""
+2.",0.00,0.00
+Get a hint for your next move,ನಿಮ್ಮ ಮುಂದಿನ ನಡೆಗೆ ಸುಳಿವನ್ನು ಪಡೆದುಕೊಳ್ಳಿ,"A hint for my next move
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split(/\s+/).map((c,i)=>{for(j=i;j<a.length;j++)if(c==a[j])return b[i]})
+
+Try it online!
+Explanation
+f = (a, b) => {
+  a = a.trim().split("" "");
+  b = [];
+  for (let i = 0; i < a.length; i++) {
+    if (a[i] === b[i]) continue;
+    b.push(a",0.00,0.00
+& Search,ಹುಡುಕು( S),"& Search
+
+A:
+
+JavaScript (ES6), 28 bytes
+s=>s.toLowerCase().split(""&"").map(t=>t.split(""="")[1])
+
+Try it online!
+Explanation:
+s => s.toLowerCase() splits the string into an array of strings, each of which is converted to lower case and then split on the '&' character. The resulting array is then passed to map(), which takes each element of the array and converts it to a string by splitting it on the '=' character. Finally, the result of that split operation is assigned to the first argument of the function.
+
+A:
+
+Python",0.00,0.53
+Your emails,svenkate@ redhat. com,"Emails from you
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>`${c} from ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split("" "");
+  b = b.trim();
+  return a.map((c, i) => `${c} by ${b} at ${i}`);
+}
+
+The idea is to split the input string on spaces, and then map each word to a new string with the",0.00,5.63
+Advanced,ಪ್ರೌಢ,"Avanzado
+
+A:
+
+I think you can do it in two steps. First, convert the input string to a list of words. Then, for each word in the list, find its translation in the dictionary and add it to the output string.
+import re
+from nltk.tokenize import word_tokenize
+
+input = 'Advanced'
+output = ''
+
+words = [word_tokenize(input) for _ in range(len(input))]
+
+for word in words:
+    if word in dict:
+        output += dict[word] + ' '
+    else:
+        print(f'Word {word} not found",0.00,0.00
+Shortcut,ಶಾರ್ಟ್- ಕಟ್,"Kn shortcuts
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.toLowerCase().split("" "").filter(c=>b.indexOf(c)>-1)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.toLowerCase();
+  b = b.toUpperCase();
+
+  return a.split(' ').filter((c) => b.includes(c));
+}
+
+The idea is to split the input string by spaces, and filter out any words that appear in the output string.",0.00,0.25
+Custom,ಇಚ್ಛೆಯ (ಕಸ್ಟಮ್) @ item license,"Kustom
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(/\s+/);
+  b = b.trim();
+  return a.map((c, i) => c + "" "" + b);
+}
+
+The idea is to split the input string on whitespace and then map each element of the resulting array to the concatenation of the current element and the",0.00,4.23
+Position on the Z axis,Z ಅಕ್ಷದಲ್ಲಿನ ಸ್ಥಾನ,"Distance from the bottom of the machine to the top of the workpiece
+
+A:
+
+I don't think you can do it in one go. You have to translate each word separately, and then put them back together again.
+For example, if you want to translate ""position on the z axis"" into ""knee"", you would need to translate ""z axis"" as ""knees"", ""position"" as ""positioning"", ""on the"" as ""on the knees"", and ""axis"" as ""the knees"".",0.00,0.00
+Your emails,ashok567@ gmail. com; svenkate@ redhat. com,"Emails from you
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>`${c} from ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split("" "");
+  b = b.trim();
+  return a.map((c, i) => `${c} by ${b} at ${i}`);
+}
+
+The idea is to split the input string on spaces, and then map each word to a new string with the",0.00,9.01
+Generic,ಸಾಮಾನ್ಯ,"Generic
+
+A:
+
+Python 2.7, 57 bytes
+lambda s:''.join(map(chr,s))
+
+Try it online!
+
+A:
+
+JavaScript (ES6), 56 bytes
+a=>a.split("""").map((c,i)=>`${c} ${i}`).join("" "")
+
+Try it here!",0.00,0.00
+Properties,ಗುಣಗಳು,"Property
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>`Property ${i} of ${b} is ${c}`)
+
+Try it online!
+Explanation
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map((_, i) => `${b} has property ${i} which is ${_}`);
+};",0.00,0.00
+Data,ದತ್ತ,"Data
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map(c => c + ' ' + b);
+}",0.00,0.00
+& Delete,ಅಳಿಸು( D),"& Delete
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.replace(/&/g,b)
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.replace(
+    /&/g,
+    b
+  );
+
+This replaces all occurrences of & in a with b.",0.00,1.40
+Effects,ಪರಿಣಾಮಗಳು,"[['Input', 'Effects'], ['Output', 'Effekte']]",0.00,0.00
+_Move to parent folder,ಮೂಲ ಕಡತಕೋಶಕ್ಕೆ ಜರುಗಿಸು (_M),"_Koppel naar bovenliggende map
+
+A:
+
+I think you can do something like this:
+import nltk
+from nltk.tokenize import word_tokenize, sent_tokenize
+
+def translate(text):
+    tokens = [word_tokenize(t) for t in text.split()]
+    result = []
+    for token in tokens:
+        if len(token) == 1:
+            result.append(token)
+        elif token[0] == '[' and token[-1:] == ']':
+            parts = token[1:-1].split(',')
+            for part in parts:
+                result.",0.00,0.59
+Replace Location,ನಿಲ್ಲಿಸು@ info,"Place
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.replace(/\b(place|location)\b/g,b)
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.replace(
+    /\b((place)|(location))\b/g,
+    b
+  )",0.00,2.09
+Previous Maintainer,ಪ್ರಸ್ತುತ ಪೋಷಕ,"Next Maintainer
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(/\s+/).map((c,i)=>b.replace(new RegExp(c,""g""),i+1))
+
+Try it online!
+Explanation
+f = (a, b) =>
+  a.split(
+    /\s+/
+  ).map(
+    (c, i) =>
+      b.replace(
+        new RegExp(
+          c,
+          ""g""
+        ),
+        i + 1
+      )
+  )
+
+The idea is to split the input string into an array of words, and then replace each word with its index in the array",0.00,0.00
+Your names,ಮನು. ಬಿEMAIL OF TRANSLATORS,"My name is John Doe
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split(/\s+/).map((c,i)=>`My name is ${c}`).join(' ')
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split("" "");
+  b = b.trim();
+  return a.map(c => ""My name is "" + c) + "" "" + b;
+}",0.00,1.97
+Thailand,ಥೈಲ್ಯಾಂಡ್Name,"Kampuchea
+
+A:
+
+I think you can do it in two steps. First, translate the first part of the sentence (input) into Khmer and then translate the second part (output) from Khmer to English.
+Here is how I would do it:
+
+First, translate input into Khmer using Google Translate or any other online translation service. For example, here is the result of translating ""Input"" into Khmer with Google Translate:
+
+Then, translate output from Khmer into English using an online translation tool such as Google Translate. Here is the result:
+
+Hope this helps!",0.00,0.84
+Select one song only please.,ಒಂದು ಹಾಡನ್ನು ಮಾತ್ರ ಆಯ್ದುಕೊಳ್ಳಿ.,Please select one song from the list.,0.00,0.58
+Your emails,ramaprakash. b@ gmail. com; svenkate@ redhat. com; kamathvasudev@ gmail. com,"Emails from you
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>`${c} from ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split("" "");
+  b = b.trim();
+  return a.map((c, i) => `${c} by ${b} at ${i}`);
+}
+
+The idea is to split the input string on spaces, and then map each word to a new string with the",0.00,12.68
+Spring Sunray,ವಸಂತದ ಸೂರ್ಯರಶ್ಮಿName,"Spring sunray
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(/\s+/);
+  b = b.trim();
+  return a.map((c, i) => c + ' ' + b);
+}
+
+The idea is to split the input string on whitespace and then map each element of the resulting array to the concatenation of that element and the",0.00,0.91
+Please describe your upload.,ದಯವಿಟ್ಟು ನೀವು ನಕಲೇರಿಸಿದುದರ (upload) ಬಗ್ಗೆ ವಿವರಿಸಿ.,"I uploaded a picture of my dog.
+
+A:
+
+Python 2.7
+import sys, re
+
+def main():
+    if len(sys.argv) != 2:
+        print >> sys.stderr, ""Usage: %s <filename>"" % sys.argv[0]
+        exit(1)
+    filename = sys.argv[1]
+    with open(filename) as f:
+        lines = f.readlines()
+    for line in lines:
+        m = re.match(""^(.*)\s+\[(.*?)\]$"", line)
+        if m:
+            print m.group(2)
+
+if __name__ == ""__main__"":
+    main()
+
+Output
+Please",0.00,4.17
+Your names,ಶಂಕರ ಪ್ರಸಾದ್‌ ಎಂ. ವಿ. EMAIL OF TRANSLATORS,"My name is John Doe
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split(/\s+/).map((c,i)=>`My name is ${c}`).join(' ')
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split("" "");
+  b = b.trim();
+  return a.map(c => ""My name is "" + c) + "" "" + b;
+}",0.00,1.94
+Video Player,ದೃಷ್ಯಾಂಶ (ವಿಡಿಯೋ) ನಿರೂಪಕName,"['video', 'player']",0.00,1.37
+_List of slices that are to be created:,ರಚಿಸಬೇಕಿರುವ ಚೂರುಗಳ ಪಟ್ಟಿ (_L):,"List of slices:
+
+A:
+
+Python 2.7, 103 bytes
+lambda s:''.join(map(str,s))
+
+Try it online!
+
+A:
+
+JavaScript (ES6), 102 bytes
+f=s=>s.split(/\s+/).map(t=>t.replace(/^\s+|\s+$/g,"""")).join("" "")
+
+Try it here!
+Explanation
+The idea is to split the input string on whitespace and then map each element to a function that replaces all leading and trailing whitespace with an empty string. Finally, we join the resulting list of functions with a single space.
+
+A:
+
+Perl",0.00,0.68
+User:,ಬಳಕೆದಾರ( r):,"['User', ':', 'The', 'user', 'is', 'not', 'logged', 'in']",0.00,1.77
+The profile was changed,ವ್ಯಕ್ತಿವೈಶಿಷ್ಟ್ಯ ವನ್ನು (ಪ್ರೊಫೈಲ್) ಬದಲಾಯಿಸಲಾಯಿತುName,"['The', 'profile', 'was']
+['changed']",0.00,0.74
+Release,ಆವೃತ್ತಿ:,"Rejestracja
+
+A:
+
+I don't know if this is what you are looking for, but I think it will help you to understand how to solve this kind of problems. You can read more about it here: http://en.wikipedia.org/wiki/Lexical_projection
+In your case, you want to translate the word ""release"" into ""rekonstrukcja"". This means that you need to find all the words that have the same meaning in both languages (in this case, release and rekonstrucja) and replace them with each other. For example, in English, there is the verb ""to release""",0.00,0.18
+Location:,ತಾಣ( o):,"Location:
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>`${c}: ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split("" "");
+  b = b.trim();
+  return a.map((c, i) => `${c}:` + b);
+}",0.00,1.65
+Use anti-aliasing for fonts,ಅಕ್ಷರಶೈಲಿಗಳಿಗೆ ಆಂಟಿ- ಅಲಿಯಾಸಿಂಗ್ ಅನ್ನು ಬಳಸಿ,"Use antialiasing in fonts
+
+A:
+
+I think you can do it with a simple regex. The problem is that there is no space between the two words, so you need to use a negative lookbehind:
+(?<!\\s)anti-aliasing(?!\\s)
+
+See the regex demo
+Details
+
+(?<!\s) - start of a word boundary (\W)
+anti-aliasing-(?!\s)  - an optional sequence of zero or more chars other than whitespace and anti-aliasing:
+(?=...) - a positive lookahead that asserts that the rest of the string must match the given pattern",0.00,0.15
+MiB,MiB,"Meb
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>{for(j=i;j<a.length;j++)if(c==a[j])return b})
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  for (let i = 0; i < a.length; i++) {
+    if (a[i] === b) {
+      return i;
+    }
+  }",0.00,1.44
+Tools,ಉಪಕರಣಗಳು,"Werkzeuge
+
+A:
+
+I think you can do it in two passes. The first pass would be to translate each word of the input sentence into its corresponding word in the target language, and then the second pass would take those translated words and put them back into the original sentence.
+For example, if your input sentence is ""Tools"" and your target language is ""Knöpfe"", you could do something like this:
+import nltk
+from nltk.corpus import stopwords
+
+stopwords = set(stopwords.words('english'))
+
+input_sentence = 'Tools'
+target_language = 'K",0.00,0.00
+View,ನೋಟ,"['V', 'r', 'e', 'm', 'd', '']",0.00,0.00
+Delete,ಅಳಿಸಿ ಹಾಕು( e),"Kneel down
+
+A:
+
+Python 2.7, 57 bytes
+lambda s:''.join(map(chr,s))
+
+Try it online!
+
+A:
+
+JavaScript (ES6), 56 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>`${c} ${b}`).join("""")
+
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(/\s+/);
+  b = b.trim();
+  return a.map((_, i) => `${_} ${b}`).join",0.00,0.88
+& File,ಕಡತ( F),"& File
+
+A:
+
+Python 2.7.9 (default, Nov  6 2015, 11:02:56) 
+[GCC 4.8.2] on linux2
+Type ""help"", ""copyright"", ""warning"" or ""license"" for more information.
+>>> import sys
+>>> from translate.misc.translate import Translator
+>>> t = Translator('en', 'kn')
+>>> t.translate(sys.stdin.read(), sys.stdout.write)
+& File",0.00,0.87
+Swedish Krona,ಸ್ವೀಡಿಶ್ ಕ್ರೋನಾName,"Svenska krona
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(""."").map((c,i)=>{c=parseInt(c,10)*b;if(isNaN(c))return null;return c}).join("""")
+
+Try it online!
+Explanation
+f = (a, b) => {
+  a = a.replace(/\D/g, """");
+  b = parseInt(b, 10) * b;
+  if (!isFinite(b)) return null;
+  return b + ""."" + a.split",0.00,1.29
+Name,ಹೆಸರು,"John Doe
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation
+f = (a, b) =>
+  a.split(
+    /\s+/
+  ).map((c) =>
+    `
+      ${c}
+      ${b}
+    `
+  )
+)",0.00,0.00
+Language,ಭಾಷೆ,"Language
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map(c => c + ' ' + b);
+}",0.00,0.00
+Device,ರೋಪಣಾ (ಮೌಂಟ್) ಸ್ಥಾನ,"Device can be translated as follows:
+
+input: device
+output: device
+
+The first part of the sentence (input) is translated by translating the first word in the sentence. In this case, input is translated as ""device"". The second part (output) is not translated at all because it does not contain any words that need to be translated.",0.00,0.49
+& File,ಕಡತ( F),"& File
+
+A:
+
+Python 2.7.9 (default, Nov  6 2015, 11:02:56) 
+[GCC 4.8.2] on linux2
+Type ""help"", ""copyright"", ""warning"" or ""license"" for more information.
+>>> import sys
+>>> from translate.misc.translate import Translator
+>>> t = Translator('en', 'kn')
+>>> t.translate(sys.stdin.read(), sys.stdout.write)
+& File",0.00,0.87
+Western European,ಪಾಶ್ಚಾತ್ಯ ಯೂರೋಪಿಯನ್@ item Text character set,"Scandinavian
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>{for(j=i;j<b.length;j++)if(c==b[j])return j})
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  return a.map(c => {
+    for (i = 0; i < b.length; i++) {
+      if (c === b[i]) {
+        return i;
+      }
+    }",0.00,4.96
+Your names,ಮನು. ಬಿEMAIL OF TRANSLATORS,"My name is John Doe
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split(/\s+/).map((c,i)=>`My name is ${c}`).join(' ')
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split("" "");
+  b = b.trim();
+  return a.map(c => ""My name is "" + c) + "" "" + b;
+}",0.00,1.97
+Remember view properties for each folder,ತಾಣಪಟ್ಟಿಯಲ್ಲಿ ಸಂಪೂರ್ಣ ತಾಣವನ್ನು ತೋರಿಸು@ option: check Startup Settings,"Remember to view properties of each folder
+
+A:
+
+I think you can do it in two steps. First, translate the first part of the sentence (remember view properties) and then translate the second part (for each folder). This way, you will be able to keep the original order of the words in your translation.
+For example, if you want to translate remember view properties into kn, you can use the following steps:
+
+translate remember into kn;
+translate view properties from English into kn by using Google Translate;
+put the result of step 1 at the end of step 2.
+
+This way, your translation will look like this:
+
+Remember",0.00,5.47
+Next,ಮುಂದಿನ,"Kn
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split("" "").map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(/\s+/);
+  b = b.trim();
+  return a.map((c, i) => c + ' ' + b);
+}
+
+The idea is to split the input string on whitespace and then map each element of the resulting array to the concatenation of that element and the output string",0.00,0.00
+Select the game type to play,ಆಡಲು ಆಟದ ಬಗೆಯನ್ನು ಆರಿಸಿ,"Choose the kind of game you want to play
+
+A:
+
+JavaScript (ES6), 28 bytes
+s=>s.split(/\s+/).map(t=>t.toLowerCase()==='game'&&t.length>=2?t.substr(0,2):'')
+
+Try it online!
+
+A:
+
+Python 2, 32 bytes
+lambda s:s[s.lower().find(""game"")+2:]
+
+Try it here!",0.00,0.00
+Color,ಬಣ್ಣ,"Colour
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.replace(/\s+/g, ' ');
+  return a
+    .split(' ')
+    .map(word => `${word} ${b}`);
+};
+
+The idea is to split the input string on spaces, and then map each word to a concatenation of the original word and the translated word.",0.00,0.00
+Rename Item,ಅಂಶದ ಹೆಸರನ್ನು ಬದಲಾಯಿಸು@ title: window,"Renamed Item
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map(c => c + ' ' + b);
+}",0.00,3.61
+The maximum depth drawn in the chart from the root,ಚಾರ್ಟಿನಲ್ಲಿ ಮೂಲದಿಂದ ಎಳೆಯಲಾದ ಗರಿಷ್ಟ ಆಳ,"The maximum distance from the origin to the farthest point on the chart
+
+This is what I have so far:
+import java.util.Scanner;
+
+public class Main {
+
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+        System.out.println(""Please enter a sentence"");
+
+        String sentence = input.nextLine();
+
+        String[] words = sentence.split(""\\s+""); // Split the sentence into words
+
+        for (int i = 0; i < words.length; i++) {
+            if (words[i].length() > 0) {",0.00,0.00
+Install Theme File...,ಪರಿಸರವಿನ್ಯಾಸದ ಕಡತವನ್ನು ಅನುಸ್ಥಾಪಿಸು...,"Installing theme file...
+
+A:
+
+The problem is that you are trying to translate the word ""theme"", which is a noun in English, but a verb in Dutch. The correct translation would be ""installeer het bestand"" (to install the file).",0.00,1.55
+Column Number,ಲಂಬ ಸಂಖ್ಯೆ,"Row Number
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("","").map((c,i)=>{for(j=i;j<b.length;j++)if(c==b[j])return j})
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.split(
+    "",""
+  ).map(
+    (c, i) =>
+      for (j = i; j < b.length; j++) if (c === b[j]) return j
+  )
+console.log(f([1,2,",0.00,0.00
+_Selection,ಆಯ್ಕೆ(_S),"Kn_Selection
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split(""_"").map((c,i)=>`${b}_${c}`).join("" "")
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split('_');
+  b = b.trim();
+  return a.map((s, i) => `${s}_${b}`)
+    .join(' ');
+}",0.00,1.77
+Filter,ಶೋಧಿಸುNAME OF TRANSLATORS,"Filtration
+
+A:
+
+Python 2.7, 103 bytes
+f=lambda s:''.join(map(lambda x:x+' ',s.split())).strip()
+
+Try it online!
+Explanation:
+f = lambda s: ''.join((x + ' ') for x in s.split())
+f('Filter') -> 'Filtration'",0.00,1.26
+Danish,ಡ್ಯಾನಿಷ್Name,"[['Danish'], ['Denmark']]",0.00,3.47
+Mail-URL,ಅಂಚೆ- URLDescription,"E-mail-URL
+
+A:
+
+Python 2.7.6 (default, Nov  6 2014, 11:58:56) 
+[GCC 4.8.2] on linux2
+Type ""help"", ""copyright"", ""warning"" or ""license"" for more information.
+>>> import sys
+>>> sys.stdin.readline()
+'Mail-URL'
+>>> from translate.lang import data
+>>> print data.translate('mail-url')
+E-mail-URL",0.00,6.99
+Open a project,ಒಂದು ಪರಿಯೋಜನೆಯನ್ನು ತೆರೆಯಿರಿ,"Start a new project
+
+A:
+
+I think you can do it in two steps. First, translate the first part of the sentence (""Open a project"") and then translate the second part (""Start a new one""). This way, you don't have to worry about the order of the words in the sentence.
+For example, this is how I would translate your sentence:
+
+Køb en projekt
+Start et nyt projekt
+
+If you want to make sure that the translation is grammatically correct, you can use a tool like Grammarly.",0.00,0.00
+Change...,ಬದಲಾಯಿಸು( g)...,"Changed...
+
+A:
+
+Python 2.7
+import sys
+from translate.lang import data
+print(data.translate(sys.stdin.readline().strip(), 'en', 'kn'))",0.00,4.83
+Open,ತೆರೆ,"Kn
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.replace(/\s+/g, ' ');
+  return a
+    .split(' ')
+    .map(word => `${word} ${b}`);
+};",0.00,0.00
+Method,ರೀತಿ,"Input
+
+The first pass could look something like this:
+input <- c(""Input"", ""Input"")
+output <- c()
+for (i in 1:length(input)) {
+  output <- c()
+  for (j in 1:2) {
+    if (input[i] == input[j]) {
+      output",0.00,0.00
+No hint available.,ಯಾವುದೆ ಸುಳಿವು ಲಭ್ಯವಿರುವುದಿಲ್ಲ.,"I don't know how to translate it.
+
+A:
+
+I think you can do this in O(n) time, where n is the number of words in the input sentence. The idea is to build a trie for each word in the sentence, and then traverse the trie from the root node to the leaf node that corresponds to the target word. For example, if we want to find the translation of the word ""input"", we need to traverse all the nodes in the tree until we reach a leaf node whose label is ""output"". This will take O(1) time per traversal, so the total running time",0.00,0.16
+Rename the selected file,ಆಯ್ಕೆ ಮಾಡಲಾದ ಕಡತದ ಹೆಸರನ್ನು ಬದಲಾಯಿಸಿ,',0.00,0.00
+Close,ಮುಚ್ಚು,"Kneel
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split("" "").map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(/\s+/);
+  b = b.trim();
+  return a.map((c, i) => c + ' ' + b);
+}
+
+The idea is to split the input string on whitespace, and then map each element of the array to the concatenation of that element and the",0.00,0.00
+Folders,ಕಡತಕೋಶಗಳು,"Knots
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split("" "").map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(/\s+/);
+  b = b.trim();
+  return a.map((c, i) => c + ' ' + b);
+}
+
+The idea is to split the input string on whitespace and then map each element of the resulting array to the concatenation of that element and the",0.00,0.00
+Your names,ಅಶೋಕ್ ಕುಮಾರ್ ಎ.; ಶಂಕರ್ ಪ್ರಸಾದ್EMAIL OF TRANSLATORS,"My name is John Doe
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split(/\s+/).map((c,i)=>`My name is ${c}`).join(' ')
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split("" "");
+  b = b.trim();
+  return a.map(c => ""My name is "" + c) + "" "" + b;
+}",0.00,1.77
+_View,ನೋಟ (_V),"View
+
+A:
+
+I think you can do something like this:
+import nltk
+from nltk.tokenize import word_tokenize, sent_tokenize
+
+def translate(text):
+    text = text.replace(""_"", "" "")
+    tokens = [word_tokenize(x) for x in text.split()]
+    sentences = []
+    for token in tokens:
+        if len(token) == 1:
+            sentences.append(token)
+        elif token[0] == '(' and token[-1] == ')':
+            tokens.remove(token)
+            tokens.insert(0, token[0] + ' ' + token[-1]",0.00,0.89
+Install card themes…,ಎಲೆಗಳ ವಿನ್ಯಾಸಗಳನ್ನು ಅನುಸ್ಥಾಪಿಸಿ…,"Installing card themes…
+
+A:
+
+I think you can do it in two steps. First, translate the first part of the sentence (install card themes) and then translate the second part (Installing card theme…). The problem is that there is no way to know if the translation of install card themes is correct or not until you have translated the whole sentence. So you need to keep translating until you get the right translation for both parts.",0.00,0.18
+document email,ದಸ್ತಾವೇಜಿನ ಇಮೈಲ್,"translated document email
+
+A:
+
+I think you can do it in O(n) time, where n is the length of the input string. The idea is to build a trie that contains all the words in the input and then traverse the trie from left to right until we reach the end of the string. At this point, we know that the word we're looking for is the last word in the string, so we just need to return it.
+The trie will look something like this:
+[
+  {
+    word: ""input"",
+    next: [
+      {
+        word: ""document"",
+        next: []
+      }",0.00,0.00
+Recording audio tracks on a rewritable disc is not advised.,ಆಡಿಯೊ ಟ್ರಾಕ್‌ಗಳನ್ನು ಒಂದು ಮರಳಿನರೆಯಬಹುದಾದ ಡಿಸ್ಕನಲ್ಲಿ ರೆಕಾರ್ಡು ಮಾಡುವುದು ಸೂಕ್ತವಲ್ಲ.,"Recordings of audio tracks should be made on a non-rewritable disc.
+
+A:
+
+I don't know if this is the best way to do it, but I think you can get away with something like this:
+<?xml version=""1.0"" encoding=""utf-8""?>
+<xsl:stylesheet xmlns:xsl=""http://www.w3.org/1999/XSL/Transform"" version=""1.0"">
+    <xsl:output method=""xml"" indent=""yes"" omit-xml-declaration=""yes""/>
+    <xsl:strip-space elements=""*""/>
+
+    <xsl:template match=""@*|node()"">
+        <xsl:copy>
+            <xsl:apply-templates select=""@* | node()""/>
+        </xsl:copy>
+    </xsl:template>",0.00,0.11

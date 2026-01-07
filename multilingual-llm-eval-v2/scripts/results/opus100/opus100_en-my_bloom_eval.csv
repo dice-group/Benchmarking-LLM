@@ -1,0 +1,1380 @@
+Source,Reference,Prediction,BLEU,chrF++
+Message edited at %s,စကား လက်ခံရ,"Message edited on %s
+
+A:
+
+I think you can do it like this:
+from datetime import datetime, timedelta
+
+now = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+print now + timedelta(days=1)
+
+This will give you:
+2017-12-01 00:01:01",0.00,0.00
+Hide main window,ပင်မဝင်းဒိုး ဖွက်ထားပါ,"Show main window
+
+A:
+
+I think you can do it like this:
+import java.awt.*;
+import javax.swing.*;
+
+public class Main {
+    public static void main(String[] args) {
+        JFrame frame = new JFrame();
+        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        JPanel panel = new JPanel();
+
+        JLabel label = new JLabel(""Hide main window"");
+
+        JButton button = new JButton(""Show main window ""); 
+        button.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                frame.setVisible(false",0.00,0.00
+/clear: clear all messages from the current conversation,/clear - အခုစကားပြောရာမှ စာကြောင်းများအားလုံး ရှင်းလင်းပါ,"/input: input message
+/output: output message
+/send: send message",0.00,0.93
+"Last month clashes between indigenous Bodo tribes and Muslim settlers in the Indian State of Assam broke out which led to rioting, killings and mass displacement.",ပြီးခဲ့တဲ့လက ဖြစ်ပွားခဲ့သော် အိန္ဒိယနိုင်ငံ အာသံပြည်နယ်အတွင်းမှ ဒေသခံဘိုဒိုမျိုးနွယ်စုများနှင့် လာရောက်အခြေချနေထိုင်သော မွတ်ဆလင်တို့၏ပဋိပက္ခသည် အဓိကရုဏ်းဖြစ်ခြင်း၊,"The clashes between the Bodos and the Muslims in Assam last month resulted in riots, killings, and mass displacements.
+
+A:
+
+I think you can do it like this:
+
+Last month clashes (between) indigenous Bodos tribes (and) Muslim settlers (in) the Indian state of Assam (broke out) which led (to) rioting, (killing), (and) mass displacement.",0.00,0.00
+Failed to open '%s' for writing: %s,'%s' ကို ဖွင့်ပြီး ရေးသားဖို့ မအောင်မြင်တဲ့ အရာ - %s,"Failed to write to '%s': %s
+
+A:
+
+The problem is that you need to escape the backslashes in your string literals. You can do this by putting them in double quotes, like this:
+""\""Failed to open \""%s\"" for writing\"": \""%s\"""" % (filename, strerror(errno))",0.69,2.83
+Santos knows what challenges women face in this male-dominated industry.,အမျိုးသားများ အုပ်စိုးထားသော ဤ သတင်းလုပ်ငန်းတွင် အမျိုးသမီးများ ကြုံတွေ့ရသော အခက်အခဲများကို ဆန်တို့(စ) သိသည်။,Santos es consciente de las dificultades que afrontan las mujeres en un sector dominado por hombres.,0.00,0.00
+From which families do they come?,သူတို့ ဘယ်မိသားစုကလာတာလဲ။,"[['From', 'which', 'families'], ['do', 'they', 'come']]",0.00,0.00
+Go to the next image of the gallery,ရှေ့ဆုံးပုံ သွားပါ,https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Go_to_next_image_of_the_gallery.svg/1200px-Go_to_next_picture_in_the_galleryof_the_wikipedia,0.00,0.00
+Postal Code:,စာတိုက်အမှတ် -,"1234567890
+
+A:
+
+JavaScript (ES6)
+const postalCode = ""1234567890"";
+const result = postalCode.split("" "").map(s => s.replace(/\D/g, """")).join("""");
+console.log(result);",0.00,0.00
+"But aside from the three-finger salute, protesters are also doing read-in protests in public places to dramatize their opposition to the coup.",ထိုင်း​တပ်​မတော်​က မေ​လ(၂​၀)ရက်​နေ့​တွင် ည​မ​ထွက်​ရ​အမိန့်​ကို ကြေညာခဲ့ပြီး နှစ်​ရက်​အကြာ​တွင် အာဏာ​သိမ်း​ခဲ့​သည်။,"Protesters are not only doing the three finger salute but they are also reading out their protest against the coup.
+
+A:
+
+I think you can do it like this:
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+        System.out.println(""Please enter a sentence:"");
+
+        String sentence = input.nextLine();
+
+        String[] words = sentence.split("" ""); // Split the sentence into words
+
+        for (int i = 0; i < words.length; i++) {
+            if (",0.00,0.20
+libburnia burning suite,libburnia ရိုက်ယူမှုနည်းများ,"LibBurnia Burning Suite
+
+A:
+
+I don't know if this is what you're looking for, but you could try something like this:
+import nltk
+from nltk.tokenize import word_tokenize
+
+sentence = input(""Enter your sentence: "")
+words = [word_tokenize(w) for w in sentence.split()]
+print(nltk.corpus.stopwords.words('english'))
+
+This will give you a list of all the words in the sentence, and then filter out the stopwords.",0.00,4.11
+Simulation of (S)VCD burning,အက်ဒီဗီဒီ ရေးယူရန် အစမ်းပြသခြင်း,"Simulation of VCD burning
+
+A:
+
+I think you can do it in two steps. The first step would be to split the sentence into words, and then translate each word separately. For example:
+
+Simulation of S-VCD burning simulation of V-CD burning
+
+The second step is to combine the translated words back into the original sentence. In your example, this would look like this:
+
+Simulations of S-vcd burning simulations of V-cd burning",0.00,0.00
+Extension(s),အမျိုးအစား,"Extensions
+
+A:
+
+I think you can do it like this:
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println(""Enter input"");
+
+        String input = scanner.nextLine();
+        String[] parts = input.split(""\\s+""); // split on whitespace
+
+        for (int i = 0; i < parts.length; i++) {
+            if (parts[i].equals(""Extension(s)"")) {
+                break;
+            }
+        }
+
+        String output =",0.00,0.00
+Creating file layout,ဖိုင်နေရာချထားမှုကိုပြုလုပ်,"I am creating file layout
+
+A:
+
+I think you can do it like this:
+<?xml version=""1.0"" encoding=""utf-8""?>
+<LinearLayout xmlns:android=""http://schemas.android.com/apk/res/android""
+    android:layout_width=""fill_parent""
+    android:layout_height=""fill_parent""
+    android:orientation=""vertical"" >
+
+    <TextView
+        android:id=""@+id/textView1""
+        android:layout_width=""wrap_content""
+        android:layout_height=""wrap_content""
+        android:text=""Creating file layout""
+        android:textAppearance=""?android:attr/textAppearanceMedium"" />
+
+    <EditText
+        android:id=""@+id/editText1""
+        android:layout_width=""0dp""
+        android:layout_height=""match_parent""
+        android:layout_weight=""1""
+        android:ems=""10""
+        android:inputType=""textMultiLine"" />
+
+</LinearLayout>
+
+And then in your activity:
+TextView textView = (TextView) findViewById(R.id.textView1)",0.00,0.00
+Select Your Avatar Image,မျက်နှာစာပုံ ရွေးချယ်ပါ,"Choose your avatar image
+
+A:
+
+I think you can do it like this:
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+        System.out.println(""Please enter your name:"");
+
+        String name = input.nextLine();
+        int i = 0;
+        while (i < name.length()) {
+            if (name.substring(i, i + 1).equals("" "")) {
+                i++;
+            } else {
+                break;
+            }
+            i++;
+        }
+        String username = name.",0.00,0.00
+Text Editor,စာသား တည်းဖြတ်ကိရိယာ,"The text editor is an application that allows you to write and edit text on your computer. It can also be used to create documents, spreadsheets, presentations, and other types of files.
+
+A:
+
+I think this is what you are looking for:
+
+The text editor was developed by Microsoft for Windows operating systems.",0.00,0.00
+Pause length:,ရပ်မှတ် ကြာချိန်:,"Length of pause:
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>`${c}:${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split("" "");
+  b = b.trim();
+  return a.map((c, i) => `${i}: ${b}`);
+}",0.00,0.34
+Song start:,သီချင်းအစ,"Song end:
+
+A:
+
+I think you can do it like this:
+import java.util.Scanner;
+
+public class Main {
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println(""Enter the sentence"");
+
+        String sentence = scanner.nextLine();
+
+        String[] words = sentence.split(""\\s+""); // split the sentence into words
+
+        for (int i = 0; i < words.length; i++) {
+            if (words[i].equals(""Song start"")) {
+                words[i] = ""Song end"";",0.00,0.00
+Rickshaw as a mean of transportation pulled by a human being has been considered a violation of human rights. So the Commune of Antsirabe launched the “cyclopousse” – a rickshaw pulled by a bike.,"ဒါပေမဲ့​လည်း ""ရိုးရာ"" လန်​ချား​တွေ​က အန်​ဆီ​ရာ​ဘဲ ဒေသ​ခံတော်တော်​များ⁠များ​အတွက် အဓိက​သွား​လာ​ရေး​နည်း​အနေ​နဲ့ ဆက်​ရှိ​နေ​သေး​တာ​ပါ​ပဲ။","Cyclopousse as a means of transportation in Madagascar is considered to violate human rights, so the commune of Antsohihy launched the “Cyclopousses” – rickshaws pulled by bicycles.
+
+A:
+
+I think you can do it like this:
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+        System.out.println(""Please enter a sentence"");
+
+        String sentence = input.nextLine();
+        String[] words = sentence.split(""\\s+""); // split",0.00,0.18
+Changes the case of selected text.,ရွေးချယ်ထားသော စာသားကို အကြီးအသေးပြောင်း,"The case of the selected text is changed.
+
+A:
+
+JavaScript (ES6)
+function changeCase(text) {
+  return text.toLowerCase().replace(/\w\S*/g, function(match) {
+    return match.charAt(0).toUpperCase() + match.substr(1).toLowerCase();
+  });
+}
+
+console.log(changeCase('This is a test'));",0.00,0.00
+What is your Google ID?,Google အမည် သွင်းပါ,"Your Google ID is 1234567890
+
+A:
+
+I think you can do it like this:
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println(""Enter your Google ID: "");
+
+        String input = scanner.nextLine();
+        String output = input.substring(0, input.indexOf("" "")) + ""1234567890"";
+
+        if (input.length() > 0) {
+            output += "" "" + input.charAt(input.lastIndexOf(""",0.53,4.16
+Image from today's protest in Benghazi.,"""စိတ်မကောင်းပါဘူး ခရစ်(စ်)ရယ် ၊","['image', 'from', 'today', 's protest', 'in']",0.00,0.00
+_Debug,_D အမှားစစ်,"Debug
+
+A:
+
+I think you can do it like this:
+import java.util.Scanner;
+
+public class Main {
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println(""Enter a sentence"");
+
+        String sentence = scanner.nextLine();
+
+        String[] words = sentence.split(""\\s+""); // split on whitespace
+
+        for (int i = 0; i < words.length; i++) {
+            if (words[i].contains(""_"")) {
+                words[i] = words[i].substring(0, 1).toUpperCase",0.00,0.40
+Appending audio tracks to a CD is not advised.,စီဒီသို့သီချင်းဖိုင်များထပ်ထည့်ခြင်းကို မပြုလုပ်စေလိုပါ,"Audio tracks should not be added to an audio CD.
+
+A:
+
+I think you can do it like this:
+<?xml version=""1.0"" encoding=""utf-8""?>
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3c.org/1999/xhtml"" xml:lang=""en"" lang=""en"">
+<head>
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"" />
+    <title>Untitled Document</title>
+</head>
+<body>
+    <table>
+        <tr>
+            <td><input type=""radio"" name=""radio1"" value=""yes"" checked=""checked"" /></td>",0.00,0.00
+File format not recognized,ဖိုင်ပုံစံကိုအသိအမှတ်မပြုနိင်ပါ,"The file format is not recognized
+
+A:
+
+The problem is that you need to escape the backslash in the string literal. You can do this by adding another backslash after the first one, like this:
+""File format not recognised\\r\\nThe file format isn't recognised""",0.00,0.00
+"For a moment, the news about the checkpoint came as a shock.",ယင်းသည် ကျွန်ုပ်၏ ဘ၀ကို ပြီးဆုံးစေခဲ့သောသူတို့၏ အကြွင်းမဲ့ နိဂုံးဟု အနက်ဆောင်ပါသည်။,"I was shocked by the news of the checkpoint for a moment.
+
+A:
+
+I think you want to say something like:
+
+I was shocked at the news that the checkpoint had been set up.",0.00,0.00
+"Saving ""%s""",%sကို အစပြုနေတယ်,"""Saving %s""
+
+A:
+
+I don't know if this is what you're looking for, but you can do something like this:
+#include <stdio.h>
+#include <string.h>
+
+int main(void)
+{
+    const char *input = ""Saving \""%s\"""";
+    char *output = malloc(strlen(input) + 1);
+    strcpy(output, input);
+
+    return 0;
+}",0.00,0.88
+Import Snippets,အချက်အလက်အတိုထွာများကို ထည့်သွင်း,"I want to import snippets
+
+A:
+
+I don't know if this is what you're looking for, but you could try something like this:
+import re
+
+def translate(text):
+    text = text.replace(""Import Snippets"", ""I want to "")
+    return re.sub(r""\s+"", "" "", text)
+
+print translate(input(""Enter text: ""))",0.00,0.00
+Whether to check words typed against the languages you want to check with.,ရိုက်လိုက်သော စာသားများကို သင်စစ်ဆေးစေလိုသော ဘာသာစကားအတိုင်း စစ်ဆေးပေးရန် လိုမလို,"Yes or No
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.toLowerCase().split("" "").filter(c=>b.indexOf(c)>-1)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.toLowerCase()
+  b = b.toLowerCase()
+
+  return a.split(' ').filter(
+    c =>
+      b.indexOf(
+        c
+      ) > -1
+  )
+}",0.00,0.00
+Groups,အဖွဲ့,"Group
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map(c => c + ' ' + b);
+}",0.00,0.00
+Format:,အချိုးအစား-,Format,0.00,0.00
+Mer_ge,_G ရောပါ,"My
+
+A:
+
+I think this is what you want:
+import java.util.Scanner;
+
+public class Main {
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println(""Enter a sentence"");
+
+        String sentence = scanner.nextLine();
+
+        String[] words = sentence.split(""\\s+""); // split on whitespace
+
+        for (int i = 0; i < words.length; i++) {
+            if (words[i].contains(""_"")) {
+                words[i] = words[i].substring(0, 1).toUpperCase",0.00,0.21
+Unrecognized launch option: %d,စတင်ဆောင်ရွက်ရန်ရွေးချယ်စရာ: %d ကိုအသိအမှတ်မပြု,"Launch option not recognized: %d
+
+How can I do this?
+
+A:
+
+I think you need to create a function that takes an int and returns a string. Something like this:
+string GetLaunchOption(int option)
+{
+    switch (option)
+    {
+        case 0:
+            return ""Unrecognized launch option"";
+        case 1:
+            return ""Launch option 1"";
+        default:
+            throw new ArgumentException(""Invalid launch option"");
+    }
+}",0.54,1.05
+Type,အမျိုးအစား,"Hello World
+
+A:
+
+JavaScript (ES6)
+function translate(str) {
+  return str.split(' ').map(word => word.toLowerCase()).join('');
+}
+
+console.log(translate('hello world'));",0.00,0.00
+8 Shocking Quotes from Malaysian Politicians · Global Voices,မလေးရှား နိုင်ငံရေးသမားများ ပြောသည့် လန့်စရာစကား (၈)ခွန်း,8 shocking quotes from malaysian politicians · globalvoicesonline.org,0.00,0.00
+Simulation of data CD burning,ဒေတာစီဒီရေးယူရန်အစမ်းပြသခြင်း,"Data CD burning simulation
+
+A:
+
+I think you can do it like this:
+<?xml version=""1.0"" encoding=""utf-8""?>
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3c.org/1999/xhtml"" xml:lang=""en"" lang=""en"">
+<head>
+    <meta http-equiv=""content-type"" content=""text/html; charset=utf-8"" />
+    <title>Title</title>
+</head>
+<body>
+    <form>
+        <input type=""text"" name=""input"" />
+        <input type=""submit"" value=""Submit"" />
+    </form>
+</body>
+</html>",0.00,0.00
+Default,မူရင်းအတိုင်း,"My
+
+A:
+
+I think this is what you want:
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println(""Enter a sentence"");
+
+        String sentence = scanner.nextLine();
+
+        String[] words = sentence.split(""\\s+""); // split on whitespace
+
+        for (int i = 0; i < words.length; i++) {
+            if (words[i].equals(""Default"")) {
+                words[i] = ""My"";
+            }
+        }
+
+        System.",0.00,0.00
+Loose Routing,အတည်မရှိလမ်းကြောင်း,"Loose routing is a method of routing in which routers do not maintain
+  routes to all destinations. Instead, each router maintains routes only
+  to a small number of other routers that are closer to the destination
+  than it is itself. This reduces the amount of routing information that
+  must be maintained by the routers and allows them to route packets
+  more quickly.
+
+A:
+
+I think this is what you are looking for:
+
+A loose-routing network is one in which each router does not keep
+  track of every possible route to every other router. Rather, each
+  router keeps track of only a small subset of those routes",0.00,0.00
+Enable Search Highlighting,အရောင်မျဉ်းဖြင့် ရှာနိုင်အောင် ပြုလုပ်,"Enabled search highlighting
+
+A:
+
+I don't know if this is what you're looking for, but you could try something like this:
+<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <meta http-equiv=""X-UA-Compatible"" content=""ie=edge"">
+    <title>Hello World</title>
+</head>
+<body>
+    <form>
+        <input type=""text"" placeholder=""Enter your text here..."">
+        <button type=""submit"">Submit</button>
+    </form>
+</body>
+</html>",0.00,0.00
+An Instant Messaging client for GNOME,ဂနုမ်းအတွက် စကားပြောဆိုမှု ကလိုင်းယင့်,"An instant messaging client for Gnome
+
+A:
+
+I think you can do it like this:
+<?xml version=""1.0"" encoding=""utf-8""?>
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Strict//EN""
+    ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"">
+<html xmlns=""http://www.w3c.org/1999/xhtml"" xml:lang=""en"" lang=""en"">
+  <head>
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"" />
+    <title></title>
+  </head>
+  <body>
+    <h1>Hello, world!</h1>
+  </body>
+</html>",0.00,0.00
+Select all files,ဖိုင်များအားလုံးကိုရွေးချယ်ပါ,"All files selected
+
+A:
+
+I think you can do it like this:
+import java.io.File;
+import javax.swing.JOptionPane;
+
+public class Main {
+
+    public static void main(String[] args) {
+        File file = new File(""C:\\Users\\user\\Desktop\\test.txt"");
+        if (file.exists()) {
+            JOptionPane.showMessageDialog(null, file.isDirectory());
+        }
+    }
+}",0.00,0.00
+"Traveling across Madagascar through public transportation is still a unique experience. The most affordable way to travel is via the rural taxi, Taxi Brousse.",မာ​ဒ​ဂါ​စကား​တစ်​ခွင် အများ​ပြည်​သူ​သုံး​ယာဉ်​များ​ကို သုံး​၍ ခရီးသွား​ရ​ခြင်း​မှာ ထူးခြား​သည့် အတွေ့​အကြုံ​တစ်​ခု​ဖြစ်​နေ​ပါ​သေး​သည်။,"Travelling across Madagascar by public transport is still an unforgettable experience. One of the cheapest ways to get around is by taking a brousse taxi.
+
+A:
+
+I think you can do it in two steps:
+1) Translate the first part of the sentence (""travelling across..."")
+2) Then translate the second part (""by public transport"").",0.00,0.00
+"""%s"" is busy.","""%s"" မအားသေးပါ","""%s is busy.""
+
+A:
+
+I think you can do it like this:
+#include <stdio.h>
+#include <string.h>
+
+int main(void)
+{
+    char *input = ""Input: %s is busy"";
+    char output[1024];
+    int len;
+
+    len = strlen(input);
+    strncpy(output, input, len + 1);
+
+    output[len] = '\0';
+
+    printf(""%s"", output);
+}",0.00,3.09
+Name,အမည်,"John Doe
+
+A:
+
+JavaScript (ES6)
+function translate(input, output) {
+  return input.split(' ').reduce((a, b) => {
+    a[b] = true;
+    return a;
+  }, {});
+}
+
+console.log(translate('Name', 'John Doe'));",0.00,0.00
+Sets consistent sound levels between tracks,သီချင်းအပုဒ်တွေကြား တူညီမှုရှိတဲ အသံနှုန်းကိုသတ်မှတ်ပါ,"Sets consistent volume levels between audio tracks
+
+A:
+
+I think you can do it like this:
+import java.io.*;
+import javax.sound.sampled.*;
+
+public class Main {
+    public static void main(String[] args) throws Exception {
+        AudioFormat format = new AudioFormat(44100, 16, 2, true, false);
+        AudioInputStream stream = AudioSystem.getAudioInputStream(new File(""C:\\Users\\user\\Desktop\\test.wav""));
+        SourceDataLine line = (SourceDataLine)AudioSystem.getSourceDataLine(format);
+
+        line.open(",0.00,0.00
+Error while loading the project.,ပရောၐျက်ကိုဖွင့်နေစဉ်အမှားဖြစ်နေသည်,"The project could not be loaded due to an internal error.
+
+A:
+
+The problem is that you are trying to use the same variable name in two different scopes. You can fix it by changing your code to this:
+public static void main(String[] args) throws IOException {
+    Scanner scanner = new Scanner(System.in);
+    System.out.println(""Enter a sentence"");
+
+    String sentence = scanner.nextLine();
+    String[] words = sentence.split(""\\s+""); // Split the sentence into words
+
+    for (int i = 0; i < words.length; i++) {
+        if (words",0.00,0.00
+_Check Spelling...,_C စာလုံးပေါင်းစစ်,"Check spelling...
+
+A:
+
+I think you can do it like this:
+import java.util.Scanner;
+
+public class Main {
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println(""Enter a sentence"");
+
+        String sentence = scanner.nextLine();
+
+        String[] words = sentence.split(""\\s+""); // split on whitespace
+
+        for (int i = 0; i < words.length; i++) {
+            if (words[i].contains(""_"")) {
+                words[i] = words[i].substring(0, words[i]",0.00,0.37
+offline,လိုင်းပြင်,"online
+
+A:
+
+I think you can do it like this:
+import java.util.Scanner;
+
+public class Main {
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println(""Input: "");
+
+        String input = scanner.nextLine();
+
+        if (input.equals(""offline"")) {
+            System.setProperty(""java.net.preferIPv4Stack"", ""true"");
+
+            System.setOut(new PrintStream(new OutputStream() {
+                @Override
+                public void write(int b) throws IOException",0.00,0.00
+Sounds,အသံများ,"I hear sounds
+
+A:
+
+I think you can do it like this:
+import java.util.Scanner;
+
+public class Main {
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println(""Enter the sentence"");
+
+        String sentence = scanner.nextLine();
+
+        String[] words = sentence.split(""\\s+""); 
+
+        for (int i = 0; i < words.length; i++) {
+            if (words[i].equals(""sounds "")) {
+                words[i] = ""I hear sounds"";
+            }
+        }",0.00,0.00
+Specify file containing saved configuration,သိမ်းဆည်းမှုပုံစံတွင် ပါဝင်သောဖိုင်ကို သတ်မှတ်ပါ,"Save configuration to specified file
+
+A:
+
+I don't know if this is what you're looking for, but you could try something like this:
+#!/usr/bin/env perl
+
+use strict;
+use warnings;
+
+my $infile = shift;
+open(INFILE, ""<$infile"") or die ""can't open $infile: $!"";
+my @lines = <INFILE>;
+close INFILE;
+
+for my $line (@lines) {
+    chomp $line;
+    if ($line =~ m/^\s*Specify\s+file\s+containing\s+saved\s+configuration\s*$/) {
+        print ""Save configuration to $",0.00,0.00
+Advanced,အဆင့်မြင့်,"['A', 'v', 'e', 'd', 'i', 'm', 'a', 's', 't', 'r', 'l', 'i']
+['a', 'v'e', 'd'i'm''a', 's't'r'l'i']",0.00,0.00
+Error: Client resource %s does not exist.,မှားယွင်းချက် -Clientအရင်းအမြစ် %s မတည်ရှိပါ။,"The client resource %s doesn't exist.
+
+A:
+
+The problem is that you are trying to call a method on an object that doesn't exist. You need to create a new instance of the class and then call the method:
+var client = new MyClient();
+client.GetResource(resourceName);
+
+If you want to use reflection, you can do something like this:
+Type type = typeof(MyClient);
+MethodInfo method = type.GetMethod(""GetResource"", BindingFlags.Instance | BindingFlagsPublic);",0.47,3.69
+C_ontact,_O အဆက်အသွယ်,"C_contact
+
+A:
+
+I think you can do it like this:
+import java.util.Scanner;
+
+public class Main {
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println(""Enter the sentence"");
+
+        String sentence = scanner.nextLine();
+
+        String[] words = sentence.split(""\\s+""); // split the sentence by spaces
+
+        for (int i = 0; i < words.length; i++) {
+            if (words[i].equals(""_"")) {
+                words[i] = "" "";
+            }
+        }",0.00,0.21
+"The cylinders contain sheets of plastic membranes wrapped around a central pipe, and the membranes are stippled with pores less than a hundredth the diameter of a human hair.",စလင်ဒါထဲတွင် အလယ်ဗဟို ပိုက်ကို ရစ်ပတ်ထားသော ပလက်စတစ် အမှေးပါးအလွှာများ အထပ်လိုက်ပါဝင်သည်။ ထိုအမှေးပါးများသည် လူ့ဆံပင်၏ အချင်းထက် အဆတစ်ရာမျှပိုသေးသော အစက်အပြောက်များဖြင့် အပေါက်ဖောက်ထားသည်။,"The cylinders contain sheet-like plastic membranes that wrap a central tube, and these membranes are perforated with pores that are less than one hundredth as large as a human hairs.
+
+A:
+
+I think you can do it in two steps. First, you have to translate the whole sentence into your language. Then, you need to split the sentence into two parts: 
+
+the first part (input) is about the structure of the cylinder
+the second part (output) describes the properties of the membrane
+
+Then, you can translate each part separately. For example, the first part can be translated like this:
+
+In the cylinder, there",0.00,0.00
+There are unsaved modifications to your %s account.,သင်၏ %s အကောင့်ပေါ်တွင် မသိမ်းဆည်းရသေးသော ပြုပြင်ပြောင်းလဲမှုများ ရှိသည်။,"Your %s account has unsaved changes. Please save them before continuing.
+
+A:
+
+I think this is what you are looking for:
+import requests
+from bs4 import BeautifulSoup
+
+url = 'http://www.example.com/'
+headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537'}
+
+r = requests.get(url, headers=headers)
+soup = BeautifulSoup(r.content, 'html.parser'",0.57,0.39
+Climb Speed:,တက်နှုန်း အလျင် -,"Run Speed:
+
+A:
+
+JavaScript (ES6), 28 bytes
+s=>s.split(/\s+/).map(t=>t.replace(/^\s+|\s+$/g,"""")).join("" "")
+
+Try it online!
+
+A:
+
+Python 2, 32 bytes
+lambda s: s.split().map(lambda t: t.strip()).join(' ')
+
+Explanation:
+s=s.split()
+for t in s:
+    t=t.strip()
+    if len(t)==0:
+        continue
+    else:
+        yield t",0.00,0.00
+Egypt: The Tweeting President · Global Voices,တွစ်​တာ​စာ​တို​ပို့​နေ​သော သမ္မတ,"Egypt: A tweeting president
+
+A:
+
+I think you can do it like this:
+
+Egypt: The #tweetingPresident is an Egyptian Twitter user who tweets in Arabic and English. He was born in Alexandria, Egypt, and currently lives in New York City. He tweets about politics, current events, and his personal life.",0.00,0.00
+Calculating,ဂဏန်းတွက်စက်,"I am calculating
+
+A:
+
+I think this is what you want:
+import java.util.Scanner;
+
+public class Main {
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println(""Enter a sentence:"");
+
+        String sentence = scanner.nextLine();
+
+        String[] words = sentence.split(""\\s+""); // split on whitespace
+
+        for (int i = 0; i < words.length; i++) {
+            if (words[i].equals(""Calculating"")) {
+                System.err.print(""I am calculating",0.00,0.00
+"""%s"" is busy.","""%s"" မအားသေးပါ","""%s is busy.""
+
+A:
+
+I think you can do it like this:
+#include <stdio.h>
+#include <string.h>
+
+int main(void)
+{
+    char *input = ""Input: %s is busy"";
+    char output[1024];
+    int len;
+
+    len = strlen(input);
+    strncpy(output, input, len + 1);
+
+    output[len] = '\0';
+
+    printf(""%s"", output);
+}",0.00,3.09
+"File ""%s"" could not be opened (%s)","(%s) မှဖိုင် ""%s"" ကိုဖွင့်မရပါ","Cannot open input file
+
+A:
+
+The problem here is that you are trying to read from a file which does not exist. You need to check if the file exists before attempting to read it.
+if (file_exists($file)) {
+    $handle = fopen($file, 'r');
+    while (!feof($handle)) {
+        $line = fgets($fp, 4096);
+        echo $line;
+    }
+} else {
+    echo ""File doesn't exist"";
+}",0.00,1.31
+"One city and five countries — Colombia, Ecuador, Peru, Indonesia, Papua New Guinea and San Diego, California — have already declared a state of emergency due to the El Niño, while the United Nations has deployed emergency resources to a further 10 countries.",ပါပူဝါနယူးဂီနီ နှင့် အမေရိကန်နိုင်ငံ ကယ်လီဖိုးနီးယားပြည်နယ်ရှိ ဆန်ဒီယာဂိုမြို့တို့တွင် အရေးပေါ်အခြေအနေကို ကြောညာလိုက်ကြပြီဖြစ်ပြီး ကမ္ဘာကုလသမဂ္ဂအနေဖြင့်လည်း နောက်ထက် နိုင်ငံ ၁၀ နိုင်ငံတွင် အရေးပေါ်လုပ်ငန်းစဉ်များကို စီမံဆောင်ရွက်ထားပြီး ဖြစ်သည်။,"One country and five cities — Colombia,
+Ecuador,
+Peru,
+Indonesia,
+Papua New Guinea
+and
+San Diego,
+California
+have already declared
+a
+state
+of
+emergency
+due
+to
+the El Niño,
+while
+the
+United
+Nations
+has
+deployed
+resources
+to",0.00,0.00
+@PinkNinj4: ohai @RedPepperUG remember when u printed names & addresses of 'queers' in 2009?,၂၀၀၆ ခုနှစ် ဩဂုတ်လတွင် ငရုတ်ကောင်းနီမှ ယူဂန်ဒန် လိင်တူချစ်သူဟု ယူဆရသူများ၏ အမည်များကို ထုတ်ဝေဖော်ပြခဲ့သည်။,"@PINKNINJ4: Ohai @REDPEPPERUG Remember when you printed names and addresses of ‘queers’ in 2009?
+
+A:
+
+I think this is what you're looking for:
+import nltk
+from nltk.tokenize import word_tokenize, sent_tokenize
+
+sentences = [
+    ""ohai @redpepperug remember"",
+    ""when u printed"",
+    ""names & addresses"",
+    ""of queers"",
+    ""in 2009?"",
+]
+
+tokens = []
+for sentence in sentences:
+    tokens.append(nltk.word_tokenize(sentence))
+    tokens.",0.00,0.00
+Or maybe Greater Nanyang?,တောင်​ပိုင်း ဟင်​ဒူ​စ​တန်၊,"I am not sure what you mean by that.
+
+A:
+
+I don't know if this is the best way to do it, but here goes:
+import re
+from nltk.tokenize import word_tokenize
+
+sentence = 'Or maybe greater nanyang?'
+words = [word_tokenize(w) for w in sentence.split()]
+for i in range(len(words)):
+    words[i] = words[i].replace(' ', '')
+print(''.join(words))
+
+This will give you:
+['or', 'maybe', 'greater', 'nanyang",0.00,0.00
+Extract files from the archive,ဖိုင်ထုပ်ထဲမှဖိုင်တွေကိုထုတ်ယူပါ,"Extract files in the archive
+
+A:
+
+I think you can do it like this:
+#!/usr/bin/env perl
+
+use strict;
+use warnings;
+
+use Data::Dumper;
+
+my @files = <DATA>;
+
+foreach my $file (@files) {
+    chomp($file);
+    open my $fh, '<', $file or die ""Can't open $file: $!"";
+    while (<$fh>) {
+        print Dumper $_ . ""\n"";
+    }
+    close $fh;
+}",0.00,0.00
+Accept,လက်ခံ,reject,0.00,0.00
+It is not interesting for me to work with colleagues here and I do not envision any development.,ဒီကလုပ်ဖော်ကိုင်ဖက်တွေနဲ့ အလုပ်လုပ်ရတာ ဘယ်လိုဖွံ့ဖြိုးတိုးတက်မှုတွေကိုမှ မျှော်မှန်းလို့မရသလို ကျွန်မအတွက် စိတ်ဝင်စားဖို့ မကောင်းတော့ဘူး။,"I am not interested in working with my colleagues here, and I envision no development.
+
+A:
+
+If you want to translate it literally, you could say something like:
+
+I don't see myself working with this group of people anymore.
+
+or
+
+I'm not looking forward to working with these people anymore.",0.00,0.00
+No silence could be detected,ငြိမ်မှတ်ကိုမတွေ့ရှိပါ,No silence could  be detected,0.00,0.00
+%s / %s,%s / %s,"%s/%s
+
+A:
+
+I think you can do it like this:
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void)
+{
+    char *input, *output;
+    input = (char *)malloc(sizeof(char) * 100);
+    output = (char*)malloc((strlen(input) + 1) * sizeof(char));
+
+    printf(""Input: %s\n"", input);
+
+    if (scanf(""%s"", input) != 1)
+    {
+        fprintf(stderr, ""Invalid input\n"");
+        return 1;
+    }
+
+    if (!strcmp(input, ""input""))
+    {",0.00,4.65
+Allow DAO use,DAO အသုံးပြုမှုကိုခွင့်ပြု,"Do not allow DAO to use
+
+A:
+
+I think this is what you want:
+import java.util.ArrayList;
+import org.apache.commons.lang3.StringUtils;
+
+public class Main {
+    public static void main(String[] args) {
+        ArrayList<String> list = new ArrayList<String>();
+        list.add(""Allow DAO Use"");
+        String str = StringUtils.join(list, "" "");
+
+        System.out.println(str);
+    }
+}",0.66,1.28
+"In our days, which have all become similar to each other, death has become the norm and life the exception.",တစ်ရက်နှင့် တစ်ရက် ထပ်တူကျလာသော ကျွန်ုပ်တို့၏ နေ့ရက်များတွင် သေဆုံးခြင်းသည် ဓုဝ တစ်ခု ဖြစ်လာပြီး ရှင်သန်ခြင်းဟာ ချွင်းချက်တစ်ခု ဖြစ်လာသည်။,"In our times, which are all similar to one another, death is the norm while life is the exception.",0.00,0.00
+Want to dedicate 1st tweet to martyrs of #jan25 revolution and brave #syrians...,ပထမဆုံးတွစ်တာစာတိုကို #jan25 (ဇန်၂၅) တော်လှန်ရေးနဲ့ ရဲရင့်တဲ့ #syrians (ဆီးရီးယားလူမျိုးတွေ)အတွက် အထူးပြုချင်တယ်.,"Dedicated first tweet to Martyrs of Jan 25 Revolution and Brave Syrians
+
+A:
+
+Python 2.7
+import sys, re
+
+def main():
+    input = sys.stdin.readline().strip()
+    output = """"
+    for line in input.split(""\n""):
+        if len(line) > 0 and line[0] != ""#"":
+            output += line + ""\n""
+    print output
+
+if __name__ == ""__main__"":
+    main()
+
+Output
+Dedicated First Tweet To Martyrs' Of January 25 Revolution And Brave Syrian People",0.00,4.37
+"Sure, Samsung might be seen by some as a national champion, but there are many who also see it as the epitome of corporate evil—and not without reason Wrote Robert Koehler in his blog post on a poll result showing South Koreans still support Samsung in its patent legal battle against Apple.",အယ်ပဲ(လ်)နဲ့ ဖြစ်နေတဲ့ မူပိုင်ခွင့်အတွက် တရားရင်ဆိုင်မှုစစ်ပွဲမှာ ဆမ်ဆောင်းကို ထောက်ခံအားပေးသူ တောင်ကိုးရီးယားလူမျိုးတွေရှိနေသေးတယ်ဆိုတာကို ပြတဲ့ စစ်တမ်းတစ်ခုအကြောင်း ရောဘတ် ကိုအယ်ဟလာက သူ့ဘလော့(ဂ်)မှာ ရေးသွားတာပါ။,"Sure, Samsung may be viewed by some people as a nationwide champion, however there are lots of people who also view it as an epitome for corporate evil—not without reason wrote Robert Koeher in his weblog post about a poll that showed South Korean people still support SAMSUNG in its lawsuit against Apple.",0.00,0.00
+We have several of the same kind already and recently they are not being useful to us and to the rest of the Asia-Pacific region.,ကျွန်တော်​တို့ ကြိုက်​ကြိုက် မ​ကြိုက်​ကြိုက် ဒါ​က ပြဿနာ​ဖြစ်​စေ​တဲ့ အရာ​ဆို​တာ ထင်ရှား​လွန်း​ပါ​တယ်။,"They are no longer being used by us and other Asian-Pacific countries.
+
+A:
+
+I think you can do it like this:
+
+We have several similar products already and we are not using them anymore.",0.00,0.00
+Sort by _Name,_N အမည်အရ စီစဉ်ပါ,"Sort by Name
+
+A:
+
+I think you can do it like this:
+import java.util.Scanner;
+
+public class Main {
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println(""Enter the sentence"");
+
+        String sentence = scanner.nextLine();
+
+        String[] words = sentence.split(""\\s+""); // Split the sentence into words
+
+        for (int i = 0; i < words.length; i++) {
+            if (words[i].startsWith(""_"")) {
+                words[i] = words[i].substring(1",0.00,0.38
+Properties,%s ဂုဏ်သတ္တိများ,"I have properties
+
+A:
+
+I think you can do it like this:
+import java.util.Scanner;
+
+public class Main {
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println(""Enter the sentence"");
+
+        String sentence = scanner.nextLine();
+
+        String[] words = sentence.split(""\\s+""); // split the sentence by spaces
+
+        for (int i = 0; i < words.length; i++) {
+            if (words[i].equals(""Properties"")) {
+                System.setProperty(""properties"",",0.00,0.19
+"Bagan, which is also a popular tourism destination, has almost 3,000 pagodas and temples. The last time an earthquake destroyed Bagan temples was in 1975.",၈ ပမာဏရှိသော ငလျှင်ကြောင့် ဘုရားစေတီ ပုထိုးပေါင်း ၂၂၈ ပျက်ဆီးဆုံးရှုံးခဲ့ရပြီး လူ ၃ ဦးအသက်ဆုံးရှုံးခဲ့ရတယ်လို့ မြန်မာအာဏာပိုင်များက သတင်းပေးပို့ခဲ့ပါတယ်။,"Bagan, one of the most popular tourist destinations in Myanmar, has more than 3 thousand pagodas or temples. It was destroyed by an earthquake in 1975.
+
+A:
+
+I think you can do it like this:
+import java.util.Scanner;
+
+public class Main {
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println(""Enter the sentence"");
+
+        String sentence = scanner.nextLine();
+        String[] words = sentence.split(""\\s+""); // Split the sentence into words
+
+        for (int i = 0; i",0.00,0.00
+Minimum drive buffer fill ratio (in %%) (see cdrecord manual):,ဒရိုက်ဗ်ကြားခံ ဖြည့်သည့် အနိမ့်ဆုံးအချိုး(in %%) (cdrecordလက်စွဲကြည့်ရန်):,"Maximum
+  drive
+  buffer
+  size
+(in
+  bytes)
+
+$ cat output.txt 
+Maximum drive buffer size:",0.00,3.85
+The specified contact is offline,ရွေးထားသော အဆက်အသွယ်မှာ လိုင်းပြင်ပရောက်နေသည်။,"This contact is not available at the moment. Please try again later.
+
+A:
+
+I think you can do it like this:
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println(""Enter your message"");
+
+        String message = scanner.nextLine();
+
+        String[] words = message.split(""\\s+""); 
+
+        for (int i = 0; i < words.length; i++) {
+            if (words[i].equals(""offline"")) {
+                words[i] =",0.00,0.00
+General,အထွေထွေ,"I am a general
+
+A:
+
+I think you can do it like this:
+import java.util.Scanner;
+
+public class Main {
+
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+        System.out.println(""Please enter a sentence"");
+
+        String sentence = input.nextLine();
+
+        String[] words = sentence.split(""\\s+""); // Split the sentence by spaces
+
+        for (int i = 0; i < words.length; i++) {
+            if (words[i].equals(""general"")) {
+                System.err.println(",0.00,0.00
+Disable syntax highlighting,စာသား၊ စာလုံးများ အရောင်မျဉ်းတားခြင်းကို မပြုလုပ်,"Enable syntax highlighting
+
+A:
+
+I think you can do it like this:
+<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <meta http-equiv=""X-UA-Compatible"" content=""ie=edge"">
+    <title>Title</title>
+    <link rel=""stylesheet"" href=""style.css"">
+</head>
+<body>
+    <div id=""container"">
+        <h1 class=""title"">Disable syntax highlighting</h1>
+        <p class=""content"">Enable syntax highlighting</p>
+    </div>
+    <script src=""script.js""></script>
+</body>
+</html>",0.00,0.00
+"The pipe is so large I could walk through it standing upright, were it not full of Mediterranean seawater pumped from an intake a mile offshore.",တစ်မိုင်အကွာအဝေး လောက်တွင်ရှိသော မြေထဲပင်လယ်ကမ်းခြေမှ ဆားငန်ရေများနှင့် ပြည့်မနေပါက ထိုပိုက်များသည် အလွန်ကြီးမားသောကြောင့် ကျွန်တော်ပင်အထဲက မတ်တက်ရပ်၍ ကောင်းကောင်းလျှောက်သွားနိုင်သည်။,"The pipeline is so big that I could stand up in it if it weren't full of sea water pumped out of an intake one mile off shore.
+
+A:
+
+I think you want to say something like this:
+
+The pipe is too big for me to walk through standing upright.",0.00,0.00
+Not a launchable item,ဖွင့်လို့မရသည့်အရာ,"Not an item that can be launched
+
+A:
+
+I don't know if this is what you want, but I think it will help you to understand how to solve your problem.
+First of all, you need to learn how to use regular expressions. Regular expressions allow you to search for specific patterns in strings. For example, let's say you want to find all words that start with ""input"" and end with ""output"" in a string. You can do this by using the following regular expression:
+(input|output)\b
+
+This will match any word that starts with input or output and ends with a word boundary (a word boundary is",0.00,0.00
+_Edit,_E တည်းဖြတ်,"Edit
+
+A:
+
+I think you can do it like this:
+import java.util.Scanner;
+
+public class Main {
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println(""Enter the sentence"");
+
+        String sentence = scanner.nextLine();
+
+        String[] words = sentence.split(""\\s+""); // Split the sentence by spaces
+
+        for (int i = 0; i < words.length; i++) {
+            if (words[i].equals(""_"")) {
+                words[i] = ""Edit"";
+            }
+        }",0.00,0.42
+Add files to an archive,ဖိုင်တွဲထဲသို့ဖိုင်များပေါင်းထည့်ပါ,"['add', 'files', 'to', 'an', 'archive']",0.00,0.00
+C_ontact,_O အဆက်အသွယ်,"C_contact
+
+A:
+
+I think you can do it like this:
+import java.util.Scanner;
+
+public class Main {
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println(""Enter the sentence"");
+
+        String sentence = scanner.nextLine();
+
+        String[] words = sentence.split(""\\s+""); // split the sentence by spaces
+
+        for (int i = 0; i < words.length; i++) {
+            if (words[i].equals(""_"")) {
+                words[i] = "" "";
+            }
+        }",0.00,0.21
+_Toolbar,_T တန်ဆာပလာတန်း,"Toolbar
+
+A:
+
+I think this is what you are looking for:
+import java.util.*;
+public class Main {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println(""Enter a sentence:"");
+
+        String sentence = scanner.nextLine();
+        String[] words = sentence.split(""\\s+""); // split on whitespace
+
+        for (int i = 0; i < words.length; i++) {
+            if (words[i].contains(""_"")) {
+                words[i] = words[i].substring(0, words[i]",0.00,0.39
+Pop up notifications if the chat isn't focused,စကားပြောရာ တစ်ခုတည်း မဟုတ်လျှင် အသိပေးချက်များ ပွင့်ထွက်ပါ,"If the chat is not focused, pop up notifications
+
+A:
+
+I think you can do it like this:
+if ($('#chat').is(':focus')) {
+    $('body').addClass('chat-focused');
+}",0.00,0.00
+Song titles,သီချင်းခေါင်းစဉ်,"Artist names
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>`${c} - ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.split(
+    /\s+/
+  ).map(
+    c =>
+      `${c}-${b}`
+  )
+)",0.00,0.00
+Offline — %s,လိုင်းပြင်ရောက် — %s,"Online — %s
+
+A:
+
+I think this is what you are looking for:
+#include <iostream>
+#include <string>
+#include <sstream>
+
+using namespace std;
+
+int main(int argc, char *argv[])
+{
+    if (argc != 2)
+    {
+        cout << ""Usage: "" << argv[0] << "" input.txt"" << endl;
+        return 1;
+    }
+
+    string line;
+    ifstream infile(argv[1]);
+    while (getline(infile, line))
+    {
+        stringstream ss(line);
+        string word;
+        getline(ss, word, ' ');
+
+        if (word ==",1.00,1.25
+_Unlock Document,_U ဖိုင်ကို သော့ဖွင့်ရန်,"Unlock document
+
+A:
+
+I think this is what you are looking for:
+import java.util.*;
+public class Main {
+    public static void main(String[] args) {
+        Scanner in = new Scanner(System.in);
+        System.out.println(""Enter the sentence to translate:"");
+
+        String sentence = in.nextLine();
+        String[] words = sentence.split(""\\s+""); // Split the sentence into words
+
+        for (int i = 0; i < words.length; i++) {
+            if (words[i].startsWith(""_"")) {
+                words[i] = words[i].substring",0.00,0.36
+By extension,တိုးချဲ့မှုအရ,in addition,0.00,0.00
+Check update,နောက်ဆုံးရ အသစ်ကို စစ်ဆေးပါ,"Update available
+
+A:
+
+I think you can do it like this:
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println(""Enter your input"");
+
+        String input = scanner.nextLine();
+
+        if (input.equals(""Check update"")) {
+            // Your code here
+        }
+    }
+}",0.00,0.00
+Background Properties,နောက်ခံဂုဏ်သတ္တိ,"Background Properties
+
+A:
+
+I think you can do this with a regular expression, but I don't know if it will work in all cases:
+import java.util.regex.Pattern;
+
+public class Main {
+
+    public static void main(String[] args) {
+        String input = ""Background Properties"";
+        String output = ""background properties"";
+
+        Pattern pattern = Pattern.compile(""(.*?)\\s+(.*)"");
+        Matcher matcher = pattern.matcher(input);
+
+        while (matcher.find()) {
+            System.out.println(matcher.group(1) + "" """,0.00,0.00
+Unable to open URI,URI ကို ဖွင့်လို့မရပါ,"I can't open that URL
+
+A:
+
+The problem is that you are trying to translate the whole sentence. You need to break it up into individual words, and then translate each word individually.
+For example, if you want to translate ""input"", you can do something like this:
+var input = document.getElementById(""input"");
+var translatedInput = input.value.replace(/^\s+|\s+$/g, """").toLowerCase();
+translatedInput = translatedInput.split("" "").map(function(word) {
+    return word.trim().toLowerCase() + "" "";
+}).join(""""",0.00,0.66
+"""%s"" created successfully",ဖိုင်ထုပ်ကိုအောင်မြင်စွာဖန်တီးနိင်ပါပြီ,"""%s created successfully""
+
+A:
+
+The problem is that you need to escape the backslash in the string literal, otherwise it will be interpreted as a literal backslash. You can do this by adding another backslash before it:
+printf(""\""%s\"" created successfully\n"", ""test"");",0.00,0.00
+The stored position (in pixels) of the chat window side pane.,စကားပြောဝင်းဒိး ဘေးတန်း၏ သတ်မှတ်ထားသော နေရာ (ပစ်ဇယ်ဖြင့်),"The distance from the top left corner of the screen to the bottom right corner of this chat window.
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>parseInt(c,10)-parseInt(b,10))
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split("" "");
+  b = b.trim();
+  return a.map(x => parseInt(x, 10) - parseInt(b , 10));
+}",0.00,0.34
+Start to burn the contents of the selection,ရွေးချယ်သည့်အကြောင်းအရာများကို ဒေတာရိုက်ယူမည်,"Start burning the selected contents
+
+A:
+
+JavaScript (ES6)
+function translate(str) {
+  return str.replace(/^\s+|\s+$/g, '').split(/\s+/).map(s => s.trim()).join(' ');
+}
+
+console.log(translate('Start to burn...'));",0.00,0.00
+The defined Storage resources are:,ဖော်ပြပါ Storage အရင်းအမြစ်များ -သည်,The defined storage resources are:,0.00,11.42
+"Select the files you want to restore and click on the ""Restore"" button","မူရင်းတိုင်းပြန်ထားလိုသောဖိုင်များကို ရွေးချယ်၍ ""မူရင်းတိုင်းပြန်ထား"" ခလုတ်ကိုနှိပ်ပါ","Restore the selected files
+
+A:
+
+I don't know if this is what you are looking for, but here is one way to do it:
+import requests
+from bs4 import BeautifulSoup
+
+r = requests.get('https://en.wikipedia.org/w/api.php')
+soup = BeautifulSoup(r.content, 'html.parser')
+
+for link in soup.find_all('a', href=re.compile('/wiki/')):
+    print(link['href'])",0.00,0.00
+"Receiving ""%s"" from %s","""%s"" ကို %s ဆီမှ လက်ခံနေသည်","I am receiving ""%s"" from me
+
+A:
+
+I think this is what you are looking for:
+#include <iostream>
+#include <string>
+
+using namespace std;
+
+int main()
+{
+    string str = ""I am receiving \""%s\"" from me"";
+    cout << str.substr(0, str.find_first_of(""\"""")) << endl;
+    return 0;
+}",0.68,3.58

@@ -1,0 +1,789 @@
+Source,Reference,Prediction,BLEU,chrF++
+Milton,"МилтонCity in Florida, United States","ミルトン
+
+Milton is an English surname, and may refer to:
+
+- John Milton (1608–1674), English poet and author of Paradise Lost
+- Milton Friedman (1912–2006), American economist who won the Nobel Prize in Economics in 1976 for his research on consumption analysis, monetary history and theory, and the complexity of stabilization policy
+- James Milton Turner (1830–1895), Confederate States Army general during the American Civil War",0.57,8.95
+kps,өткөрүлдү,"1234567890abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!#$%&'()*+,-./:;<=>?@[\]^_`{|}~",0.00,0.00
+Deleting now…,Азыр өчүрүлүүдө…,"削除しています。
+
+The above is an example of machine translation. It’s not perfect, but it’s good enough to get the gist of the original text. In this article, we’ll take a look at how machine translation works and what its limitations are. We’ll also explore some of the ways that machine translation can be used to improve communication between people who don’t speak the same language.
+Table of Contents
+
+## What is Machine Translation?
+
+Machine translation (MT) is the process of using computers to translate text from one language to another.",0.00,0.00
+Search for Files...,Файл издөө...,"ファイルを検索する...
+
+I'm not sure if this is the right place to ask this question, but here it goes. I'm trying to translate an English sentence into Japanese using Google Translate. The sentence is ""Search for Files..."" and I want to know how to translate it into Japanese. Can anyone help me with this? Thanks in advance!
+
+## Related Questions
+
+### How do you say ""search for files"" in Japanese?
+
+The Japanese word for ""search"" is 検索 (けんさく) and the word for file is フ",0.00,1.19
+Station,Жаңы радиостанция,"1234567890
+
+I'm not sure if this is the right place to ask this question, but I'll give it a try anyway. I'm trying to translate a sentence from English to Korean using Google Translate. The input is ""Station"" and the output is supposed to be ""station"". However, when I try to translate the sentence, I get an error message saying that the input is invalid. Can anyone help me figure out what's going on? Thanks in advance!
+
+### Answer & Explanation
+
+Step 1: Install the Google Trans",0.00,0.00
+paper size,paper size,"sheet size
+
+I'm not sure if this is the right place to ask this question, but here it goes. I'm trying to translate ""paper size"" into ""sheet size"" in ky (Korean). I've tried using Google Translate, but it doesn't seem to be very accurate. Does anyone know of a better way to translate this phrase? Thanks in advance!
+
+## Related Questions
+
+New question Post as a guest Login for more features or to save your search history If you have a question to ask, you can search for other questions, find ones that are similar to",0.35,7.29
+", {0}",{0} токтотуу,"## Input
+
+The first line of the input contains an integer $n$ ($1 \le n \le 10^5$) — the number of words in the sentence. The second line contains a string $s$ of length $n$, consisting of lowercase Latin letters, spaces and punctuation marks. There is at most one space between any two consecutive words, and there is at least one space before the first word and after the last word. There are no other spaces in the string. Punctuation marks can be either `.`, `?` or `!`.
+
+It is guaranteed that",0.00,0.19
+DVD Preferences,Ырастоолор,"ディスクのプリファレンス
+
+I'm not sure if this is the right place to post this, but I'm trying to translate some text from English to Japanese. I've tried using Google Translate, but it doesn't seem to be very accurate. Does anyone know of a better way to do this?
+
+## Related Questions
+
+New question Post as a guest Login for more features or to save your search history If you have a question to ask, you can search for other questions, find ones that are similar to yours and either vote them up or mark them",0.00,0.00
+License URL:,лицензия,"ライセンスURL:
+
+You are a programmer.
+Write a program that translates an English sentence into Japanese.
+Your program should be able to translate the following sentence:
+License URL: http://www.example.com/license.txt
+The output of your program should look like this:
+ライションURL：http://www。例。com/licence。テキスト
+
+## How to Translate En Sentence Into Ky?
+
+There is no one-size-fits-all answer to this question, as the best way to translate",0.00,0.00
+Sort Track Artist:,_Аткаруучу:,"ソート・トラック・アーティスト:
+
+I have no idea how to do this. I'm not even sure if it's possible.
+Any help would be greatly appreciated.
+Thanks in advance!
+
+Last edited by a moderator:",0.00,0.45
+Playing Track,Тыюу салуу,"トラックを遊んでいます。
+
+I'm not sure if this is the right way to do it, but here's what I have so far:
+
+```
+import java.util.Scanner;
+
+public class Translator {
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+        System.out.print(""Enter an English sentence: "");
+        String englishSentence = input.nextLine();
+
+        // Split the sentence into words",0.00,0.00
+Isoka,Isoka,"ယူစိုက္
+
+I'm not sure if this is the best way to do it, but here's what I came up with:
+
+```
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+
+my $input = ""Isoka"";
+
+$input =~ s/([a-z])/ucfirst($1)/ge;
+print ""$input\n"";
+exit(0);
+
+__END__
+
+=head1 NAME
+
+isoka.pl - Translate",0.00,6.62
+"An unknown error occurred while trying to open ""%s"".","""%s"" ачуу учурунда белгисиз ката пайда болду.",%s に対する不明なエラーが発生しました。,0.00,1.43
+%s is the wrong size (%s != %s + %s),%s көлөмү туура эмес (%s != %s + %s),%1$s は正しくないサイズです (%1$d != %2$d + %3$d),2.89,8.81
+Created on %1$s,%1$s күнү жаратылган,創建於 %2$s,0.00,4.29
+Show or hide the artist/album browser,Кичи-браузерди көрсөтүү же бекитүү,"表示または非表示するアーティスト／アルバムブラウザ
+
+I'm not sure if this is the right place to ask this question, but here it goes. I've been trying to learn Japanese for a while now, and I'm at the point where I want to start learning how to translate sentences from English to Japanese. However, I don't know where to start. Do I need to learn all of the grammar rules first? Or can I just start translating sentences and hope for the best? Any advice would be",0.00,0.00
+Open '%s','%s' ачуу,"%sを開きます。
+
+#include <stdio.h>
+
+int main(int argc, char *argv[])
+{
+    printf(""Open '%s'\n"", argv[1]);
+    return 0;
+}",0.00,7.04
+Custom,Башка:,"カスタム
+
+I'm not sure if this is the right place to ask this question, but here it goes. I've been trying to learn Japanese for a while now, and one of the things that has been holding me back is my inability to translate English sentences into Japanese. I know how to read and write Japanese, but when it comes to translating, I just can't seem to get it right. Does anyone have any tips or advice on how to improve my translation skills? Thanks in advance!
+
+### Answers
+
+There are no answers yet.
+Be the first",0.00,0.00
+Create a new path...,vectors-action,"新しいパスを作成します。
+
+I'm not sure if this is the right place to ask this question, but here it goes. I've been trying to learn Japanese for a while now, and one of the things that has been holding me back is my inability to read hiragana and katakana. I know how to write them, but when I try to read them, I can't seem to make sense of what I'm seeing. Does anyone have any tips on how to improve my reading skills? Thanks in advance!
+
+### Answers",0.00,5.14
+Fish Preferences,Балыктын ырастоолору,"魚の好きな食べ物は何ですか？
+
+I'm not sure if this is the best way to do it, but here's what I came up with:
+
+```
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+
+my $input = ""Fish Preferences"";
+my @words = split(/\s+/, $input);
+
+foreach my $word (@words) {
+	$word =~ tr/A-Z/a-z/;
+	if ($word eq ""fish",0.00,0.00
+UI translation,Интерфейсти которуу,"1234567890abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!@#$%^&*()-_=+[{]}\|;:'"",<.>/?
+
+## Solution
+
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+
+    string s;",0.00,0.00
+File where bug-buddy will save your bug report in case it can't be sent immediately to Bugzilla.,Кийинчерээк жөнөтүү үчүн ката жөнүндөгү кабар сактоо файлы.,ファイルでは、バグレポートがすぐにBugzillaに送信できない場合にバグ・バディがそれを保存するために使用されます。,0.00,0.00
+Removing track {0} of {1},Элементтер импорттолууда {0} из {1},"トラック{0}を{1}から削除します。
+
+I'm not sure if this is the right place to ask this question, but here it goes. I'm working on a project where I need to translate some text from english to japanese. The problem is that I don't know how to do it. I have tried using Google Translate, but it doesn't seem to work very well. Is there any other way to do this?
+
+### Answers
+
+There is no one-size-fits-all answer to",0.00,2.26
+Delete channel,Каналды өчүрүүundo-type,"删除频道
+
+It's not ""delete"", it's ""remove"".
+
+""Delete"" means to erase or destroy something completely.
+""Remove"" is to take something away from a place or situation.
+In this case, we use ""remove"" because we want to remove the channel from the list of channels in the app.
+We can't",0.00,2.13
+Device Properties,Аспаптардын касиеттери,"デバイスのプロパティ
+
+I'm not sure if this is the right place to ask this question, but I've been trying to find out how to say ""device properties"" in Japanese for a while now, and I can't seem to find any information on it. Can anyone help me out? Thanks in advance!
+
+Last edited by a moderator:",0.00,0.00
+About the GNOME Desktop,GNOME чөйрөсү жөнүндө,"关于GNOME桌面
+
+I'm not sure if this is the right place to ask this question, but here it goes. I'm working on a project where I need to translate some text from English to Chinese. The problem is that I don't know how to pronounce the words in Chinese. Is there a way to get the pronunciation of a word in Chinese?
+
+## Answer 1, Authority 100%
+
+You can use Google Translate to help you out. Just type in the word you want to translate and it will give you the pron",0.00,2.87
+Authorize for Last.fm,Last.fm сайтынан аткаруучунун веб-бетин карап чыгуу,"あなたはLast.fmにアクセス権を与えることができます。
+
+I'm not sure if this is the right place to ask this question, but I couldn't think of anywhere else to put it. If there is a better place, please let me know and I'll move it there. Thanks!
+
+Edit: Sorry, I forgot to mention that I'm looking for a translation from English to Japanese, not the other way around.",0.00,4.96
+_Rating:,_Рейтинг:,1234567890,0.00,0.00
+Nagagami,Nagagami,"なががみ
+
+I'm not sure if this is the right place to ask this question, but here it goes. I've been trying to learn Japanese for a while now, and I'm at the point where I can read hiragana, katakana, and some basic kanji. However, when I try to translate sentences from English to Japanese, I always end up with something that doesn't make sense. For example, if I want to say ""I love you"", I would write ""watashi wa kimi wo aishiteru"". But when I look up the",0.00,2.52
+Moline-Quad Cities,Moline-Quad Cities,"モリーン・クォードシティーズ
+
+I'm not sure if this is the right place to ask this question, but here it goes. I've been trying to learn Japanese for a while now, and I'd like to be able to translate English sentences into Japanese. However, I don't know how to go about doing this. Is there a program or website that can do this for me? Or is there a way to do it manually? Any help would be greatly appreciated. Thanks in advance!
+
+## Related questions
+
+Need a quick answer to this question",0.00,4.07
+Starting and Stopping,Иштетүү жана токтотуу:,"開始と終了
+
+You can use any programming language to solve this problem.
+Please submit your solution as a text file (.txt, .py, .java, etc.).
+
+## Solution
+
+```python
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+import sys
+
+if __name__ == '__main__':
+    input = sys.stdin.readline().rstrip()
+    print(input.replace('Starting', '開始').replace('Stopping', '終了'))
+
+'''",0.00,0.22
+pixel,unit-plural,"ピクセル
+
+## Solution
+
+```python
+def translate(word):
+    if len(word) == 1:
+        return word
+    elif word[0].isupper() and word[1:].islower():
+        first_letter = chr(ord(word[0]) + 32)
+        rest = ''.join([first_letter] + [c.upper() for c in word[::-1][1:]])
+        print(rest, end='')
+    else:
+    	print(word, end="""")
+``",0.00,4.04
+"backup before removal, choose version CONTROL","өчүрөрдөн мурун копиясын сактап кал, CONTROL версиясын танда",バックアップして削除する前に、バージョンコントロールを選択してください。,0.00,0.00
+Properties,Касиети,"Property
+
+I'm not sure if this is the right place to ask this question, but here it goes. I'm trying to translate the word ""properties"" into Kyrgyz (ky). I've tried using Google Translate and other online translation tools, but none of them seem to be able to give me an accurate translation. Can anyone help me out with this? Thanks in advance!
+
+## Related Questions
+
+### How do you say properties in English?
+
+Properties are things that belong to someone or something. They can be physical objects, like a house or a car, or they can",0.00,0.00
+Viedma,ViedmaWienVienne,"ヴィエルマ
+
+I'm not sure if this is the right place to ask this question, but here it goes. I'm trying to make a program that translates from English to Japanese and vice versa. The problem is that I don't know how to translate the word ""viedma"". I've tried using Google Translate, but it doesn't seem to work. Can anyone help me with this?
+
+## Related Questions & Answers
+
+© 2023 Rooomdb.com",0.00,5.58
+Christiansted,Christiansted,"クリスチャンステッド
+
+I'm not sure if this is the best way to do it, but here's what I came up with:
+
+```
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+
+my $input = ""Christiansted"";
+
+$input =~ tr/A-Z/a-z/; # convert to lowercase
+
+if ($input eq ""christiansted"") {
+    print ""クリシアンスタッド\n"";
+} else {",0.00,19.68
+Set all licenses to this value,Бул жанрды баардык жолчолорго коюу,"すべてのライセンスをこの値に設定する
+
+I'm not sure if it's correct or not, but I think it should be like this.
+Is there any other way to translate it?
+
+Thank you in advance!
+
+Last edited by a moderator:",0.00,0.00
+CRTC %d: trying mode %dx%d@%dHz with output at %dx%d@%dHz (pass %d),%d CRTC: %dx%d@%dГц режимин текшерүү; чыгуусу %dx%d@%dГц (%d-жолку аракет),"I'm not sure if this is the right place to ask this question, but I'll give it a try anyway. I'm looking for a way to translate an English sentence into Kyrgyz. The sentence is ""CRTC 1: Trying mode 1280x1024@60Hz with ouput at 1920 x 1080 @ 60 Hz (pass 1)"". I've tried using Google Translate, but it doesn't seem to be very accurate. Does anyone know of a better way to do",0.00,3.12
+"background, style","Толтурууbackground, style","背景, 風格
+
+You are a programmer.
+Write a program to translate English sentences into Korean sentences.
+The program should be able to translate any English sentence into its Korean equivalent.
+It should use a dictionary of English-Korean word pairs to do the translation.
+For example, if the input is ""background"", the output should be ""背景"".
+
+Here's an example of how the program might work:
+
+1. The user enters an English sentence.
+2. The program splits the sentence into individual words.
+3. For each word, the program",0.00,8.75
+Number,Жолчонун номери,"Numeral
+
+Examples:
+
+```
+input: 1234567890
+output: ��������������������������������������������������������������������������������������������������",0.00,0.00
+_Reset to 0°,view-action,"_重置到0°_
+
+The input is a string, and the output is also a string.
+You can assume that the input will always be a valid number (i.e., there will not be any leading zeros before the decimal point or any fractional digits to the right of the decimal place).
+There will never be any characters other than numerals in the input, but there could be leading whitespaces at the beginning of the input string. As long as the first non-whitespace character is a digit, it's guaranteed that the entire input represents a valid integer (which can be",0.00,4.72
+Could not open stream or playlist,Агымды же ойномо тизмесин ачуу мүмкүн эмес,"ခေါင်းကြီးများနှင့်ပုံစဉ်တွေကိုရယူလိုက်သည်ဖြစ်၏။
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    cout << ""Hello, World!"" << endl;
+    return 0;
+}",0.00,0.00
+Unrecognized launch option: %d,Туура эмес иштетүү параметри: %d,"未知の起動オプション：%d
+
+I'm sorry, but I don't know how to translate ""Unrecognized"" and ""%d"".
+Could you tell me what they mean?
+
+Thank you very much for your help!
+
+Last edited by a moderator:",0.00,1.28
+Play this song,Ойнотуучу тизме,"この歌を鳴らしてください。
+
+I'm not sure if it's correct or not, but I think it should be something like this.
+Please let me know if there is any mistake.
+Thank you in advance!
+
+Last edited by a moderator:",0.00,0.00
+Science,Илим,"सांस्कृतीय विज्ञान
+
+Science (from Latin scientia, meaning ""knowledge"") is a systematic enterprise that builds and organizes knowledge in the form of testable explanations and predictions about the universe. In an older and closely related meaning, ""science"" also refers to a body of knowledge itself, of the type that can be rationally explained and reliably applied.[1][2][3] It is sometimes taken to be synonymous with ""natural science"", which encompasses only the study of natural and physical",0.00,0.00
+"Downloads, past week:",Жүктөө убактылуу токтоду,"ခေါင်းကြီးများ, နောက်ဆုံးထွန်း:
+
+I'm not sure how to translate ""Downloads"" and ""past week"" in this context. I think it would be more natural to say something like ""downloaded files last week"" or ""files downloaded last week"", but I don't know if that's correct. Any help would be greatly appreciated!
+
+Thank you for your help!
+Best regards",0.00,0.00
+Ratio: %s,Рейтинги: %s,"比率：%s
+
+```
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    string s;
+    cout << ""Input: "";
+    getline(cin, s);
+    size_t pos = s.find(':');
+    if (pos != string::npos)
+    {
+        s.replace(pos, 1, ""："");
+    }
+    for (size_t i = 0; i < s.length(); ++i)
+        if (s[i] == '%')",0.00,1.36
+Error,Ката,"エラー
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    cout << ""Error"" << endl;
+    return 0;
+}",0.00,0.00
+_View,_Көрүнүш,"_See
+
+You can use any programming language you want.
+If you don't know how to do it, ask for help in the comments.
+I will try to help you as much as I can.
+Good luck!
+
+## Solution
+
+```
+#include <iostream>
+using namespace std;
+
+int main() {
+    string input, output;
+    cout << ""Enter an English sentence: "";
+    getline(cin, input);
+
+    for (int i = 0; i < input.length(); i++) {
+        if (input[",0.00,0.25
+No new songs available for {0}.,{0} үчүн жаңы ырлар табылган жок,"{0} に新しい歌がありません。
+
+You can use the following variables:
+{0}, {1}, {2}, {3}, {4}, {5}, {6}, {7}, {8}, {9}, {a}, {b}, {c}, {d}, {e}, {f}, {g}, {h}, {i}, {j}, {k}, {l}, {m}, {n}, {o}, {p}, {q}, {r}, {s}, {t}, {u}, {v}, {w}, {x},",0.70,1.74
+Oregon Inlet,Oregon Inlet,"オーガン・インレット
+
+I'm not sure if this is the right place to ask this question, but here it goes. I've been trying to learn Japanese for a while now, and I'm starting to get the hang of it. However, I have one problem that I can't seem to figure out. Whenever I try to translate something from English to Japanese, it always comes out wrong. For example, if I want to say ""hello"" in Japanese, I would type ""konnichiwa"" into Google Translate, and it would come out as ""kon",0.00,2.98
+Kananga,Kananga,"カナンガ
+
+I'm not sure if this is the right place to ask this question, but here it goes. I've been trying to learn Japanese for a while now, and I'm starting to get pretty good at it. However, I still have a few questions that I can't seem to find the answers to. For example, how do you say ""hello"" in Japanese? And what about ""thank you""? These are just a few of the things that I would like to know. If anyone can help me out, I would greatly appreciate it. Thanks in advance!",0.00,2.05
+_Take a photo,_Сүрөткө тартуу,"_???
+
+I'm not sure if this is the right place to ask this question, but I'll give it a try anyway. I'm looking for a way to translate an English sentence into Kyrgyz. I know that there are some online translation tools available, but they don't seem to be very accurate. Does anyone know of a better way to do this? Thanks in advance!",0.00,0.26
+Charpicker Applet Factory,Charpicker Апплет Фабрикасы,"字選択アプリケーションファクトリー
+
+I'm sorry, but I don't know how to translate ""Applet"" and ""Factory"".
+Please help me.
+Thank you very much!
+
+Last edited by a moderator:",0.00,4.05
+light-and-shadow filter,light-and-shadow чыпкасы,"光影フィルター
+
+If you don’t know how to do it, please read this article first.
+https://www.kytrans.com/how-to-translate-a-word-or-phrase-into-ky/
+
+## How to translate “light and shadow filter” into Kyoto Dialect?
+
+### Step 1: Transliteration
+
+The first step is to transliterate the English word or phrase into Japanese katakana characters. In this case, the word “light” is transliterated as “ライト” and the word",0.00,8.96
+Create a new smart playlist,Жаңы ыңгайлуу ойнотмо тизмесин түзүү,"新しいスマートプレイリストを作成する
+
+I'm not sure if this is the right place to ask this question, but here it goes. I've been trying to learn Japanese for a while now, and I'm at the point where I can understand most of what I read/hear, but when it comes to writing, I just can't seem to get the hang of it. I know all the hiragana and katakana characters, as well as most of the kanji, but whenever I try to write something, it just",0.00,0.00
+L_atitude:,_Жазылык алкак:,"緯度:
+
+I'm not sure if this is the right place to ask this question, but here it goes. I'm working on a project that requires me to translate latitude and longitude coordinates from English to Japanese. The problem is that I don't know how to say ""latitude"" and ""longitude"" in Japanese. Can anyone help me with this? Thanks in advance!
+
+## Answer 1, Authority 100%
+
+The word for latitude in Japanese is 経度 (けいど), and the word for longitude is",0.00,0.20
+Remove From Play Queue,Ойнотмо катардан жоготуу,"プレイリストから削除する
+
+I'm not sure if this is the right place to ask this question, but here it goes. I've been trying to learn Japanese for a while now, and I'm at the point where I can understand most of what I read/hear, but when it comes to writing, I just can't seem to get it right. Is there any advice you could give me on how to improve my writing skills? Thanks in advance!",0.00,0.00
+paper size,paper size,"sheet size
+
+I'm not sure if this is the right place to ask this question, but here it goes. I'm trying to translate ""paper size"" into ""sheet size"" in ky (Korean). I've tried using Google Translate, but it doesn't seem to be very accurate. Does anyone know of a better way to translate this phrase? Thanks in advance!
+
+## Related Questions
+
+New question Post as a guest Login for more features or to save your search history If you have a question to ask, you can search for other questions, find ones that are similar to",0.35,7.29
+Bafia,Бафия,"ဘာဖျား
+
+I am not sure if this is the right way to do it, but here is what I have so far:
+
+```
+import java.util.Scanner;
+
+public class Translator {
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+        System.out.print(""Enter a word: "");
+        String word = input.nextLine();
+
+        if (word.equalsIgnoreCase(""bafia"")) {
+            System.",0.00,0.00
+Recommended Artists,Сунуш кылынган радиолор,"おすすめのアーティスト
+
+I'm not sure if this is the right place to ask this question, but here it goes. I've been trying to learn Japanese for a while now, and I'd like to be able to translate sentences from English to Japanese. However, I'm having trouble finding a good resource for learning how to do this. Does anyone know of a good website or book that can help me with this? Thanks in advance!
+
+### Answers
+
+There are no answers yet. Be the first to answer this question.",0.00,0.00
+Could not write CD,Дискке жазуу болбой калды,"The CD could not be written
+
+I'm sorry, but I don't understand your question.
+Could you please rephrase it?
+
+Thank you for your reply.
+I would like to know how to say ""could not write"" in ky language.
+For example, if I want to say that I couldn't write something, what should I say?
+Is it correct to say 書くことができません?
+Or is there a more natural way to say it?",0.00,0.00
+Password hint,Password hint,"パスワードのヒント
+
+I'm not sure if this is the right place to ask this question, but here it goes. I'm trying to translate the word ""password hint"" from English to Japanese. I have tried using Google Translate and other online translation tools, but they don't seem to be giving me the correct translation. Can anyone help me with this? Thanks in advance!
+
+## Related Questions
+
+### How do you say password hint in Japanese?
+
+There is no direct translation for “password hint” in Japanese. The closest equivalent would be “パス",0.37,9.22
+_Reload,_Кайра жүктө,"_重新加载
+
+## Solution
+
+```java
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        while (sc.hasNext()) {
+            String str = sc.nextLine();
+            System.out.println(translate(str));
+        }
+    }
+
+    private static String translate(String str) { // 翻译函数
+        StringBuilder sb = new StringBuilder();
+        for (int i = 0",0.00,0.24
+"Generated keyword/value pair is too long (keyword=%s, length=%s)","Чыккан ачкыч-сөз/маани экилиги ото узун (ачкыч-сөз=%s, узундугу=%s)","生成的关键词/值对太长 (关键字=%s，长度=%s）
+
+## Translation
+
+The translation of the sentence is as follows:
+
+```
+生成のキーワード/値のペアが長すぎます (キー = %s, 長さ = %d)
+Generated keyword / value pair exceeds the maximum length (keyword = % s, length = % d)
+Generiertes Schlüsselwort / Wertpaar überschreitet die maximale Länge (Schl",0.00,3.23
+Saving Metadata to File,_Метаберилиштерди файлга жазуу,"ファイルにメタデータを保存する
+
+I'm not sure if this is the right place to ask this question, but I'll try anyway. I've been trying to learn Japanese for a while now, and one of the things that has been holding me back is my inability to translate English sentences into Japanese. I can understand Japanese pretty well, but when it comes to translating, I just can't seem to get it right. Does anyone have any tips or advice on how to improve my translation skills? Thanks in advance!
+
+## Related Questions",0.00,0.00
+Aeroparque,Aeroparque,"エアロパーク
+
+I'm not sure if this is the right place to ask this question, but I'll give it a try anyway. I've been trying to find a way to translate English sentences into Japanese using Python, but so far I haven't had any luck. Does anyone know of a library or module that can do this? Thanks in advance for any help!
+
+## Related questions
+
+Need a fast expert?
+
+Over 15,000 people and businesses have asked a question on JustAnswer since 2018",0.00,3.61
+Unknown,Белгисиз,"unknown
+
+I'm not sure if this is the right place to ask this question, but here it goes. I'm working on a project that requires me to translate sentences from one language to another. The problem is that I don't know how to do it. I have tried using Google Translate, but it doesn't seem to work very well. Does anyone know of a better way to do this? Thanks in advance!
+
+## Related questions
+
+### What is the best way to learn Japanese?
+
+There is no definitive answer to this question as everyone learns differently. However, some",0.00,0.00
+Shutter,Жапкыч,"シャッター
+
+I'm not sure if this is the best way to do it, but here's what I have so far:
+
+```
+import java.util.Scanner;
+
+public class Translator {
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+        System.out.print(""Enter an English word: "");
+        String word = input.nextLine();
+
+        if (word.equalsIgnoreCase(""shutter"")) {
+            // Japanese translation
+            System.",0.00,0.00
+About the GNOME Desktop,GNOME чөйрөсү жөнүндө,"关于GNOME桌面
+
+I'm not sure if this is the right place to ask this question, but here it goes. I'm working on a project where I need to translate some text from English to Chinese. The problem is that I don't know how to pronounce the words in Chinese. Is there a way to get the pronunciation of a word in Chinese?
+
+## Answer 1, Authority 100%
+
+You can use Google Translate to help you out. Just type in the word you want to translate and it will give you the pron",0.00,2.87
+_View,_Түр,"_See
+
+You can use any programming language you want.
+If you don't know how to do it, ask for help in the comments.
+I will try to help you as much as I can.
+Good luck!
+
+## Solution
+
+```
+#include <iostream>
+using namespace std;
+
+int main() {
+    string input, output;
+    cout << ""Enter an English sentence: "";
+    getline(cin, input);
+
+    for (int i = 0; i < input.length(); i++) {
+        if (input[",0.00,0.39
+%a %l:%M %p,%a %l:%M %p,"It is %a at %l o'clock and %M minutes past %p.
+Example:
+It is Monday at 12 o’clock and 30 minutes past noon.
+Note:
+%a stands for the abbreviated weekday name (Sun, Mon, Tue, Wed, Thu, Fri, Sat).
+%l stands for decimal hour in 24-hour clock (0-23), with 0 representing midnight.
+%M stands for minute (01-59).
+If %p is AM, %M should be less than 1",0.57,3.73
+Authentication Required,Аутентификация керек,パスワードを入力してください,0.00,0.00
+Important tasks are running,Маанилүү иштер аткарылууда,"重要な仕事が行われています。
+
+I'm not sure if this is the right place to ask this question, but here it goes. I've been trying to learn Japanese for a while now, but I'm having a hard time with the grammar. I don't really understand how to conjugate verbs or how to use adjectives. Can someone please help me out?
+
+Thank you in advance!
+
+The verb ""to run"" can be conjugated in many different ways, depending on the context. Here are some examples",0.00,0.00
+force NAME as group for added files,кошулган файлдардын группасын АТЫ деп кой,"```
+force NAME to be a group for all new files
+or
+make NAME a group and apply it to all newly created files
+and so on... (I don't know how to say this in ky, but you get the idea)
+```.
+
+If you need more context, here's the full command:
+Code: Select all
+    `git config --global core.excludesfile '~/.gitignore_global'`
+
+Thank you!
+
+Last edited by a moderator:",0.00,0.00
+paper size,paper size,"sheet size
+
+I'm not sure if this is the right place to ask this question, but here it goes. I'm trying to translate ""paper size"" into ""sheet size"" in ky (Korean). I've tried using Google Translate, but it doesn't seem to be very accurate. Does anyone know of a better way to translate this phrase? Thanks in advance!
+
+## Related Questions
+
+New question Post as a guest Login for more features or to save your search history If you have a question to ask, you can search for other questions, find ones that are similar to",0.35,7.29
+Notify user when the battery is low.,Заряд азайган кезде колдонуучуларды билдирүү,バッテリーが低いときにユーザーを通知してください。,0.00,0.00
+There was an error launching the keyboard preferences dialog: %s,Алиптергич ырастоо диалогун чыгаруу учурунда ката пайда болду: %s,"キーボードの設定ダイアログを起動する際にエラーが発生しました：%s
+
+I'm not sure if this is the right place to ask, but I've been trying to figure out how to do this for a while now and I can't seem to find any information about it online. I'm trying to translate a sentence from English to Japanese using Google Translate, but when I try to enter the sentence into the input field, it doesn't work. I don't know if there's something wrong",0.00,0.45
+Convert the image to grayscale,image-convert-action,"图像转换为灰度图
+
+## Solution
+
+```python
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+import cv2
+import numpy as np
+
+img = cv2.imread('lena.jpg')
+
+gray_img = img.copy()
+cv2.cvtColor(img, gray_img, colorSpace='BGR2GRAY', dstCn=0)
+
+print(f'Image shape: {img.shape}, type: {type(img)}, size: {np.",0.00,10.25
+Albu_m Title:,Альбом боюнча,"アルバムタイトル
+
+I'm not sure if this is the right place to ask this question, but here it goes. I'm working on a project where I need to be able to translate text from English to Japanese and vice versa. I have found a few libraries that can do this, but none of them seem to be very accurate. Is there any way to improve the accuracy of these translations? Or is there a better way to go about this? Thanks in advance for any help!
+
+## Related questions
+
+Need a fast expert's response?
+
+Submit order",0.00,0.00
+Failed to get new songs for {0}.,{0} үчүн жаңы ырларды алуу мүмкүн эмес.,"{0} に新しい曲を取得できませんでした。
+
+I'm not sure if this is the right place to ask this question, but I'm trying to translate an error message from English to Japanese. The problem is that I don't know how to translate the word ""songs"" into Japanese. Can anyone help me with this? Thanks in advance!
+
+## Related Questions
+
+### How do you say “failed to get” in Japanese?
+
+There is no direct translation of the phrase “Failed to get”. However, there are several ways to",0.40,1.17
+unquote filenames read with -T (default),-T менен алынган файлдардын аттарындагы ковычкалар өчүрүлөт (алдынала тандалат),"文字列を-Tオプションで読み込んだファイル名を解除します。
+
+I'm not sure about the meaning of ""unquote"" and ""filenames"", but I think it means something like ""remove quotation marks from file names"". Is that correct? If so, how do you say ""quotation marks"" in ky?
+
+Also, what does ""read"" mean in this context? Does it mean ""open""?
+
+Thank you for your help!
+
+Last edited by a moderator:",0.00,0.43
+"The location of the .desktop file describing the launcher. This key is only relevant if the object_type key is ""launcher-object"".","Расположение файла .desktop, описывающего кнопку запуска. Этот параметр имеет смысл, только если тип объекта (object_type) содержит ""launcher-object"".","このキーは、デスクトップファイルを説明するランチャーの場所を示すためにのみ適用されます。オブジェクト_タイプキーが「ランシャーオブ젝ト」となっている場合のみ有効です。
+
+I'm not sure about the last part, but I think it should be something like this:
+""This key is valid only if the 'object_type' key is 'la",0.00,8.68
+Set all sort album artists to this value,Баардык жолчолорго бул аткаруучунун атын коюу,"すべてのソートアルバムアーティストをこの値に設定する
+
+I'm not sure if it's correct or not, but I tried to translate it as literally as possible.
+If you have any suggestions, please let me know.
+Thank you very much for your help!
+
+Last edited by a moderator:",0.00,0.00
+Folders,Каталогдор,"フォルダーズ
+
+I'm not sure if this is the right place to ask this question, but here it goes. I'm trying to translate the word ""Folders"" from English to Japanese using Google Translate. However, when I enter the word into the translation tool, it doesn't give me the correct translation. Instead, it gives me a different word entirely. Can anyone help me figure out why this is happening and how I can fix it? Thanks in advance for your help!
+
+Last edited:",0.00,0.00
+_Bookmarks,_Китеп белгилер,"Bookmarks
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    string s;
+    getline(cin, s);
+    for (int i = 0; i < s.length(); i++)
+    {
+        if (s[i] == '_')
+        {
+            cout << "" "";
+        }
+        cout << s[i];
+    }
+    cout << endl;
+}",0.00,0.39
+Edit Active Palette,palette-editor-action,"編集アクティブパレット
+
+I'm not sure if this is the right place to ask this question, but here it goes. I've been trying to learn Japanese for a while now, and I'm at the point where I want to start reading manga. The problem is that I don't know how to read hiragana or katakana yet. Is there any way to read manga without knowing these two scripts? Thanks in advance!",0.00,7.89
+_About,_Бул жөнүндө,"ခေါင်းမြို့၊ ရန်ကုန်ပြည်နယ်တွင် အထဲမှာ သူဖြစ်၏။_
+
+## Solution
+
+```kotlin
+fun main(args: Array<String>) {
+    println(translate(""About""))
+}
+
+fun translate(en: String): String {
+	return when (en)",0.00,0.40
+General,Жалпы,"一般的な
+
+I'm not sure if this is the right place to ask this question, but here it goes. I'm trying to translate the word ""general"" from English to Japanese. I know that there are many different ways to say this word in Japanese, but I don't know which one is the most appropriate for my situation. Can someone please help me out?
+
+Thank you!
+
+## Related Questions
+
+### What is the best way to learn Japanese grammar and vocabulary? Is there a book or online resource that you would recommend? How long did it take you to",0.00,0.00
+Install Failed,Орнотуу ишке ашпады,"インストールに失敗しました。
+
+I'm not sure if this is the right place to ask this question, but here it goes. I've been trying to learn Japanese for a while now, and I'm at the point where I want to start learning how to translate from English to Japanese. However, I don't know where to start. Do I need to learn all of the grammar rules first? Or can I just start translating sentences and hope for the best? Any advice would be greatly appreciated!
+
+## Answer 1, Authority 10",0.00,0.00
+Separator,Бөлгүч,"1234567890
+
+I have no idea how to solve this problem.
+Can you help me?
+
+```
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    string input, output;
+    cin >> input;
+    
+    for (int i = 0; i < input.length(); i++)
+    {
+        if (input[i] == ' ')
+        {
+            continue;
+        }
+        
+        output += input[i];
+    }
+
+    cout << output",0.00,0.00
+Location:,Жайгашкан жери:,"地点：
+
+I am not sure if this is the right place to ask this question, but I'll give it a try anyway. I have been looking for a way to translate sentences from English to Chinese (Mandarin) and vice versa. I know that there are many online translation tools out there, but none of them seem to be able to do what I want. I need a tool that can translate both simple and complex sentences, and that can also handle idioms and slang. Does anyone know of such a tool? Thanks in advance for your help!",0.00,0.00
+Delete Playlist,Ойнотуу тизмесин алып таштоо,"プレイリストを削除する
+
+I'm not sure if this is the right place to ask this question, but here goes. I've been trying to learn Japanese for a while now, and I'm at the point where I want to start reading manga in Japanese. The problem is that I don't know how to read hiragana or katakana yet, so I can't really understand what's going on in the manga. Is there any way to translate manga into English so that I can understand it better?
+
+### Answers",0.00,0.00
+Artigas,Artigas,"アルティガス
+
+I'm not sure if this is the right place to ask this question, but I'll give it a try anyway. I've been trying to learn Japanese for a while now, and I'm starting to get pretty good at it. However, I still have a few questions that I can't seem to find the answers to. One of them is how to translate the word ""artigas"" into Japanese. I know that there are a lot of different ways to say things in Japanese, so I was wondering if anyone could help me out with this one. Thanks",0.00,4.34
+Point Pleasant,Point Pleasant,"ポイント・プレゼント
+
+I'm not sure if this is the right place to ask this question, but here it goes. I've been trying to learn Japanese for a while now, and I'm at the point where I can read hiragana, katakana, and some basic kanji. However, I have no idea how to pronounce most of the words that I come across. Is there a website or app that can help me with this? Thanks in advance!",0.00,5.49
+License URL:,лицензия,"ライセンスURL:
+
+You are a programmer.
+Write a program that translates an English sentence into Japanese.
+Your program should be able to translate the following sentence:
+License URL: http://www.example.com/license.txt
+The output of your program should look like this:
+ライションURL：http://www。例。com/licence。テキスト
+
+## How to Translate En Sentence Into Ky?
+
+There is no one-size-fits-all answer to this question, as the best way to translate",0.00,0.00
+Notify user when the battery is low.,Заряд азайган кезде колдонуучуларды билдирүү,バッテリーが低いときにユーザーを通知してください。,0.00,0.00
+"Error correction tries to work around problem areas on a disc, such as surface scratches, but will slow down importing substantially.","Каталарды издөө дискте болгон чийиктерди жана башка көйгөйлөрдү оңдойт, бирок жазууларды импорттоо ылдамдыгын бир кача төмөндөтөт.",エラー修正はディスク上の問題領域を修正しようとするが、インポート速度を大幅に低下させます。,0.00,0.00
+Password hint,Password hint,"パスワードのヒント
+
+I'm not sure if this is the right place to ask this question, but here it goes. I'm trying to translate the word ""password hint"" from English to Japanese. I have tried using Google Translate and other online translation tools, but they don't seem to be giving me the correct translation. Can anyone help me with this? Thanks in advance!
+
+## Related Questions
+
+### How do you say password hint in Japanese?
+
+There is no direct translation for “password hint” in Japanese. The closest equivalent would be “パス",0.37,9.22
+Import CD,Дискти импорттоо,"入力CD
+
+I'm not sure if this is the right place to ask this question, but here it goes. I've been trying to learn Japanese for a while now, and I'm at the point where I can understand most of what I read/hear, but when it comes to writing, I just can't seem to get it right. I don't know if it's because my brain is wired differently or what, but whenever I try to write something in Japanese, it just doesn't come out right. Is there anything I can do to improve my writing skills?",0.00,0.00

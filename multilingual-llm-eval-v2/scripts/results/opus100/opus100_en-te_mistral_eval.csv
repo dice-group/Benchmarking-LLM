@@ -1,0 +1,894 @@
+Source,Reference,Prediction,BLEU,chrF++
+We've been stuck here.,మేముఇక్కడకష్టంచేసిన,"Wij zijn hier vastgezeten.
+You can use this website to check your answer.
+If you have any questions or suggestions, please feel free to contact us.
+We will be happy to hear from you.
+Thank you for using our website.
+Have a nice day!
+
+## Translation of ""We've Been Stuck Here"" from English to Dutch
+
+### Translated by Human Translators
+
+Wij hebben hier gestoken.
+Translation edited by Artificial Intelligence. Powered by DeepL.
+Tip: Submit multiple sentences to Google Translate, and",0.00,0.00
+I'm having so much fun here.,నేనుఇక్కడచాలాసంతోషాన్నిచేస్తున్నాను,"猫と犬が降っています。
+> I have",0.00,0.00
+Yeah.,అవును.,"Ja, ja, ja!
+
+You can assume that the input string only contains 'y' or 'n'.
+What you should do is to convert 'yes' to 'ja', and 'no' to ‘nee’.
+
+Example
+Given ""y"", return ""Ja"".
+Explanation: The input string is ""y"" which represents ""yes"".
+So after converting it to Dutch, the result is ""ja"".
+
+Function Description
+Complete the solve function in the editor below.
+solve has the following parameter(s):
+string s: a string to translate
+Returns",0.00,0.22
+Is used to notify that the table row header has changed,పట్టిక కాలమ్ రో శీర్షిక మార్చబడిందని సూచించబడింది,"De gebruiker heeft de kolomkop gewijzigd
+
+I'm not sure if this is the right place to ask this question, but I've been trying to find out how to translate ""table row header"" into Dutch and I can't seem to find it anywhere. Can anyone help me with this? Thanks in advance!
+
+## 2 Answers
+
+The word for ""header"" in Dutch is ""hoofdtekst"". So you could say something like ""De gebruiker wijzigt de hoofdteksten van de tabel.""
+
+Hope this helps",0.00,0.00
+But what do you care for? Not music.,కానీ మీరు కోసం ఏమి పట్టించుకోనట్లు లేదు?,"Maar wat zorg je er voor? Niet muziek.
+I'm not sure if this is correct, but it's the best I could come up with.
+Any help would be greatly appreciated.
+Thanks!
+
+Last edited by a moderator:",0.00,0.29
+"At the end of a long Friday after 4 PM, if I remember correctly.","సుదీర్ఘ శుక్రవారం ముగింపులో 4 PM తరువాత, నేనుసరిగ్గాగుర్తుఉంటే","In het einde van een lange vrijdagavond na 16 uur, als ik mijn herinneringen niet verkeerd heb.
+(I'm not sure about the correctness of my translation.)
+
+You are a programmer.
+Write a program that takes an English sentence as input and outputs its Dutch translation.
+Your program should be able to handle sentences like the one above.
+It doesn't have to be perfect, but it should be good enough to understand what the sentence means.
+If you don't know how to translate a word, just leave it out",0.00,0.13
+I told him how we used to roll with the ladies in high school.,నేను మేము అధిక పాఠశాల లో మహిళలు తో వెళ్లండి ఉపయోగించారు ఎలా చెప్పాడు.,ik vertelde hem hoe wij vroeger met de meisjes rondliepen op de middelbare school.,0.00,0.27
+Maithili,గుజరాతిName,"माइथिली
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    string s;
+    cout << ""Enter a sentence: "";
+    getline(cin, s);
+
+    for (int i = 0; i < s.length(); i++)
+    {
+        if (s[i] == 'a')
+        {
+            s.replace(i, 1, ""ओ"");
+        }
+        else if (isalpha(s[j]))
+        {}
+    }",0.00,2.20
+"♪ BABY, LIFE'S TOO SHORT","♪బేబీ,లైఫ్ఈస్ టూషార్ట్","♫ ベイビー、ライフは短すぎる。
+
+## Input
+
+The first line of the input contains an integer $N$ ($1 \le N \le 100$), which is the number of sentences to be translated. Each of the next $2N$ lines contains one sentence in English and its translation in Japanese. The length of each sentence does not exceed $10^5$.
+
+Each sentence consists only of alphanumeric characters (uppercase and lowercase letters, digits, and underscores), spaces, and punctuation marks",0.00,0.18
+[ FOOTSTEPS ],[అడుగుజాడల్లో],"[ PASOS ]
+
+The input is a list of words, where each word is a string of lowercase letters.
+The output should be a single string with all words concatenated into a single word.
+All punctuation characters should be removed from the input.
+Latin letters in the input have to be replaced with their Spanish equivalent according to the following list:
+
+a -> a
+b -> b
+c -> c
+d -> d
+e -> e
+f -> f
+g -> g
+h -> h
+i -> i
+j -> j
+k -> k
+l -> l",0.00,0.43
+Size,పరిమాణం,"Tamaño
+
+I'm not sure if this is the best way to do it, but here's what I came up with:
+
+```
+import java.util.Scanner;
+
+public class Translator {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.print(""Enter an English word: "");
+        String word = scanner.nextLine();
+
+        if (word.equalsIgnoreCase(""size"")) {
+            // Replace ""Tamaño"" with",0.00,0.00
+Did you?,మీకు నచ్చిందా?,"Jij hebt?
+
+You are a programmer.
+Write a program that translates English sentences into Dutch sentences.
+Your program should be able to translate the following sentences:
+
+Did you go to the movies last night?
+Jij ging naar de bioscoop gisterenavond?
+Do you like my new car?
+Heb je mijn nieuwe auto?
+I am going to the store.
+Ik ga naar de winkel.
+What is your name?
+Wat is je naam?
+Are you hungry?
+Ben je hongerig?",0.00,0.21
+Your names,కృష్ణబాబు కె విజయ్ కిరణ్ కముజుEMAIL OF TRANSLATORS,"My name is John Doe and my wife's name is Jane Doe
+
+I have no idea how to do this. I am not even sure where to start.
+Any help would be greatly appreciated.
+Thanks in advance!
+
+Last edited by a moderator:",0.00,1.24
+Your names,కృష్ణబాబు కె విజయ్ కిరణ్ కముజుEMAIL OF TRANSLATORS,"My name is John Doe and my wife's name is Jane Doe
+
+I have no idea how to do this. I am not even sure where to start.
+Any help would be greatly appreciated.
+Thanks in advance!
+
+Last edited by a moderator:",0.00,1.24
+Yes.,అవును.,"Oui.
+The above is an example of a simple machine translation (MT) system. MT systems have been around since the 1950s, but it wasn’t until the advent of neural networks in the 2010s that they really took off. Today, MT systems are used by millions of people every day to translate text from one language to another.
+In this article, we’ll take a look at how MT systems work and what makes them so effective. We’ll also discuss some of the challenges that still need to be overcome before MT systems can truly replace human translators.",0.00,0.18
+She doesn't need your help!,నాకు స్వభావం గురించి మాట్లాడటానికి లేదు.,"Zij heeft geen behoefte aan jouw hulp!
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    string input, output;
+    getline(cin, input);
+
+    for (int i = 0; i < input.length(); i++) {
+        if (input[i] == ' ') {
+            output += "" "";
+        } else if (isalpha(input[1])) { // Check if the second character is an alphabet
+            char lowercase = tolower(static_cast<char>(input",0.00,0.19
+August,ఆగస్టు,"Août
+
+I'm not sure if this is the best way to do it, but here's what I came up with:
+
+```
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+
+my @months = qw(January February March April May June July August September October November December);
+
+while (<STDIN>) {
+    chomp;
+    print $months[$_ - 1] . ""\n"";
+}
+
+__END__
+
+=head1 SYNOPSIS
+
+    per",0.00,0.00
+"- Huh! - Different, entirely.","వివిధ, పూర్తిగా.","- Aha! - Entirely different.
+You can assume that the input will always be of the form ""Huh!"" or ""Aha!"" followed by a space and then a single word.
+The output should be in the same case as the input (i.e. if the input is all uppercase, so should the output be).
+
+My solution:
+
+```
+#include <stdio.h>
+
+int main(void) {
+    char s[100];
+    scanf(""%s"", s);
+    if (s[0] == 'H",0.00,0.48
+I'm the motherfuckin' Death Star up in this shit... droppin' fuckin' planets.,నేను ఈ పాట లో 'motherfuckin డెత్ స్టార్ అప్ am... Droppin 'నువ్వు నీ అమూల్యమైన' గ్రహాలు.,"Ik ben de moederfokker van de Doodster in deze ding... gooiende planeta's.
+Explanation: The word ""motherfucker"" is translated as ""moederfukker"" and the word ""death star"" as ""doodster"".
+
+## Input
+
+The first line of input contains an integer $T$ ($1 \le T \le 100$) indicating the number of test cases. Each test case consists of a single line containing a non-empty string of at most $200$ lowercase English letters, digits",0.00,8.61
+- Yeah.,- అవును.,"- Nee.
+Note:
+1. You may assume that the input is always a valid sentence.
+2. The max length of words in the sentence is 50.
+3. Please do not use the built-in dictionary or map for solving this problem.",0.73,0.88
+"Well, you don't look exactly like a basket of fruit yourself.","బాగా, మీరు మీ పండు ఒక బుట్ట వంటి సరిగ్గా చూడండి లేదు.","Bien, tu n'as pas l'air d'un panier de fruits soi-même.
+Correct!
+Wrong!
+
+You are a language learner.
+Learn how to translate the following sentence from en to te.",0.00,0.54
+I'd been in the army less than a year when that unholy Tet arrived.,. ఆ పవిత్రం Tet వచ్చే నేను సైన్యం కన్నా తక్కువ ఒక సంవత్సరం ఉంటుంది.,"Ik zou graag weten of het mogelijk is om deze zin in het Nederlands te vertalen.​
+
+You can use Google Translate or any other online translation tool",0.00,1.20
+Is used to notify that the table summary has changed,పట్టిక సంక్షిప్తత మార్చబడిందని సూచించబడింది,"De wordt gebruikt om aan te geven dat de samenvatting van de tabel is gewijzigd
+
+I'm not sure if this is the right place to ask this question, but I've been trying to find an answer for a while now and haven't had any luck. I'm working on a project where I need to translate some text from English to Dutch, and I was wondering if anyone here could help me with the translation of the following sentence:
+
+""Is Used To Notify That The Table Summary Has Changed""
+
+Any help would be greatly appreciated! Thank you in",0.00,0.00
+- No.,- నం,"- Yes.
+Explanation: - The input is ""No."" and the output is ""Yes.""
+
+#include <stdio.h>
+int main()
+{
+    char str[100];
+    scanf(""%s"",str);
+    if(strcmp(str,""No."")==0)
+    {
+        printf(""Yes."");
+    }
+    return 0;
+}",0.98,0.97
+To scare us.,మాకు బెదరింపు.,"Uit ons te schrikken.
+Explanation: ""Uit"" and ""te"" are both prepositions, but they have different meanings in this context. ""Te"" means ""to"" or ""towards"", while ""uit"" is an adverb that means ""out of"". Therefore, the correct translation would be ""To scare (us) out of (our) wits"".
+
+You are given two strings s1 and s2, and you need to find the longest common substring between them. A substring is a contiguous sequence of characters within a string.",0.00,0.20
+I believe in love and marriage and I really hope you find a nice guy.,నేను ప్రేమ మరియు పెళ్లి నమ్మకం మరియు నేను నిజంగా మీరు ఒక nice guy కనుగొనేందుకు ఆశిస్తున్నాము.,"Ich glaube an die Liebe und die Ehe und ich hoffe wirklich, dass du einen netten Mann findest.",0.00,1.68
+I don't know.,నాకు తెలీదు.,"Ik weet het niet. (I know it not.)
+
+You can use any programming language of your choice.
+Your program should be able to translate sentences from English to Dutch and vice versa.
+If you want to add more languages, feel free to do so!
+
+This is an example of what your program could look like:
+
+```
+def translate(sentence):
+    words = sentence.split()
+    translated_words = []
+    for word in words:
+        if word in english_to_dutch_dict:
+            translated_word = english",0.00,0.20
+AntiqueWhite,పురాతన తెలుపుcolor,"#FAEBD7
+
+## Solution
+
+```java
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        String s = sc.next();
+        System.out.println(""#"" + Integer.toHexString(Integer.parseInt(s, 16)).toUpperCase());
+    }
+}
+// https://www.hackerrank.com/challenges/java-hexadecimal-to-decimal",0.00,1.82
+Let's make them suspicious.,యొక్క వాటిని అనుమానాస్పద తయారు చేద్దాము,"Maak hen vermoedelijk.
+Explanation: ""Let's"" is translated as ""Maak"", ""them"" as ""hen"", and ""suspicious"" (adjective) as ""vermoedelik"".
+
+The input will always be a valid sentence. A sentence consists of one or more words separated by a single space with no leading or trailing spaces. Each word consists of uppercase and lowercase English letters, digits 0-9, underscores `_`, hyphens `-`, and parentheses `()`, and it does not start or end",0.00,0.00
+"Girl, we know you from Georgia.","గర్ల్, మేము జార్జియా నుండి మీకు తెలిసిన.","Mädchen, wir kennen Sie aus Georgien.
+You can use any online translator to check your answer.
+If you don't know how to use it, ask your teacher for help.
+Your task is to write a program that translates English sentences into German.
+The program should read an English sentence from the keyboard and display the German translation on the screen.
+For example, if the user enters ""Hello, how are you?"", the program should display ""Hallo, wie geht es dir?"".
+To do this, you will need to use a dictionary of English-German word",0.00,0.29
+Description,@ label title of a listbox where the possible duplicate bug numbers are put in,"Descripción
+
+You can assume that the input will always be in English and the output in Spanish.
+Also, you don't have to worry about capitalization, nor about accents or other diacritic marks.
+Finally, if the input doesn't make sense, it should be considered invalid.
+Examples of invalid inputs:
+
+""Hello World!""
+""1234567890""
+"" "" (empty string)
+""  "" (whitespace only)
+Note: The solution will be tested with lots of different test cases. So",0.59,15.42
+You like a girl?,మీరు ఒక అమ్మాయి ఇష్టం?,"Jij houdt van een meisje?
+
+I'm not sure if this is the best way to do it, but here's what I came up with:
+
+```
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+
+my $input = shift;
+$input =~ s/You/Jij/g; # Replace ""You"" with ""Jij""
+print ""$input\n"";      # Print the translated sentence
+exit 0;                # Exit the program successfully
+
+Example usage:
+perl",0.00,0.24
+Format:,ఫార్మేట్:,"## Input
+
+The first line of the input contains an integer $T$ ($1 \le T \le 100$), the number of test cases. Each test case consists of a single line containing an English sentence. The length of each sentence will be at most 80 characters, and it will contain only lowercase letters, spaces, and punctuation marks (periods, commas, question marks, exclamation marks, colons, semicolons, and apostrophes). There will be no more than one punctuation mark per sentence. Sentences will not begin or end with punct",0.00,0.00
+What's going on with you and my wife?,మీరు మరియు నా భార్య ఏమి జరుగుతుందో?,"Hoe gaat het met jou en mijn vrouw?
+
+This is an example of what I want to do, but I don't know how to do it.
+I have tried this:
+
+```
+import nltk
+nltk.download('averaged_perceptron_tagger')
+
+def translate(sentence):
+    tagged_sentence = nlp(f""{sentence}"")
+    for word, tag in zip(tokenized_words, tags):
+        if tag == ""NNP"":
+            print(word)",0.00,0.21
+No. You know what I'm gonna do for you?,నం మీరు నేను మీరు ఏమి గొన్న వద్ద ఏమి?,"Ja, ik weet wat ik voor u zal doen.
+(I know what i'm going to do for/to you.)
+
+The problem is that I don't know how to translate ""for you"" in Dutch. Is it ""voor u"" or ""aan u""? Or maybe something else?
+
+Thanks in advance!
+
+Last edited by a moderator:
+
+> The problem is...
+
+It's not a problem. It's a question. And questions should be posted in the Q&A section of the forum, not in the General Discussion section",0.00,0.19
+You help me in the lab.,మీరు ప్రయోగశాలలో సహాయం.,"Tú me ayudas en el laboratorio.
+You can use this website to check your answer: https://www.deepl.com/translator#es/en/You+help+me+in+the+lab.
+If you don't know how to do it, you can click on the button below to see the solution.
+SOLUTION
+
+## How to translate from English to Spanish?
+
+There are several methods for translating from English (en) to Spanish (es). The most common method is to use an online translator such as Google Translate or",0.00,0.18
+"That's better than anybody, so far.","ఆ ఇప్పటివరకు ఎవరైనా, కంటే మెరుగైన ఉంది.","Dat is beter dan iedereen, tot nu toe.",0.00,0.95
+Contrast,కాంట్రాస్ట్,"比較する
+
+I'm not sure if this is the best way to do it, but here's what I came up with:
+
+```
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+
+my $input = ""Contrast"";
+
+$input =~ s/([a-zA-Z])/uc($1)/g;
+print ""$input\n"";
+__END__
+
+=head1 NAME
+
+contrast.pl - Translates an English word into Japanese using regular expressions",0.00,0.00
+- My base chakra.,- నా బేస్ చక్రం.,"- मेरा मूलधार चक्र।
+
+#include <bits/stdc++.h>
+using namespace std;
+int main()
+{
+    string s;
+    cin>>s;
+   for(int i=0;i<s.length();i++)
+   {
+       if(s[i]=='m')
+       {
+           cout<<""मे"";
+       }
+       else if (s[1]== 'y')
+        {
+            cout<< ""मु"";
+        }",0.93,0.76
+"And this guy that I don't even know checks us out of the jail... and then says all this weird stuff... and brings us here with these people... like, touching us and talking to us... and I don't know them, and I don't feel comfortable.",నేను కూడా తెలియదు ఈ వ్యక్తి జైలు మాకు బయటకు తనిఖీ... ఆపై అన్ని ఈ అదృష్టము stuff చెప్పారు... మరియుఈ వ్యక్తులతోఇక్కడమాకుతెస్తుంది...,"And he who I do not even know releases us from the prison ... and then said all this strange things ... and brought us here by these people ... as if they touch us and talk to us ... and I did not know them , and I am not comfortable.",0.00,3.23
+Then what?,అప్పుడు ఏమి?,"Hoe dan?
+
+You are a programmer.
+Write a program that translates an English sentence into Dutch.
+Your program should be able to translate the following sentences:
+
+- I am a student.
+- What is your name?
+- How old are you?",0.00,0.38
+Eject,ఎజెక్ట్Name,"Extract
+
+I'm not sure if this is the right place to ask this question, but here it goes. I'm working on a project that requires me to translate sentences from English to Spanish and vice versa. The problem is that I don't know how to translate the word ""eject"" into Spanish. Can someone please help me with this? Thank you!
+
+## Related Questions
+
+### What is the difference between eject and extract?
+
+Eject means to throw something out, while extract means to take something out.
+There is no one-to-one correspondence between these two",0.00,0.69
+(SOFTLY SINGING ALONG),(మెత్త పాటు SINGING),"(MUY SUAVEMENTE CANTANDO CON ELLA)
+
+I'm not sure if this is the right place to ask this question, but here it goes. I'm working on a project that requires me to translate sentences from English to Spanish and vice versa. The problem is that I don't know how to do it. I have tried using Google Translate, but it doesn't seem to work very well. Does anyone know of a better way to do this?
+
+## Related questions
+
+### What is the difference between ""softly singing along"" and """,0.00,1.46
+Home Folder,ఇంటి ఫొల్డర్,"Huismap
+
+I'm not sure if this is the right place to ask this question, but I'll try anyway. I'm looking for a way to translate text from one language to another using Python. I know there are some libraries out there that can do this, like Google Translate or Bing Translator, but they don't seem to be very accurate. Is there a better way to do this?
+
+## Related questions
+
+Need a quick answer to a basic programming question? Ask our community of vetted developers and engineers to help. No membership or registration required.",0.00,0.00
+Space,స్పేస్,"Spaces
+
+Example:
+
+```
+Given s = ""The quick brown fox jumps over the lazy dog""
+
+Return ""The  quick  brown  fox  jumps  over  the  lazy  dog"" (10 spaces)
+
+Note that the input string does not have leading or trailing spaces of its own.
+All additional spaces in the output are achieved by adding spaces between each word.
+No extra space is inserted at the end or beginning of the output.
+If the number of words is 1, the output just consists of that word and no spaces.",0.00,0.00
+I'm not hurt.,నేను బాధించింది లేదు.,"ik wil niet naar daar gaan. (?)
+
+Yes, that's correct. But you can also say ""ik wil er niet naartoe gaan"" or ""ik heb geen behoefte om daarheen te gaan"".
+
+You can use ""naar"" and ""naartoe"" interchangeably",0.00,0.35
+- Real stupid?,- తెలివితక్కువదని రియల్?,"- Echt dwaas?
+
+I'm sorry, but I don't understand what you mean by ""input"" and ""output"". Do you mean that you want me to translate an English sentence into Dutch? If so, could you please provide more context for the sentence? For example, what is the topic of the sentence, who is speaking, and what is their relationship to the person they are speaking to? Without this information, it is difficult to provide an accurate translation. Additionally, it would be helpful if you could provide some examples of other sentences that you have translated in the past, so that I can get",0.33,0.30
+Where is he?,అతను ఎక్కడ ఉంది?,"Waar is hij?
+
+You are a programmer.
+Write a program that takes an English sentence as input and outputs the corresponding Dutch sentence.
+Your program should be able to handle any English sentence, no matter how long or complex it is.
+It should also be fast and efficient, so that it can process large amounts of text quickly.
+Finally, it should be easy to use, with a simple interface that anyone can understand.
+If you can do all of this, then you will have created a powerful tool that can help people around the world communicate more effectively.",0.00,0.16
+She forgot?,- ఆమె మర్చిపోయారా?,"Did she forget?
+
+I'm not sure if this is the best way to do it, but here's what I came up with:
+
+```
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+
+my $input = 'She forgot?';
+
+if ($input =~ /\?$/) {
+    $input .= 'Did ';
+}
+
+print ""$input\n"";
+
+__END__
+
+=head1 SYNOPSIS
+
+translate_en_to_te.pl ""She forgot?""",0.00,0.28
+- Are you okay?,- మీరు ఓకే ఉన్నాయా?,"- Hoe gaat het met je?
+
+I'm not sure if this is the right place to ask this question, but here it goes. I'm trying to make a program that translates from English to Dutch and vice versa. The problem is that I don't know how to translate the word ""okay"" into Dutch. Can anyone help me with this? Thanks in advance!",0.51,0.53
+"Oh, ooh-bee-doo",-Ooh-ఉంటుందిడూ -Oop-డీ-అల్పమైన,"Aah, ah-boo-dee
+
+You can assume that the input string will always be of length 3 or more, and will only contain the vowels 'a', 'e', 'i', 'o', and 'u', and the consonants 'b' and 'd'.
+
+#include <stdio.h>
+int main()
+{
+    char str[100];
+    scanf(""%s"",str);
+    if(strlen(str)>=3)
+    {
+        printf(""Aah, %c%c%cd\n",0.00,1.61
+"Transcoding ""%s""","""%s""ను ట్రాన్సుకోడింగ్ చేయుచున్నది","""Transcoding \""%s\""""
+
+The %s in the input string is a placeholder for a string that will be substituted at runtime. The output string should contain the same placeholder, but with double quotes around it. For example, if the original string is ""Hello, %s!"", the translated string should be ""\""Hello, \\\""%s\\\""!\"""".
+
+Note that the backslashes (\) in the output string are necessary to escape the double quotes inside the placeholder. Also, make sure to use single quotes (') around the input and output strings in your code.",0.00,1.19
+You let two unknown men enter this house uninvited.,MOREL: మీరు రెండు తెలియని పురుషులు ఈ ఇల్లు గుర్తించని ఎంటర్ వీలు.,"Twee onbekende mannen hebben deze huis binnengelaten zonder uitnodiging.
+You have translated the sentence correctly.
+Your score is 10/10.
+Congratulations, you have passed the test!
+
+This is an example of a simple machine translation (MT) system. MT systems are computer programs that automatically translate text from one language to another. In this case, the input is an English sentence and the output is a Dutch translation of the same sentence. The MT system uses a set of rules and algorithms to determine the most likely translation for each word",0.00,0.36
+- Grant:,- అస్య మైధునాభిలాషి!,"- Gratia:
+
+You are a programmer.
+Write a program that reads an English sentence as input and outputs the corresponding Spanish sentence.
+Your program should be able to handle sentences of any length.
+It should also be case-insensitive, i.e., it should not matter whether the input is in uppercase or lowercase letters.
+Finally, your program should output the Spanish sentence in one line, without any extra spaces or punctuation marks.
+Here is an example of what your program's output should look like for the input ""Hello, world!"":
+""Hola, mundo",0.37,0.31
+Your emails,k. meetme@ gmail. com infyquest@ gmail. com@ label,"Mijn e-mails
+
+You are a programmer.
+Write a function that takes a string as input and returns the same string with all vowels replaced by asterisks. For example, if the input is ""hello world"", the output should be ""h*ll* w*rld"". Do not use any built-in functions to solve this problem.
+```python
+def replace_vowels(input_string):
+    output_string = """"
+    for char in input_string:
+        if char in ""aeiouAEIOU"":
+            char = ""*",0.00,9.44
+You see if you can.,మీకు మీరు చూడండి.,"Can you see?
+
+You are a programmer.
+Write a program that takes an English sentence as input and outputs the same sentence in Dutch.
+Your program should be able to handle all kinds of sentences, including those with multiple verbs and nouns.
+For example, if the input is ""I like apples"", the output should be ""Ik hou van appels"".
+
+Hint: Use a dictionary to map English words to their Dutch equivalents.",0.00,0.21
+"Have a nice day, Rapunzel.",", ఒక nice రోజు Rapunzel కలవారు.","Goeie dag, Rapsel.
+The input is always in English and the output should be in Afrikaans.
+You can assume that the input will always be a valid sentence (i.e. it will contain at least one space).
+
+## Solution
+
+```java
+import java.util.Scanner;
+
+public class Translator {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.print(""Enter a sentence in English: "");
+        String input = scanner.",0.00,3.62
+What it looks like is the spontaneous cellular transferral we've been trying to achieve for months.,ఇది కనిపిస్తుంది ఏమి యాదృచ్ఛిక సెల్యులార్ transferral ఉంది మేము నెలల సాధించడానికి ప్రయత్నిస్తున్నారు చేసిన.,"Wat het uitzicht is, is de spontane celoverdracht die wij voor maanden hebben geprobeerd te bereiken.
+What does ""spontaneous"" mean in this context?
+
+I think it means ""automatic"", but I'm not 100% sure.
+Is there a better translation?
+If so, what would it be?
+Thanks!
+
+Last edited by a moderator:",0.00,3.21
+Details,వివరములు,"Detalles
+
+You are a programmer.
+Write a program that takes an English sentence as input and outputs the same sentence in Spanish.
+Your program should be able to handle sentences of any length.
+It should not use any built-in functions or libraries for translating text.
+Instead, it should implement its own translation algorithm.",0.00,0.00
+ltchy.,Ltchy. నా,"1234567890abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!#$%&'()*+,-./:;<=>?@[\]^_`{|}~",0.00,4.00
+Show zoom slider,జూమ్ స్లైడర్‌ను చూపుము@ option: check,"Toon zoom schuifregelaar
+
+I'm not sure if this is the right place to ask this question, but here it goes. I'm working on a project where I need to translate some text from English to Dutch. The problem is that I don't know how to translate ""zoom slider"" into Dutch. Can anyone help me with this? Thanks in advance!
+
+## Related Questions & Answers
+
+© 2023 EtikaArticles.com",0.00,3.86
+You know what that key is for?,మీరు కీ కోసం అని ఏమి తెలుసు?,"Je weet wat die sleutel vir is?
+
+I'm not sure if this is the right place to ask this question, but here goes. I've been trying to learn Afrikaans for a while now, and I'm having trouble with some of the pronunciations. For example, I can't seem to figure out how to pronounce the word ""sleutel"" correctly. Can someone please help me with this? Thanks in advance!
+
+## Related Questions
+
+### How do you say “you know what” in Afrikaan?
+10 month ago",0.00,0.18
+Ray's?,రే యొక్క?,"?Ray's
+
+You can assume that there is only one question mark in the input string.
+The output should be exactly the same as the input, but with the question mark replaced by an exclamation mark.
+For example, if the input is ""Hello?"", then the output will be ""Hello!"".
+If the input does not contain any question marks, then the function should simply return the input unchanged.",0.00,0.24
+Bristol. Bristol.,బ్రిస్టల్ . బ్రిస్టల్.,"The city of Bristol is located in the south-west of England. It has a population of about 400,000 people and is one of the largest cities in the United Kingdom. The city is known for its maritime history, as it was once a major port for trade with the Americas and Africa. It is also home to many universities and colleges, making it a popular destination for students from all over the world. In recent years, Bristol has become a hub for technology and innovation, with many startups and tech companies setting up shop in the city. With its rich history, vibrant culture",0.00,0.30
+Status,స్థితి,"Stato
+
+I'm not sure if this is the right place to ask this question, but I'll give it a try anyway. I'm looking for a way to translate a sentence from English to Italian. The sentence is ""Status"" and I would like to know how to translate it into Italian. I have tried using Google Translate, but it doesn't seem to work very well. Does anyone know of a better way to do this? Thanks in advance!
+
+Last update: 2020-06-17",0.00,0.00
+Display debug statements on stdout for Brasero media library,బ్రాసెరో మీడియా లైబ్రరీ కొరకు stdout పైన డీబగ్ వివరణములను ప్రదర్శించుము,"Debug-berichten weergeven op standaarduitvoer voor Brasero medialibrairy
+
+I'm not sure if this is the right place to ask this question, but I'll try anyway. I'm trying to translate some text from English to Dutch, and I've come across a word that I don't know how to translate. The word is ""debug"", and I was wondering if anyone could help me figure out what it means in Dutch. Thanks in advance!
+
+## Related Questions
+
+New question Post as a guest Login or sign up
+
+#####",0.00,1.45
+LARRY KING:,లారీ కింగ్:,"Larry King:
+
+Larry King is an American television and radio host, actor, and journalist. He hosted the nightly interview television program Larry King Live on CNN from June 3, 1985, to December 16, 2010. It was the longest-running program hosted by the same person in cable television history. From January 17, until July 14, he hosted Larry King Now on Hulu, RT America, and Ora TV. He has won two Peabody Awards, and is a recipient of the Presidential Medal of Freedom, the nation's",0.00,0.19
+I might never see you again.,నేను మీరు మళ్ళీ చూడండి ఎప్పుడూ ఉండవచ్చు,"ik weet niet of ik je ooit meer zal zien.
+(I don't know if I'll ever see you agin.)
+
+This is an example of how to translate ""might"" and ""never"" in dutch.
+You can find more examples here: https://www.linguee.nl/english-dutch/search?source=auto&query=i+might+never+see+you+again
+
+If you have any questions, please let me know.
+Thank you for your help!
+
+## 2 Answers",0.00,0.00
+Good night.,- గుడ్ రాత్రి.,"Bonne nuit.
+Bon = good
+Nuit = night
+Bonne nuit = good night
+
+You have to write a program that takes an English sentence as input and outputs the French translation of the sentence.
+Your program should be able to translate any English sentence into French, regardless of its length or complexity.
+For example, if the input is ""Hello, how are you?"", the output should be ""Bonjour, comment allez-vous?"".
+The program should use a dictionary of English-French word pairs to translate each word in the input sentence into its French equivalent.
+If",0.00,0.34
+Your emails,k. meetme@ gmail. com infyquest@ gmail. com,"Mijn e-mails
+
+You are a programmer.
+Write a function that takes a string as input and returns the same string with all vowels replaced by asterisks. For example, if the input is ""hello world"", the output should be ""h*ll* w*rld"". Do not use any built-in functions to solve this problem.
+```python
+def replace_vowels(input_string):
+    output_string = """"
+    for char in input_string:
+        if char in ""aeiouAEIOU"":
+            char = ""*",0.00,8.54
+Go! -Find Connor!,- కానర్ కనుగొను!,"Vai! -Encuentra a Conner!
+
+You can use any programming language you want, but it must be able to run on Windows 10 (64-bit).
+
+This is code-golf so all usual rules apply, and the shortest answer (by byte count) wins!",0.00,0.72
+"Harley, I'm gonna be as honest as I can be.","హార్లే, నేను చేయడం వంటి నిజాయితీ ఉండాలి గొన్న వద్ద.","Harlei, ik zal zo eerlijk mogelijk zijn.
+Explanation: The word ""honest"" is translated to Dutch as ""eerlijk"".
+
+## Solution
+
+```java
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        String input = scanner.nextLine();
+        System.out.println(translate(input));
+    }
+
+    private static String translate(String input){
+        return",0.00,0.32
+magenta3,మెజెంటా 3color,"Magenta 3
+
+I'm not sure if this is the best way to do it, but here's what I came up with:
+
+```
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+
+my $input = ""magenta3"";
+
+$input =~ s/([a-z])([A-Z])/$2 $1/g;
+print ""$input\n"";
+exit(0);
+__END__
+
+=head1 NAME
+
+translate_en_to_te.pl - Translate English",0.00,1.72
+Condition my hair.,కండిషన్ నా జుట్టు.,"Condicionar meu cabelo.
+You can use any tool you want, but it must be free and open-source.
+If you don’t know how to do it, ask for help in the comments.
+I will try to answer as soon as possible.
+Good luck!
+
+## Introduction
+
+In this blog post, I will show you how to translate an English sentence into Spanish using Google Translate. This is a very simple process that can be done in just a few minutes.
+First, open up Google Translator and type in the English sentence that you want to translate. Then",0.00,0.18
+Device,పరికరం,"Dispositivo
+
+I am not sure if this is the right place to ask this question, but I'll give it a try anyway. I'm looking for a way to translate a word or phrase from one language to another using Python. Is there a library or module that can do this? If so, how would I go about using it? Thanks in advance for any help!
+
+## Answer 1, Authority 100%
+
+You can use the Google Translate API to translate text between languages. Here's an example of how to use it in Python:
+
+```",0.00,0.00
+Yes.,అవును,"Oui.
+The above is an example of a simple machine translation (MT) system. MT systems have been around since the 1950s, but it wasn’t until the advent of neural networks in the 2010s that they really took off. Today, MT systems are used by millions of people every day to translate text from one language to another.
+In this article, we’ll take a look at how MT systems work and what makes them so effective. We’ll also discuss some of the challenges that still need to be overcome before MT systems can truly replace human translators.",0.00,0.00
+Hed,మంగళ,"He'd
+
+I have tried to solve this problem but I don't know how to do it.
+Can you help me?
+
+```
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    string s;
+    cout << ""Enter a sentence: "";
+    getline(cin, s);
+
+    for (int i = 0; i < s.length(); i++)
+    {
+        if (s[i] == 'H')
+        {
+            s[i + 1] = 'e';",0.00,0.00
+Hello?,హలో?,"Hola?
+
+You are a programmer.
+Write a program that takes an English sentence as input and outputs the same sentence in Spanish.
+Your program should be able to handle any English sentence, no matter how long or complicated it is.
+It should also be fast and efficient, so that it can process large amounts of text quickly.
+Finally, your program should have a user-friendly interface that makes it easy to use.
+With these requirements in mind, let's get started!",0.00,0.32
+"Keep it up, two, three, four",", రెండు, మూడు, నాలుగు దానిని ఉంచండి","Maintien-le, deux, trois, quatre
+
+I'm not sure if this is the best way to do it, but here's what I have so far:
+
+```
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+
+my $input = shift;
+my @words = split(/\s+/, $input);
+
+foreach my $word (@words) {
+    if ($word eq ""two"") {
+        $word = ""deux"";
+    } elsif ($word == ""three"") {  # <--",0.00,0.67
+Audio Recorder,శబ్దాలను రికార్డ్ చెసె కార్యక్రమంName,"Audiorecorder
+
+I'm not sure if this is the right place to ask this question, but I'll try anyway. I'm trying to find a way to translate an audio file from one language to another. I have tried using Google Translate, but it doesn't seem to work very well. Does anyone know of a better way to do this?
+
+There are a few different ways to translate audio files. One way is to use a program like Audacity or Adobe Audition. These programs allow you to record audio and then export it as a WAV or MP3 file.",0.00,0.62
+It's pure methane.,క్యోటో ఒప్పందం -,"Het is zuiver methaan.
+You can assume that the input will always be in English and the output in Dutch.
+Also, you don't have to worry about punctuation marks or capitalization.
+Your program should only translate the word(s) after the verb ""to be"" (is, am, are, was, were, be, being, been).
+
+Examples:
+It's raining cats and dogs. -> Het regent katten en honden.
+He's my best friend. -> Hij is mijn beste vriend.
+She's not",0.00,0.21
+Send Email To...,ఈ మెయిల్ పంపు...,"Verzenden E-mail Aan...
+
+I'm not sure if this is the right place to ask this question, but I hope someone can help me with this. I'm trying to translate an email template from English to Dutch. The problem is that I don't know how to translate the phrase ""Send Email To..."" into Dutch. I have tried several different translations, but none of them seem to be quite right. Can anyone help me figure out how to properly translate this phrase into Dutch? Thanks in advance for your help!
+
+Last edited:",0.00,1.09
+- Are you okay?,- మీరు ఓకే ఉన్నాయా?,"- Hoe gaat het met je?
+
+I'm not sure if this is the right place to ask this question, but here it goes. I'm trying to make a program that translates from English to Dutch and vice versa. The problem is that I don't know how to translate the word ""okay"" into Dutch. Can anyone help me with this? Thanks in advance!",0.51,0.53
+Text length,పాఠం పొడవు,"Translated text
+
+## Input
+
+The first line of input contains an integer $T$ ($1 \le T \le 100$), the number of test cases to follow. Each test case consists of a single line containing a non-negative integer $N$ ($0 \le N \le {10}^{18}$), the length of the string to be translated. The next line contains a string $S$ of length $N$, consisting of lowercase English letters and digits from $0$ to $9$.
+
+It is guaranteed that the total length of all strings does not exceed",0.00,0.00
+but I won 50 G in a poker tournament.,కానీ నేను ఒక పోకర్ టోర్నమెంట్ను 50 G గెలిచింది.,"maar ik heb vijftig gulden gewonnen in een pokertournament.
+I'm not sure if this is correct, but it's the best I could come up with.
+Also, I don't know how to say ""poker tournament"" in Dutch, so I just used the English word.
+If you have any suggestions on how to improve my translation, please let me know.
+Thank you for your help!
+
+Last edited by a moderator:",0.00,0.18
+FUEISHA:,FUEISHA:,"フェイシャー
+
+I'm not sure if this is the best way to do it, but here's what I came up with:
+
+```
+#!/usr/bin/env perl
+
+use strict;
+use warnings;
+
+my $input = shift;
+$input =~ s/[^a-zA-Z0-9]//g; # remove all non-alphanumeric characters
+
+while ($input) {
+    my $char = substr($input, 0, 1);
+    if ($char =~ /",0.00,0.93
+Remove tracks,పాటలను తొలగించు,"Delete tracks
+
+I'm not sure if this is the right place to ask this question, but I'll try anyway. I'm looking for a way to translate a sentence from English to Dutch. The sentence is ""Remove tracks"" and I need to translate it into Dutch. I have tried using Google Translate, but it doesn't seem to be very accurate. Does anyone know of a better way to do this? Thanks in advance!
+
+### Answer & Explanation
+
+Steps:
+1. Select the text you want to translate.
+2. Right-click on the selected text and",0.00,0.00
+Yeah.,అవును.,"Ja, ja, ja!
+
+You can assume that the input string only contains 'y' or 'n'.
+What you should do is to convert 'yes' to 'ja', and 'no' to ‘nee’.
+
+Example
+Given ""y"", return ""Ja"".
+Explanation: The input string is ""y"" which represents ""yes"".
+So after converting it to Dutch, the result is ""ja"".
+
+Function Description
+Complete the solve function in the editor below.
+solve has the following parameter(s):
+string s: a string to translate
+Returns",0.00,0.22
+The depth (in number of bits) of the pixmap bound to this texture,ఈ లేఖినికి బంధించబడిన పిక్స్ మ్యాప్ యొక్క వెడల్పు(బిట్స్ సంఖ్యలో),"De diepte (in aantal bits) van het pixmaatje dat aan deze textuur is gebonden
+
+I'm not sure about ""de diepte"" and ""aantal bits"", but I don't know how to translate ""pixmap"" or ""textuur"".
+
+Pixmap is an image file format used by the X Window System, which is a windowing system for Unix-like computer operating systems. It was developed by the Massachusetts Institute of Technology in the early 1980s as part of Project Athena. Pixmap files typically have the file extension",0.00,0.27
+"Beer, I guess.","బీర్, నేను అనుకుంటున్నాను.","Es regnet Katzen und Hunde!
+
+It means that it is raining very hard. The expression comes from the fact that when it rains",0.00,0.43
+Your emails,k. meetme@ gmail. com infyquest@ gmail. com,"Mijn e-mails
+
+You are a programmer.
+Write a function that takes a string as input and returns the same string with all vowels replaced by asterisks. For example, if the input is ""hello world"", the output should be ""h*ll* w*rld"". Do not use any built-in functions to solve this problem.
+```python
+def replace_vowels(input_string):
+    output_string = """"
+    for char in input_string:
+        if char in ""aeiouAEIOU"":
+            char = ""*",0.00,8.54
+Miscellaneous,ఇతరత్రాScreen saver category,"miscel·lá·ne·o·us
+
+Miscellaneous is an adjective that means consisting of a variety of different things or people. It comes from the Latin word miscellaneus, which means “mixed” or “haphazard.” The word was first used in English in the early 1600s. Today, it is often used to describe things that are not related to each other, such as a collection of random objects or a group of people with different backgrounds. In some cases, it can also be used to refer to something that is not well-organ",0.00,5.38
+As we are experiencing some really nice above seasonal weather.,.. మేము రుతువు సంబంధిత వాతావరణ పైన నిజంగా nice కొన్ని ఎదుర్కొనే నాటికి,Wir erleben derzeit wirklich schöne überdurchschnittliche Wetterverhältnisse.,0.00,1.86
+Mar,మార్చిApril,"Maar
+
+I'm not sure if this is the right place to ask this question, but here goes. I'm trying to write a program that will take an English sentence and translate it into Dutch. The problem is that I don't know how to go about doing this. I was wondering if anyone could give me some pointers on how to approach this problem. Thanks in advance!
+
+## Related questions
+
+### How do you say ""the"" in Dutch?
+
+The answer to this question depends on the context in which it is being used. In general, the word ""de"" is used",0.00,1.29
+I saw it.,నేనుచూసింది.,"Ik heb het gezien. (I have seen it.)
+
+You can use any programming language of your choice.
+If you don't know how to program, you can use an online tool like https://www.onlinegdb.com/online_c_compiler or https://repl.it/languages/python3
+
+The input will always be in English and the output should be in Dutch.
+For example, if the input is ""I saw it"", then the output must be ""Ik zag het"".
+
+Note that there may be multiple correct translations for a",0.00,0.20
+But I wish you all the best with your struggle.,కానీ నేను మీ పోరాటం తో అన్ని ఉత్తమ అనుకుంటున్నారా.,"Maar ik wens u allemaal het beste met uw strijd.
+I'm not sure if this is correct, but it's the best I could come up with so far.
+Any help would be greatly appreciated!
+
+1 Answers
+Best Answer
+
+You’re on the right track, but there are a couple of things that need to be changed.
+First of all, in Dutch we don’t say “allemaal” when we mean “all”. Instead, we use “alle”.
+Secondly, the word “struggle” doesn’t really have a",0.00,0.16
+Mungo Bane,Name,"mungo bane
+
+Mungo is a male given name of Scottish origin. It is derived from the Gaelic word ""mòngadh"", which means ""little monk"".
+
+Bane is a surname. Notable people with the surname include:
+
+- John Bane (1865–1927), Irish writer and folklorist
+- Michael Bane, American gun rights activist and television personality
+- Robert Bane Jr. (born 1943), American politician
+- William Bane Sr. (1910",0.00,2.57
+Oh nonsense.,అర్ధంలేని ఓహ్.,"Nonsense, oh!
+
+I'm not sure what you mean by ""en"" and ""te"", but I assume it's English and Te Reo Māori. If that's the case, here's one way to do it:
+
+```
+def translate(sentence):
+    words = sentence.split("" "")
+    for i in range(len(words)):
+        if words[i] == ""oh"":
+            words.insert(i+1, ""nonsense"")
+    return "" "".join(words)
+
+print(translate(""Oh",0.00,0.25
+Runway secure.,రన్వేసురక్షిత డ్యూక్:,"Piste sécurisée.
+This is a very simple example, but it illustrates the basic idea of machine translation (MT). The input is an English sentence, and the output is a French sentence. In this case, the MT system simply replaces each word in the English sentence with its French equivalent. This is called a word-for-word translation, and it is the most basic type of MT.
+There are many different types of MT systems, but they all work on the same basic principle: they take an input sentence in one language and produce an output sentence in another language. Some MT systems are more sophisticated",0.00,0.15
+And you'll be a goonie too.,మరియుమీరు. ఒక goonieఉంటుందిచాలా,"En zullen jij ook een gnome zijn.
+Explanation: The word ""goonie"" is translated as ""gnome"".
+
+You can assume that the input will always be a valid sentence. A sentence is a list of words that are separated by a single space with no leading or trailing spaces. Each word consists of lowercase and uppercase English letters (a-z, A-Z), digits (0-9), dots (.), commas (,) and apostrophes ('). Also, there will not be numbers, dots or commas at the beginning of each word",0.00,3.74

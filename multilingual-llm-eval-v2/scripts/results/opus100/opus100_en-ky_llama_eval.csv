@@ -1,0 +1,679 @@
+Source,Reference,Prediction,BLEU,chrF++
+Milton,"МилтонCity in Florida, United States","밀토론
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.translate(None, string)` to replace all characters in `string` with an empty string. This will remove all non-alphabetic characters from the string and leave only the alphabetic ones. (You can also use `re.sub(r'[^A-Za-z]', ' ', string)` if you want to keep the spaces.)
+\em{Note:} If you don'",0.53,6.82
+kps,өткөрүлдү,"키프스
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.encode('utf-8').decode('unicode-escape')` to convert from utf-8 to unicode-escape. This will replace all non-ascii characters with their hexadecimal representation. For example, `kps` will be converted to `\xd1\x82\xd0\xb5\xed\x94\xeb\xec\xee`.
+\",0.00,0.00
+Deleting now…,Азыр өчүрүлүүдө…,"삭제하고 있습니다.
+\end{code}",0.00,0.00
+Search for Files...,Файл издөө...,"확인하고 파일을 찾아볼 수 있습니다.
+\end{code}",0.00,1.13
+Station,Жаңы радиостанция,"站
+
+Answer: \begin{code}
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    cout << ""Station"" << endl;
+    return 0;
+}
+\end{pre}
+
+Comment: Please add some explanation to your answer such that others can learn from it",0.00,0.00
+paper size,paper size,"테이블 크기
+\end{code}",0.00,3.27
+", {0}",{0} токтотуу,",{1}
+\end{code}
+
+Comment: What have you tried so far? Where are you stuck?
+
+Answer: \begin{blockquote}
+I'm trying to write a function that takes two strings as arguments and returns a new string with the first argument replaced by the second argument. The function should work for any number of characters in the input string. For example, it should be able to replace all occurrences of ""a"" with ""b"" in the string ""aaabbb"".
+
+The function should return the original string if no replacement is possible.
+\strong{You are",0.00,0.35
+DVD Preferences,Ырастоолор,"데이비드 프리페이션
+\end{code}",0.00,0.00
+License URL:,лицензия,"License Key:
+\end{code}",0.00,0.00
+Sort Track Artist:,_Аткаруучу:,"페이스북 애니메이션
+
+Answer: \begin{code}
+#!/usr/bin/env python3
+
+import sys
+
+if len(sys.argv) != 2:
+    print(""Usage: %s <input>"" % sys.argv[0])
+    sys.exit(1)
+
+in_str = sys.stdin.readline().strip()
+
+print(f""Sort Track Artists: {in_string.encode('utf-8').decode('ky')}"")
+\",0.00,0.62
+Playing Track,Тыюу салуу,"플레이하는 트랙
+\end{code}",0.00,0.00
+Isoka,Isoka,"इसोका
+
+Answer: \begin{code}
+import java.util.Scanner;
+
+public class Translator {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.println(""Isoka"");
+        String input = sc.nextLine();
+        char[] chars = input.toCharArray();
+
+        for (int i = 0; i < chars.length; i++) {
+            if (chars[i] == 's') {
+                chars",0.00,5.21
+"An unknown error occurred while trying to open ""%s"".","""%s"" ачуу учурунда белгисиз ката пайда болду.","변경할 수 없는 오류가 발견되었습니다.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.replace()` to replace all occurrences of `%s` in the input string with `""%s""`, and then use `re.findall()` to find all instances of `""` in the resulting string, and replace them with `'\''`.
+
+\begin{",0.00,2.24
+%s is the wrong size (%s != %s + %s),%s көлөмү туура эмес (%s != %s + %s),"너는 잘못된 크기를 갖습니다 (%d != %d + %d)
+\end{code}",2.79,7.60
+Created on %1$s,%1$s күнү жаратылган,"%2$s was created on %3$s.
+\end{code}",0.00,3.28
+Show or hide the artist/album browser,Кичи-браузерди көрсөтүү же бекитүү,"페이지를 보여줄거나 숨어줬다.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `pytesseract` to extract the text from the image.
+https://pypi.org/project/python-tess-2/
+
+\begin{blockquote}
+Tesseract is an open source Optical Character Recognition (OCR) engine that converts images of scanned text into editable, searchable",0.00,0.20
+Open '%s','%s' ачуу,"%s
+
+Answer: \begin{code}
+#include <stdio.h>
+
+int main(int argc, char *argv[])
+{
+    if (argc == 2)
+    {
+        printf(""%s\n"", argv[1]);
+        return 0;
+    }
+    else
+        fprintf(stderr, ""Usage: open filename\n"");
+    return 1;
+}
+\end{code}.",0.00,1.22
+Custom,Башка:,"홈페이지입니다.
+\end{code}",0.00,0.00
+Create a new path...,vectors-action,"새로운 경로를 추가합니다.
+\end{code}",0.00,4.27
+Fish Preferences,Балыктын ырастоолору,"물고기 취향
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.lower()` to convert the string to lowercase.
+`""Fish Preferences"".lower()` will return `""fish preferences""`.
+
+\begin{blockquote}
+The str.lower() method returns a copy of the string in which all
+uppercase letters are replaced by their lowercase equivalents, and
+all other characters are left unchanged.
+https://docs.python.org",0.00,0.00
+UI translation,Интерфейсти которуу,"당신은 통역사가 될 수 있습니다.
+\end{code}",0.00,0.00
+File where bug-buddy will save your bug report in case it can't be sent immediately to Bugzilla.,Кийинчерээк жөнөтүү үчүн ката жөнүндөгү кабар сактоо файлы.,"홈페이지에 버그 보고서를 저장하는 경우에 문제가 발생할 수 있을 때 클라이언트로 전송되지 않게 됩니다.
+\end{code}",0.00,0.32
+Removing track {0} of {1},Элементтер импорттолууда {0} из {1},"삭제할 트랙{0}의 글로벌 프로그래밍 인터페이스(GUI)를 업데이트하는 방법은 다음과 같습니다.
+\end{code}",0.00,3.78
+Delete channel,Каналды өчүрүүundo-type,"삭제 채널
+\end{code}",0.00,4.13
+Device Properties,Аспаптардын касиеттери,"디바이스 프로퍼티
+\end{code}",0.00,0.00
+About the GNOME Desktop,GNOME чөйрөсү жөнүндө,បង្ហាញមិនត្រូវចុះដែលទេសពីយោធន៍អភណ់ឆ្នាំ២០១៥៧៦៨៩៪៫,0.00,0.00
+Authorize for Last.fm,Last.fm сайтынан аткаруучунун веб-бетин карап чыгуу,បញ្ចុងការសម្រែត់ទំព័រដោយអ្នកវាជីលិខណៈLast.fm�������������������������������������,0.00,8.81
+_Rating:,_Рейтинг:,"점수:
+\end{code}",0.00,1.70
+Nagagami,Nagagami,"ナガガミ
+
+Answer: \begin{code}
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    string s = ""Nagagami"";
+    cout << translate(s) << endl;
+    return 0;
+}
+
+string translate(string s) {
+    for (size_t i = 0, n = s.length(); i < n; i++) {
+        char c = s[i];
+        if (c >= 'a' && c <= 'z') {
+            c += 32",0.00,11.55
+Moline-Quad Cities,Moline-Quad Cities,"ಮೊಳಿನ್-ಕುಡ್ಸೆಟೀಶ್
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Split the input string on spaces and split the output string on hyphens.
+This will give you an array of words in both cases.
+\strong{Example:}
+
+\begin{blockquote}
+input = ""Moline-Quads Cities""",0.00,19.79
+Starting and Stopping,Иштетүү жана токтотуу:,"첫날부터 마지막일까요?
+
+Answer: \begin{code}
+public static void main(String[] args) {
+    System.out.println(""Starting..."");
+    for (int i = 0; i < 5; i++) {
+        System.err.println(i + ""."");
+        try {
+            Thread.sleep(1000);
+        } catch (InterruptedException e) {e.printStackTrace();}
+    }
+    String s = ""Ending..."";",0.00,0.26
+pixel,unit-plural,"피셀
+
+Answer: \begin{code}
+#include <stdio.h>
+int main(void)
+{
+    char *pixel = ""pixel"";
+    printf(""%s\n"", translate(pixel));
+    return 0;
+}
+
+char *translate(const char *str) {
+    int len = strlen(str);
+    if (len == 1 && str[0] == 'p') {
+        return str + 1;
+    }
+    for (int i=0; i<len;",0.00,4.20
+"backup before removal, choose version CONTROL","өчүрөрдөн мурун копиясын сактап кал, CONTROL версиясын танда","버킹 전야 제거를 선택한다.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item `backup` is a noun, not a verb, so it needs to be pluralized in the Korean translation. (I'm not sure if that's correct, but it's what I'd do.)
+
+\begin{blockquote}
+[Noun](https://www.merriam-webster.com/",0.00,0.54
+Properties,Касиети,"프로페이스워크
+\end{code}",0.00,0.00
+Viedma,ViedmaWienVienne,"विएड्मा
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.encode('utf-8')` to convert unicode string to bytes.
+`print(bytes(u'Viedma', encoding='utf_8').decode('kannada'))` will give output as `ವಿಯೆಡ್ಮಾ` in Kannada.
+You can also use `ast.literal_eval()` to",0.00,8.95
+Christiansted,Christiansted,"Christiansti
+
+Comment: Welcome to Stack Overflow! Please take the [tour] to learn how Stack Overflow works and read [ask] on how to improve the quality of your question. Then check the [help/on-topic] to see what questions you can ask. If you post code, XML or data samples, **please** highlight those lines in the text editor and click on the ""code samples"" button ( `{  }` ) on the editor toolbar to nicely format and syntax highlight it!",0.00,11.59
+Set all licenses to this value,Бул жанрды баардык жолчолорго коюу,"모든 라이센스를 이 값으로 설정합니다.
+\end{code}",0.00,0.00
+CRTC %d: trying mode %dx%d@%dHz with output at %dx%d@%dHz (pass %d),%d CRTC: %dx%d@%dГц режимин текшерүү; чыгуусу %dx%d@%dГц (%d-жолку аракет),ಕರ್ತಾನೆಂದಿಸಲು మీడియోగాలు 1024x768@60Hz �����������������������������������������������,0.00,0.48
+"background, style","Толтурууbackground, style","배경, 스타일
+\end{code}",0.00,5.24
+Number,Жолчонун номери,"1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",0.00,0.00
+_Reset to 0°,view-action,"Reset-to-0-degree
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.translate(None, string.punctuation)` to remove all punctuation characters from the string.
+\em{Note}: This will also remove spaces and other whitespace characters. If you don't want that, use `re.sub(r'\s+', ' ', str)` instead. (See [this answer](https://stackoverflow.com/a/1732454/1",0.00,4.57
+Could not open stream or playlist,Агымды же ойномо тизмесин ачуу мүмкүн эмес,"클라우드를 열고 플레이리스트를 재생하지 못할 수 있습니다.
+\end{code}",0.00,0.00
+Unrecognized launch option: %d,Туура эмес иштетүү параметри: %d,"확인되지 않은 출력 옵션: `%d`
+\end{code}",0.00,2.46
+Play this song,Ойнотуучу тизме,"플레이하지 마십시오
+
+Answer: \begin{code}
+#include <stdio.h>
+int main(void)
+{
+    printf(""Play this song\n"");
+    return 0;
+}
+\end{pre}",0.00,0.00
+Science,Илим,"科学
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Create a dictionary with all the words you want to translate, and their corresponding translation. For example:
+
+`dict = {'science': '科学', 'mathematics': '数学', ...}`
+
+You can create this dictionary by yourself, or you can download it from [here](https://www.csie.ntu.edu.tw/~cjlin/lib/exe/fetch.php?media=english_chinese",0.00,0.00
+"Downloads, past week:",Жүктөө убактылуу токтоду,1234567891011121314151617181920212223242526,0.00,0.00
+Ratio: %s,Рейтинги: %s,"비율:%s
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.format` to format the string.
+\begin{pre}
+`print('%s : %s' % (ratio, str.format(ratio,'%d%%'))) #=> ""100 : 10%""`.
+\em{See [Format String Syntax](https://docs.python.org/3/library/stdtypes.html#printf-style-string-formatting).",0.00,1.53
+Error,Ката,"잘못
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.lower()` to convert the input string to lowercase.
+`""Error"".lower() == ""error""` is true, but `""Error"".upper() != ""ERROR""` is false.
+So we need to convert it to lower case first.
+Then use `re.findall(r'[a-zA-Z0-9]+', str)` to get all the words in the string.
+Finally use `",0.00,0.00
+_View,_Көрүнүш,"본격적으로 보기
+
+Answer: \begin{code}
+#include <stdio.h>
+
+int main(void)
+{
+    printf(""%s\n"", translate(""View""));
+    return 0;
+}
+
+char *translate(const char *str) {
+    char *ret = malloc(strlen(str) + 1);
+    if (ret == NULL) return NULL;
+    strncpy(ret, str, sizeof(str));
+    ret[sizeof(str)] = '\0",0.00,0.00
+No new songs available for {0}.,{0} үчүн жаңы ырлар табылган жок,"녹음이 없습니다.
+\end{code}",0.00,1.32
+Oregon Inlet,Oregon Inlet,"온포레지오 인베트
+
+Answer: \begin{code}
+#include <stdio.h>
+
+int main(void)
+{
+    char input[100];
+    fgets(input, sizeof(input), stdin);
+    printf(""%s\n"", translate(input));
+    return 0;
+}
+
+char* translate(const char* input) {
+    const char* p = input;
+    while (*p != '\0') {
+        if (*p == ' ') {",0.00,4.38
+Kananga,Kananga,"ಕನಾಂಗ
+
+Answer: \begin{code}
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        String input = sc.nextLine();
+        System.out.println(input.toLowerCase().replaceAll(""[^a-zA-Z0-9]"", """"));
+    }
+}
+\end{pre}",0.00,2.84
+_Take a photo,_Сүрөткө тартуу,"촬영할 수 있습니다.
+\end{code}",0.00,0.00
+Charpicker Applet Factory,Charpicker Апплет Фабрикасы,"창테크 애플러트 공장
+
+Answer: \begin{code}
+public static void main(String[] args) {
+    Scanner sc = new Scanner(System.in);
+    String input = sc.nextLine();
+    System.out.println(translate(input));
+}
+
+private static String translate(String input) throws UnsupportedEncodingException {
+        byte[] bytes = input.getBytes(""UTF-8"");
+        return new String(bytes, ""KY"");
+    }
+\",0.00,2.29
+light-and-shadow filter,light-and-shadow чыпкасы,"빛과 그림자 필터
+\end{code}",0.00,3.86
+Create a new smart playlist,Жаңы ыңгайлуу ойнотмо тизмесин түзүү,"새로운 스마트 플레이룸을 작성합니다.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `NSLocalizedString` to get the localized version of the string.
+https://developer.apple.com/library/mac/documentation/Cocoa/Reference/Foundation/Miscellaneous/Foundation_DataTypes/index.html#//apple_ref/doc/uid/2000",0.00,0.00
+L_atitude:,_Жазылык алкак:,"밝은 곳이 있습니다.
+\end{code}",0.00,0.00
+Remove From Play Queue,Ойнотмо катардан жоготуу,"출력하지 않는 프레임워크를 제거합니다.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.translate(None, '')` to remove all non-alphanumeric characters from the string. This will give you a string with only alphanumerics and spaces. For example:
+
+\begin{blockquote}
+""Remove From PlayQueue"" -> ""Remove From",0.00,0.00
+paper size,paper size,"테이블 크기
+\end{code}",0.00,3.27
+Bafia,Бафия,"बफिया
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Create a list of all the words in your language (in this case, Hindi).
+For example, if you want to translate ""Hello"" into Hindi, you would add ""hello"" to the list. If you don't know how to create such a list, you can use [this](https://stackoverflow.com/questions/1035468/how-to-create-a-list-of-",0.00,0.00
+Recommended Artists,Сунуш кылынган радиолор,"홈페이지에서 추천된 작가들
+\end{code}",0.00,0.00
+Could not write CD,Дискке жазуу болбой калды,"카드를 쓰지 못할 수 없습니다.
+\end{code}",0.00,0.00
+Password hint,Password hint,"비밀번호 설정 안내
+
+Answer: \begin{code}
+#include <stdio.h>
+int main(void)
+{
+    printf(""%s\n"", ""Password hint"");
+    return 0;
+}
+\end{pre}",0.00,33.50
+_Reload,_Кайра жүктө,"새로 불러오겠습니다
+
+Answer: \begin{code}
+#include <stdio.h>
+
+int main(void) {
+    char *input = ""reload"";
+    printf(""%s\n"", translate(input));
+    return 0;
+}
+
+char *translate(const char *str)
+{
+    size_t len = strlen(str);
+    if (len == 0)
+        return NULL;
+
+    const char *p = str;
+    while (*",0.00,0.32
+"Generated keyword/value pair is too long (keyword=%s, length=%s)","Чыккан ачкыч-сөз/маани экилиги ото узун (ачкыч-сөз=%s, узундугу=%s)","%s
+\end{code}",0.00,0.98
+Saving Metadata to File,_Метаберилиштерди файлга жазуу,"데이터를 파일에 저장합니다.
+\end{code}",0.00,0.00
+Aeroparque,Aeroparque,"아레오파크
+
+Answer: \begin{code}
+#include <stdio.h>
+int main(void)
+{
+    char input[100];
+    scanf(""%s"", input);
+    printf(""%s\n"", ky_to_en(input));
+    return 0;
+}
+
+static char *ky = {
+    'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M",0.00,3.95
+Unknown,Белгисиз,"unknown
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item First of all, I would like to point out that there is no such thing as a ""ky"" language. There are many different dialects of Korean, but they are not mutually intelligible. The closest thing we have to a standardized form of Korean is [Hangul](https://en.wikipedia.org/wiki/Korean_alphabet), which was invented in the 15th century by King Sejong. However, Hangul",0.00,0.00
+Shutter,Жапкыч,"석터
+
+Answer: \begin{code}
+#include <stdio.h>
+int main(void)
+{
+    printf(""%s\n"", ""Shutter"");
+    return 0;
+}
+\end{pre}
+
+Comment: Welcome to Stack Overflow! While this code may solve the question, [including an explanation](//meta.stackexchange.com/q/114762) of how and why this solves the problem would really help to improve the quality of your post, and probably result in more up-votes. Remember that you are answering",0.00,0.00
+About the GNOME Desktop,GNOME чөйрөсү жөнүндө,បង្ហាញមិនត្រូវចុះដែលទេសពីយោធន៍អភណ់ឆ្នាំ២០១៥៧៦៨៩៪៫,0.00,0.00
+_View,_Түр,"본격적으로 보기
+
+Answer: \begin{code}
+#include <stdio.h>
+
+int main(void)
+{
+    printf(""%s\n"", translate(""View""));
+    return 0;
+}
+
+char *translate(const char *str) {
+    char *ret = malloc(strlen(str) + 1);
+    if (ret == NULL) return NULL;
+    strncpy(ret, str, sizeof(str));
+    ret[sizeof(str)] = '\0",0.00,0.00
+%a %l:%M %p,%a %l:%M %p,"%d/%m/%Y %H:%M:%S
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `strptime` to parse the input string into a `struct_time` object, then use `strftime` and `localtime` to convert it to the desired format.
+\begin{pre}
+$ strptime -f ""%a %b %d %T"" ""$input"" | localtime | strftime -v '%d/%F/%Y'
+2019/",0.00,4.01
+Authentication Required,Аутентификация керек,"인증이 필요합니다.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.translate(None, 'en', 'ky')` to replace all occurrences of `'en'` with `'ky'`.
+`str.maketrans('en','ky')` will do the same thing but in one step.
+You can also use `re.sub` if you want to be more explicit about what you're doing.
+https://docs.python.org/",0.00,0.00
+Important tasks are running,Маанилүү иштер аткарылууда,"엄청난 할일들이 있습니다.
+\end{code}",0.00,0.00
+force NAME as group for added files,кошулган файлдардын группасын АТЫ деп кой,"확률 NAME를 그룹으로 추가할 파일
+
+Answer: \begin{code}
+#!/usr/bin/env python3
+
+import sys
+
+if len(sys.argv) != 2:
+    print(""Usage: %s <input> <output>"" % sys.argv[0])
+    sys.exit(1)
+
+in_str = sys.stdin.readline().strip()
+out_str, _ = in_str.split(""\n"")",0.00,0.00
+paper size,paper size,"테이블 크기
+\end{code}",0.00,3.27
+Notify user when the battery is low.,Заряд азайган кезде колдонуучуларды билдирүү,"안녕하세요, 배터리가 낮게 있습니다.
+\end{code}",0.00,0.00
+There was an error launching the keyboard preferences dialog: %s,Алиптергич ырастоо диалогун чыгаруу учурунда ката пайда болду: %s,"변경 프리페이지 다이어그램을 실행할 수 없는 오류가 발견되었습니다.
+\end{code}",0.00,0.00
+Convert the image to grayscale,image-convert-action,"The image is converted to black and white
+
+Answer: \begin{code}
+#include <stdio.h>
+
+int main(void)
+{
+    printf(""%s\n"", ""The image has been converted to monochrome."");
+    return 0;
+}
+\end{code}.
+
+Comment: Please add some explanation to your answer such that others can learn from it",0.00,15.12
+Albu_m Title:,Альбом боюнча,అలుంబాడికత్వరమైనగళపోయేషణదృశసభధచఆఉజ఼హథఫఠఴటఞఝ,0.00,0.00
+Failed to get new songs for {0}.,{0} үчүн жаңы ырларды алуу мүмкүн эмес.,"확실히 새로운 노래를 찾을 수 없습니다.
+\end{code}",0.00,1.57
+unquote filenames read with -T (default),-T менен алынган файлдардын аттарындагы ковычкалар өчүрүлөт (алдынала тандалат),"quote filename read with --quoted-filenames
+\end{code}
+
+Answer: \begin{itemize}
+\item `unquote` and `quote` are aliases for `sed` commands, so you need to use `sed`, not `awk`:
+
+\begin{pre}
+$ sed 's/unquote/sed/g' <<< ""$input""
+sed 's/\(unquote\)/\1/g; s/\(quote\)//g' < ""$input_file"" > ""$output_filename""
+
+$ awk '{print gensub(/un",0.00,0.44
+"The location of the .desktop file describing the launcher. This key is only relevant if the object_type key is ""launcher-object"".","Расположение файла .desktop, описывающего кнопку запуска. Этот параметр имеет смысл, только если тип объекта (object_type) содержит ""launcher-object"".","The path to the desktop file.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `os.path.expanduser` to get the user's home directory, and then use `open` to open the `.desktop` file in that directory. If the file doesn't exist, it will raise a `FileNotFoundError`, which you can catch with `try/except`:
+
+\begin{pre}
+from os.path import expanduser, join
+import os
+
+with open(join(expanduser(""",0.00,7.01
+Set all sort album artists to this value,Баардык жолчолорго бул аткаруучунун атын коюу,"노래방에서 모든 앨범 아티스트를 이 값으로 설정합니다.
+\end{code}",0.00,0.00
+Folders,Каталогдор,"폴더들
+
+Answer: \begin{code}
+#include <stdio.h>
+
+int main(void)
+{
+    printf(""Folders\n"");
+    return 0;
+}
+\end{pre}",0.00,0.00
+_Bookmarks,_Китеп белгилер,"블럭마크
+
+Answer: \begin{code}
+#include <stdio.h>
+int main(void)
+{
+    char *input = ""Bookmarks"";
+    printf(""%s\n"", strcat(input, ""\n""));
+    return 0;
+}
+\end{pre}",0.00,0.00
+Edit Active Palette,palette-editor-action,"편집 활성화 패널
+\end{code}",0.00,4.95
+_About,_Бул жөнүндө,"알려주세요
+
+Answer: \begin{code}
+#include <stdio.h>
+int main(void)
+{
+    char *input = ""About"";
+    printf(""%s\n"", translate(input));
+    return 0;
+}
+
+char *translate(char *input) {
+    int len = strlen(input);
+    if (len == 0) return NULL;
+    for (int i = 1; i < len; i++) {
+        if (input[i] == '_') {",0.00,0.31
+General,Жалпы,"저는 통역사가 되어요.
+\end{code}",0.00,0.00
+Install Failed,Орнотуу ишке ашпады,설치가 실패했습니다.,0.00,0.00
+Separator,Бөлгүч,"separator
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.translate(to_unicode=True)` to convert your string to unicode, then use `re.sub` to replace all occurrences of `Separator` with `separator`:
+
+\begin{pre}
+import re
+s = ""Separator""
+r = re.sub(r""\bSeparator\b"", ""separator"", s)
+print(repr(r))
+# output: 'separator'
+\",0.00,0.00
+Location:,Жайгашкан жери:,"위치가 되어 있습니다.
+\end{code}",0.00,0.00
+Delete Playlist,Ойнотуу тизмесин алып таштоо,"플레이리스트를 삭제하십시오.
+\end{code}
+
+Answer: \begin{itemize}
+\item I'm not sure what you mean by ""professional translator"", but if you mean that you want to translate from English to Korean, then you can use [NLTK](http://www.nltk.org/book/) for this task. It is an open-source library for Natural Language Processing (NLP), and it has a lot of useful tools for NLP tasks such as tokenization",0.00,0.00
+Artigas,Artigas,"아르티가스
+
+Answer: \begin{code}
+#include <stdio.h>
+int main(void)
+{
+    printf(""%s\n"", translate(""Artigas"", ""ky""));
+    return 0;
+}
+
+static char *translate(const char *from, const char *to) {
+    size_t len = strlen(from);
+    char *result = malloc(len + 1);
+
+    if (result == NULL)
+        return NULL;
+    memcpy(result, from, len);",0.00,8.30
+Point Pleasant,Point Pleasant,"포인트 플레스카
+\end{code}",0.00,3.62
+License URL:,лицензия,"License Key:
+\end{code}",0.00,0.00
+Notify user when the battery is low.,Заряд азайган кезде колдонуучуларды билдирүү,"안녕하세요, 배터리가 낮게 있습니다.
+\end{code}",0.00,0.00
+"Error correction tries to work around problem areas on a disc, such as surface scratches, but will slow down importing substantially.","Каталарды издөө дискте болгон чийиктерди жана башка көйгөйлөрдү оңдойт, бирок жазууларды импорттоо ылдамдыгын бир кача төмөндөтөт.","데스크를 처리하는 문제점에 대한 오류 수정 시스템은 금속 프레임의 상태에 영향을 받지 않으나 파일 출력 성능이 감소하게 됩니다.
+\end{code}
+
+Comment:",0.00,0.16
+Password hint,Password hint,"비밀번호 설정 안내
+
+Answer: \begin{code}
+#include <stdio.h>
+int main(void)
+{
+    printf(""%s\n"", ""Password hint"");
+    return 0;
+}
+\end{pre}",0.00,33.50
+Import CD,Дискти импорттоо,"출력 카드
+
+Answer: \begin{code}
+#include <stdio.h>
+
+int main(void)
+{
+    printf(""%s\n"", ""Import CD"");
+    return 0;
+}
+\end{pre}",0.00,0.00

@@ -1,0 +1,741 @@
+Source,Reference,Prediction,BLEU,chrF++
+Delete Thread,थ्रेड मेट्नुहोस्,"Deletar thread
+
+Answer: \begin{code}
+public static void main(String[] args) {
+    System.out.println(translate(""Delete Thread""));
+}
+
+private static String translate(String input) { // Translates from English to Portuguese
+    if (input == null || input.equals("""")) {
+        return """";
+    }
+    char[] chars = input.toCharArray();
+    for (int i = 0; i < chars.length; i++) {
+         if (chars[i] == ' ') {
+             chars[i",0.00,0.00
+Treize,ट्रेइज,"13
+\end{code}",0.00,0.00
+(Descending),(घट्दो क्रम),"(Ascenting)
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Create an array of all the words in the source language, and another one for the target language.
+For example, if your source language is English and your target language is French, you'll have two arrays like this:
+
+\begin{blockquote}
+array_of_words_in_source_language = ['the', 'cat', 'sat', 'on', 'a', 'mat', 'and', 'watched', 'the",0.00,0.41
+Move right,दाँया सार्नुहोस्,"Moveright
+
+Answer: \begin{code}
+#include <stdio.h>
+
+int main(void)
+{
+    printf(""%s\n"", ""Moveright"");
+    return 0;
+}
+\end{pre}",0.00,0.00
+Clean module associated with current file,हालको फाइलसँग जोडिएका मोड्युल हटाउन सफा गर्नुहोस्,"Module associé au fichier courant
+\end{code}",0.00,0.00
+Hint: Column %d,सङ्केत: स्तम्भ %d,"Translated text
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item `scanf(""%d"", &n)` reads the number of columns from standard input and stores it in `n`. The `%d` format specifier is used to read an integer, which is then assigned to `n`, which is declared as an `int` variable. If the user does not enter a number, the program will terminate with an error message. This can be avoided by checking the return value of [`scanf()`](https://en.cppreference.",0.00,0.72
+Subversion: Diff complete.,उपसंस्करण: फरक फाइल/डाइरेक्टरी,"Subversión: Diferencia completa.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.translate(None, 'en', 'ne')` to replace all occurrences of `'en'` with `'ne'`.
+
+\begin{blockquote}
+`str.replace(old, new[, count]) -> str`
+
+Return a copy of the string with all instances of substring old replaced by new. If the optional argument count is given, only the first count occurrences are replaced. Return None if",0.00,0.17
+Tar compressed with lzip (.tar.lz),lzop सँग सङ्कुचितTar (.tar.lzo),"Tar komprimiert mit lzip (Tar.LZ)
+
+Answer: \begin{code}
+#!/usr/bin/env perl
+use strict;
+use warnings;
+
+my $input = ""Tar compressed"";
+$input =~ s/compressed/komprimiert/g;
+print ""$input\n"" if $input !~ /^[a-zA-Z0-9_]+$/;
+if ($input =~ /\s/) {
+    my $output = $input;
+    $output =~ s/\s+/ /g;  #",0.00,5.41
+"This function returns the probability quantile function, i.e., the inverse of the cumulative distribution function, of the geometric distribution.","यो कार्यले संभाव्य क्वान्टाइल कार्य फर्काउँछ, यसको मतलब यो ज्यामितिय वितरणको, क्युमुलेटिभ वितरण कार्यको उल्टा हो।","P(X <= x) = 1 - (1-p)^x where p is the probability of success and X is the number of failures before the first success.
+\end{code}
+
+Comment: I'm voting to close this question as off-topic because it belongs on [Code Review](https://codereview.stackexchange.com/).
+
+Answer: \begin{code»
+#include <stdio.h>
+
+int main()
+{
+    printf(""P(X<=x)=1-(1-0.5)^x\n"");
+    return 0;",0.00,0.00
+Error connecting to wireless network,ताररहित संजाल '%s' सम्पर्क गरिदै...,"Errore di connessione alla rete wi-fi
+\end{code}",0.00,0.50
+- Empathy IM Client,इम्प्याथी शीघ्र मेसेन्जर,"- EMPATHY IM CLIENT
+\end{code}",0.00,0.00
+_Close All Folds,सबै फोल्डहरू बन्द गर्नुहोस्,"Close All Folders
+\end{code}",0.00,0.00
+This list contains all extra directories containing plugins.,यो सूचीले प्लगइनहरू समावेश सबै अन्य डाइरेक्टरीहरू छन्।,Ça contient tous les répertoires supplémentaires contenant des plugins.,0.00,0.00
+Tetravex,टेट्राभेक्स,"}
+
+tetravx
+
+Comment: I'm sorry, but this is not an answer to the question. Please [edit] your answer and add some explanation.",0.00,0.00
+Rename,पुन: नामाकरण गर्नुहोस्,"Renomme
+\end{code}
+
+Comment: I'm voting to close this question as off-topic because it belongs on [Code Review](http://codereview.stackexchange.com/).
+
+Answer: \begin{code»
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $input = ""Rename"";
+
+$input =~ s/rename/renomme/g;
+print ""$input\n"";
+exit 0;
+__END__",0.00,0.24
+Shift Righ_t and Move,दायाँ शीफ्ट गर्नुहोस् र सार्नुहोस्,"Shiftrightandmove
+\end{code}
+
+Comment: I'm voting to close this question as off-topic because it belongs on [Code Review](http://codereview.stackexchange.com/).
+
+Answer: \begin{code}\documentclass[a4paper,12pt]{article}
+\usepackage[utf8]{inputenc}
+    \usepackage[T1]{fontenc}  % use T1 encoding for fonts that don't have Unicode support
+%   \usepackage{lmodern}      % use lmodern font instead of Computer Modern
+
+\begin",0.00,0.00
+_Leave messages on server,सर्भरमा सन्देशहरू छोड्नुहोस्,"Leave messages in server
+\end{code}
+
+Answer: \begin{itemize}
+\item `leave` is a verb, not a noun. So you need to use `leaves` instead of `lefts`.
+
+\begin{blockquote}
+[leave](https://en.wiktionary.org/wiki/leave#Verb)
+
+(transitive) To move away from a place or situation; to depart.
+""I'm going to leave now""; ""The dog left a puddle on the floor"".
+\em{intrans",0.00,0.00
+South _European (ISO-8859-3),दक्षिण युरोपेली (ISO-8859-3),"Südamerika (UTF-8)
+\end{code}
+
+Comment: What have you tried so far? Where did you get stuck?
+
+Answer: \begin{itemize}
+\item Use `str.encode('utf-8')` to convert your string to UTF-8. This is necessary because Python 2 does not support Unicode by default, but only encodings such as ASCII and Latin-1. If you don't do this, you will get an error like `UnicodeEncodeError: 'ascii' codec can't encode character u'\u20ac'",0.00,1.65
+Emboss,इम्बोस,"Embosser
+\end{code}",0.00,0.00
+Paste the clipboard,क्लिपबोर्ड टाँस्नुहोस्,"Translated text
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Create a dictionary with all the words you want to translate and their corresponding translation. For example, if your source language is English and your target language is French, you can use [this](https://www.collinsdictionary.com/dictionary/french-english/professional) as a starting point for your dictionary. If you don't know how to create dictionaries in Python, check out [this answer.](https://stackoverflow.com/)
+\",0.00,0.00
+page tab list,पृष्ठ ट्याब सूची,"pagetablist
+\end{code}",0.00,0.00
+Print Size,मुद्रण साइज,"Printsize
+\end{code}",0.00,0.00
+Document Relations,कागजात सम्बन्धहरूNAME OF TRANSLATORS,"Document relatons
+\textbf{Note:} If you",0.00,0.50
+Co_mpile (%s),कम्पाइल (%s),"%s
+\end{code}",0.00,4.61
+paper size,paper size,'Paper size' (note that I used `,0.00,54.68
+Orientation,अभिमूखिकरण,"ORIENTATION
+
+Comment: What have you tried so far?
+
+Answer: \begin{code}
+import java.util.Scanner;
+
+public class Translator {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.print(""Orientation: "");
+        String input = sc.nextLine();
+        if (input.equalsIgnoreCase(""Orientation"")) {
+            output = ""ORIENTATION"";
+        }
+        else {
+             output = input;
+        };",0.00,0.00
+_Contents,सामाग्रीहरू,"Contents
+\end{code}",0.00,0.00
+Whether there should be a tooltip on the item,जहा सीमारेखा देखाइन सकिन्थ्यो वा सकिन्नथ्यो,"There should be no tooltips on the items.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Split the input string by `whether` and `there`.
+\em{Note that I'm using `split` instead of `str.split` because it returns a list, which is easier to work with.}
+
+\begin{pre}
+`input_string = input_string.split(""whether"")[1].split(""there"")[0] # split by ""whether"" and ""there",0.00,0.00
+Copyright © %Id–%Id The Files authors,प्रतिलिपि अधिकार © १९९९-२००५ नटलस लेखक,"Copyleft %Id-%Id Les fichiers auteurs
+\end{code}",0.00,0.48
+_Accept License,इजाजतपत्र स्वीकार गर्नुहोस्,"Aceptar la licencia
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $sentence = ""Accept License"";
+
+$sentence =~ s/\b(en|ne)\b/$1/g;
+print ""$sentence\n"";
+\end{pre}",0.00,0.00
+%s:,%s:,"%d:
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item `scanf(""%s"", &input);` reads the input from the user and stores it in the variable `input`. The `%s` format specifier is used to read a sequence of characters, up to a maximum of 255 characters. If the number of characters read is less than or equal to this limit, the value will be stored in `input`, otherwise it will be left unmodified. In your case, if the user enters more than 2",0.00,1.69
+paper size,paper size,'Paper size' (note that I used `,0.00,54.68
+Add files to an archive,एउटा सङ्ग्रहमा फाइलहरू थप्नुहोस्Date Modified,"Ajouter les fichiers à l'arrière-plan
+
+Answer: \begin{code}
+#!/bin/bash
+
+ARCHIVE=$1
+FOLDER=$2
+
+if [ ! -d ""$FOLER"" ]; then
+    echo ""Folder does not exist.""
+    exit 1
+fi
+
+echo ""Adding files to $ARCHIVE""
+
+for FILE in `find ""$FLODER"" -type f`
+do
+    if [ -f ""$FILE"" ]
+    then
+        ARCHIVE+=""$FILE""",0.00,3.87
+Valid until:,यससम्म वैध:,"Valid jusqu'à:
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `strftime` to get the date in the format you want, and then use `sprintf` to convert it to French (or whatever language you need).
+
+\begin{blockquote}
+https://www.gnu.org/software/libc/manual/html_node/Date-and-Time-Functions.html
+
+http://manpages.ubuntu.com/manpages/bionic/man3/sprintf",0.00,0.22
+paper size,paper size,'Paper size' (note that I used `,0.00,54.68
+Open,खोल्नुहोस्,"Open
+*/
+
+#define OPEN ""Open""
+#undef CLOSED
+#ifndef OPEN
+# define OPEN C",0.00,0.00
+Create a new palette,palettes-action,"Créer une nouvelle palettes
+\end{code}",0.00,35.72
+4 of a Kind [total],एक प्रकारको ४ [जम्मा],"Quatre de mêmes [total].
+\end{code}
+
+I'm not sure how to do this, but I think it has something to do with `str.translate()`.
+
+Comment: Welcome to Stack Overflow! Please take the [tour], read [what's on-topic here](/help/on-topic), [ask], and the [question checklist](//meta.stackoverflow.com/q/260648/843953), and provide a [mre].
+""Implement this feature"" is off-topic for Stack Overflow unless",0.00,0.40
+Add _Script,स्क्रिप्ट थप्नुहोस्,"add_script`
+\em{CodeSandbox Link: https://codesandbox.io/s/frosty-sunrise-0814i?file=/src/App.js}",0.00,0.00
+%s lb,unit-symbols,"%d lbs
+\end{code}
+
+Comment: What have you tried so far? Where did you get stuck?
+
+Answer: \begin{itemize}
+\item Use `str.split()` to split the input string on whitespace.
+This will give you a list of words, which you can then iterate over.
+For each word, use `int(word)` to convert it to an integer.
+Use `%d` to format the integer as a decimal number.
+Finally, join the words back together with `', '.join(words)`,
+where `words` is the list of",0.00,3.04
+Central and South America,केन्द्रीय र साउथ अमेरिका,"América Central y Sudamerica
+
+Answer:
+
+\begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $sentence = ""Central and South Americas"";
+
+$sentence =~ s/\b(Central|South)\s+Americas\b/$1 América/g;
+print ""$sentence\n"";
+\end{code}.",0.00,0.00
+Automatically hide panel into corner,कुनाम प्यानल स्वचालित रूपमा लुकाउनुहोस्,"Automatisch verbergen Panel in Ecke
+
+Comment: What have you tried so far?
+
+Answer: \begin{code}
+#include <stdio.h>
+
+int main(void)
+{
+    printf(""%s\n"", ""Automatically"");
+    return 0;
+}
+\end{code}.",0.00,0.00
+Evolution vCard Importer,इभोल्युसन भी कार्ड आयातकर्ताn-pages,"Evolución vCard Importador
+\end{code}",0.00,2.06
+paper size,paper size,'Paper size' (note that I used `,0.00,54.68
+_Print,मुद्रण गर्नुहोस्Stock label,"Print
+\end{code}",0.00,2.90
+Error,त्रुटि,"Erreur
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Create a dictionary with all the words you want to translate and their corresponding translation in French. For example:
+
+\begin{pre}
+{""Error"": ""Erreur"", ""You"": ""Vous"", ""are"": ""êtes"", ""a"": ""un"", ""professional"": ""professionnel"", ""translator"": ""traducteur"", ""the"": ""le"", ""following"": ""suivant"", ""en"": ""en""}",0.00,0.00
+Wrap after this length:,यो लम्बाइ पछि बेर्नुहोस्:,12345678910111213141516171819202122232425262728293031323334,0.00,0.00
+"3.5 ""720KB","3. 5 ""720KB","4,194,304 bytes
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Convert the string to `bytes` using [`bytes.fromhex()`](https://docs.python.org/3/library/stdtypes.html#bytes.binary_type) and then divide it by 1024 (the number of bytes in a kilobyte).
+
+\begin{pre}
+`bytes_in_kb = int(bytes.binascii.b2a_hex(str",0.00,0.99
+Encoding,सङ्केतन,"Decoding
+\end{code}",0.00,0.00
+No signature available,वर्णन उपलब्ध छैन,"Nicht vorhanden
+\end{code}",0.00,0.00
+Open,खोल्नुहोस्,"Open
+*/
+
+#define OPEN ""Open""
+#undef CLOSED
+#ifndef OPEN
+# define OPEN C",0.00,0.00
+Testing Equality of 2 Variances (F-Test),२ चलहरूको समानता परीक्षण (एफ-टेस्ट),"Testez l'égalité des deux covariances (test de Fisher)
+\end{code}",0.00,0.92
+Starting listing at result number:,परिणाम सङ्ख्यामा सुरु भइरहेको :,"Ending listing at same result number.
+\end{code}
+
+Comment: What have you tried so far? Where did you get stuck?
+
+Answer: \begin{itemize}
+\item Split the input string on spaces, then split each of those strings on spaces again. This will give you a list of words that you can use to look up the translation in your dictionary. For example:
+
+\begin{pre}
+`""You are a profession translator."".split("" "").map(word => word.toLowerCase().replace(/^[a-z]+/, """"))`",0.00,0.17
+Could not commit service,सेवाहरू कमिट गर्न सकेन,"Nicht konnte die Dienste kommentieren.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.translate(None, 'en', 'ne')` to replace all occurrences of `'en'` with `'ne'`.
+
+\begin{blockquote}
+`str.replace(old, new[, maxsplit])`
+
+Return a copy of the string s with all instances of substring old replaced by new. If maxsplit is given, at most maxsplit replacements are made. The default is no",0.00,0.00
+Missing DSN name,क्वेरी नाम हराइरहेको छ,"1234567890
+\end{code}",0.00,0.00
+Empty entity ';' seen; valid entities are: & &quot; &lt; &gt; &apos;,खाली अस्तित्व ';' देखियो; वैध अस्तित्वहरू निम्न हुन : & &quot; &lt; &gt; &apos;,"'&amp;nbsp;&amp;#160;';
+\end{code}
+
+Answer: \begin{itemize}
+\item Use `str_replace` to replace `&` with `&amp;` and `""` with `&quot;` (and other characters as needed). Then use `nl2br` to convert newlines to br tags.
+\strong{Example:}
+
+\begin{pre}
+$output = str_replace(array('&','""',""\n""),array(&amp;,&quot;,''),$input);
+echo nl2br($output);",0.00,6.95
+Feather Selection,undo-type,"Selección de plumas
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.translate(to_unicode=True)` to convert your string to unicode, then use `locale.setlocale(locale.LC_MESSAGES, 'es_ES.UTF-8')` to set the locale to spanish and finally use `string.maketrans(from_uni, to_uni)` to create a translation table from the source language to the target language.
+Finally, use `",0.00,2.56
+_Stream Comment/Uncomment,प्रवाह टिप्पणी गरिएको/टिप्पणी नगरिएको,"Stream comment/uncomment
+
+Answer: \begin{code}
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    string s = ""Stream"";
+    if (s[0] == 'S')
+    {
+        cout << ""Comment"" << endl;
+    }
+    else
+    {}
+    return 0;
+}
+\end{pre}",0.00,0.28
+Show the application's version,अनुप्रयोग कन्फिगर गर्नुहोस्,"1.2.3
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.split(""."").map(int)` to get an array of ints from the string. The first element is the major version, the second is the minor version, and the third is the patch version.
+\strong{Note:} This will only work if there are no more than 3 dots in the version number. If there are more than three dots, it will return an empty array. In that case, you can",0.00,0.00
+"(c) 2004-2008, Gilles Caulier",यहाँ छवि थम्बनेलमा माउस बटनसँग दायाँ क्लिक गर्दा गर्न उपयुक्त कार्य चयन गर्नुहोस् ।,"Translated from English to Neo-Vulgar Latin
+
+""""""
+
+from __future__ import unicode_literals
+
+import re
+
+
+class Translator(object):
+    def __init__(self):
+        self.translation_table = {
+            'a': 'ae', 'b': 'be', 'c': 'ce', 'd': 'de', 'e': 'e', 'f': 'fe', 'g': 'ge', 'h': 'he', 'i': 'ie', 'j': 'je', 'k': 'ke",0.00,0.00
+Text (rw-r--r--),पाठ (rw-r--r--),"Translated text (rwxr-x---)
+\end{code}",0.00,17.03
+paper size,paper size,'Paper size' (note that I used `,0.00,54.68
+Create a clickable imagemap,क्लिक योग्य छविमानचित्र सिर्जना गर्नुहोस्,"<a href=""http://www.google.com"" target=""_blank""><IMAGE></a>
+
+\begin{code}
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http:// www.w3.org/TR/xhtml1/DTD/ xhtml1-transitional.dtd"">
+<html xmlns=""http ://www. w3. org/1999/xhtml"">
+    <head>
+        <meta http-equiv=""Content-Type"" content=""text/html;",0.00,0.00
+No album selected,कुनै क्यामेरा पत्ता लागेन,"Nicht ein Album ausgewählt
+\end{code}",0.00,0.00
+Calendar,क्यालेन्डर,"Kalender
+
+Answer: \begin{code}
+#include <stdio.h>
+
+int main(void)
+{
+    printf(""%s\n"", ""Kalender"");
+    return 0;
+}
+\end{pre}",0.00,0.00
+http://www.google.com/search?q=%samp;ie=UTF-8amp;oe=UTF-8,http://www.google.com/search?q=%sie=UTF-8oe=UTF-8,"http%3A%2F%2Fi.europa.eu%2Feuropean_commission%2Faudiovisual_and_media_services_directive_2010_136_en
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use [`urllib`](http://docs.python.org/2/library/urllib.html) to open the URL and get the HTML content.
+\strong{Example:}
+
+\begin{pre}
+import urllib",0.00,11.53
+You are searching for a three.,तपाईँ %s खोजिरहनुभएको छ ।,"Tu es cherchant pour un trois.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.replace()` to replace all occurrences of ""you"" with ""tu"".
+\em{Note that this will not work if there are other words in the sentence that also need to be replaced, e.g. ""I am looking for a car"", where ""car"" needs to be changed to ""une voiture"". In that case, you'll need to use regular expressions.}
+
+\begin{blockquote}",0.00,0.19
+Export bookmarks to a file,एउटा फाइलमा पुस्तकचिनो निर्यात गर्नुहोस्,"Exportez vos favoris dans un fichier
+\end{code}
+
+Comment: I'm sorry, but I don't understand your question. Could you please clarify?
+
+Answer: \begin{itemize}
+\item `export` is an English verb that means ""to take something out of one place and put it in another"". It has nothing to do with computers or files. The French word for ""file"" is ""fichier"", not ""favoris"". So there's no need to translate this word at all. Just leave it as-is. (If you",0.00,0.00
+Could not create folder '%s': %s,`%s' फोल्डर सिर्जना गर्न सकेन: %s,"Kunde ikke opprette mappen ""%s"": ""%s""
+\end{code}",0.00,3.82
+DateEdit Flags,मिति सम्पादन झन्डा,"2019-03-08 15:46:00
+
+Comment: What have you tried so far?
+
+Answer: \begin{code}
+$date = date('Y-m-d H:i:s', strtotime($input));
+$output = $date . ' ' . date('h:i A');
+echo $output;
+\end{pre}
+
+\strong{Explanation:}
+\begin{itemize}
+\item [strtotime](http://php.net/manual/en/function.strtot",0.00,0.00
+Change _Date…,मिति परिवर्तन गर्नुहोस्,"Date…
+\end{code}",0.00,0.00
+Arabic (_IBM-864),अरेबिक (_IBM-864),"English (_ISO-8859-1)
+\end{code}",0.00,9.12
+_Reload,पुन: लोड गर्नुहोस्,"Reload
+\end{code}",0.00,0.00
+%s hours,unit-symbols,"24 hours
+\end{code}",0.00,5.13
+"IP Telephony, VoIP and Video Conferencing","IP टेलिफोनी, VoIP र भिडियो कन्फेरेन्सिङ","IP téléphonie, Voice over IP et vidéoconférence
+\end{code}",2.86,5.42
+No more radio buttons.,अरू रेडियो टाँकहरू छैनन् ।,"Nicht mehr Radioknöpfe.
+\end{code}",0.00,0.00
+%s:,%s:,"%d:
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item `scanf(""%s"", &input);` reads the input from the user and stores it in the variable `input`. The `%s` format specifier is used to read a sequence of characters, up to a maximum of 255 characters. If the number of characters read is less than or equal to this limit, the value will be stored in `input`, otherwise it will be left unmodified. In your case, if the user enters more than 2",0.00,1.69
+Check for new articles automatically,नयाँ लेखका लागि स्वचालित रूपमा जाँच गर्नुहोस्,"Checken voor nieuwe artikelen automatisch
+
+Comment: I'm voting to close this question as off-topic because it is not a programming question. It belongs on [English Language Learners](https://ell.stackexchange.com/).
+
+Answer: \begin{itemize}
+\item ""Check for"" -> ""Checken voor""
+\end{itemize}
+
+The word ""voor"" means ""for"".",0.00,0.00
+SSHFS Remote Synchronization User Name,समक्रमण सेवा एड इन चयन गरियो,"sshfs remote synchronization user name
+\end{code}
+
+Comment: What have you tried so far? Where did you get stuck?
+
+Answer: \begin{itemize}
+\item `sshfs` is an abbreviation of `Secure Shell File System`.
+\strong{SSH} stands for \strong{Secure SHell}.
+\em{It is a network protocol that allows data to be exchanged using a secure channel between two networked devices, such as a computer and a server, or between nodes in a peer-to-peer network.}
+
+\begin{",0.00,0.00
+Game Over!,खेल समाप्त !,"GAME OVER!
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.translate(None, 'en', 'ne')` to translate from English to Nepalese. This will replace all occurrences of `'en'` with `'ne'`. Note that this is case-insensitive. If you want it to be case-sensitive, then use `'en_US'` instead of `'english'`, and `'ne_Nepalese'` for `'nepali'`.
+
+\begin{",0.00,0.23
+GNOME Games web site,जिनोम खेल वेब साइट,"http://www.gnome.org/games/
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $input = ""GNOME games web site"";
+$input =~ s/\b(https?:\/\/)?([a-zA-Z0-9\-\.]*)/$1$2/g;
+print ""$input\n"";
+\end{code}.
+
+Comment: I'm sorry, but this doesn't answer the question. The OP wants to know how to do it in Perl",0.00,0.00
+_Selection,चयन गर्नुहोस्,"Selection
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.title()` to get the title case of the string.
+`""_"" + str.title() + ""_""` will give you ""Selection"".
+
+\begin{blockquote}
+https://docs.python.org/3/library/stdtypes.html#str.capitalize
+
+http://www.crummy.com/software/BeautifulSoup/bs4/doc/#get-text
+\strong{Example:}",0.00,0.00
+Screen Number: %d,पर्दा नम्बर: %d,"Screen number is %d.
+\end{code}
+
+Comment: What have you tried so far? Where did you get stuck?
+
+Answer: \begin{itemize}
+\item `scanf(""%d"", &screen_number);` reads the input from the user and stores it in the variable screen_number. The format specifier `%d` expects an integer, so if the user enters anything other than an integer (e.g. a string or a floating point number), the program will not be able to read the input correctly. If you want to allow the user to enter non-integer values,",0.00,0.73
+D_elete Memo List,नयाँ मेमो सूची,"Deletar Memo Lista
+
+Answer: \begin{code}
+#include <stdio.h>
+
+int main(void)
+{
+    printf(""%s\n"", ""D_ELETE MEMO LIST"");
+    return 0;
+}
+\end{pre}",0.00,0.00
+Show the previous move,अघिल्लो चाल देखाउनुहोस्,"Shows the last move
+
+\begin{code}
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    int i = 0;
+    while (true)
+    {
+        if (i == 0)
+        {
+            cin >> i;
+        }
+        cout << i << ""\n"";
+    }
+    return 0 ;
+}
+\end{code}.",0.00,0.00
+_Lower Path,vectors-action,"_Lowere Path
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $input = ""Lower Path"";
+$input =~ tr/A-Z/a-z/;
+print ""$input\n"";
+
+__END__
+\end{pre}",0.00,5.96
+Use revision:,संशोधन प्रयोग गर्नुहोस्:,"Translation:
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Split the input string into words using `re.findall` and convert each word to lowercase using `str.lower()` function. This will give you a list of all the words in the sentence. For example, if the sentence is ""You are a proffesional translator"", then the output will be `['you', 'are', 'a', 'profesional', 'translator']`.
+Now, for each word, we need to",0.00,0.18
+Properties,गुणहरू,"Propietats
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $sentence = ""Properties"";
+$sentence =~ s/Properties/$sentence;
+print ""$sentence\n"";
+\end{pre}",0.00,0.00
+Encodings,सङ्केतन,"Encodings
+\end{code}",0.00,0.00
+Saturation,अतितृप्त,"SATISFACTION
+*/
+return 0 ;
+}",0.00,0.00
+Network,सञ्जाल,"Netzwerk
+\end{code}",0.00,0.00
+Rijeka,रिजेका,"Reykjavík
+
+Comment: I'm not sure what you mean by ""en sentence"". Do you mean ""Rijeka"" or ""Reykjavík""?
+
+Answer: \begin{code}
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.print(""Input: "");
+        String input = sc.nextLine();
+        if (input.equalsIgnoreCase(""rijeka"")) {
+            output = ""reyk",0.00,0.00
+There is nothing on the clipboard to paste.,टाँस्नका लागि क्लिपबोर्डमा केही पनि छैन ।create new folder,"Il n'y a rien sur le bloc-notes à coller.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.translate(None, 'en', 'ne')` to replace all occurrences of `'en'` with `'ne'` in the string `str`. This will return a copy of `str` with all instances of `""en""` replaced with `""ne""`.
+
+\begin{blockquote}
+Note that this does not change the original `str`, it returns a new string. If you want",0.46,4.11
+_Toggle Bookmark,टगल पुस्तकचिनो,"Toggelen boekmerk
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.translate` to replace `_` with `n_`.
+
+\begin{blockquote}
+https://docs.python.org/3/library/stdtypes.html#str.maketrans
+\strong{translate(mapping, replacements)}
+
+Return a copy of the string with all occurrences of each character in mapping replaced by the corresponding replacement.
+\em{replacements} must be a",0.00,0.00
+make[%d]: Leaving directory `%s',make[%d]: डाइरेक्टरी `%s' छोड्दैछ,"maake [%d] : Lägging ut mappen %s
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item `make` is a shell built-in command, so you can't use it as a variable name. Use something else like `my_make` or `mymake` instead. The same goes for `leaving` and `mappen` (or whatever you want to call them in your language). If you don't want to change the names, you can use `sed` to",0.00,7.99
+Title,शीर्षक,"Título
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.title()` to get the title of the string.
+`""Título"".title()` will give you ""TÍTULO"" as output.
+You can also use `re.sub(r'([a-z])', r'\1', s)` to replace all lowercase letters with their uppercase counterparts, and then use `.title()` on the result.
+If you don't want to use regex, you can",0.00,0.00
+Font:,फन्ट:,"Fonte:
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.lower()` to convert the string to lowercase. This will make it case-insensitive, which is what you need for your task. If you don't want to do that, you can use `str[0].upper() + str[1:]` to get the first letter of the string in uppercase and the rest of the letters in lowercase (but this won't work if the string has more than one word).",0.00,0.26
+Edit LDAP directory,प्रयोगकर्ता डाइरेक्टरी,"Edita Ldap direktoare
+
+Comment: What have you tried so far?
+
+Answer: \begin{code}
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+
+my $input = 'Edit LDIAP directory';
+
+$input =~ s/LDIAP/LDAP/g;
+print ""$input\n"";
+\end{code}.
+
+The `s///` operator replaces all occurrences of one string with another. The `/g` modifier tells Perl to replace all matches, not just the first one.",0.00,0.00
+Custom Header,अनुकूलन सन्देश,"Custome Header
+
+Answer: \begin{code}
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+
+my $input = ""Custom Header"";
+
+$input =~ s/\bCUSTOM\b/CUSTOME/g;
+print ""$input\n"";
+\end{code}.
+
+Comment: I'm sorry, but this doesn't answer the question. The OP is looking for a way to do it in Perl.",0.00,0.00
+pressed,दबाइएकोtogglebutton,"pressé
+\end{code}",0.00,2.72

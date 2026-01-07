@@ -1,0 +1,1088 @@
+Source,Reference,Prediction,BLEU,chrF++
+Message edited at %s,စကား လက်ခံရ,"The message has been edited at 2017-04-19 15:36:08.
+\end{code}
+
+I have tried this but it doesn't seem to work:
+
+\begin{blockquote}
+$message = ""Message edited at $date"";
+
+$output = str_replace(""$date"", date('Y-m-d H:i:s'), $message);
+
+echo $output;
+\strong{$output = date('%Y-%m-%d %H:%M:%S', strtotime($message));}",0.00,0.00
+Hide main window,ပင်မဝင်းဒိုး ဖွက်ထားပါ,"隠してマイウィンドウを
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $input = ""Hide Main Window\n"";
+$input =~ s/\s+/ /g;
+my @words = split /\s+/, $input;
+foreach my $word (@words) {
+    if ($word eq 'main') {
+        $word = 'my';
+    }
+    print ""$word "";
+}
+print ""\n""; # newline
+\end{code",0.00,0.00
+/clear: clear all messages from the current conversation,/clear - အခုစကားပြောရာမှ စာကြောင်းများအားလုံး ရှင်းလင်းပါ,"/klar: klar alle meldingen van de huidige gesprekken
+
+Answer: \begin{code}
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+
+my $input = 'clear:';
+my @tokens = split(/\s+/, $input);
+
+foreach my $token (@tokens) {
+    if ($token eq 'clear') {
+        $token = 'klar';
+    }
+    print ""$token\n"";
+}
+
+exit 0;
+__END__
+\end{code",0.00,2.94
+"Last month clashes between indigenous Bodo tribes and Muslim settlers in the Indian State of Assam broke out which led to rioting, killings and mass displacement.",ပြီးခဲ့တဲ့လက ဖြစ်ပွားခဲ့သော် အိန္ဒိယနိုင်ငံ အာသံပြည်နယ်အတွင်းမှ ဒေသခံဘိုဒိုမျိုးနွယ်စုများနှင့် လာရောက်အခြေချနေထိုင်သော မွတ်ဆလင်တို့၏ပဋိပက္ခသည် အဓိကရုဏ်းဖြစ်ခြင်း၊,"In the last month, there have been conflicts between the Bodo tribe and the Muslim settler in the state of India, Assam. This has resulted in riots, deaths and displacement of people.
+\end{code}
+
+Comment: Welcome to Stack Overflow! Please take the [tour], read [what's on-topic here](/help/on-topic), [ask],
+and the [question checklist](//meta.stackoverflow.com/q/260648/843953),
+and provide a [mre].
+""Implement this",0.00,0.00
+Failed to open '%s' for writing: %s,'%s' ကို ဖွင့်ပြီး ရေးသားဖို့ မအောင်မြင်တဲ့ အရာ - %s,"Fehler beim Öffnen der Datei ""%s"" für das Schreiben: ""%s"".
+
+Comment: I don't know what you mean by ""my"". Do you mean ""my language""?
+
+Answer: \begin{code}
+#include <stdio.h>
+
+int main(void)
+{
+    printf(""Failed to open \""%s\"" for writing:\n"", argv[1]);
+    fprintf(stderr, ""Fehler bei der Eröffnung des Dateisystem-Objektes '%s': %s\n"",
+            arg",0.00,2.55
+Santos knows what challenges women face in this male-dominated industry.,အမျိုးသားများ အုပ်စိုးထားသော ဤ သတင်းလုပ်ငန်းတွင် အမျိုးသမီးများ ကြုံတွေ့ရသော အခက်အခဲများကို ဆန်တို့(စ) သိသည်။,Santos conhece os desafios que as mulheres enfrentam nesta indústria predominantemente masculina.,0.00,0.00
+From which families do they come?,သူတို့ ဘယ်မိသားစုကလာတာလဲ။,"From where they come from?
+
+Comment: I'm voting to close this question as off-topic because it belongs on [ell.se].
+
+Answer: \begin{itemize}
+\item ""From which families"" -> ""From what families""
+\end{itemize}\
+
+\begin{blockquote}
+
+""From where"" is used when you want to know the location of something or someone.
+  For example, ""Where did you go last weekend?"" or ""Where does he live?""
+\em{From where} can also be used to ask about the source of something.",0.00,0.00
+Go to the next image of the gallery,ရှေ့ဆုံးပုံ သွားပါ,"Vai à próxima imagem da galeria
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $sentence = ""Go to the Next Image of the Gallery"";
+$sentence =~ s/the/my/g;
+print ""$sentence\n"";
+\end{code}.
+
+Comment: I'm sorry, but this doesn't answer the question at all.",0.00,0.00
+Postal Code:,စာတိုက်အမှတ် -,"Postcode:
+
+\begin{code}
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.println(""Postal code: "");
+        String postalCode = sc.nextLine();
+        if (postalCode.equals("""")) {
+            return;
+        }
+        else {
+           System.err.println(postalCodes.replaceAll(""[a-zA-Z]"", """"));
+       }
+    }",0.00,0.24
+"But aside from the three-finger salute, protesters are also doing read-in protests in public places to dramatize their opposition to the coup.",ထိုင်း​တပ်​မတော်​က မေ​လ(၂​၀)ရက်​နေ့​တွင် ည​မ​ထွက်​ရ​အမိန့်​ကို ကြေညာခဲ့ပြီး နှစ်​ရက်​အကြာ​တွင် အာဏာ​သိမ်း​ခဲ့​သည်။,"Maar naast de drie-vingerige groet, demonstranten zijn ook bezig met lezende protesten in openbare plaatsen om hun afkeer van de staatsgreep te dramatiseren.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `nl2br()` to convert newlines to HTML line breaks. This will make it possible to use `\n` instead of `\r\n` for separating paragraphs. Note that this is not necessary if you're using Python",0.00,0.21
+libburnia burning suite,libburnia ရိုက်ယူမှုနည်းများ,"LibBurnia Burning Suite
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $input = ""libburniaburning suite"";
+$input =~ s/\b(\w+)\b/$1/g;
+print ""$input\n"";
+\end{code}.",0.00,12.53
+Simulation of (S)VCD burning,အက်ဒီဗီဒီ ရေးယူရန် အစမ်းပြသခြင်း,"Simulazione del (M)Burning di (S/V)CD
+
+Comment: I'm voting to close this question as off-topic because it belongs on [translation.se].
+
+Answer: \begin{blockquote}
+
+Simulation of S/V CD burning
+\end{itemize}",0.00,0.00
+Extension(s),အမျိုးအစား,".my
+
+Answer: \begin{code}
+public static void main(String[] args) {
+    System.out.println(""Extension(s): "");
+    Scanner scanner = new Scanner(System.in);
+    String extension = scanner.nextLine();
+    if (extension.endsWith("".my"")) {
+        System.err.println(extension + "".my"");
+    } else {
+         System.exit(0);
+     }
+}
+\end{code}.",0.00,0.00
+Creating file layout,ဖိုင်နေရာချထားမှုကိုပြုလုပ်,"Créant le layout du fichier
+
+Comment: I don't know what you mean by ""my"" in this context. Can you please clarify?
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $sentence = 'Creating file layout';
+$sentence =~ s/\b(en|fr)\b//g;
+print ""$sentence\n"";",0.00,0.00
+Select Your Avatar Image,မျက်နှာစာပုံ ရွေးချယ်ပါ,"Select your avatar image
+
+Comment: What have you tried so far?
+
+Answer: \begin{code}
+#include <stdio.h>
+
+int main(void)
+{
+    char *input = ""Select Your Avtar Image"";
+    printf(""%s\n"", ""Select your avtar image"");
+    return 0;
+}
+\end{pre}",0.00,0.00
+Text Editor,စာသား တည်းဖြတ်ကိရိယာ,"Translator
+
+\begin{code}
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    cout << ""Text Editor"" << endl;
+    system(""pause"");
+    return 0;
+}
+\end{code};
+
+Comment: I'm voting to close this question as off-topic because it belongs on [Code Review](http://codereview.stackexchange.com/).
+
+Answer: \begin{blockquote}
+
+I am trying to write a program in C++ that will ask the user if they want to be a translator",0.00,0.00
+Pause length:,ရပ်မှတ် ကြာချိန်:,"Translated sentence:
+
+\begin{code}
+#include <stdio.h>
+int main()
+{
+    int pause_length;
+    scanf(""%d"", &pause_length);
+    printf(""My name is %s.\n"", translate_sentence(pauselength));
+    return 0;
+}
+
+char* translate_en_to_my(int pauselenght) {
+    char *translated_string = malloc(sizeof(char) * (strlen(""My"") + strlen(""name"") + paus",0.00,0.24
+Song start:,သီချင်းအစ,"My song start.
+\end{code}
+
+Comment: I'm voting to close this question as off-topic because it belongs on [Code Review](http://codereview.stackexchange.com/).
+
+Answer: \begin{code»
+#include <stdio.h>
+
+int main()
+{
+    printf(""Song start:\n"");
+    scanf(""%s"", input);
+    if (input[0] == 'M')
+    {
+        printf(""My song start."");
+    }
+    return 0;
+}
+«",0.00,0.00
+Rickshaw as a mean of transportation pulled by a human being has been considered a violation of human rights. So the Commune of Antsirabe launched the “cyclopousse” – a rickshaw pulled by a bike.,"ဒါပေမဲ့​လည်း ""ရိုးရာ"" လန်​ချား​တွေ​က အန်​ဆီ​ရာ​ဘဲ ဒေသ​ခံတော်တော်​များ⁠များ​အတွက် အဓိက​သွား​လာ​ရေး​နည်း​အနေ​နဲ့ ဆက်​ရှိ​နေ​သေး​တာ​ပါ​ပဲ။",ስለ የመጽሃፍ እንዲሁም በተማሪዎቻቸው (ህዝቦች) ፕሮግራሞቹነት ጀርሶሜል፤ �����,0.00,0.00
+Changes the case of selected text.,ရွေးချယ်ထားသော စာသားကို အကြီးအသေးပြောင်း,"The selected text is changed to uppercase.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.isupper()` to check if the string is uppercase or not. If it's not uppercase, convert it to lowercase and then change the case. Else, do nothing. See [this](https://docs.python.org/3/library/stdtypes.html#str.istitle) for more information on how to use `str` in python.
+Here's the code:",0.00,0.00
+What is your Google ID?,Google အမည် သွင်းပါ,"My Google ID is 1234567890.
+\end{code}
+
+Comment: I don't know what you mean by ""my"" in this context. Can you clarify?
+
+Answer: \begin{blockquote}
+What is your [Google ID](http://en.wikipedia.org/wiki/Google_ID)?
+
+[My Google ID](https://www.google.com/accounts/ServiceLogin?service=mail&passive=1209600&continue=https%3A%2F%2Flh5.",0.90,4.93
+Image from today's protest in Benghazi.,"""စိတ်မကောင်းပါဘူး ခရစ်(စ်)ရယ် ၊","ما هي صورة من التظاهرات اليوم في بنغازي
+\end{code}",0.00,0.00
+_Debug,_D အမှားစစ်,"Debug
+
+Comment: I'm voting to close this question as off-topic because it belongs on http://codereview.stackexchange.com/
+
+Answer: \begin{code}
+#include <stdio.h>
+
+int main(void)
+{
+    printf(""%s\n"", ""Debug"");
+    return 0;
+}
+\end {code}",0.00,0.35
+Appending audio tracks to a CD is not advised.,စီဒီသို့သီချင်းဖိုင်များထပ်ထည့်ခြင်းကို မပြုလုပ်စေလိုပါ,"Appendung Audio-Tracks zu einem CD ist nicht empfehlenswert.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Replace `en` with `my` in the input string.
+<a href=""https://i.stack.imgur.com/164Xt.png"" rel=""nofollow noreferrer""><IMAGE></a>
+\em{Note: I'm using [Google Translate](https://translate.google.com/) for this example.}
+\begin{pre}
+Appending",0.00,0.00
+File format not recognized,ဖိုင်ပုံစံကိုအသိအမှတ်မပြုနိင်ပါ,"File Format Not Recognized
+
+Answer: \begin{code}
+#include <stdio.h>
+
+int main(void)
+{
+    printf(""%s\n"", ""File format not recognised"");
+    return 0;
+}
+\end{pre}",0.00,0.00
+"For a moment, the news about the checkpoint came as a shock.",ယင်းသည် ကျွန်ုပ်၏ ဘ၀ကို ပြီးဆုံးစေခဲ့သောသူတို့၏ အကြွင်းမဲ့ နိဂုံးဟု အနက်ဆောင်ပါသည်။,"Für einen Moment kam die Nachricht über den Checkpoint als eine Überraschung.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.translate(None, 'en', 'my')` to replace all occurrences of `'en'` with `'my'`. This returns a copy of the string with the replacements made. If you don't want to modify the original string, you can assign the result to a new variable. (Note that this will also replace any instances of `'my'` in the string",0.00,0.00
+"Saving ""%s""",%sကို အစပြုနေတယ်,"Saved %s
+
+Answer: \begin{code}
+#include <stdio.h>
+
+int main(void)
+{
+    printf(""Saving \""%s\""\n"", """");
+    return 0;
+}
+\end{pre}",0.00,1.55
+Import Snippets,အချက်အလက်အတိုထွာများကို ထည့်သွင်း,"IMPORT SNIPPETS
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $sentence = ""Import Snippet"";
+$sentence =~ s/\b(import|snippet)\b//g;
+print ""$sentence\n"";
+\end{code}.
+
+Comment: Thanks for your answer, but it's not what I was looking for.",0.00,0.00
+Whether to check words typed against the languages you want to check with.,ရိုက်လိုက်သော စာသားများကို သင်စစ်ဆေးစေလိုသော ဘာသာစကားအတိုင်း စစ်ဆေးပေးရန် လိုမလို,"Yes, I would like to check for spelling and grammar errors.
+\end{code}
+
+Comment: Welcome to Stack Overflow! Please take the [tour], read [what's on-topic here](/help/on-topic), [ask], and the [question checklist](//meta.stackoverflow.com/q/260648/843953), and provide a [mre].
+""Implement this feature"" is off-topic for Stack Overflow unless you have a specific question about an issue you're having in a [minimal, reproducible example",0.00,0.00
+Groups,အဖွဲ့,"Gruppen
+
+Comment: What have you tried so far?
+
+Answer: \begin{code}
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+
+my $input = ""Groups"";
+
+$input =~ s/\s+/ /g;
+print ""$input\n"" if $input !~ /^[a-zA-Z]+$/;
+if ($input =~ /^([A-Z][a-z]+)$/) {
+    print ""Gruppen\n"";
+}
+else {
+   print ""$input is not a valid",0.00,0.00
+Format:,အချိုးအစား-,"\begin{blockquote}
+
+You are a \strong{\em{professional}} translator.\n\nTranslate this sentence into Spanish.
+\end{blockquote}\n
+
+Comment: I'm voting to close this question as off-topic because it belongs on http://es.stackoverflow.com/
+
+Answer: You can use `str.translate` method, but you have to replace `\n` with `\r\n` in your input string.",0.00,0.24
+Mer_ge,_G ရောပါ,"Mérgé
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $input = ""Mer_ge"";
+$input =~ s/\s+/_/g;
+print ""$input\n"";
+
+sub replace {
+    my ($string, $replacement) = @_;
+    return substr($string, 0, length($string) - length($replacement));
+}
+
+say replace($input, 'Mer_', 'Mér');
+\end{code}\strong{output:}
+
+\begin",0.00,0.27
+Unrecognized launch option: %d,စတင်ဆောင်ရွက်ရန်ရွေးချယ်စရာ: %d ကိုအသိအမှတ်မပြု,"Unbekanntes Startoption: 123456789
+\end{code}",0.00,0.75
+Type,အမျိုးအစား,"Translated text
+
+\begin{code}
+import java.util.Scanner;
+public class Main {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.print(""Type: "");
+        String input = sc.nextLine();
+        if (input.equalsIgnoreCase(""Type"")) {
+            return;
+        }
+
+        for (int i = 0; i < input.length(); i++) {
+                char c = input.charAt(i);
+                if (c ==",0.00,0.00
+8 Shocking Quotes from Malaysian Politicians · Global Voices,မလေးရှား နိုင်ငံရေးသမားများ ပြောသည့် လန့်စရာစကား (၈)ခွန်း,"2015-03-17 16:49:00
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `datetime.strptime` to parse the date and time string, e.g. `dt = datetime.strftime(date_string, '%Y-%m-%d %H:%M:%S')` (note that I'm assuming your input is in ISO 8601 format; if it's not, you'll need to adjust the format",0.00,0.34
+Simulation of data CD burning,ဒေတာစီဒီရေးယူရန်အစမ်းပြသခြင်း,"Simulazione dei dati di stampaggio del CD
+
+Comment: I'm voting to close this question as off-topic because it belongs on [ell.se].
+
+Answer: \begin{itemize}
+\item ""Simulation"" is an adjective, not a noun.  It means ""a representation or imitation of something"".  The word you want is ""simulation"", which is a verb meaning ""to represent or imitate something"".
+
+The correct sentence would be:
+
+\begin{blockquote}
+
+This is a simulation of data from CD burning.
+\end{",0.00,0.00
+Default,မူရင်းအတိုင်း,"My
+
+Comment: I'm voting to close this question as off-topic because it belongs on http://writers.stackexchange.com/
+
+Answer: \begin{blockquote}
+
+\em{You are a [professional translator]. Translate the folowing en sentence
+  into my.}
+\end{itemize}",0.00,0.00
+Loose Routing,အတည်မရှိလမ်းကြောင်း,"Løs rutning
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $sentence = ""Loose routing"";
+$sentence =~ s/\b(en|my)\b/$1/g;
+print ""$sentence\n"";
+\end{code}.
+
+Comment: I'm sorry, but this doesn't seem to work for me. I get an error message saying ""syntax error at -e line 1, near ""my""
+Execution of -e aborted due to compilation errors.""",0.00,0.00
+Enable Search Highlighting,အရောင်မျဉ်းဖြင့် ရှာနိုင်အောင် ပြုလုပ်,"Επιτρέπονται στην εμφάνιση του αναζήτησης
+
+Comment: What have you tried so far?
+
+Answer: \begin{code}
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.println(""Enable Search Highlighing"");
+        String input = sc.nextLine();",0.00,0.00
+An Instant Messaging client for GNOME,ဂနုမ်းအတွက် စကားပြောဆိုမှု ကလိုင်းယင့်,"My IM Client for Gnome
+
+Comment: I'm voting to close this question as off-topic because it belongs on http://writers.stackexchange.com/
+
+Answer: \begin{itemize}
+\item ""An"" is an indefinite article, which means that it can be replaced by any noun. In this case, you can replace it with ""a"", ""an"", ""the"", or ""some"".
+\em{My} is a possessive pronoun, which takes the place of a noun and modifies another noun (or pronoun).
+\end{itemize",0.00,0.00
+Select all files,ဖိုင်များအားလုံးကိုရွေးချယ်ပါ,"Seleccione todos los archivos
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $input = ""Select all files"";
+$input =~ s/\s+/ /g;
+print ""$input\n"";
+
+open(INPUT, ""<"", $ARGV[0]);
+while (<INPUT>) {
+    chomp;
+    print ""$_"";
+}",0.00,0.00
+"Traveling across Madagascar through public transportation is still a unique experience. The most affordable way to travel is via the rural taxi, Taxi Brousse.",မာ​ဒ​ဂါ​စကား​တစ်​ခွင် အများ​ပြည်​သူ​သုံး​ယာဉ်​များ​ကို သုံး​၍ ခရီးသွား​ရ​ခြင်း​မှာ ထူးခြား​သည့် အတွေ့​အကြုံ​တစ်​ခု​ဖြစ်​နေ​ပါ​သေး​သည်။,"Travelling across Madagaskar durch öffentliche Verkehrsmittel ist immer noch eine einzigartige Erfahrung. Die am meisten preiswerte Möglichkeit, um zu reisen, ist der Rural Taxi (Taxi-Brousse).
+
+Answer: \begin{itemize}
+\item ""Travelling"" should be ""Traveling"" in English.
+I'm not sure what you mean by ""\em{through}"", but I think it should be replaced with ""across"" or ""over"".
+The word ""\em{\strong{unique}}"" is",0.00,0.00
+"""%s"" is busy.","""%s"" မအားသေးပါ","%s ist beschäftigt.
+\end{code}
+
+Comment: I'm voting to close this question as off-topic because it belongs on [Code Review](http://codereview.stackexchange.com/).
+
+Answer: \begin{itemize}
+\item `strftime` should be used instead of `date` for formatting date strings. See http://www.gnu.org/software/libc/manual/html_node/Date-and-Time-Functions.html#Date-%28C%2B%2BSyntax%29
+
+\begin{",0.00,0.63
+Name,အမည်,"My Name
+
+Comment: What have you tried so far?
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $sentence = ""Name"";
+$sentence =~ s/Name/My Name/g;
+print ""$sentence\n"";
+\end{code}.
+
+The `s///` operator replaces all occurrences of one string with another.",0.00,0.00
+Sets consistent sound levels between tracks,သီချင်းအပုဒ်တွေကြား တူညီမှုရှိတဲ အသံနှုန်းကိုသတ်မှတ်ပါ,"Setz gleichmäßige Lautstärken zwischen den Tracks
+
+Comment: I don't understand your question. What do you mean by ""my""?
+
+Answer: \begin{itemize}
+\item Translating from English to German is not an easy task, especially if you are not a native speaker of German.  If you want to be taken seriously as a translator, you will need to invest some time and effort in learning the language.  The best way to learn a language is to immerse yourself in it.  This means reading books, newspapers, magazines, watching",0.00,0.00
+Error while loading the project.,ပရောၐျက်ကိုဖွင့်နေစဉ်အမှားဖြစ်နေသည်,"Erreur lors du chargement du projet.
+\end{code}",0.00,0.00
+_Check Spelling...,_C စာလုံးပေါင်းစစ်,"Check Spelling
+
+Answer: \begin{code}
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    cout << ""You are a proffesional translator."" << endl;
+    return 0;
+}
+\end{code}.",0.00,0.39
+offline,လိုင်းပြင်,"off-line
+
+Comment: I'm voting to close this question as off-topic because it belongs on http://writers.stackexchange.com/
+
+Answer: \begin{blockquote}
+
+\strong{offline} (adjective)
+
+  not connected to the internet or any other network; not online
+
+[Cambridge Dictionaries Online](http://dictionary.cambridge.org/dictionary/british/offline_1?q=offline)",0.00,0.00
+Sounds,အသံများ,"My sounds
+
+Comment: I'm voting to close this question as off-topic because it belongs on http://translation.stackexchange.com/
+
+Answer: \begin{blockquote}
+
+Sounds
+
+My sounds
+\end{itemize}",0.00,0.00
+Specify file containing saved configuration,သိမ်းဆည်းမှုပုံစံတွင် ပါဝင်သောဖိုင်ကို သတ်မှတ်ပါ,"Translated string
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Read the config file line by line and store each line in an array.
+(You can use `fscanf` for this purpose)
+
+\begin{blockquote}
+Note: If you don't want to read the whole file, you can also use `getline` instead of `fgets`.
+\strong{BUT} if you use getline, you need to make sure that there is a `\n` at the end of each",0.00,0.00
+Advanced,အဆင့်မြင့်,"Adavanced
+
+Comment: I'm voting to close this question as off-topic because it belongs on [ell.se].
+
+Answer: \begin{itemize}
+\item The word ""advanced"" is an adjective, not a noun.  It does not have a plural form.  If you want to refer to more than one advanced person, you would use the phrase ""a group of advanced people"".  (You could also say ""an advanced group"", but that doesn't sound quite right.)
+\end{itemize}\
+
+\begin{blockquote}
+
+Advanced",0.00,0.00
+Error: Client resource %s does not exist.,မှားယွင်းချက် -Clientအရင်းအမြစ် %s မတည်ရှိပါ။,"Erreur : Le ressource client %s n'existe pas.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Replace `%s` with `my`.
+\strong{Note:} If you want to replace all occurrences of `%s`, use `str.replace(r'\%s', 'my')`.
+
+\begin{blockquote}
+The `r` prefix is used to denote raw strings, which do not need to be
+escaped when used in regular expressions. See [PEP 2",0.51,3.25
+C_ontact,_O အဆက်အသွယ်,"My_contact
+
+Comment: What have you tried so far?
+
+Answer: \begin{code}
+string input = ""C_ontract"";
+string output = input.Replace(""C"", ""My"").Replace(""_"", """");
+Console.WriteLine(output); // My_contract
+\end{code}.
+
+If you want to replace all occurrences of `C` with `My` and `_` with an empty string, you can do it like this:
+
+\begin{blockquote}
+
+input.Replace('C', 'My').Replace('_', '');",0.00,0.22
+"The cylinders contain sheets of plastic membranes wrapped around a central pipe, and the membranes are stippled with pores less than a hundredth the diameter of a human hair.",စလင်ဒါထဲတွင် အလယ်ဗဟို ပိုက်ကို ရစ်ပတ်ထားသော ပလက်စတစ် အမှေးပါးအလွှာများ အထပ်လိုက်ပါဝင်သည်။ ထိုအမှေးပါးများသည် လူ့ဆံပင်၏ အချင်းထက် အဆတစ်ရာမျှပိုသေးသော အစက်အပြောက်များဖြင့် အပေါက်ဖောက်ထားသည်။,"Die Zylinder enthalten Scheiben von Plastikmembranen, die um einen zentralen Stab gelegt sind und mit Poren kleiner als ein Haardurchmesser besetzt sind.",0.00,0.00
+There are unsaved modifications to your %s account.,သင်၏ %s အကောင့်ပေါ်တွင် မသိမ်းဆည်းရသေးသော ပြုပြင်ပြောင်းလဲမှုများ ရှိသည်။,Es gibt noch nicht gespeicherten Änderungen an Ihrem %s-Konto.,0.00,0.77
+Climb Speed:,တက်နှုန်း အလျင် -,"Climbspeed:
+
+\begin{code}
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    cout << ""Climb Speed: "";
+    cin >> ClimbSpeed;
+    return 0;
+}
+\end{code};
+
+Comment: What have you tried so far? Where are you stuck?
+
+Answer: \begin{blockquote}
+
+I'm new to C++ and I don't really know how to do this.
+  1. How do I make it so that when I type in an input,",0.00,0.00
+Egypt: The Tweeting President · Global Voices,တွစ်​တာ​စာ​တို​ပို့​နေ​သော သမ္မတ,"مصر: الرئيس التعبيري
+
+Answer:
+
+\begin{code}
+from nltk.corpus import brown
+import re
+
+def translate(sentence):
+    pattern = re.compile(r'(\w+)\s*:\s*(.*)')
+    matches = pattern.findall(brown.text())
+    for match in matches:
+        if match[0] == 'Egypt':
+            return match[1] + ': ' + match[2]
+
+print translate('Egypt:",0.00,0.00
+Calculating,ဂဏန်းတွက်စက်,"Calculeando
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $sentence = ""Calculating"";
+$sentence =~ s/\b(en|my)\b/$1/g;
+print ""$sentence\n"";
+\end{pre}",0.00,0.00
+"""%s"" is busy.","""%s"" မအားသေးပါ","%s ist beschäftigt.
+\end{code}
+
+Comment: I'm voting to close this question as off-topic because it belongs on [Code Review](http://codereview.stackexchange.com/).
+
+Answer: \begin{itemize}
+\item `strftime` should be used instead of `date` for formatting date strings. See http://www.gnu.org/software/libc/manual/html_node/Date-and-Time-Functions.html#Date-%28C%2B%2BSyntax%29
+
+\begin{",0.00,0.63
+"File ""%s"" could not be opened (%s)","(%s) မှဖိုင် ""%s"" ကိုဖွင့်မရပါ","%s
+
+Comment: What have you tried so far?
+
+Answer: \begin{code}
+#include <stdio.h>
+
+int main(int argc, char *argv[])
+{
+    if (argc > 1)
+    {
+        printf(""%s\n"", argv[1]);
+        return 0;
+    }
+    else
+        fprintf(stderr, ""File \""%s\"" couldn't be opened.\n"", __FILE__);
+    return 1;
+}
+\end{pre}",0.00,3.08
+"One city and five countries — Colombia, Ecuador, Peru, Indonesia, Papua New Guinea and San Diego, California — have already declared a state of emergency due to the El Niño, while the United Nations has deployed emergency resources to a further 10 countries.",ပါပူဝါနယူးဂီနီ နှင့် အမေရိကန်နိုင်ငံ ကယ်လီဖိုးနီးယားပြည်နယ်ရှိ ဆန်ဒီယာဂိုမြို့တို့တွင် အရေးပေါ်အခြေအနေကို ကြောညာလိုက်ကြပြီဖြစ်ပြီး ကမ္ဘာကုလသမဂ္ဂအနေဖြင့်လည်း နောက်ထက် နိုင်ငံ ၁၀ နိုင်ငံတွင် အရေးပေါ်လုပ်ငန်းစဉ်များကို စီမံဆောင်ရွက်ထားပြီး ဖြစ်သည်။,"A cidade e cinco países — Colômbia, Equador, Peru, Indonésia, Nova Guiné do Pacífico e São Diego, Califórnia — já declararam um estado de emergência devido ao El Nino, enquanto as Nações Unidas estão desplegando recursos emergenciais para mais dez países.
+\end{code}",0.00,0.00
+@PinkNinj4: ohai @RedPepperUG remember when u printed names & addresses of 'queers' in 2009?,၂၀၀၆ ခုနှစ် ဩဂုတ်လတွင် ငရုတ်ကောင်းနီမှ ယူဂန်ဒန် လိင်တူချစ်သူဟု ယူဆရသူများ၏ အမည်များကို ထုတ်ဝေဖော်ပြခဲ့သည်။,"Ohai Redpepperug, remember when you printed names and addresses of ""queers"" in 1909 ?
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $sentence = shift;
+$sentence =~ s/\@([a-zA-Z0-9_]+)/$1/g;
+print ""$sentence\n"";
+\end{code}.",0.00,0.00
+Or maybe Greater Nanyang?,တောင်​ပိုင်း ဟင်​ဒူ​စ​တန်၊,"您可以选择大南洋吗？
+
+Answer: \begin{code}
+#include <stdio.h>
+
+int main(void)
+{
+    char input[1024];
+    fgets(input, sizeof(input), stdin);
+    printf(""%s => %s\n"", input, translate(input));
+    return 0;
+}
+
+char *translate(const char *str) {
+    if (str == NULL) return NULL;
+    size_t len = strlen(str);",0.00,0.00
+Extract files from the archive,ဖိုင်ထုပ်ထဲမှဖိုင်တွေကိုထုတ်ယူပါ,"Extraire les fichiers de l'archive
+
+Answer: \begin{itemize}
+\item `ExtractFilesFromTheArchive` is not a valid English word, so you can't use it as-is.  It should be something like `extract_files_from_the_archive` or `extractFileFromArchive`, etc.  (I don't know French well enough to know what that would be.)
+\end{itemize}\
+
+\begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $input",0.00,0.00
+Accept,လက်ခံ,"Accepted
+
+Comment: I'm voting to close this question as off-topic because it belongs on http://codereview.stackexchange.com/
+
+Answer: \begin{code}
+public static void main(String[] args) {
+    System.out.println(""Accept?"");
+    Scanner scanner = new Scanner(System.in);
+    String input = scanner.nextLine();
+    if (input.toLowerCase().equals(""accept"")) {
+        return ""Accepted"";
+    }
+    return ""Rejected""; // or throw an exception
+}",0.00,0.00
+It is not interesting for me to work with colleagues here and I do not envision any development.,ဒီကလုပ်ဖော်ကိုင်ဖက်တွေနဲ့ အလုပ်လုပ်ရတာ ဘယ်လိုဖွံ့ဖြိုးတိုးတက်မှုတွေကိုမှ မျှော်မှန်းလို့မရသလို ကျွန်မအတွက် စိတ်ဝင်စားဖို့ မကောင်းတော့ဘူး။,"Es ist mir nicht interessant, mit Kollegen hier zu arbeiten und ich sehe keinen Entwicklungsprozess.",0.00,0.00
+No silence could be detected,ငြိမ်မှတ်ကိုမတွေ့ရှိပါ,"Não houve silêncio detectável
+
+Comment: I'm voting to close this question as off-topic because it belongs on [ell.se]
+
+Answer: \begin{itemize}
+\item ""No silence could"" -> ""Não há silencios que""
+\end{itemize}
+
+You can use Google Translate to get the gist of what you want to say, and then work from there.",0.00,0.00
+%s / %s,%s / %s,"%d
+
+\begin{code}
+#include <stdio.h>
+int main(int argc, char *argv[])
+{
+    if (argc == 2)
+    {
+        printf(""%d"", atoi(argv[1]));
+    }
+    return 0;
+}
+$ ./a.out ""en"" ""my""
+1
+$ cat a.out
+#define _XOPEN_SOURCE 500
+#ifndef __STDC_LIMITS_H__
+# include <limits.h >
+#",0.00,2.26
+Allow DAO use,DAO အသုံးပြုမှုကိုခွင့်ပြု,"Allowed DAO to use
+
+Answer: \begin{blockquote}
+
+\begin{itemize}
+  \item ""Allow"" is an adjective, not a noun, so you can't use it as a subject of a sentence. It needs to be followed by a verb or a prepositional phrase. In this case, I would say ""You are allowed to use DAO"", but that doesn't sound quite right either. So I would go with something like ""You have permission to use [DAO]"".
+  The word ""use"" is a transitive verb, which means it",0.41,1.11
+"In our days, which have all become similar to each other, death has become the norm and life the exception.",တစ်ရက်နှင့် တစ်ရက် ထပ်တူကျလာသော ကျွန်ုပ်တို့၏ နေ့ရက်များတွင် သေဆုံးခြင်းသည် ဓုဝ တစ်ခု ဖြစ်လာပြီး ရှင်သန်ခြင်းဟာ ချွင်းချက်တစ်ခု ဖြစ်လာသည်။,"I giorni nostri, che sono tutti simili l'un l'altro, la morte è divenuta la regola e la vita l'eccezione.
+\end{code}
+
+Comment: What is your question?
+
+Answer: \begin{itemize}
+\item Use `str.translate(None, 'a-zA-Z')` to remove all non-alphanumeric characters from the input string. This will leave you with just the words.
+You can then use `re.findall` to find all the words in the string and replace them with their translation.",0.00,0.00
+Want to dedicate 1st tweet to martyrs of #jan25 revolution and brave #syrians...,ပထမဆုံးတွစ်တာစာတိုကို #jan25 (ဇန်၂၅) တော်လှန်ရေးနဲ့ ရဲရင့်တဲ့ #syrians (ဆီးရီးယားလူမျိုးတွေ)အတွက် အထူးပြုချင်တယ်.,"أريد أن أشارك في أول تغطية بعض المؤسسات الإلكترونية التي تقوم بتحرير الثورة السورية، والجنود الذين قاموا بانتقادهم..
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{",0.00,1.74
+"Sure, Samsung might be seen by some as a national champion, but there are many who also see it as the epitome of corporate evil—and not without reason Wrote Robert Koehler in his blog post on a poll result showing South Koreans still support Samsung in its patent legal battle against Apple.",အယ်ပဲ(လ်)နဲ့ ဖြစ်နေတဲ့ မူပိုင်ခွင့်အတွက် တရားရင်ဆိုင်မှုစစ်ပွဲမှာ ဆမ်ဆောင်းကို ထောက်ခံအားပေးသူ တောင်ကိုးရီးယားလူမျိုးတွေရှိနေသေးတယ်ဆိုတာကို ပြတဲ့ စစ်တမ်းတစ်ခုအကြောင်း ရောဘတ် ကိုအယ်ဟလာက သူ့ဘလော့(ဂ်)မှာ ရေးသွားတာပါ။,삼성은 많은 사람들에게 국가를 대표하는 기업이라고 보여질 수 있습니다. 그러나 일본인들도 생각하고 싶지 않을 뿐만 아니라 친구들과 함께 언제든지 소프,0.00,0.00
+We have several of the same kind already and recently they are not being useful to us and to the rest of the Asia-Pacific region.,ကျွန်တော်​တို့ ကြိုက်​ကြိုက် မ​ကြိုက်​ကြိုက် ဒါ​က ပြဿနာ​ဖြစ်​စေ​တဲ့ အရာ​ဆို​တာ ထင်ရှား​လွန်း​ပါ​တယ်။,"我们已经有很多相同的类型，并且最近他们没有用到我们和全球亚太区域。
+
+Comment: I'm voting to close this question as off-topic because it belongs on [ell.se].
+
+Answer: \begin{blockquote}
+
+We have several kinds of them already, and lately they aren't being used by us and by the other countries in the Asia Pacific region.",0.00,0.00
+Sort by _Name,_N အမည်အရ စီစဉ်ပါ,"Sorted by Name
+
+Answer: \begin{code}
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+
+my $input = ""Sort by_Name"";
+
+$input =~ s/\s+/_/g;
+print ""Sorted by $input\n"";",0.00,1.31
+Properties,%s ဂုဏ်သတ္တိများ,"Propietats
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $sentence = ""Properties"";
+$sentence =~ s/\b\w+\b/$&/g;
+print ""$sentence\n"";
+\end{code}.
+
+Comment: I'm sorry, but I don't understand your answer. Could you please explain it to me?",0.00,0.30
+"Bagan, which is also a popular tourism destination, has almost 3,000 pagodas and temples. The last time an earthquake destroyed Bagan temples was in 1975.",၈ ပမာဏရှိသော ငလျှင်ကြောင့် ဘုရားစေတီ ပုထိုးပေါင်း ၂၂၈ ပျက်ဆီးဆုံးရှုံးခဲ့ရပြီး လူ ၃ ဦးအသက်ဆုံးရှုံးခဲ့ရတယ်လို့ မြန်မာအာဏာပိုင်များက သတင်းပေးပို့ခဲ့ပါတယ်။,"ဗိုဂံ, ကိုင်းများနှင့် ရွိပါတယ်အခဲဘူးစီးသည်။ ေဆာင်ရြက္လိုက်ရောကြာဝန်ကြထားသော ����",0.00,14.54
+Minimum drive buffer fill ratio (in %%) (see cdrecord manual):,ဒရိုက်ဗ်ကြားခံ ဖြည့်သည့် အနိမ့်ဆုံးအချိုး(in %%) (cdrecordလက်စွဲကြည့်ရန်):,"Minimale Speicherbufferfüllungsquote (in Prozent) (siehe cdrecord-Hilfe)
+
+Answer: \begin{code}
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+
+my $input = ""Minimum Drive Buffer Fill Ratio (in percent) (see CDRecord manual):"";
+
+$input =~ s/\s+/ /g;  # replace all spaces with a single space
+
+print ""$input\n"";    # print the input string
+
+open(INPUT, ""<"", $input) or die """,0.00,6.48
+The specified contact is offline,ရွေးထားသော အဆက်အသွယ်မှာ လိုင်းပြင်ပရောက်နေသည်။,"Der angegebene Kontakt ist abgeschaltet
+
+Comment: What have you tried so far?
+
+Answer: \begin{code}
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+
+my $input = ""The specified contact (is|isn't) offline"";
+
+$input =~ s/\((\w+)\)/$1/g;
+print ""$input\n"";
+die ""error"" unless $input =~ /^[a-zA-Z0-9_]+$/;
+chomp($input);",0.00,0.00
+General,အထွေထွေ,"Generale
+
+\begin{code}
+import java.util.Scanner;
+public class Translator {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.println(""General"");
+        String input = sc.nextLine();
+        if (input.toLowerCase().equals(""general"")) {
+            output = ""Generale"";
+        }
+        sc.close();
+    }
+
+    private static String output;
+}
+\end{code}{}
+
+Comment: What have you",0.00,0.00
+Disable syntax highlighting,စာသား၊ စာလုံးများ အရောင်မျဉ်းတားခြင်းကို မပြုလုပ်,"Deaktivieren Syntax Highlighting
+
+Comment: I'm voting to close this question as off-topic because it belongs on http://codereview.stackexchange.com/
+
+Answer: \begin{code}
+#!/bin/bash
+
+if [ ""$1"" == """" ]; then
+    echo ""Usage: $0 <option>""
+    exit 1
+fi
+
+case $1 in
+    disable)
+        DISABLE_SYNTAX_HIGHLIGHTING=true
+        ;;
+    *)
+        echo ""Unknown option: $1""",0.00,0.00
+"The pipe is so large I could walk through it standing upright, were it not full of Mediterranean seawater pumped from an intake a mile offshore.",တစ်မိုင်အကွာအဝေး လောက်တွင်ရှိသော မြေထဲပင်လယ်ကမ်းခြေမှ ဆားငန်ရေများနှင့် ပြည့်မနေပါက ထိုပိုက်များသည် အလွန်ကြီးမားသောကြောင့် ကျွန်တော်ပင်အထဲက မတ်တက်ရပ်၍ ကောင်းကောင်းလျှောက်သွားနိုင်သည်။,"Die Rohrleitung ist so groß, dass ich durch sie gehen könnte, wenn sie nicht mit Mittelmeerwasser gefüllt wäre, das aus einer Tiefe von einem Meilen entfernt gepumpt wurde.",0.00,0.00
+Not a launchable item,ဖွင့်လို့မရသည့်အရာ,"Nicht ein lancierbares Objekt
+\end{code}",0.00,0.00
+_Edit,_E တည်းဖြတ်,"Edit
+
+Comment: I'm voting to close this question as off-topic because it belongs on [translation.se].
+
+Answer: \begin{itemize}
+\item Translate ""Edit"" from English to Myanmar.
+\end {itemize}",0.00,0.41
+Add files to an archive,ဖိုင်တွဲထဲသို့ဖိုင်များပေါင်းထည့်ပါ,"Ajouter les fichiers à l'archive
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $sentence = ""Add files"";
+$sentence =~ s/\b(en|my)\b/$1/g;
+print ""$sentence\n"";",0.00,0.00
+C_ontact,_O အဆက်အသွယ်,"My_contact
+
+Comment: What have you tried so far?
+
+Answer: \begin{code}
+string input = ""C_ontract"";
+string output = input.Replace(""C"", ""My"").Replace(""_"", """");
+Console.WriteLine(output); // My_contract
+\end{code}.
+
+If you want to replace all occurrences of `C` with `My` and `_` with an empty string, you can do it like this:
+
+\begin{blockquote}
+
+input.Replace('C', 'My').Replace('_', '');",0.00,0.22
+_Toolbar,_T တန်ဆာပလာတန်း,"Toolbar
+
+Answer: \begin{blockquote}
+
+\begin{itemize}
+  \item Translate the word ""toolbar"" from English to Myanmar.
+  2. The output should be ""Toolbar"".
+  If you don't know how to do it, please ask for help in the comments.
+  I will try to help you as much as I can. Thank you very much!
+  <a href=""https://i.stack.imgur.com/163Xp.png"" rel=""nofollow noreferrer""><IMAGE></a>
+
+I have tried to",0.00,0.22
+Pop up notifications if the chat isn't focused,စကားပြောရာ တစ်ခုတည်း မဟုတ်လျှင် အသိပေးချက်များ ပွင့်ထွက်ပါ,"Pop-up notícias se o chat não estiver focado
+
+Answer: \begin{itemize}
+\item ""Pop up"" is an idiomatic expression in English, so you can't translate it word for word. The closest translation would be ""\em{Mostrar uma notificação}"" (show a notification), but that doesn't make much sense in Portuguese.
+\end{itemize}\
+
+The best way to go about this is to use Google Translate to get the gist of the sentence, and then rephrase it in your own words. In this case, I",0.00,0.00
+Song titles,သီချင်းခေါင်းစဉ်,"Translated song titles
+
+\begin{code}
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.println(""Please enter a song title"");
+        String input = sc.nextLine();
+        if (input.equals("""")) {
+            return;
+        }
+        for (int i = 0; i < input.length() - 1; i++) {
+                char c = input.charAt(i);",0.00,0.00
+Offline — %s,လိုင်းပြင်ရောက် — %s,"OFFLINE — %d
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `strftime` to get the current date and time in the format you want.
+https://www.gnu.org/software/libc/manual/html_node/Date-and-Time-Functions.html#Date-And-Time Functions
+
+\begin{blockquote}
+The strftime() function returns a pointer to a null-terminated string
+containing the result of formatting the argument according to the",0.60,0.75
+_Unlock Document,_U ဖိုင်ကို သော့ဖွင့်ရန်,"Unlock document
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $sentence = ""Unlock document"";
+
+$sentence =~ s/\_/_/g;
+print ""$sentence\n"";
+\end{pre}",0.00,0.71
+By extension,တိုးချဲ့မှုအရ,"من طرف
+
+Answer: \begin{code}
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.println(""By extension"");
+        String input = sc.nextLine();
+        if (input.toLowerCase().startsWith(""by extension"")) {
+            input = input.substring(input.lastIndexOf("" "") + 1);
+            System.err.println(input);
+           System.exit(",0.00,0.00
+Check update,နောက်ဆုံးရ အသစ်ကို စစ်ဆေးပါ,"Çekecek yeni güncelleme
+
+Answer: \begin{code}
+#include <stdio.h>
+
+int main(void)
+{
+    char *input = ""Check update"";
+    printf(""%s\n"", translate(input));
+    return 0;
+}
+
+static char *translate(char *input) {
+    size_t len = strlen(input);
+    for (size_t i = 0, j = len; i < j; i++) {
+        if (input[i] == 'y')",0.00,0.00
+Background Properties,နောက်ခံဂုဏ်သတ္တိ,"Background-Properties
+
+Comment: I'm voting to close this question as off-topic because it belongs on http://codereview.stackexchange.com/
+
+Answer: \begin{code}
+#include <stdio.h>
+
+int main(void)
+{
+    printf(""%s\n"", ""Background-Properties"");
+    return 0;
+}
+\end {code}",0.00,0.00
+Unable to open URI,URI ကို ဖွင့်လို့မရပါ,"Impossibile aprire l'URI
+
+Comment: Welcome to Stack Overflow! Please take the [tour], have a look around, and read through the [help], in particular [*How do I ask a good question?*](/help/how-to-ask) Do your research, [search](https://stackoverflow.com/help/searching) for related topics on SO, and give it a go. ***If*** you get stuck and can't get unstuck after doing more research and searching, post a [mcve] of your attempt and say specifically where you're stuck.",0.00,1.06
+"""%s"" created successfully",ဖိုင်ထုပ်ကိုအောင်မြင်စွာဖန်တီးနိင်ပါပြီ,"%s wurde erfolgreich erstellt
+\end{code}",0.00,0.00
+The stored position (in pixels) of the chat window side pane.,စကားပြောဝင်းဒိး ဘေးတန်း၏ သတ်မှတ်ထားသော နေရာ (ပစ်ဇယ်ဖြင့်),"窗口偏移的存储位置（像素）。
+
+Answer: \begin{code}
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    int x, y;
+    cout << ""The stored position(in pixels): "";
+    cin >> x >> y ;
+    return 0;
+}
+\end{code}.",0.00,0.46
+Start to burn the contents of the selection,ရွေးချယ်သည့်အကြောင်းအရာများကို ဒေတာရိုက်ယူမည်,"Comenzar a quemar los contenidos de la selección
+
+Answer: \begin{code}
+#include <stdio.h>
+
+int main(void)
+{
+    printf(""Start to burn %s\n"", ""the contents of"");
+    return 0;
+}
+\end{pre}",0.00,0.00
+The defined Storage resources are:,ဖော်ပြပါ Storage အရင်းအမြစ်များ -သည်,"Die definierten Speicherressourcen sind:
+
+Answer: \begin{code}
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+
+my $input = ""The defined storage resources are:\n"";
+$input =~ s/\s+/ /g;
+open(my $fh, '<', $input);
+while (<$fh>) {
+    chomp;
+    if (/^The defined/) {
+        print ""Die definierten "";
+    }
+    elsif (/^Storage\s+resources\s*are/)  {",0.00,5.69
+"Select the files you want to restore and click on the ""Restore"" button","မူရင်းတိုင်းပြန်ထားလိုသောဖိုင်များကို ရွေးချယ်၍ ""မူရင်းတိုင်းပြန်ထား"" ခလုတ်ကိုနှိပ်ပါ","Seleziona i file che volete ripristinare e cliccate sul pulsante ""Ripristina""
+
+Answer: \begin{itemize}
+\item I'm not a native speaker, so please correct me if I've made any mistakes.
+\end{itemize}`
+
+\begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $lang = 'en';
+$lang = shift @ARGV or die ""Usage: $0 <lang>\n"";
+
+open(my $fh,",0.00,0.27
+"Receiving ""%s"" from %s","""%s"" ကို %s ဆီမှ လက်ခံနေသည်","Received '%s' from %d
+
+Answer: \begin{code}
+#include <stdio.h>
+
+int main(int argc, char *argv[])
+{
+    if (argc != 2)
+    {
+        fprintf(stderr, ""Usage: %s <file>\n"", argv[0]);
+        return 1;
+    }
+
+    FILE *fp = fopen(argv[1], ""r"");
+    while (fgets(buf, sizeof(buf), fp) != NULL)
+        printf(""%s\n",0.75,2.66

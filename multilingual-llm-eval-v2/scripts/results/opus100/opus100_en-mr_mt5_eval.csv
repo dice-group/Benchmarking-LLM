@@ -1,0 +1,101 @@
+Source,Reference,Prediction,BLEU,chrF++
+Kenya used to be a British colony.,केनिया ब्रिटिश वसाहत असायची.,<extra_id_0>.,0.00,0.74
+"Tom will go, no matter what Mary says.","टॉम जाईलच, मेरीने काहीही म्हटलं तरीही.","<extra_id_0>, says.",0.00,1.11
+He likes singing and dancing.,त्यांना गायला व नाचायला आवडतं.,<extra_id_0>.,0.00,0.71
+Time:,वेळ:,<extra_id_0>,0.00,0.00
+I saw him no more.,मी त्यांना त्यानंतर पाहिले नाही.,<extra_id_0>.,0.00,0.67
+Don't worry about it.,काळजी करू नकोस.,<extra_id_0>'s.,0.00,1.24
+My father walks.,माझे बाबा चालतात.,<extra_id_0>.,0.00,1.14
+This is the first time I've ever opened this door.,हा दरवाजा मी पहिल्यांदा उघडतेय.,<extra_id_0>.,0.00,0.69
+"If the patient is unconscious, the family can make the decision.",जर रुग्ण बेशुद्ध असले तर कुटुंबीय निर्णय घेऊ शकतात.,<extra_id_0>making a decision,0.00,0.00
+I will arrive on 23rd of May.,मी मे २३ला पोचेन.,<extra_id_0> I will be,0.00,0.00
+New widget published,वेब विजेट शैलीComment,<extra_id_0>.,0.00,1.87
+A ball hit her right leg.,एक बॉल येऊन तिच्या उजव्या पायाला लागला.,<extra_id_0> right to left,0.00,0.00
+I expect him to come.,त्याच्या येण्याची मला अपेक्षा होती.,<extra_id_0>.,0.00,0.61
+This laptop is light.,हा लॅपटॉप हलका आहे.,<extra_id_0>,0.00,0.00
+Morocco,मोरोक्कोName,<extra_id_0> | <extra_id_1>- <extra_id_2>- <extra_id_3>- <extra_id_4>- <extra_id_5>- <extra_id_6> – <extra_id_7> – <extra_id_8> – <extra_id_9> – <extra_id_10> Morocco <extra_id_11>,0.00,0.79
+Bergen is known as the city between the seven mountains.,बॅर्गनला सात डोंगरांच्या मधलं शहर असं म्हटलं जातं.,<extra_id_0> Bergen is .,0.00,0.43
+"Belgium is called ""Belgique"" in French.","बेल्जियमला फ्रेंचमध्ये ""बेल्जीक"" असं म्हणतात.",<extra_id_0>.,0.00,0.47
+The gasoline tank was underneath.,पेट्रोलची टाकी खाली होती.,<extra_id_0>.,0.00,0.83
+Tom is dressed in black today.,टॉमने आज काळे कपडे घातले आहेत.,<extra_id_0> Tom is dressed,0.00,0.00
+Performing a suspension job,सस्पेनशन कार्य कार्यान्वीत केलेComment,<extra_id_0> suspension job,0.00,2.54
+"As a vegetarian, she doesn't eat meat.","शाकाहारी असल्यामुळे, ती मांस नाही खात.",<extra_id_0> a vegetarian,0.00,0.00
+Some of the dogs are alive.,काही कुत्रे जिवंत आहेत.,<extra_id_0>.,0.00,0.90
+Tom wanted to see you.,टॉमला तुम्हाला भेटायचं होतं.,<extra_id_0>,0.00,0.00
+This country needs a new president.,ह्या देशाला एका नवीन राष्ट्राध्यक्षाची गरज आहे.,<extra_id_0>.,0.00,0.47
+Tom didn't go alone.,टॉम एकटा गेला नाही.,<extra_id_0>.,0.00,1.08
+Burn this letter after you finish reading it.,वाचून झाल्यानंतर हे पत्र जाळून टाक.,<extra_id_0> you -,0.00,0.00
+"Upon arriving at the airport, he made a phonecall to his wife.",विमानतळाला पोचल्यावर त्याने त्याच्या पत्नीला फोन केला.,<extra_id_0> a woman.,0.00,0.39
+Close your eyes for three minutes.,तीन मिनिटं डोळे बंद कर.,<extra_id_0>.,0.00,0.94
+Your names,संदिप शेडमाकेEMAIL OF TRANSLATORS,"<extra_id_0>, Your Y' <extra_id_1> Yourself! - Your Yourself, Yourself) - (You Yourself!) - a map from the Maple To You: Names to Names, Your Your Your ... Your Y’s,  <extra_id_2>. Your... Your Y Xy,  <extra_id_3> 'Yer's » <extra_id_4>",0.00,0.79
+Network,संजाळ,<extra_id_0>,0.00,0.00
+What a clever student you are!,काय हुशार विद्यार्थी आहेस तू!,<extra_id_0>.,0.00,0.00
+You are about to print a diagram with %d pages.,तुम्ही %d पाने असणाऱ्या आकृतीची छपाई करणार आहात.,<extra_id_0>. You are here,0.00,0.89
+"If God did not exist, it would be necessary to invent him.","जर ईश्वर अस्तित्वात नसता, तर त्याचा शोध लावणं गरजेचं असतं.",<extra_id_0> God alone.,0.00,0.38
+It was her wish to go to Paris.,पॅरिसला जायची इच्छा तिची होती.,<extra_id_0> to go to.,0.00,0.68
+She has forgiven him.,तिने त्याला माफ केलं.,<extra_id_0>.,0.00,0.98
+The treaty made Texas independent.,त्या कराराने टेक्ससला स्वतंत्र केलं.,<extra_id_0>.,0.00,0.59
+"Emptying a project will remove all files already added. All the work will be lost. Note that files will not be deleted from their own location, just no longer listed here.","प्रकल्प पूर्णपणे रिकामे केल्यास आधिपासूनच समावेश केलेले फाइल काढूण टाकले जाईल. सर्व काम नाहीसे होईल. लक्षात ठेवा यादीत न दर्शविलेले फाइलं, त्यांच्या ठिकाणांपासून नष्ट केले जाणार नाही.",<extra_id_0> a project will be lost.,0.00,0.13
+I will show you some pictures.,मी तुला काही चित्र दाखवीन.,<extra_id_0>.,0.00,0.83
+Please only add files with video content,कृपया फक्त व्हिडीओ अंतर्भूत माहिती समाविष्टीत फाइल्स् समावेश करा,<extra_id_0>.,0.00,0.00
+Let me talk to Tom.,मला टॉमशी बोलू द्या.,<extra_id_0> Tom.,0.00,0.99
+I met him at Tom's house.,मी त्याला टॉमच्या घरी भेटले.,<extra_id_0> Tom's,0.00,0.00
+The news made her very sad.,त्या बातमीने त्या अतिशय दुःखी झाल्या.,<extra_id_0>.,0.00,0.59
+I'm watching the news.,मी बातम्या बघतोय.,<extra_id_0>.,0.00,1.14
+"All languages being equal, English is the most equal of all.","सर्व भाषा समान असून, इंग्रजी त्यांमधून सर्वात जास्त समान आहे.",<extra_id_0> the most equal,0.00,0.00
+Can you speak German?,तु जर्मन बोलू शकतोस का?,"<extra_id_0>, says:",0.00,0.00
+Your names,संदिप शेडमाकेEMAIL OF TRANSLATORS,"<extra_id_0>, Your Y' <extra_id_1> Yourself! - Your Yourself, Yourself) - (You Yourself!) - a map from the Maple To You: Names to Names, Your Your Your ... Your Y’s,  <extra_id_2>. Your... Your Y Xy,  <extra_id_3> 'Yer's » <extra_id_4>",0.00,0.79
+Mes,होयTuesday,<extra_id_0>,0.00,4.81
+Advanced Options,प्रगत पर्याय,<extra_id_0>,0.00,0.00
+Tom is like his father.,टॉम त्याच्या बाबांसारखा आहे.,<extra_id_0>.,0.00,0.74
+Ignore,प्रतिमा दुर्लक्ष करा,<extra_id_0>- <extra_id_1>.,0.00,0.00
+Tom told Mary what happened.,काय घडलं ते टॉमने मेरीला सांगितलं.,<extra_id_0>.,0.00,0.65
+Do you understand Roman numerals?,तुम्हाला रोमन अंक समजतात का?,<extra_id_0> Do you do?,0.00,0.72
+Japan's most important opponent was China.,जपानचा सर्वात महत्त्वाचा प्रतिद्वंद्वी चीन होता.,<extra_id_0> Japan - Wikipedia,0.00,0.00
+The French and Indians won the Battle of Fort Duquesne.,फोर्ट डूकेनची लढाई फ्रेंच व इंडियन्स जिंकले.,<extra_id_0> Fort-de-France,0.00,0.00
+He goes with his mother to Russia every year.,तो दर वर्षी आपल्या आईबरोबर रशियाला जातो.,<extra_id_0>.,0.00,0.56
+She heard him cry.,त्यांनी त्याला रडताना ऐकलं.,<extra_id_0>.,0.00,0.76
+The dog was hit by a car.,त्या कुत्र्याला एक गाडी ठोकली.,<extra_id_0>,0.00,0.00
+Japanese is not used in this country.,या देशात जपानी भाषेचा वापर केला जात नाही.,<extra_id_0> Japanese (JP),0.00,0.00
+Some people were late.,काही लोकांना उशीर झाला.,<extra_id_0>.,0.00,0.90
+The disc in the drive holds data.,ड्राइव अंतर्गत डिस्क मध्ये डेटा आहे.,<extra_id_0>.,0.00,0.61
+"When Angela Merkel rang Barack Obama, he already knew what she was going to say.","अॅन्जेला मेर्केलने जेंव्हा बराक ओबामाला फोन केला, तेंव्हा ती काय म्हणणार आहे हे त्याला आधीच माहीत होतं.",<extra_id_0> When Angela Merkel,0.00,0.00
+Why don't you ever help?,तुम्ही कधीही मदत का नाही करत?,<extra_id_0>.,0.00,0.00
+"Your battery has reached critical level. This notification triggers a countdown before doing the configured action, hence it is strongly advised to leave that on.","बॅटरी महत्वाचे स्तर पर्यंत पोहचली आहे. ही सूचना संयोजीत क्रिया करण्यापूर्वी काऊन्टडाऊन सक्रीय करते, ज्यामुळे त्यांस वगळण्यास सूचविले जाते. Name","<extra_id_0>, however,",0.00,0.48
+She was born last year.,ती मागच्या वर्षी जन्माला आली.,<extra_id_0>,0.00,0.00
+She went on speaking.,ती बोलत राहिली.,<extra_id_0>.,0.00,1.28
+Mr. Smith spoke so quickly that I couldn't understand what he was saying.,श्री स्मिथ एवढ्या पटापट बोलत होते कि ते काय म्हणत होते मला कळू शकले नाही.,<extra_id_0> I couldn',0.00,0.00
+"The three major monotheistic religions are Christianity, Islam and Judaism.","ख्रिश्चन धर्म, इस्लाम व यहुदी धर्म हे तीन मुख्य एकेश्वरवादी धर्म आहेत.","<extra_id_0> Islam, Judaism",0.00,0.32
+"As I was having lunch, the phone rang.",मी जेवत असताना फोन वाजला.,<extra_id_0>.,0.00,0.86
+She had her tooth pulled.,तिने आपला दात काढून घेतला.,<extra_id_0>.,0.00,0.83
+Either this man is dead or my watch has stopped.,हा माणूस एकतर मेला तरी आहे नाहीतर माझं घड्याळ बंद तरी पडलंय.,<extra_id_0>. Continue reading →,0.00,0.37
+I do not understand the exact meaning of this sentence.,या वाक्याचा नेमका अर्थ मला समजत नाही.,<extra_id_0>.,0.00,0.61
+Let him do whatever he wants! Edoardo is responsible.,त्याला जे हवं असेल ते त्याला करू द्या! एदोआर्दो जबाबदार आहे.,"<extra_id_0>, and...",0.00,0.38
+Appearance,"@ label Short date:% 1 day in the month,% 2 short month name,% 3 year",<extra_id_0>,0.00,2.16
+I knew I'd be blamed.,मला माहीत होतं माझ्यावर दोष घातला जाईल.,<extra_id_0>.,0.00,0.57
+Could you say that in plain English?,तुम्ही ते साध्या इंग्रजीत बोलू शकता का?,<extra_id_0>. ?,0.00,0.57
+She heard him sing.,तिने त्यांना गाताना ऐकलं.,<extra_id_0>.,0.00,0.83
+Why?,कशाकरिता?,<extra_id_0>?,0.00,1.70
+Please use the information below for your payment.,आपल्या भरपाईसाठी खालील दिलेल्या माहितीचा वापर करा.,<extra_id_0>.,0.00,0.44
+Come into the room at once.,आत्ताच्या आता खोलीत ये.,<extra_id_0>,0.00,0.00
+I cannot decorate this house. It's not mine.,मी हे घर सजवू शकत नाही. हे माझं नाहीये.,<extra_id_0> decorate this,0.00,0.00
+[FILE...],[FILE...],<extra_id_0>,0.00,0.00
+I want to be an astronaut.,मला अंतराळयात्री बनायचंय.,<extra_id_0> I want to be,0.00,0.00
+Set Bac_kground Properties,पार्श्वभूमी गुणधर्म निश्चित करा (_k),<extra_id_0> Properties,0.00,0.56
+Change...,बदलवा...,<extra_id_0>.,0.00,1.85
+I'm related to Tom.,मी टॉमच्या नात्यातला आहे.,<extra_id_0>,0.00,0.00
+John is more qualified than Peter.,जॉन पीटरपेक्षा जास्त अर्हताप्राप्त आहे.,"<extra_id_0>, .",0.00,0.54
+"Poland is called ""Polska"" in Polish.","पोलंडला पोलिशमध्ये ""पोलस्का"" म्हणतात.",<extra_id_0> Poland is called,0.00,0.00
+Telephone,दूरध्वनी,<extra_id_0> Telephone <extra_id_1> Phone Telephone Telephone <extra_id_2>Telephone <extra_id_3>Telephone <extra_id_4> Telephone <extra_id_5> Telephone <extra_id_6> Telephone <extra_id_7> Telephone <extra_id_8> Telephone <extra_id_9> Telephone <extra_id_10>,0.00,0.00
+"In Japan, there is no lake bigger than Lake Biwa.",जपानमध्ये बिवा तलावापेक्षा मोठा कोणताही तलाव नाहीये.,<extra_id_0> Biwa.,0.00,0.41
+What kind of fruit do you want?,तुम्हाला कोणत्या प्रकारचं फळ हवं आहे?,<extra_id_0> What kinds,0.00,0.00
+He took a room at the Yaesu Hotel.,त्याने याएसु हॉटेलात एक खोली घेतली.,<extra_id_0>.,0.00,0.63
+None,काही नाही,<extra_id_0>簋 -㡢 <extra_id_1>,0.00,0.00
+Tom is the defendant.,टॉम प्रतिवादी आहे.,<extra_id_0>.,0.00,1.08
+& Delete,काढून टाका (D),<extra_id_0>,0.00,0.00
+I'm doing this for the good of my country.,मी असं माझ्या देशाच्या भल्यासाठी करतेय.,<extra_id_0> good of country.,0.00,0.51
+I'll go to the park.,मी बागेत जातो.,<extra_id_0>'s.,0.00,1.32
+She went to the airport to see him off.,ती त्याला सोडायला विमानतळाला गेली.,<extra_id_0>.,0.00,0.63
+Tom and Mary never see each other nowadays.,टॉम आणि मेरी आजकाल एकमेकांना भेटत नाहीत.,<extra_id_0>.,0.00,0.56
+Do you want to sell your house?,तुम्हाला तुमचं घर विकायचं आहे का?,<extra_id_0> Do you want to sell,0.00,0.00
+How come you know so much about Japanese history?,तुला जपानी इतिहासाबद्दल एवढं सगळं कसं माहीत आहे?,<extra_id_0> How come you know.,0.00,0.00

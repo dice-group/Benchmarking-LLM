@@ -1,0 +1,754 @@
+Source,Reference,Prediction,BLEU,chrF++
+Because I believed in destiny and fate..,"මම මගේ ඉරනමයි, දෛවයයි විශ්වාස කරා..","Dacă credeam în destin şi fată.
+\end{code}",0.00,0.53
+You will get know slowly.,මම සේරම ඔයාට හෙමිහිට කියන්නම්.,"Vă veți cunoaște mai târziu.
+\end{code}",0.00,0.60
+"Buckle up, guys. I am increasing the speed.",මම වේගය උපරිම කරනවා.,"Bănuiţi-vă, băieţi. Mă întorc la viteza maximă.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.split()` to split the string on spaces and then iterate over the resulting list of words using `for i in range(0, len(words))`. This will give you access to each word in the sentence one at a time. For each word, use `word.capitalize()` to capitalize the first letter of the",0.00,0.20
+I'm going to the bathroom again.,මට නාන කාමරේකට යන්න ඕන,"Io vado al bagno di nuovo.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Create a dictionary with all the words that you want to translate. For example:
+
+\begin{blockquote}
+bathroom = bagno
+
+I'm = Io sono
+
+going = andare
+
+again = di nuovo
+
+sentence = en
+
+translation = si
+
+output = output_string = io_sono_andare_di_nuovo_in_en_si
+\",0.00,0.00
+Convey my regards to the minister,ඇමතිතුමාට ස්තුතියි කළා කියන්න,"Dovete consegnare i miei saluti al ministro
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $input = ""Convey my regardes to the minster"";
+$input =~ s/\s+/ /g;
+print ""$input\n"";
+
+while (<STDIN>) {
+    chomp;
+    if (/^(\S+)\s+(.*)$/) {
+        my ($key, $value) = ($1, $2);
+        print ""$key => $",0.00,0.00
+"""He died in a place he didn't need to be,""","""එයා මලේ එයා නොසිටිය යුතු තැනක දී,","""El morì in un luogo dove non aveva bisogno di essere.""
+\end{code}",0.00,0.50
+How did it get inside?,කොහොමද උන් ඇතුලට ආවෙ?,"Cómo se pudo entrar?
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $input = ""How did it\nget inside?"";
+$input =~ s/\n//g;
+my @words = split(/\s+/,$input);
+foreach my $word (@words) {
+    if ($word =~ /^how/) {
+        $word = ""cómo"";
+    }
+    print ""$word\n"";
+}
+\end{pre}",0.00,0.28
+"Hey, Rinky.",කබීර්...,"Hai, Rinke.
+\end{code}
+
+Comment: I'm voting to close this question as off-topic because it belongs on [Code Review](http://codereview.stackexchange.com/).
+
+Answer: \begin{code»
+#include <stdio.h>
+int main()
+{
+    char s[100];
+    scanf(""%s"",s);
+    int i=0;
+    while(s[i]!='\0')
+    {
+        printf(""%c"",s[++i]);
+    }
+    return",0.00,0.86
+"Sait, look at them","ලොක්කා, මේ බලන්න","Vedeţi ei?
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $sentence = ""Sait, Look at them"";
+$sentence =~ s/\s+/ /g;
+print ""$sentence\n"";
+
+while (<>) {
+    chomp;
+    my ($word) = @_;
+    if ($word =~ m/^[a-z]/) {
+        print ""$word "";
+    }
+}
+
+print ""\nVedeți ei?""",0.00,0.31
+- [Guitar riff] -♪ Battlesaurs ♪,♪ බැල්ට්සෝරස් ♪,"- ""Battlesauri""
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.translate(to_unicode=True)` to convert your string to unicode, then use `re.findall` to find all occurrences of `[A-Za-z0-9]` and replace them with their corresponding unicode characters. For example:
+
+\begin{pre}
+`print(re.sub(r'\[.*?\]', lambda m: chr(int(m.group(0",0.00,0.00
+"-Would you like me to connect you? -Yes, please.",-සම්බන්ධ කරන තුරු කරුණාකර රැදී සිටින්න.,"-Vrei să mă conectez? -Da, mulțumesc.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.split()` to split the string on spaces and then iterate over the resulting list of words using `for i in range(0, len(words))` (or `for word in words` if you don't care about the index).
+
+For each word, use `word.capitalize()` to convert it to uppercase and then `word + ' '` to",0.00,0.35
+Army... of the 12 Monkeys.,හමුදාව... .. වානරයන් 12 දෙනාගේ.,"Armée... des douze singes.
+\end{code}",0.00,4.23
+- What?,- මොකක්?,"- Qué?
+\end{code}
+
+Answer: \begin{itemize}
+\item First of all, you need to create a dictionary with the words that you want to translate from English to Spanish and vice versa. For example:
+
+`dict = {'What?': '¿Qué?', 'Hello!': 'Hola!', 'Goodbye!': ""Adiós!"", 'How are you?': ""¿Cómo estás?"", 'I am fine': ""Estoy bien""}`
+
+\strong{Note:} If you don't know how",0.55,0.51
+I'm sorry. I think I'm lost. Are you from Los Angeles?,"මම හිතන්නෙ මම අතරමං වෙලා, ඔයා ලොස් ඇන්ජලීස් වල කනෙකෝද?","Io sono dispiaciuto. Penso di essere perso. Siete da Los Angeles?.
+
+Comment: This question appears to be off-topic because it is not about programming or software development. See [What topics can I ask about here](http://stackoverflow.com/help/on-topic) in the Help Center. Perhaps [English Language Learners Stack Exchange](https://ell.stackexchange.com/) would be a better place to ask.",0.00,0.16
+"Uh, I felt something touch me. Something strange.",මට මහ අමුතු හැඟීමක් ආවා.,"Eh, mi sentevo toccare da qualcosa. Qualcosa strano.
+\end{code}",0.00,0.62
+Look over there..,අර පැත්ත බලන්න..,"Vedeţi acolo...
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.translate` to translate from one language to another.
+https://docs.python.org/3/library/stdtypes.html?highlight=translate#str.transalte
+
+\begin{blockquote}
+Return a copy of the string with all occurrences of substring replaced by new_string. If count is specified, at most count replacements are made.
+\strong{new_string} can also be",0.00,0.57
+John Daggett's body was found in a dumpster an hour ago.,පැයකට කලින් ජෝන් ඩැගට් ගේ මළසිරුර හම්බවුනා කුණුදාන තැන තිබිලා.,"Il corpo di John Deggett è stato trovato in un contenitore di rifiuti un'ora fa.
+\end{code}",0.00,0.29
+"No, Mom, it was an accident.","නෑ අම්මේ, ඒක අනතුරක්∙","Nu, mamă, a fost o greșeală.",0.00,0.88
+"Listen, we both know that cancer is a shit show.",අහන්න. අපි දෙන්නම දන්නවා දැන් පිළිකාවේ උපරිම මට්ටම කියලා.,"Hör, wir beide wissen, dass Krebs ein Scheißshow ist.
+\end{code}
+
+Answer: \begin{itemize}
+\item Use `str.translate(to_dict=True)` to get a dictionary of all the words in the string. This will give you a dictionary where the keys are the original words and the values are the translated words. For example:
+
+`{'listen': 'Hör', 'we': 'Wir', 'both': 'Beide', 'know': 'wissen', 'that': 'dass', 'cancer': 'K",0.00,0.31
+Then what about the short guy?,එහෙනම් මිට්ටා?,"E poi che cosa c'è del piccolo ragazzo?
+\end{code}",0.00,0.89
+"No, I - I would have doubted me too.","- නෑ, මටත් මම ගැන සැකයක් තිබුන.","Nu, eu - Eu mi-am dubitat de mine,too.
+\end{code}
+
+Answer: \begin{itemize}
+\item First of all, you need to split the input string into two parts: `No, I` and `I would have doubts about me, too`. Then, for each part, you will need to translate it into Romanian. For the first one, you can use [this](https://translate.google.com/#en/ro/%E2%80%9CNo%2C+I%22&hl=en) translation",0.55,0.60
+And boys too...,පිරිමි ලමයිනුත් ඉන්නවා කිව්වා ...,"Și băieți de asemenea...
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $input = ""And boys too..."" ;
+$input =~ s/\s+/ /g;
+print ""$input\n"";
+
+while (<>) {
+    chomp;
+    print ""$_\n"" if /^(\w+)\s+(.*)$/;
+}
+\end{pre}",0.00,1.65
+Ok Alright then you and your cameraman will remain in custody until you come out with the truth.,"හරි, ඔයා ඇත්ත නොකිව්වොත් ඔයයි ඔයාගේ කැමරා කාරයයි දෙන්නම අත්අඩංගුවට ගන්නවා","Ok, Alright, then you'll stay in jail until you tell the truth to us.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item First of all, I would like to point out that there is no such thing as ""en sentence"" or ""si sentence"". There are sentences in English and sentences in Sicilian. The word ""sentence"" is an adjective, not a noun. If you want to say ""a sentence in English"", you should write ""an English sentence"". If you mean ""a translation",0.00,0.13
+-I wish I had 10 more like you.,-අනේ මට තව උඹ වගේ 10ක් හිටියනම්.,"-Vrei să avem 20 de alții ca tine.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.split()` to split the input string into words. This will give you a list of words, which you can then iterate over and translate each word individually. For example:
+
+`translated_sentence = ''.join([translate(word) for word in str.split(' ')])`
+
+where `str` is your input string and `translate` is a function",0.00,0.54
+I just blew a shot at your grandma's memory.,මං උබේ ආච්චිගේ මතකයට ෂොට් එකක් දුන්නා.,"S-a făcut o lovitură la amintirea bunicii tale.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.split()` to split the string on spaces and then use `str[0]` to get the first word of the sentence.
+`str[1]` will give you the second word and so on.
+Use `str[-1]` for the last word.
+You can also use `re.findall(r'\w+', str)` to get",0.00,0.19
+Now. Choose.,තෝරා ගන්න..,"Ahora. Elige.
+\end{code}
+
+Comment: I'm not sure what you're asking here. What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.translate` to replace all non-ASCII characters with their ASCII equivalents. This will remove accents and other diacritical marks from the string, but it won't change the case of the letters. If you want to do that as well, you'll need to use something like [this answer](https://stackoverflow.com/a/10634",0.00,0.40
+"Just hold on. Come on, get her out.",එන්න එයාව එලියට ගමු.,"Hang in there. Get her out of there.
+\end{code}
+
+Comment: I'm voting to close this question as off-topic because it belongs on [Code Review](http://codereview.stackexchange.com/).
+
+Answer: \begin{code»
+#include <stdio.h>
+
+int main(void)
+{
+    char input[100];
+    int i = 0;
+    while (fgets(input, sizeof(input), stdin) != NULL)
+    {
+        printf(""%s\n"", input);",0.00,0.23
+It started out as a scrapbook and just kind of mutated.,ඒක පටන් ගත්තේ ලිපි අලවන පොතක් හැටියට ඒවගේම ඩිංගක් වෙනස් වීමකට භාජනය උනා∙,"El començà com un llibre d'esbossos i just esdevingué un monstre.
+\end{code}",0.00,0.00
+I decided what I'm gonna do.,මං කරන්න යන එක තීරණය කළා.,"Io decido cosa farò.
+\end{code}",0.00,0.78
+I want to express my true feelings.,මට මගේ ඇත්ත හැඟීම් පෙන්නන්න ඕන.,"Io voglio esprimere i miei veri sentimenti.
+\end{code}",0.00,0.55
+Good night.,සුභ රාත්‍රියක්.,"Buona notte.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Create a dictionary with all the words you want to translate from English to Italian and vice-versa. For example:
+
+\begin{pre}
+{""good"": ""buono"", ""night"": ""notte"", ""en"": ""inglese"", ""si"": ""siciliano""}
+... etc ...
+""hello"": ""salve"", ""bye"": ""addio"", ""thank you"": ""grazie"", ""you'",0.00,0.23
+I'm a Patriot!,මම දේශප්‍රේමීයෙක්!,"Io sono un patriota!
+\end{code}",0.00,0.88
+"The same laughter Welcome, my son",එන්න මල්ලි,"La stessa risata Benvenuto, mio figlio
+
+Answer: \begin{code}
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+
+my $en = ""The same laugher Welcome my son"";
+$en =~ s/laughter/risata/g;
+print ""$en\n"";
+
+if ($en =~ /Welcome my son/) {
+    print ""Benvenuto Mio figlio\n""
+}
+else {
+   print ""Non ho trovato l'espressione benvenuto mio figliuolo",0.00,0.00
+I fought my way back for you.,මම ඔයා වෙනුවෙන් ඉන්නවා∙,"M-am luptat pentru tine.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.translate` to translate from English to Romanian.
+https://docs.python.org/2/library/string.html#string.translate
+
+\begin{blockquote}
+Return a copy of the string with all occurrences of substring sub replaced by the corresponding translation in repl. If repl is not given, it defaults to str.maketrans(None, None, None).
+\",0.00,0.00
+- You will get the rest of your money... and don't call me ever again.,වැඩේ කෙරුනට පස්සෙ තමුන්ගේ සල්ලි ලැබෙයි. අදින් පස්සෙ කවදාවත් මට කෝල් කරන්න එපා.,"- Vă veți primi restul banilor... şi nu mă veţi mai contacta niciodată.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.split()` to split the string on spaces, then use `str[0]` to get the first word, `str[-1]` for the last word, and `str[:-2]` for everything in between. Then use `re.sub()` to replace all occurrences of ""you"" with ""vă"".
+\",0.00,0.29
+Voice...,කටහඩ..,"Voz...
+
+Comment: I'm sorry, but this is not a programming question. Please read [ask] and [help/on-topic].
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $input = ""Voice..."";
+$input =~ s/\s+/ /g;
+print ""$input\n"";
+
+while ($input) {
+    chomp $input;
+    my @words = split(/\s/, $input);
+    for my $word ( @words ) {",0.00,0.85
+The sales of double-bed dips down.,ද්විත්ව ඇඳන් විකිණුම් අවපාතය පහළ යනව.,"La vendita del letto doppio scende.
+\end{code}",0.00,0.50
+I let you in. Now please let the girl go.,මම ඉන්නම්∙ අනේ මේ කෙල්ලට යන්න දෙන්න∙,Io ti lascio entrare. Ora per favore lascia andare la ragazza.,0.00,0.00
+"Get out of there, Kerns!",ඔතනින් ඉක්මනට අයින් වෙනවා කර්න්ස්!,"Vă ieșiţi de acolo, Kernel!
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.translate(None, 'aeiou')` to remove all vowels from the input string. This will leave only consonants in the string. Then use `re.sub('[a-z]', ' ', str)` to replace each consonant with a space. Finally, join the resulting list of spaces using `' '.join(str.split())` to get the desired output.",0.00,0.18
+Don't let him play you as well.,ඔයාට එයත් එක්ක සෙල්ලන් කරන්න දෙන්න එපා..,"Non lasciatelo giocare anche tu.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.split()` to split the string on spaces and then use `str[0]` to get the first word of the sentence.
+`str[1]` will give you the second word and so on.
+Use `str[-1]` for the last word.
+You can also use `list(str)` to get a list of all the words in the sentence, which is easier to work with.
+If you want",0.00,0.35
+If the powder's...,වෙඩිබෙහෙත්...,"Dacă pudră este...
+
+Answer: \begin{code}
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    if (the powder is...)
+    {
+        return 0;
+    }
+    cout << ""The powder isn't..."";
+    return 1;
+}
+\end{pre}",0.00,2.48
+You just killed how many people in that church.,"මොකක්, අර පල්ලියේ ඇතුලෙදි ඔයා කීයක් මැරුවද?","Tu hai ucciso quanta gente in quel tempio.
+\end{code}
+
+Comment: I'm not sure what you're asking here. What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.translate(to_dict, from_dict)` to translate from one dictionary to another.
+https://docs.python.org/3/library/stdtypes.html#str.transalte
+\strong{Example:}
+
+\begin{blockquote}
+s = ""Hello World""
+
+print(s.translate({",0.00,0.34
+Let Bhabhi feel at least once that she is the daughter-in-law of this family.,අක්කට මේ ගෙදර ඉන්න දෙන්න ටිකක් හරි එයා මේ ගෙදර ලේලි.,"इस परिवार के बेटे की मां को अब तक कुछ भी नहीं देख लिया जाए.
+\end{code}",0.00,0.37
+'They were submerged in sorrow',"‍ශෝ‍ක‍යෙන්‍ ‍දි‍ය‍වී ‍ය‍න ‍මේ ‍ජ‍න‍යා‍ව, ‍ වේ‍දා‍ල ‍ජා‍ති‍යේ ‍අත්‍ ‍මි‍ටෙන්‍ ‍මු‍ද‍වා,","'Ei erau îngropați în lacrimi'
+
+Answer: \begin{itemize}
+\item ""They were"" -> ""Ei au fost"" (feminine plural, past tense of \em{a fi})
+\end{itemize}.
+
+\begin{code}
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+
+my $en = 'they were';
+$en =~ s/\s+/ /g; # remove all spaces
+
+open my $fh, '<', $ARGV[0]",0.00,0.30
+Watching you like this...,ඔයාව මේ විදිහට බලන්න...,"Vă priviţi astfel...
+\end{code}",0.00,4.78
+Do you remember the authentic aboriginal walkabout?,∙∙∙සත්‍ය අදිවාසික සංචාරයන් ගැන එහෙම?,"Sì, mi ricordo l'autentico cammino degli aborigeni.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.translate` to replace all non-ASCII characters with their ASCII equivalents. This will remove all accented letters and other special characters from the input string. For example:
+
+\begin{pre}
+`print(str.maketrans('abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOP",0.00,0.17
+You're ruining Ranjana's life.,හිතුවක්කාරකම. ඔයා රංජනාගෙ ජීවිතේ විනාශ කරනව.,"उन्होंने रणजना की जीवन में खतरा बनाया.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Split the sentence into words using `str.split()`
+`['You', 're', 'ruining', 'Ranjana', 's', 'life']`
+Now iterate over each word and check if it is a verb or not. If it is, then add",0.00,0.41
+Why?,ඇයි?,"Cui?
+\end{code}
+
+Answer: \begin{itemize}
+\item Translate `Why?` to `Cui?` using [this](https://translate.google.com/?sl=it&tl=en&js=n&prev=_t&ie=UTF-8&eotf=1&u=http%3A%2F%2Fi.stack.imgur.com%2Fe406d.png) tool.
+\strong{Note:} The tool is not perfect, so you may need to tweak it a bit.",0.00,0.46
+I know.,මං දන්නවා,"Știu.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.lower()` to convert the string to lowercase.
+`""I know"".lower()` will return `""i know""`.
+Then use `str[0] == 's'` to check if the first character is `'s'`.
+If it is, then use `int(str[1:])` to get the integer value of the rest of the string.
+Finally, use this integer value as an index to find the",0.00,0.00
+Thieves! Fire! Murder!,"හොරු, පහර දෙන්න..","Ladroni! Incendio! Omicidio!
+\end{code}",0.00,0.00
+I'll pay in full cash.,මම ගෙවන්නම්.,"Vorrei pagare in contanti.
+\end{code}",0.00,1.08
+Why do you say?,ඔයා ඇයි එහෙම කිව්වේ?,"De ce spui?
+\end{code}",0.00,0.96
+Wretched hoodlums! They literally prayed to this heirloom in Hindu fashion,සීනුව ගහලා පුජාවක් කරලා මල්මාලේ අරගෙන ගිහින්,"उद्योगकर्मियों के लिए हिंदू तरीक़े से प्रार्थना करने वाले बुजुर्गों !
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.translate(None, string.punctuation)` to remove all punctuation from the string.",0.00,0.00
+Allegations against me is a major conspiracy,මගේ පැත්තට ඇඟිල්ල දික් කරන එක තමයි කරන ලොකුම ද්‍රෝහී කම,"Alegăriile împotriva mea este o conspiraţie majoră
+
+Answer: \begin{code}
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    string s = ""Allegations Against Me Is A Major Conspiracy"";
+    cout << translate(s, ""en"", ""si"") << endl;
+    return 0;
+}
+
+string translate(string s, string from, string to) {
+    ifstream fin(from.c_str());
+    ofstream fout(to.c",0.00,0.00
+-Parithi..,-පරිති..,"அப்பாரித்தி..
+\end{code}",0.00,4.70
+"They're getting to you, dude.",එයාලා ඕවා දෙන්නේ බං.,"Sono arrivando a te, ragazzo.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Create a dictionary with all the words you want to translate. For example:
+
+`dict = {'they': 'sono', 'getting': 'arrivano', 'to': 'a', 'you': 'te', 'dude': 'ragazzo'}`.
+\strong{Note:} The order of the words in the dictionary must be the same as they appear in the original sentence. In other words, if the word `",0.00,0.20
+"""I went out of my way to help him.""",මේ හැමදෙයක්ම මටම පෙන්නේ ඇයි.,"""M-am îndreptat departe pentru a-l ajuta pe el.""
+\end{code}",0.00,0.57
+I have enough resources to spend on my own and build,ඔයාගේ ඉල්ලීමට අවසර ලැබෙනවා,"Io ho abbastanza risorse per spenderle da sola e costruirmi una casa.
+\end{code}",0.00,0.00
+"Mother, people are crying because you have not announced the death of Baahubali",- අම්මා.. - බාහුබලීගේ මරණයට හරිහමන් පිළිතුරක් නොලැබුන නිසා කාක්කු වගේ මිනිස්සු කෑ ගහනවා.,"Mãe, as pessoas choram porque você não anunciou a morte de Bhallaladeva
+\end{code}",0.00,0.00
+"No, I think this is about us.","නෑ, මම හිතන්නෙ මේක අපි ගැන දෙයක්.","Nu, cred că este despre noi.
+\end{code}",0.00,1.18
+We just took a job upgrading an ancient nuclear power plant.,අපිට වැඩක් හම්බ උනා පරණ න්‍යෂ්ටික බලාගාරයක.,"Nous avons pris un contrat pour améliorer un vieux réacteur nucléaire.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.translate` to replace all non-ASCII characters with their ASCII equivalents. This will remove all accented letters and other special characters from the string, leaving only the basic Latin alphabet. (You can also use `unicodedata.normalize('NFKD', str)` to do the same thing, but it's more complicated.)
+\",0.00,0.15
+Something tells me he might be past listening to reason.,මොකක්දේ මට කියනවා එයා හේතු වලට කන් දීම නවත්වලා කියලා.,"Ce mi pare că poate fi trecut în afară de gândirea rațională.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.translate(None, string)` to replace all occurrences of `string` with an empty string.
+In your case, `string = ""en""` and `string2 = ""si""`.
+
+\begin{blockquote}
+https://docs.python.org/3/library/stdtypes.html#str.maketrans",0.00,0.17
+I'll kill you. You have my word.,"මං ඔබව මරනවා, ඔයා මගේ වචනය තියාගන්න.","Io ucciderò te. Hai il mio giuramento.
+\end{code}
+
+Answer: \begin{itemize}
+\item Use `str.translate` to replace all non-ascii characters with their ascii equivalents. This will remove all accented letters and other special characters from the input string. Then use `re.findall` to find all occurrences of ""I'll"" and ""kill"" in the resulting string. Finally, join the two strings together using `"" "".join`.
+
+\begin{blockquote}
+import re
+
+def translate(s):",0.00,0.33
+Next thing I know I'm zip tied to the banister and he's taking Andrej and Jovana into the bedroom.,ඊලඟට මම දන්නේ මාව වැටට තියලා තදින් බැඳලා හිටිය බවයි ඒ වගේම ඔහු අන්ඩ්රේවයි ජොවානාවයි නිදන කාමරේට අරන් ගිහින්.,"The next thing I knew, I was handcuffed to the balustrade and they were taking Andréj and Yovana upstairs.
+\end{code}",0.00,0.18
+– Mr. Gandalf? – Hmm?,"මිස්ටර් ගැන්ඩල්ෆ්, මෙන්න ඔයා ඉල්ලපු විදියටම රෙඩ් වයින් වීදුරුවක්.","– Mister Gandalf ? – Hm?
+\end{code}",0.00,0.00
+"Varun, please, don't start now. Varun, please.",වරුන් දැන් මේක ඇදලා ගන්න එපා වරුන් යන්න,వరుణ్యాంతకమైనదెలిపోసచేశబడగళభీషధఅథఃటొహౌఝ఺ఎఫ్,0.00,0.00
+"By the way, our aim is same.",අපේ අරමුණ එකමයි.,"# 'D'accorde, nos objetifs sont le meme.'
+\textbf{Note:} If you don't want to strip the",0.00,0.65
+I'm in L.A. Tell her.,මම LA වල. - එයාට කියපන්.,"Sono a Los Angeles. Dille.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.split()` to split the string on spaces and then iterate over the resulting list of words. For each word, check if it starts with ""I'm"" or ""Sono"". If it doesn't start with one of those two words, add it to the output string. Otherwise, replace the first letter of the word with an uppercase letter and add the rest of the string to the ouput string. Finally,",0.00,0.72
+People have hearts everywhere.,-හදවත් තියෙන මිනිස්සු හැම තැනම ඉන්නවා.,"L'uomo ha cuore ovunque.
+\end{code}
+
+Comment: What is your question?
+
+Answer: \begin{itemize}
+\item First of all, you need to know how to translate ""people"" and ""hearts"" in Italian. I don't know Italian, so I can't help you with that. However, you can use Google Translate or any other online translator to get the translation for these two words. For example, [Google Translate](https://translate.google.com/translate?sl=it&tl=en&js=y",0.00,0.17
+- What?,- මොකක්?,"- Qué?
+\end{code}
+
+Answer: \begin{itemize}
+\item First of all, you need to create a dictionary with the words that you want to translate from English to Spanish and vice versa. For example:
+
+`dict = {'What?': '¿Qué?', 'Hello!': 'Hola!', 'Goodbye!': ""Adiós!"", 'How are you?': ""¿Cómo estás?"", 'I am fine': ""Estoy bien""}`
+
+\strong{Note:} If you don't know how",0.55,0.51
+They do this everyday.,මුන් මේ වැඩේ හැමදාම කරනවා.,"Ei facă acest lucru zilnic.
+\end{code}",0.00,0.69
+"Besides, these kids look up to me..",අනික මේ ළමයි මට කැමතියි..,"De plus, ces enfants m’admirent.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item `en` is the source language and `si` the target language.
+You can use [this](https://pypi.org/project/freetranslator/) library to translate from one language to another.
+For example:
+
+\begin{blockquote}
+from_lang = 'en'
+to_lang   = 'si'
+text      = 'Besides, these children look",0.00,0.40
+You wouldn't have got beaten if I wasn't with you.,මම ඔයා එක්ක හිට්යේ නැත්නම් ඔයා ගුටි කන්නේ නැහැනේ.,"Tu non avresti ricevuto un pugno se io non ti fossi stato accanto.
+\end{code}
+
+Comment: Welcome to Stack Overflow! Please take the [tour] to learn how Stack Overflow works and read [ask] on how to improve the quality of your question. Then check the [help/on-topic] to see what questions you can ask. Lastly, please show us what you have tried so far (preferably in the form of code).
+
+Answer: \begin{itemize}
+\item Use `str.translate(None, 'en', '",0.00,0.16
+I'm headed down to the security desk now to pull footage.,"මං ආරක්ශක කාමරේට යනවා, කැමරා වීඩියෝ බලන්න",Sono andato giù al posto di sicurezza ora per prendere le riprese.,0.00,0.00
+I was wondering if you could help me...,ඔයාට මට උදව් කරන්න පුලුවන්ද,"Mi s-a întrebat dacă poți ajuta-mă...
+
+Answer: \begin{code}
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+
+my $en = ""I was wondering"";
+$en =~ s/\s+/ /g;
+print ""$en\n"";
+
+while (<STDIN>) {
+    chomp;
+    my ($si) = split(/\s/);
+    print ""$si\n"" if $si eq $en;
+}
+
+exit 0;
+\end",0.00,0.00
+Maya...is it ok if I bring a friend?,මායා.. මම යාලුවෙක් එක්කරගෙන ආවට කමක් නැද්ද?,"Mai...sunt bine dacă aduc o prietenă?
+
+Answer: \begin{code}
+#include <stdio.h>
+
+int main(void) {
+    char *en = ""Maya...Is it okay if I Bring a Friend?"";
+    printf(""%s\n"", translate(en));
+    return 0;
+}
+
+char *translate(const char *str)
+{
+    size_t len = strlen(str);
+    const char *p = str;
+    while (*p != '\0') {",0.00,0.85
+"""O damsel.""",ඕ ලමිස්සියෙ.,"""La damigella.""
+\end{code}",0.00,1.23
+Tell him that his father was..,එයාට කියන්න එයාගෙ තාත්ත..,"Dă-l să știe că tatăl său era...
+
+Comment: I don't understand what you mean by ""input"" and ""output"". Could you please clarify?
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $en = 'Tell him that your father was...';
+$en =~ s/\s+/ /g;
+my @words = split(/ /, $en);
+foreach my $word (@words) {
+    if ($word eq 'him') {",0.00,0.70
+Enquire about him,- සර් කී දෙනෙක්ද,"Incercări despre el
+\end{code}",0.00,0.00
+Hah! Look who's talking about being desperate!,බලාගෙන ඉන්න කවුද බලාපොරොත්තු නැතිවීම දිහා බලන් ඉන්නෙ කියලා!,"Aha! Siete qui per dire di essere disperati!
+
+Comment: I don't understand what you mean by ""desperate"" in this context. It seems to be used as an adjective, but it doesn't seem to fit with the rest of the sentence. Can you clarify?
+
+Answer: \begin{itemize}
+\item [Hah!](http://en.wiktionary.org/wiki/hah) (interjection)
+\begin{blockquote}
+
+(informal) An exclamation of surprise or amusement.
+\end{",0.00,0.15
+It's dual-band. Military spec.,කාණ්ඩ දෙකෙ හමුදා එකක්∙,"Eléctricament, és doble banda. Especificació militar.",0.00,0.00
+It's a problem within this area We'll loose our respect if we handle in a wrong way,මේක ගමේ ප්‍රශ්ණයක් වෙන විදියට කරන්න ගියොත් ගෞරවය නැති වෙයි,"Sunt probleme în această zonă, dacă ne comportăm într-un mod greșit vom pierde reputația noastră.
+\end{code}",0.00,0.00
+Because that's the exit.,මොකද ඒක තමයි පිටවීම,"Dacă ea este ieșirea.
+\end{code}",0.00,0.00
+If any other student wants to go along..,වෙනත් සිසුන්ට යන්න ඕන නම්..,"Dacă altcineva dorește să meargă...
+
+Answer: \begin{code}
+#include <stdio.h>
+
+int main(void)
+{
+    printf(""%s\n"", ""Dacă alte studenți doresc să mergă..."");
+    return 0;
+}
+\end{pre}",0.00,1.04
+Yeah.,ඔව්.,"Sì.
+\end{code}
+
+Comment: I'm not sure what you mean by ""en"" and ""si"". Do you mean English and Italian?
+
+Answer: \begin{itemize}
+\item First of all, you need to import the `nltk` library in your python script.
+You can do it like this:
+
+\begin{code})
+from nltk.corpus import wordnet as wn
+print(wn.synsets('yeah'))[0].lemma_names()
+# ['yeah', 'yay', 'hur",0.00,0.40
+I was... the guy that told you not to worry about the turbulence.,∙∙∙අර ඔයාට භය වෙන්න දෙයක් නෑ කියපු කෙනා∙,"Io ero... l'uomo che ti ha detto di non preoccuparti della turbolenza.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item First of all, you need to split the sentence in two parts: the subject and the predicate. In your case, the subject is `I`, the predicate is `was` and the object is `the guy`. So, you can do something like this:
+
+\begin{blockquote}
+input = input.split("" "")
+
+subject = input[",0.00,0.00
+"Yes, I called the guy.","ඔව්, මම ඒ මිනිහා හමුවිය.","Sì, io ho chiamato il ragazzo.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.lower()` to convert the input string to lowercase. This will make it easier to find the word ""guy"" (which is not in lowercase) and replace it with ""ragazzo"" (in lowercase), which is the Italian word for ""boy"" or ""young man"".
+
+`input_string = input_string.lower().replace('guy', 'ragazzo')`
+\",0.00,0.39
+That's the thing about Clark Kent.,ඒක තමා ක්ලාර්ක් කෙන්ට් ගැන සිද්දිය ∙ ඔයාට ඕනේ වෙලාවට ඔහු එතන නැ ∙∙∙,"Și acesta este lucrul despre Superman.
+\end{code}",0.00,0.00
+Than people have been led to believe?,මිනිස්සු විශ්වාස කරන දේවල් වලට වඩා?,"Quelques personnes ont été conduites à croire?
+\end{code}",0.00,0.49
+I have not brought acquainted.,ඒ ගැන හොඳින් දන්නවනේ.,"Nu m-am întâlnit.
+\end{code}",0.00,0.86
+Anything that would enlighten us concerning this?,මොනාහරි ඔයා දැන් ඉන්න තත්වය ගැන අපිට කියන්න තියද?,"Quelque chose qui nous éclairerait sur cette question?
+
+Comment: I don't understand what you mean by ""input"" and ""output"". Do you want to translate from English to French, or from French to English? If so, please edit your question to make it more clear.",0.00,0.22
+You don't seem to understand..,- මං කියන දේ ඔයා තේරුම් ගන්නේ නැහැ.,"Tu non sembri capace di capire...
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $en = 'You don\'t seem\nto understand...';
+$en =~ s/\n//g;
+my @words = split(/\s+/, $en);
+foreach my $word (@words) {
+    if ($word =~ /^you/) {
+        $word = 'tu';
+    }
+    elsif ($word eq 'don\'t') {
+       $word= 'non",0.00,0.23
+To send a... a warning to you through Amanda.,පණිවිඩයක් යවන්න... අමන්දා අතේ.,"S-a trimis un... un avvertisment la tine prin Amandă.
+\end{code}
+
+Answer: \begin{itemize}
+\item Use `str.translate(None, 'aeiouAEIOU')` to remove all vowels from the input string. This will give you a string with only consonants and punctuation characters. Then use `re.findall(r'[A-Za-z]', str)` to get a list of all letters in the string. Finally, use `set()` to create a set out of this list",0.00,1.33
+[man] We don't want him to get sick.,අපිට එයාට ලෙඩ වෙන්න දෙන්න බැහැ.,"[woman] Nous ne voulons pas qu'il se fasse mal.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Create a list of words that can be used as pronouns, e.g. ""he"", ""she"", ""it"", ""we"", ""they"", ""you"", ""I"" and ""me"".
+\strong{Note:} This is not an exhaustive list, but it should be enough for your purposes. If you need to add more words, you can do so easily.",0.00,0.20
+- Or stole the boots.,- සපත්තු හොරකම් කළේ මකරෙක් කියලා.,"- Ou roubou as botas.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.replace()` to replace all occurrences of `-` with `o` and `stole` with  `roubou`. Then use `re.findall()` to find all remaining instances of `boots` and replace them with `botas`. Finally, join the two strings back together using `'\n'`.
+
+\begin{blockquote}
+import re
+
+sentence = '- Or Stole",0.51,0.37
+'We take advantage of those we would gain something from.','අවස්ථාවෙන් ප්‍රයෝජන ගන්න ඕන දෙයක් ලබා ගන්න නම්. ',"'Noi aprofittiamo di quelli con cui abbiamo qualcosa da guadagnare.'
+\end{code}",0.00,1.41
+Do I look like I wanted a fucking Labradoodle? !,මං හරියට ලැබ්‍රඩෝර් එකෙක් ඕනි වුන එකෙක් වගේද බොල?,"Tu me sembla che voglio un cagnolino labrado!
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Create a dictionary with all the words you want to translate from English to Italian and vice-versa. For example:
+
+\begin{pre}
+{""do"": ""fa"", ""I"": ""io"", ""look"": ""mi sembra"", ""like"": ""voglio"", ""wanted"": ""volevo"", ""fucking"": ""merda"", ""Labrador"":",0.00,0.18
+Are we tied in..,කොක්ක වැටුනද...,"Sunt legate de..
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.split()` to split the input string on spaces and then iterate over the resulting list of words. For each word, use `word.lower()` to convert it to lowercase and then check if it starts with `are` or `sunt`. If it doesn't start with either of these words, add it to the output string. Otherwise, replace the first letter of the word with an uppercase letter and add the rest of the",0.00,0.73
+- The same soul!,මගෙ ආත්මය!,"- La stessa anima!
+\end{code}",0.00,1.37
+"Good, enjoy",සතුටු වෙන්න.,"Buna, bucurești
+
+Comment: What have you tried so far?
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $input = ""Good, enjoy"";
+my @words = split(/\s+/,$input);
+foreach my $word (@words) {
+    print ""$word\n"";
+    if ($word eq ""en"") {
+        print ""Buna, "";
+    }
+    elsif ($word =~ /^si/) {
+       print ""bucurești\n",0.00,0.00

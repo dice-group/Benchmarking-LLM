@@ -1,0 +1,1034 @@
+Source,Reference,Prediction,BLEU,chrF++
+paper size,paper size,"210 mm x 297 mm
+\end{code}",0.00,2.92
+Warning,خبرتيا,"Warnung
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $en = ""Warning"";
+my @ps = ( 'Warnung' );
+
+foreach my $word (@ps) {
+    if ($en =~ /$word/) {
+        print ""$word\n"";
+        last;
+    }
+}
+print ""No match found\n"" if !@ps;
+\end{code}.
+
+Comment: I think you need to add `use v5.10.0` to",0.00,0.00
+translator-credits,Zabeeh Khan <zabeehkhan\@gmail\.com> The Pathanisation Project <pathanisation\@googlegroups\.com>%d hit(s) on this page,"Translator credits
+\end{code}",0.00,4.87
+Suggestions,وړانديزونهCheck Spelling,"suggestions
+
+\begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $input = <>;
+chomp $input;
+$input =~ s/\s+/ /g;
+print ""$input\n"";
+
+while (<STDIN>) {
+    chomp;
+    if (/^Suggestions/) {
+        print ""$_"";
+    } elsif (/^(\w+)\s*:\s*(.*)/){
+        my ($key, $value) = ($1, $2);
+        $value =~",0.00,4.47
+mb,ميليبارهmillibars of mercury,"مبارك
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $input = ""mb"";
+my @words = split(//, $input);
+
+foreach my $word (@words) {
+    if ($word eq 'm') {
+        $word = 'م';
+    }
+    elsif ($word =~ /[a-zA-Z]/ && $word !~ /[\d\s]/ && length($word) > 1) {   # الحروف الأ",0.00,7.51
+Korean,کورياييName,"Punjabi
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `pytesseract` to extract the text from the image. It's an open source OCR engine that can be used to extract text from images. [Here](https://pypi.org/project/python-tess-2/) is the link to the official page of the library and [here](http://www.pyimagesearch.com/2017/04/13/how-to-use-",0.00,0.90
+Address Book,پته کتاب,"Adressbuch
+\end{code}",0.00,0.00
+file chooser,دوتنه ټاکونکی,"filechooser
+
+Answer: \begin{code}
+#! /usr/bin/perl
+use strict;
+use warnings;
+
+open my $fh, '<', 'filechooser' or die $!;
+my $s = <$fh>;
+chomp $s;
+print ""$s\n"";
+close($fh) or die ""Can't close file: $!"";
+
+say $s =~ tr/aeiouyAIOUY//cdHJKLMNOPQRSTVWXYZ1234567",0.00,0.00
+Lay_out,هډو_انه,"Layout
+
+Comment: What have you tried so far?
+
+Answer: \begin{code}
+#! /usr/bin/perl
+use strict;
+use warnings;
+
+my $input = ""Lay_Out"";
+$input =~ tr/a-z/A-Z/;
+print ""$input\n"";
+
+if ($input eq ""LAY_OUT"") {
+    print ""Layout\n""
+}
+else {
+   print ""Not layout\n""}
+\end{code}.
+
+output:
+
+\begin{blockquote}
+
+LAY_",0.00,0.30
+does not start with,نه پېليږي په,"Does not begin with
+
+\begin{code}
+#include <stdio.h>
+int main(void)
+{
+    printf(""%s\n"", ""does not start \n"");
+    return 0;
+}
+\end{pre}",0.00,0.00
+paper size,paper size,"210 mm x 297 mm
+\end{code}",0.00,2.92
+<account\-id>,ګڼون,"1234567890abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+\end{code}",0.00,0.00
+keyboard label,ړنګولkeyboard label,"screen label
+
+\begin{code}
+#include <stdio.h>
+int main(void)
+{
+    char input[100];
+    printf(""Please enter text to be translated: "");
+    scanf(""%s"", input);
+    if (input[0] == '\0')
+    {
+        return 0;
+    }
+    int i = 0, len = strlen(input);
+
+    while (i < len && input[i] != '\n')
+        i++;
+    for (; i < len; i++)",0.62,6.22
+Select all text,ټوله ليکنه ټاکل,"Translated text
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Split the input string into an array of words using `str_word_split()` function. Then loop through each word and translate it using `gettext()` or `ngettext()`. Finally, join the translated words back into a string using `implode()`.
+
+\begin{blockquote}
+$input = 'Select all text';
+
+$words = explode(' ', $input);
+
+foreach ($words as $word) {
+
+    $",0.00,0.00
+Use _Default Background,تلواله_شاليد کارول,"Use Default Background
+
+Answer: \begin{code}
+#include <stdio.h>
+
+int main(void)
+{
+    printf(""%s\n"", ""Use %s Background"", ""Default Background"");
+    return 0;
+}
+\end{pre}",0.00,0.00
+paper size,paper size,"210 mm x 297 mm
+\end{code}",0.00,2.92
+Keywords:,:اروييونه,"Translation:
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Split the input string on spaces, then split each of those words on spaces and convert them to lowercase.
+This will give you a list of words in the input sentence.
+Then iterate over that list and for each word, check if it exists in the dictionary.
+If it doesn't exist, add it to the dictionary with its translation.
+Otherwise, get the translation from the dictionary and append it to your output string.
+Finally, join the",0.00,0.18
+Keywords:,:اروييونه,"Translation:
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Split the input string on spaces, then split each of those words on spaces and convert them to lowercase.
+This will give you a list of words in the input sentence.
+Then iterate over that list and for each word, check if it exists in the dictionary.
+If it doesn't exist, add it to the dictionary with its translation.
+Otherwise, get the translation from the dictionary and append it to your output string.
+Finally, join the",0.00,0.18
+Zip (.zip),زېپ (.zip),".zip
+\end{code}",0.00,18.78
+Add the current launcher to favorites,اوسنی پېلوونکی خواپورو ته زياتول,"Ajouter le lanceur actuel à la liste des favoris
+
+Answer: \begin{code}
+#!/usr/bin/env python3
+
+import sys
+
+if len(sys.argv) < 2:
+    print(""Usage: %s <en> <ps>"" % sys.argv[0])
+    sys.exit(1)
+
+en = sys.stdin.readline().strip()
+ps = ""Ajouter {0} au répertoire de favoris"".format(en)
+print(ps, file=sys.stderr)",0.00,0.00
+paper size,paper size,"210 mm x 297 mm
+\end{code}",0.00,2.92
+Close Window,کړکۍ بندول,"Clôr Wîdow
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $input = ""Close Window"";
+my @words = split / /, $input;
+foreach my $word (@words) {
+    if ($word eq 'Window') {
+        $word =~ s/Window/$_[0]/g;
+    }
+}
+print join '', @words;
+\end{code}.
+
+Comment: I'm sorry, but I don't understand your answer. Could you please explain",0.00,0.00
+_View,ليد_,"View
+\end{code}",0.00,0.00
+Importing '%s',دننول کيږي `%s',"%s
+\end{code}",0.00,4.02
+%.1f GB,%.1f ګ ب,"1024 MB
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item `%.1f` is a [format specifier](https://docs.microsoft.com/en-us/dotnet/standard/base-types/custom-numeric-format-strings) for floating point numbers. It means that the number will be printed with one digit after the decimal point and two digits to the left of it. For example, 1.23456789 would be printed as 123.4",0.00,2.28
+_Edit,سمون_,"Edit
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+open my $fh, '<', 'input.txt' or die ""Can't open input.txt: $!"";
+while (my $line = <$fh>) {
+    chomp $line;
+    if ($line =~ /_Edit/) {
+        $line =~ s/_Edit/Edit/;
+        print $line >> 'output.txt';
+    }
+}
+close($fh);
+exit 0;
+\end",0.00,0.39
+Table Cell,لښتيال خونه,"<td>Cell</td>
+\end{code}",0.00,0.00
+Sent,لېږلي,"Sentence
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Split the input string on spaces and split each word on underscores. This will give you an array of arrays, where each inner array contains one word.
+`$sentence = explode(' ',$sentence);`
+
+\begin{blockquote}
+array(2) { [0]=> string(3) ""en"" [1]=>string(4) ""sent"" }
+[0] => array(1) { [""sent""]=> string",0.00,0.00
+Room:,کوټه:_,"Sala:
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.lower()` to convert the input string to lowercase.
+`""Room"".lower() == ""sala""`
+
+2.Use `re.sub()` to replace all occurrences of `""Room""` with `""Sala""`.
+`re.search(""Room"", str).group(0) == ""Sala""` (assuming that there is only one match)
+
+3.Convert the output string to uppercase.",0.00,0.24
+paper size,paper size,"210 mm x 297 mm
+\end{code}",0.00,2.92
+View,ليد,"본문을 읽어주세요.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.translate` to translate from one language to another.
+https://docs.python.org/3/library/stdtypes.html#str.maketrans
+
+\begin{blockquote}
+trans.translate(None, None, None)
+
+Return a copy of the string with all occurrences of characters in
+the first argument replaced by the corresponding characters in the
+second",0.00,0.00
+December,ډېسمبر,"Décembre
+\end{code}",0.00,0.00
+Load Buddylist...,ملګری فهرست هسکول...,"Load buddylista...
+
+Answer: \begin{code}
+#! /usr/bin/perl
+use strict;
+use warnings;
+
+my $input = ""Load BuddyList..."";
+$input =~ s/\s+/ /g;
+print ""$input\n"";
+\end{code}.",0.00,2.34
+List of Custom Headers,دوديزې سريزې,"Translated list of custom headers
+\end{code}
+
+This is what I have so far, but it doesn't seem to be working correctly. Any help would be greatly appreciated. Thanks in advance!
+
+\begin{blockquote}
+#!/usr/bin/perl -w
+
+use strict;
+use warnings;
+
+my @headers = ('Custom Header 1', 'Custom header 2');
+
+foreach my $header (@headers) {
+
+print ""$header\n"";
+
+$header =~ s/en/ps/g;
+ }
+
+exit 0;",0.00,0.00
+Save Image,انځور و ساته,"저장할 이미지
+
+Answer: \begin{code}
+#include <stdio.h>
+
+int main(void)
+{
+    printf(""Save Image\n"");
+    return 0;
+}
+\end{pre}
+
+Comment: Please add some explanation to your answer such that others can learn from it",0.00,0.00
+Paste tasks from the clipboard,له ټوټه ډړې دندې سرېښل,"Translated text
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+open my $fh, '<', 'tasks.txt' or die ""Couldn't open file: $!"";
+my @lines = <$fh>;
+close $FH;
+foreach my $line (@lines) {
+    chomp $line;
+    if ($line =~ /^en/) {
+        print ""$line\n"";
+    } elsif ($line !~ /^ps/){
+        $line =~ s",0.00,0.00
+Shadow Type,د سيوري ډول,"shadow type
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $input = ""Shadow Type"";
+$input =~ tr/A-Za-z/a-zA-Z/;
+print ""$input\n"";
+\end{code}.
+
+Comment: I'm sorry, but this doesn't answer the question at all.",0.00,0.00
+Show in folder,په توکپټه کې ښودل_,"Shown in Folder
+
+Answer: \begin{code}
+#! /usr/bin/perl
+use strict;
+use warnings;
+
+my $input = ""Show in folder"";
+$input =~ s/en/ps/g;
+print ""$input\n"";
+\end{code}.",0.00,0.00
+_Quit,بندول_Stock label,"Quit
+
+Answer: \begin{code}
+#include <stdio.h>
+
+int main()
+{
+    printf(""%s\n"", ""Quit"");
+    return 0;
+}
+\end{pre}",0.00,4.35
+paper size,paper size,"210 mm x 297 mm
+\end{code}",0.00,2.92
+View,ليد,"본문을 읽어주세요.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.translate` to translate from one language to another.
+https://docs.python.org/3/library/stdtypes.html#str.maketrans
+
+\begin{blockquote}
+trans.translate(None, None, None)
+
+Return a copy of the string with all occurrences of characters in
+the first argument replaced by the corresponding characters in the
+second",0.00,0.00
+Font,ليکبڼه,"폰트
+
+Answer: \begin{code}
+#include <stdio.h>
+int main(void)
+{
+    printf(""%s\n"", ""Font"");
+    return 0;
+}
+\end{pre}",0.00,0.00
+Failed to create file '%s': %s,%s :دوتنې جوړولو کې پاتې راغی '%s' د,"Translation failed.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.format` to format the string with `%s` and `%d` placeholders for the input and error message, respectively.  Then use `os.path.exists` to check if the output file exists.  If it doesn't, print the error message.  Otherwise, print ""Translation successful.""
+\begin{pre}
+`print(f""Translation failed: {os.getcwd()}/{filename",0.00,1.20
+Size,کچ,1234567891011121314151617181920212223242526272829303132333435,0.00,0.00
+Save the edited search,سمول شوی لټون ساتل,"Saved search
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $input = 'Save the edited <search>';
+$input =~ s/<search>/Saved search/g;
+print ""$input\n"";
+\end{code}.
+
+Comment: I'm sorry, but this doesn't answer the question at all.",0.00,0.00
+The Y position of the assistant window.,.ځايونه Y د ارې کړکۍ,The X and Y positions of the assistent window.,2.57,1.63
+Arj (.arj),ارج (.arj),"arj (.ps)
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `sed` to replace `.arj` with `.ps`:
+
+`sed 's/\.arj$/\.ps/g' input.txt > output.txt`
+
+or, if you want to do it in-place:
+
+`./script.sh input.file`
+(assuming that your script is in the same directory as the input file)
+
+Note that this will only work if there are no other",0.00,3.28
+150%,۱۵۰٪,"75%
+\end{code}",0.00,0.00
+Dutch keymap,ډچ کيلېنخچه,"English key map
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $nl = ""\n"";
+
+open my $fh, '<', 'keymap' or die $!;
+while (<$fh>) {
+    chomp;
+    print ""$_ $nl"";
+}
+close($fh) or die ""Couldn't close file: $!"";
+print ""\nDone.\n\n"";",0.00,0.00
+translator-credits,Zabeeh Khan <zabeehkhan\@gmail\.com> The Pathanisation Project <pathanisation\@googlegroups\.com>,"Translator credits
+\end{code}",0.00,5.34
+Go to %s on file “%s”,ته ورتلل %s دوتنه کې “%s” په,"Gå til %s på filen %s
+
+Answer: \begin{code}
+#! /usr/bin/perl
+use strict;
+use warnings;
+
+my $input = shift;
+my ($output, $file) = split(/\s+/, $input);
+
+open my $fh, '<', $file or die ""Can't open $file: $!"";
+while (<$fh>) {
+    chomp;
+    if (/^Go to (\S+) on file (\S+)$/) {
+        print ""$1\n"";",0.62,1.59
+Number of seconds until timer stops,د مهالګر تر تمېدو د سېکېنډونو شمېر,"Time remaining in seconds
+
+\begin{code}
+#include <stdio.h>
+int main()
+{
+    int seconds;
+    scanf(""%d"", &seconds);
+    printf(""Time remaining in %d seconds\n"", seconds);
+}
+\end{pre}
+
+Comment: What have you tried so far? Where are you stuck?
+
+Answer: I'm not sure if this is what you're looking for, but here's an example of how to do it using `strftime` and `asctime`.
+
+First, let's",0.00,0.00
+Main Menu,اره غورنۍ,"Menüleiste
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $input = ""Main Menu"";
+my @words = split(/\s+/,$input);
+foreach my $word (@words) {
+    if ($word =~ /^[A-Za-z0-9]+$/) {
+        print ""$word\n"";
+    }
+}
+\end{code}.",0.00,0.00
+Close,بندول_,"Clòs
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $en = 'Close';
+my @ps = ('Clòs');
+
+for my $i (0 .. $#ps) {
+    if ($en =~ /$ps[$i]/) {
+        last;
+    }
+}
+
+print ""$ps[$_]\n"";
+\end{pre}",0.00,0.46
+_Company:,:کمپنۍ_,"Compagnie
+
+Comment: I don't know what you mean by ""input"" and ""output"". What do you want to translate?
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+open my $fh, '<', 'file.txt' or die $!;
+my @lines = <$fh>;
+close($fh);
+
+foreach my $line (@lines) {
+    chomp $line;
+    if ($line =~ /_Company:/) {
+        $line =~ s/_Company",0.00,0.56
+_Contents,منځپانګې_,"Contents
+\end{code}",0.00,0.00
+offline,ناليکه,"online
+\end{code}",0.00,0.00
+file,دوتنه,"file.ps
+
+Comment: What have you tried so far?
+
+Answer: \begin{code}
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+
+open my $fh, '<', 'file' or die ""Can't open file: $!"";
+
+while (my $line = <$fh>) {
+    chomp $line;
+    print ""$line\n"" if $line =~ /^[a-zA-Z0-9]+$/;
+}
+\end{code}.",0.00,0.00
+Time: %s %s,%s %s ‎:مهال,"12:00 PM
+
+\begin{code}
+#include <stdio.h>
+
+int main(int argc, char *argv[])
+{
+    if (argc != 2)
+    {
+        fprintf(stderr, ""Usage: ./time <time>\n"");
+        exit(EXIT_FAILURE);
+    }
+
+    time_t t = strptime(argv[1], ""%I:%M %p"");
+    printf(""%s"", asctime(localtime(&t)));
+    return 0;
+}",0.00,1.95
+Connect to server,...پالنګر سره نښلېدل,"Connexion au serveur
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $input = ""Connect to server"";
+my @words = split(/\s+/,$input);
+foreach my $word (@words) {
+    if ($word =~ /^[a-z]+$/) {
+        $word = uc($word);
+    }
+    print ""$word\n"";
+}
+\end{pre}",0.00,0.00
+paper size,paper size,"210 mm x 297 mm
+\end{code}",0.00,2.92
+Text,ليکنه,"Translated text
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Split the input string on spaces and split each word on underscores. This will give you an array of arrays, where each inner array contains one word.
+For example:
+
+\begin{blockquote}
+input = ""Hello world""
+
+output = [[""Hello"", ""world""]]
+
+split_input = input.split("" "")
+
+array_of_arrays = []
+
+for i in range(0, len(split",0.00,0.00
+Attach,نښلول,"اضغط
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.translate(None, 'a-zA-Z0-9', '')` to remove all non-alphanumeric characters from the string. This will leave you with just the alphanumerics and spaces. Then use `re.sub(r'[^A-Za-z ]+', ' ', str)` to replace all other characters with a single space. Finally, use `print(str.capitalize())` to",0.00,0.00
+Close the current file,اوسنۍ دوتنه بندول,"Fermer le fichier actuel
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+open my $fh, '<', 'input.txt' or die ""Can't open input.txt: $!"";
+while (my $line = <$fh>) {
+    chomp $line;
+    print ""$line\n"";
+    if ($line =~ /Close/) {
+        print ""Fermer la fenêtre actuelle\n""
+    }
+}
+close($fh);",0.00,0.00
+New Calendar,نوی کليز,"Nový kalendář
+
+Answer: \begin{code}
+#include <stdio.h>
+
+int main(void)
+{
+    printf(""New Calendar\n"");
+    return 0;
+}
+\end{code}.",0.00,0.00
+Send To:,:ته لېږل,"Receive From:
+\end{code}
+
+Comment: I'm voting to close this question as off-topic because it belongs on [Code Review](http://codereview.stackexchange.com/).
+
+Answer: \begin{itemize}
+\item `input` and `output` should be strings, not lists of strings. So you need to convert them to strings before passing them to your function.
+\strong{Edit:} Actually, since they're already strings, you don't need to do anything with them at all. Just pass them directly to `translate_en_to_ps",0.00,0.19
+paper size,paper size,"210 mm x 297 mm
+\end{code}",0.00,2.92
+1st to 10th,نه تر ۱۰م ‎۱,"2, 3, 4, 5, 6, 7, 8, 9, 1O
+
+\begin{code}
+#include <stdio.h>
+int main()
+{
+    int i;
+    for(i=1;i<=10;i++)
+    {
+        printf(""%d\n"",i);
+    }
+    return 0;
+}
+\end{code}.
+
+Comment: What have you tried so far?
+
+Answer: \begin{blockquote}
+
+You are a proffesional transl",0.00,0.00
+By extension,په شاتاړي,"بين التفصيل
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $input = ""By extension"";
+my @words = split(/\s+/,$input);
+$words[0] =~ tr/b/p/;
+print join(' ',@words).""\n"";
+\end{code}.
+
+Comment: I'm sorry, but I don't understand your answer. Could you please explain it to me?",0.00,0.89
+Delay in seconds until showing the next image,د راتلونکي انځور تر ښودلو ډلو په سېکېنډونو کې,"10s
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `time.sleep()` to delay the execution of your code for the specified number of seconds. See [documentation](https://docs.python.org/3/library/time.html) for more information on how to use it.
+\strong{Example:}
+
+\begin{pre}
+import time
+
+delay_in_seconds = int(input(""Enter the delay in seconds: ""))
+
+while True:
+    time.sleep",0.00,0.00
+keyboard label,keyboard label,"screen label
+
+\begin{code}
+#include <stdio.h>
+int main(void)
+{
+    char input[100];
+    printf(""Please enter text to be translated: "");
+    scanf(""%s"", input);
+    if (input[0] == '\0')
+    {
+        return 0;
+    }
+    int i = 0, len = strlen(input);
+
+    while (i < len && input[i] != '\n')
+        i++;
+    for (; i < len; i++)",0.62,6.67
+_Bookmarks...,ليکنښې_,"_Buchmarken...
+\end{code}
+
+Comment: I'm voting to close this question as off-topic because it belongs on [Code Review](http://codereview.stackexchange.com/).
+
+Answer: \begin{code}\documentclass[a4paper]{article}
+\usepackage[utf8]{inputenc}
+%\usepackage{fontspec}
+%%\setmainfont[Mapping=tex-text,Ligatures=TeX]{Times New Roman}[Scale=1.0]
+\newfontfamily{\ps}[Script=Latin]{Linux Libertine O}",0.00,0.21
+Junk Mail Settings...,...د سرکودن ليک امستنې,"جرائم البريد الأخرى...
+
+Answer: \begin{code}
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+
+my $input = ""Junk mail settings..."";
+$input =~ s/\s+/ /g;
+print ""$input\n"";
+
+open(IN, $input);
+while (<IN>) {
+    my $line = $_;
+    chomp($line);
+    print ""$line\n"" if $line =~ m/Settings/;
+}
+\end",0.00,3.27
+list,لړ,"[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+\end{code}",0.00,0.00
+keyboard label,برهkeyboard label,"screen label
+
+\begin{code}
+#include <stdio.h>
+int main(void)
+{
+    char input[100];
+    printf(""Please enter text to be translated: "");
+    scanf(""%s"", input);
+    if (input[0] == '\0')
+    {
+        return 0;
+    }
+    int i = 0, len = strlen(input);
+
+    while (i < len && input[i] != '\n')
+        i++;
+    for (; i < len; i++)",0.62,6.39
+_Toolbar,توکپټه_,"Toolbar
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $input = $_[0];
+my @output = split(/\s+/, $input);
+foreach my $word (@output) {
+    chomp $word;
+    if ($word =~ /_/) {
+        $word =~ s/_/_/g;
+        print ""$word\n"";
+    }
+}
+exit 0;
+__END__",0.00,0.36
+F_ilename:,:د_وتنه نوم,"P_filename:
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Split the input string on `_` and take the first element of the resulting list as the `F_` part, and the second element as the rest of the string (i.e. the `P_`part):
+
+\begin{pre}
+`print(input.split(""_"")[0] + "":"" + input.rsplit(""_"", 1)[1])`
+# => 'F_filename:P_filename",0.00,0.48
+Get a hint for your next move,د خپل راتلونکي خوځښت لپاره اشاره اخېستل,"Hint für dein nächster Schritt
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $hint = ""Get a hint"";
+$hint =~ s/en/ps/g;
+print ""$hint\n"";
+\end{code}.",0.00,0.00
+_Reload,بيا لېښل_,"Reload
+
+Answer: \begin{code}
+#include <stdio.h>
+int main(void)
+{
+    printf(""%s\n"", ""RELOAD"");
+    return 0;
+}
+\end{pre}",0.00,0.00
+_Always accept,تل منل_,"ਅਲੇਵਿਆ ਸਮੁਖਿ ਰਾਜਤੀ ॥
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `ps2ascii` to convert from Punjabi to ASCII, and `ascii2ps` to do the opposite.
+https://www.gnu.org/software/gettext/manual/html_node/Converting-from",0.00,0.34
+Rotate _180°,image-action,360,0.00,0.00
+Failed to load %s: %s,%s :په لېښلو کښې پاتی راغی %s د,"Translation failed!
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item `Failed to load '%s': %s` is a string, not a variable. So you can't use `%s` as a placeholder for a variable in your translation. Instead, you need to do something like this:
+
+\begin{pre}
+`$translation = 'Translation failed!' . $error_message;` // note that I'm using double-quotes instead of single quotes here because it's easier to work with",0.00,1.43
+Saving thumbnails,بټه نوکي ساتي,"Salvar imagens
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $input = ""Saving thumbnail"";
+my @words = split / /, $input;
+foreach my $word (@words) {
+    print ""$word\n"";
+    if ($word eq 'thumbnails') {
+        print ""Salvar Imagens\n""
+        last;
+    }
+}
+\end{code}.",0.00,0.00
+Page,مخ,"Pàgina
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.title()` to get the title of the string.
+`""Page"".title()` will give you ""Page"" in lower case.
+If you want it in upper case, use `""Page"".upper()`
+\strong{OR}
+Use `str[0].upper() + str[1:]` to get just the first letter and the rest of the word in lowercase.
+For example, if your string is ""Page"", then",0.00,0.00
+Gene_ral Options,ټول_ګړي غوراوي,"Gene ral Options
+
+Comment: I'm voting to close this question as off-topic because it belongs on http://codereview.stackexchange.com/
+
+Answer: \begin{code}
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+
+my $input = ""Gene_ral options"";
+$input =~ s/\s+/ /g;
+print ""$input\n"";
+
+while (<STDIN>) {
+    chomp;
+    my ($line) = @_;
+    print ""$line\n"" if $line =~",0.00,0.25
+_First Definition,لومړی پېژنداوی_,"_Second Definition
+\end{code}",0.00,1.00
+paper size,paper size,"210 mm x 297 mm
+\end{code}",0.00,2.92
+Set the follow-up flag to completed on the selected messages,ټاکل شوې استوزې ناړنګول,"Sete o flag de seguimento para completado nas mensagens selecionadas
+
+Answer: \begin{code}
+#!/bin/bash
+
+set -euo pipefail
+IFS=$'\n'
+
+while IFS= read -r line || [[ -n ""$line"" ]]; do
+    if [[ $line == *""Set the follow up flag to complete on the select messages""* ]]; then
+        echo ""${line}"" | sed 's/\(select messages\)/selecionadas/g'
+    fi
+done 3< <(sed 's/",0.00,0.00
+Do not overwrite newer files,زړې دوتنه نه و_يستل,"لا تغير الملفات الجديدة
+\end{code}",0.00,4.43
+Go to the home location,کور ځای ته ورتلل,"Gå til hjemmestasjonen
+
+Answer: \begin{code}
+#include <stdio.h>
+
+int main(void)
+{
+    printf(""%s\n"", ""Gå til"");
+    return 0;
+}
+\end{pre}",0.00,0.00
+paper size,paper size,"210 mm x 297 mm
+\end{code}",0.00,2.92
+Searching for the Contacts...,.د اړيکلوري لپاره پلټل,"Buscando los contactos...
+
+Answer: \begin{code}
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+
+my $input = ""Searching for contacts..."";
+$input =~ s/en/ps/g;
+print ""$input\n"";
+\end{code}.",0.00,0.35
+_Open,پرانيستل,"Open
+\end{code}",0.00,0.00
+"Can't rename file, filename already exists",دوتنه نه شي بيانومولی، دوتنه نوم د مخکې نه شته,"Não é possível renomear o arquivo, já existe um arquivo com esse nome
+
+\begin{code}
+#include <stdio.h>
+
+int main(void)
+{
+    printf(""Can't %s file, %s already exists\n"", ""rename"", ""filename"");
+    return 0;
+}
+\end{code}.",0.00,0.00
+Delete,ړنګول,"Deletar
+
+Comment: What have you tried so far?
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $en = 'Delete';
+my @ps = ('Deletar');
+
+$en =~ s/\b(\w+)\b/$ps[$1]/g;
+print ""$en\n"";
+\end{pre}",0.00,0.00
+_Quit,بندول_,"Quit
+
+Answer: \begin{code}
+#include <stdio.h>
+
+int main()
+{
+    printf(""%s\n"", ""Quit"");
+    return 0;
+}
+\end{pre}",0.00,0.00
+Size,کچ,1234567891011121314151617181920212223242526272829303132333435,0.00,0.00
+Language,ژبه,"Translation
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Create a dictionary with all the words in English and their translation in Punjabi. For example, if you want to translate ""Hello"" then your dictionary will be something like this:
+
+\begin{blockquote}
+hello -> ਹੇਲੋ
+
+goodbye ->  ਗੁਆਂਬੈਏ
+
+how are you? ->   �",0.00,0.00
+Never,هېڅکله_,"네버
+
+Answer: \begin{code}
+#include <stdio.h>
+
+int main(void)
+{
+    printf(""%s\n"", ""Never"");
+    return 0;
+}
+\end{code}.",0.00,0.00
+_Export Bookmarks…,ليکنښې بهرول..._,"Exportar marcadores…
+
+Answer: \begin{code}
+# -*- coding: utf-8; mode: python; tab-width: 4; indent-tabs-mode: nil; c-basic-offset: 2 -*-\n\n#!/usr/bin/env python\nimport sys\nif __name__ == '__main__':\nsys.stdout.write(sys.stdin.read().decode('utf-8').encode('cp1252'))\nprint '\n'
+\end{pre}",0.00,1.02

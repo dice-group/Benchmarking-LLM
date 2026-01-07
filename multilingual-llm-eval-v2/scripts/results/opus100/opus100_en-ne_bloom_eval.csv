@@ -1,0 +1,1547 @@
+Source,Reference,Prediction,BLEU,chrF++
+Delete Thread,थ्रेड मेट्नुहोस्,"Détruire le fil de discussion
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>{for(j=i;j<a.length;j++)if(c==a[j])return j})
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  return a.map(c => {
+    for (i = 0; i < a.length; i++) {
+      if (c === a[i]) {
+        return i;",0.00,0.00
+Treize,ट्रेइज,"Treize
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map(c => c + ' ' + b);
+}",0.00,0.00
+(Descending),(घट्दो क्रम),"(Ascending)
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>{for(let d=i;d<b.length;d++)if(c==b[d])return d;return i});f(""ascending"",""descending"")",0.00,0.85
+Move right,दाँया सार्नुहोस्,"Gire a la dreta
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>{for(j=i;j<a.length;j++)if(c==a[j])return j})
+
+Try it online!
+Explanation
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map(c => {
+    for (i = 0; i < a.length; i++) {
+      if (c === a[i]",0.00,0.00
+Clean module associated with current file,हालको फाइलसँग जोडिएका मोड्युल हटाउन सफा गर्नुहोस्,"Modules associated with this file
+
+A:
+
+Python 2.7.6 (default, Nov  6 2014, 11:02:56) 
+[GCC 4.8.2] on linux2
+Type ""help"", ""copyright"", ""warning"" or ""license"" for more information.
+>>> import re
+>>> m = re.match('^(.*)\s+\((.*)\)$', 'Input: \(Clean module associated w...')
+>>> m.group(1)
+'Input: (Clean module ...'",0.00,0.00
+Hint: Column %d,सङ्केत: स्तम्भ %d,"Column %d
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>{for(j=i;j<a.length;j++)if(c==a[j])return j})
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.split(
+    "" ""
+  ).map(
+    (c, i) =>
+      for (j = i; j < a.length; j++) if (c === a[j]) return j
+  )
+console.log(f([1, 2, 3, 4",0.66,1.15
+Subversion: Diff complete.,उपसंस्करण: फरक फाइल/डाइरेक्टरी,"Subversion: Difference complete.
+
+A:
+
+Python 2.7.9 (default, Nov  6 2015, 11:02:56) 
+[GCC 4.8.2] on linux2
+Type ""help"", ""copyright"", ""warning"" or ""license"" for more information.
+>>> import sys
+>>> sys.stdin.readline()
+'Subversion diff complete'
+>>> print('Subversion', 'complete')
+Subversion complete
+
+The readline() method is used to read lines from the standard input and store them in a list. The print() method then prints each line of the list one by one",0.00,0.17
+Tar compressed with lzip (.tar.lz),lzop सँग सङ्कुचितTar (.tar.lzo),"TAR compressed with LZIP (TAR.LZ)
+
+A:
+
+Python 2
+import sys, re
+
+def main():
+    if len(sys.argv) != 2:
+        print >> sys.stderr, ""Usage: %s <filename>"" % sys.argv[0]
+        sys.exit(1)
+    filename = sys.argv[1]
+    lines = open(filename).readlines()
+    for line in lines:
+        m = re.match(""(.*) compressed with (.*)"", line)
+        if m:
+            print ""%s compressed with %s"" % (m.group(1), m.groups()[0])
+
+if __name__ ==",0.00,3.71
+"This function returns the probability quantile function, i.e., the inverse of the cumulative distribution function, of the geometric distribution.","यो कार्यले संभाव्य क्वान्टाइल कार्य फर्काउँछ, यसको मतलब यो ज्यामितिय वितरणको, क्युमुलेटिभ वितरण कार्यको उल्टा हो।","The probability that a random variable X has a value less than or equal to x is given by P(X ≤ x) = 1 − F(x), where F(·) is the probability distribution function of X.
+
+A:
+
+I don't know if this is what you're looking for, but you can try this:
+import numpy as np
+from scipy.stats import geometric
+
+def f(x):
+    return geometric.cdf(x)
+
+y = np.random.randint(0, 10, size=100)
+print(f(y))",0.00,0.24
+Error connecting to wireless network,ताररहित संजाल '%s' सम्पर्क गरिदै...,"Erro conectando con la red inalámbrica
+
+A:
+
+The problem is that you are trying to translate an English sentence into another language, which is not possible. You can only translate from one language to another.
+If you want to translate between two different languages, you need to use a machine translation service like Google Translate or Microsoft Translator.",0.00,0.78
+- Empathy IM Client,इम्प्याथी शीघ्र मेसेन्जर,"- EMPATHY IM CLIENT
+
+A:
+
+JavaScript (ES6), 28 bytes
+s=>s.split(/\s+/).map(t=>t.toLowerCase().replace(/^\s+|\s+$/g,""""))
+
+Try it online!
+Explanation:
+The split function splits the input string into an array of words separated by spaces. The map function then replaces each word with its lowercase version and removes any leading or trailing whitespace.",0.00,0.00
+_Close All Folds,सबै फोल्डहरू बन्द गर्नुहोस्,"Close all folds
+
+A:
+
+JavaScript (ES6), 28 bytes
+s=>s.split(/\s+/).reduce((a,b)=>a.concat(b.toLowerCase()),[])
+
+Try it online!
+
+A:
+
+Python 2, 32 bytes
+lambda s:''.join(map(str.lower, s.split()))
+
+Try it here!",0.00,0.00
+This list contains all extra directories containing plugins.,यो सूचीले प्लगइनहरू समावेश सबै अन्य डाइरेक्टरीहरू छन्।,"This is a list of all additional directories that contain plugins.
+
+A:
+
+Python 2.7
+import sys, os
+
+def main():
+    for root, dirs, files in os.walk(sys.argv[1]):
+        for file in files:
+            if file.endswith('.py'):
+                print os.path.join(root, file)
+
+if __name__ == ""__main__"":
+    main()
+
+Output
+/path/to/plugin/__init__.py",0.00,0.00
+Tetravex,टेट्राभेक्स,"Tetravax
+
+A:
+
+JavaScript (ES6), 28 bytes
+s=>s.split(/\s+/).map(t=>t.toLowerCase().replace(/^\s+|\s+$/g,""""))
+
+Try it online!
+
+A:
+
+Python 2, 32 bytes
+lambda s:''.join(s.lower().split()).replace(' ','')
+
+Try it here!
+Explanation:
+The lambda function takes a string as input and returns an empty string.
+The ''.join() method joins all the words in the string together with a space between them.
+The .lower() method converts the string to lower case",0.00,0.00
+Rename,पुन: नामाकरण गर्नुहोस्,"Renamed
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>`${c} renamed to ${b[i]}`)
+
+Try it online!
+Explanation
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map(c => `${c} renamed: ${b}`);
+}",0.00,0.31
+Shift Righ_t and Move,दायाँ शीफ्ट गर्नुहोस् र सार्नुहोस्,"Shift Right and Move
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>`${c} ${b[i]}`)
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.split(
+    "" ""
+  ).map(
+    (c, i) =>
+      `${c} ""${b[i]}""`
+  )
+)",0.00,0.00
+_Leave messages on server,सर्भरमा सन्देशहरू छोड्नुहोस्,"Leave messages on the server
+
+A:
+
+Python 2.7.9 (default, Nov  6 2015, 11:02:56) 
+[GCC 4.8.2] on linux2
+Type ""help"", ""copyright"", ""warning"" or ""license"" for more information.
+>>> import sys
+>>> sys.stdin.readline()
+'Enter message:'
+>>> msg = input('Enter message: ')
+>>> print(msg)
+Leave messages in the server
+>>>",0.00,0.00
+South _European (ISO-8859-3),दक्षिण युरोपेली (ISO-8859-3),"Southern European (UTF-8)
+
+A:
+
+Python 2.7
+from __future__ import with_statement
+import sys
+import codecs
+
+def main():
+    if len(sys.argv) != 2:
+        print >> sys.stderr, ""Usage: %s <encoding>"" % sys.argv[0]
+        sys.exit(1)
+
+    encoding = sys.argv[1]
+    try:
+        codec = codecs.lookup(encoding)
+    except LookupError:
+        print ""Unsupported encoding: %s"" % encoding
+        return
+
+    for line in sys.stdin:
+        line = line.decode(codec)
+        print line
+
+if __name__ == '__main__':
+    main()
+
+Python 3.",0.00,1.20
+Emboss,इम्बोस,"Engrave
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>{for(j=i+1;j<b.length;j++)if(c==b[j])return c})
+
+Try it online!
+Explanation
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map(c => {
+    for (i = 1; i < b.length; i++) {
+      if (c === b[i])",0.00,0.00
+Paste the clipboard,क्लिपबोर्ड टाँस्नुहोस्,"Paste your translation
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(/\s+/);
+  b = b.trim();
+  return a.map((c, i) => c + ' ' + b);
+}
+
+The idea is to split the input string on whitespace and then map each element of the resulting array to the concatenation of the current element",0.00,0.00
+page tab list,पृष्ठ ट्याब सूची,"table of contents
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(""\t"").map(c=>`<li><a href=""${c}"">${c}</a></li>`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split('\t');
+  b = b.trim();
+  return a.map((c, i) => `
+    <li><a href=""${c}""><span>${c}</span></a></li>
+  `);
+}",0.00,0.00
+Print Size,मुद्रण साइज,"Number of characters in the string
+
+A:
+
+JavaScript (ES6), 28 bytes
+s=>s.split('').reduce((a,b)=>a+=b.length,0)
+
+Try it online!
+Explanation:
+The first argument to reduce is the accumulator. The second argument is the initial value for the accumulator: 0.
+The split function splits the input string into an array of strings. Then we iterate over the array and add the length of each string to the current accumulator:
+let s = ""Print Size"";
+let a = 0;
+s.forEach((b) => a += b.length",0.00,0.00
+Document Relations,कागजात सम्बन्धहरूNAME OF TRANSLATORS,"A document is related to another document if they have the same author, title, year of publication, publisher, and country of publication.
+
+A:
+
+Python 2.7, 57 bytes
+lambda s:''.join(map(str,s))
+
+Try it online!
+
+A:
+
+JavaScript (ES6), 56 bytes
+f=(a,b)=>a.split(/\s+/).filter(e=>b.indexOf(e)>-1).join(' ')
+
+Try it here!
+Explanation
+f = (a, b) => {
+  a = a.trim().split("" "");
+  b =",0.00,1.69
+Co_mpile (%s),कम्पाइल (%s),"Compile(%s)
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map(c=>`${c}(${b})`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map((c, i) => `${c} ${b}`);
+}",0.00,3.90
+paper size,paper size,"paper size
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>`${c} ${b}`).join("" "")
+
+Try it online!
+Explanation
+f = (a, b) =>
+  a.split(
+    /\s+/
+  ).map((c) =>
+    `
+      ${c}
+      ${b}
+    `
+  ).join(
+  "" ""
+)",1.99,17.57
+Orientation,अभिमूखिकरण,"Direction
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(/\s+/).map((c,i)=>`${c} ${b[i]}`)
+
+Try it online!
+Explanation
+f = (a, b) => {
+  a = a.trim().split("" "");
+  b = b.trim();
+  return a.map(c => c + "" "" + b[i]);
+}",0.00,0.00
+_Contents,सामाग्रीहरू,"Contents
+
+A:
+
+JavaScript (ES6), 28 bytes
+s=>s.split(/\s+/).map(t=>t.toLowerCase().replace(/^\s+|\s+$/g,""""))
+
+Try it online!
+
+A:
+
+Python 2, 32 bytes
+lambda s:''.join(filter(lambda x:x.isalnum() or x=='_',s))
+
+Explanation:
+The filter function is used to remove all non-alphanumeric characters and underscores from the input string. The join function is then used to join the remaining characters with a single space between them.",0.00,0.00
+Whether there should be a tooltip on the item,जहा सीमारेखा देखाइन सकिन्थ्यो वा सकिन्नथ्यो,"Should there be a tool tip on this item?
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(/\s+/);
+  b = b.trim();
+  return a.map((c, i) => `${c}${b}`);
+}",0.00,0.00
+Copyright © %Id–%Id The Files authors,प्रतिलिपि अधिकार © १९९९-२००५ नटलस लेखक,"Copyright © Id–Id The files authors
+
+A:
+
+JavaScript (ES6), 56 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>{for(j=i;j<b.length;j++)if(c==b[j])return j})
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map(c => {
+    for (i = 0; i < b.length; i++) {
+      if",0.66,0.22
+_Accept License,इजाजतपत्र स्वीकार गर्नुहोस्,"Accept license
+
+A:
+
+JavaScript (ES6), 28 bytes
+s=>s.split(/\s+/).map(t=>t.toLowerCase()).join(' ')
+
+Try it online!
+
+A:
+
+Python 2, 32 bytes
+lambda s: s.split().map(lambda x: x.lower()).join()",0.00,0.00
+%s:,%s:,"%s
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("":"").map((c,i)=>`${c}: ${b}`).join("":"")
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.split(
+    "":""
+  ).map ((c, i) =>
+    `${c}:` + b
+  ).join ("":"")
+)",0.00,3.91
+paper size,paper size,"paper size
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>`${c} ${b}`).join("" "")
+
+Try it online!
+Explanation
+f = (a, b) =>
+  a.split(
+    /\s+/
+  ).map((c) =>
+    `
+      ${c}
+      ${b}
+    `
+  ).join(
+  "" ""
+)",1.99,17.57
+Add files to an archive,एउटा सङ्ग्रहमा फाइलहरू थप्नुहोस्Date Modified,"Add files in an archive
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>`${c} in ${b}`)
+
+Try it online!
+Explanation
+f = (a, b) => {
+  a = a.replace(/\s+/g, ' ');
+  return a
+    .split(' ')
+    .map(word => word + ' in ' + b);
+}",0.00,3.11
+Valid until:,यससम्म वैध:,"Valid hasta:
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>{for(var d=i;d<b.length;d++)if(c==b[d])return c})
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map(c => {
+    for (var i = 0; i < b.length; i++) {
+      if (c",0.00,0.31
+paper size,paper size,"paper size
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>`${c} ${b}`).join("" "")
+
+Try it online!
+Explanation
+f = (a, b) =>
+  a.split(
+    /\s+/
+  ).map((c) =>
+    `
+      ${c}
+      ${b}
+    `
+  ).join(
+  "" ""
+)",1.99,17.57
+Open,खोल्नुहोस्,"Ne
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map(c => c + ' ' + b);
+}",0.00,0.00
+Create a new palette,palettes-action,"A new palette has been created
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map(c => c + ' ' + b);
+}",0.00,14.91
+4 of a Kind [total],एक प्रकारको ४ [जम्मा],"3 of a kind [partial]
+
+A:
+
+JavaScript (ES6), 56 bytes
+f=(a,b)=>{for(var c=a.length,d=0;d<c;d++)if(b.indexOf(a[d])==-1)c-=1;return c}
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  for (var c = a.length,
+      d = 0; d < c; d++) {
+    if (!b.some(x => x === a[d])) {
+      c--;
+      break;
+    }
+  }
+  return c;",0.00,0.56
+Add _Script,स्क्रिप्ट थप्नुहोस्,"Add Script
+
+A:
+
+JavaScript (ES6)
+function addScript(str) {
+  return str.replace(/_Script/g, 'Script');
+}
+
+console.log(addScript('Add _Script'));",0.00,0.00
+%s lb,unit-symbols,"%s lbs
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map((c, i) => `${c}${b}`);
+}",0.00,4.66
+Central and South America,केन्द्रीय र साउथ अमेरिका,"Central and Southern America
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>`${c} ${b}`)
+
+Try it online!
+Explanation
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map(c => c + ' ' + b);
+}",0.00,0.00
+Automatically hide panel into corner,कुनाम प्यानल स्वचालित रूपमा लुकाउनुहोस्,"自动隐藏面板到角落
+
+A:
+
+JavaScript (ES6)
+function translate(from, to) {
+  return from.split(' ').join(to);
+}
+
+console.log(translate('自动隐藏panel到角落', 'corner'));",0.00,0.00
+Evolution vCard Importer,इभोल्युसन भी कार्ड आयातकर्ताn-pages,"Nevolution vCard importer
+
+A:
+
+I don't know if this is the best way to do it, but I think you can get away with this:
+import re
+from nltk.tokenize import word_tokenize
+
+def tokenize(text):
+    return [w.lower() for w in list(word_tokenize(re.sub(r'\s+', ' ', text)))]
+
+print(tokenize(""evolution vcard importer""))
+# ['evolution', 'vcard', 'importer']",0.00,1.59
+paper size,paper size,"paper size
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>`${c} ${b}`).join("" "")
+
+Try it online!
+Explanation
+f = (a, b) =>
+  a.split(
+    /\s+/
+  ).map((c) =>
+    `
+      ${c}
+      ${b}
+    `
+  ).join(
+  "" ""
+)",1.99,17.57
+_Print,मुद्रण गर्नुहोस्Stock label,"Print
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(/\s+/);
+  b = b.trim();
+  return a.map((c, i) => c + ' ' + b);
+}
+
+The idea is to split the input string on whitespace and then map each element of the array to a new string with the current value of b appended to",0.00,2.62
+Error,त्रुटि,"['Error', 'erro']",0.00,0.00
+Wrap after this length:,यो लम्बाइ पछि बेर्नुहोस्:,"Wrap before this length
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split(/\s+/).map((c,i)=>{for(;i>=b;i--)c+="" "";return c}).join("" "")
+
+Try it online!
+Explanation
+f = (a, b) =>
+  a.split(
+    /\s+/
+  ).map(
+    (c, i) => {
+      for (; i > b; i--) c += "" "";
+      return c;
+    }
+  );
+
+The idea here is to split the input string into an array",0.00,0.24
+"3.5 ""720KB","3. 5 ""720KB","4.0 ""800KB
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>{for(var c=a.split("" ""),d=0,e=c.length;d<e;d++)if(c[d].match(/^\d+\.?\d*$/)){var g=c[d];g=g.replace(/\D/g,"""");c[d]=parseInt(g,10)+parseInt(b,10).toFixed(2)}return c.join(""  "")}
+
+Try it online!
+Explanation:
+f = (a, b",0.00,2.71
+Encoding,सङ्केतन,"Decoding
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("""").map((c,i)=>b.indexOf(c)==i?a.slice(0,i-1)+"":""+a[a.length-i]:a)
+
+Try it online!
+Explanation
+f = (a, b) =>
+  a.split(
+    """"
+  ).map(
+    (c, i) =>
+      b.indexOf(
+        c
+      ) === i ?
+        a.slice(
+          0,
+          i - 1
+        )  + "":"" + a[
+          a.length - i
+        ]",0.00,0.00
+No signature available,वर्णन उपलब्ध छैन,"There is no signature available
+
+A:
+
+JavaScript (ES6), 56 bytes
+f=(a,b)=>a.split(/\s+/).map((c,i)=>{for(j=i;j<a.length;j++)if(c==a[j])return j})
+
+Try it online!
+Explanation
+f = (a, b) => {
+  a = a.trim().split("" "");
+  b = b.trim();
+  return a.map(c => {
+    for (i = 0; i < a.length; i++) {
+      if (c === a",0.00,0.00
+Open,खोल्नुहोस्,"Ne
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map(c => c + ' ' + b);
+}",0.00,0.00
+Testing Equality of 2 Variances (F-Test),२ चलहरूको समानता परीक्षण (एफ-टेस्ट),"The F-Test is significant at the 0.05 level.
+
+I have tried to translate it as follows:
+
+Teste de igualdade de variâncias (F-teste)
+Resposta: O F-teste é significativo ao nível de 0,05.
+
+However, I am not sure if this translation is correct. Is there any better way to translate this sentence?
+
+A:
+
+There is no need to translate the whole sentence. You can just translate the words:
+
+The F-test is significant
+at the level of 0.5
+
+If you want to be more precise, you can say something like this:
+
+O teste F é estatisticamente significativo",0.00,0.45
+Starting listing at result number:,परिणाम सङ्ख्यामा सुरु भइरहेको :,"Listing starting at result number
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.replace(/\s+/g, ' ');
+  return a
+    .split(' ')
+    .map(word => `${word}${b}`);
+}
+
+The idea is to split the input string on spaces, and then map each word to a new string that concatenates the current word with the",0.00,0.20
+Could not commit service,सेवाहरू कमिट गर्न सकेन,"Cannot commit service
+
+A:
+
+The problem is that you are trying to translate the word ""service"", which is a noun, into a verb. You can do this by adding an auxiliary verb to the end of the sentence. For example, if you want to say ""I cannot commit the service"", you would say:
+
+Je ne peux pas commiter le service.
+
+In your case, you need to add the auxiliary verb ""to be able to"" before the noun ""service"":
+
+Je suis incapable de commiter ce service.
+
+Note that there is a difference between being able to do something and having the ability to do it.",0.00,0.00
+Missing DSN name,क्वेरी नाम हराइरहेको छ,"Name of DSN is missing
+
+A:
+
+The problem is that you are trying to translate an English sentence into another language, which is not possible. You can only translate from one language to another.
+If you want to translate from English to French, for example, you would have to use a machine translation service such as Google Translate or Microsoft Translator. These services will take your English sentence and translate it into French.",0.00,0.00
+Empty entity ';' seen; valid entities are: & &quot; &lt; &gt; &apos;,खाली अस्तित्व ';' देखियो; वैध अस्तित्वहरू निम्न हुन : & &quot; &lt; &gt; &apos;,"Empty entity '&apos;seen'; valid entities are & &quot; < > &apos;
+
+A:
+
+The problem is that you are trying to parse the input as HTML. You need to parse it as plain text, and then use regular expressions to extract the parts you want.
+For example, if you want to extract only the part after the first ', you can do something like this:
+import re
+
+text = """"""
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html>
+<head>
+<meta http-equiv=""Content-Type"" content=""text/html;",0.91,7.09
+Feather Selection,undo-type,"A selection of feathers
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split(/\s+/).map((c,i)=>{for(j=i;j<a.length;j++)if(c==a[j])return j})
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.split(
+    /\s+/
+  ).map(
+    (c, i) =>
+      for (j = i; j < a.length; j++) if (c === a[j]) return j
+  )
+)",0.00,2.22
+_Stream Comment/Uncomment,प्रवाह टिप्पणी गरिएको/टिप्पणी नगरिएको,"Stream comment/uncomment
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map((c, i) => `${c}${b}`);
+}",0.00,0.26
+Show the application's version,अनुप्रयोग कन्फिगर गर्नुहोस्,"The application's current version is 1.0.0
+
+A:
+
+I think you can do it like this:
+import java.util.Scanner;
+
+public class Main {
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println(""Enter the sentence"");
+
+        String sentence = scanner.nextLine();
+
+        String[] words = sentence.split(""\\s+""); // split the sentence by spaces
+
+        for (int i = 0; i < words.length; i++) {
+            if (words[i].contains(""version"")) {",0.00,0.00
+"(c) 2004-2008, Gilles Caulier",यहाँ छवि थम्बनेलमा माउस बटनसँग दायाँ क्लिक गर्दा गर्न उपयुक्त कार्य चयन गर्नुहोस् ।,"(n) 2004-2009, Gilles CAULIER
+
+A:
+
+JavaScript (ES6), 56 bytes
+f=(a,b)=>a.split("" "").map(x=>`${b} ${x}`)
+
+Try it online!
+Explanation
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map(str => `${b} ""${str}""`);
+}
+
+The idea is to split the input string on spaces, and then map each of the resulting strings to a new string with the",0.00,0.00
+Text (rw-r--r--),पाठ (rw-r--r--),"Text (rwr---)
+
+I have tried to do it with this code:
+import java.util.Scanner;
+
+public class Main {
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.println(""Enter text"");
+
+        String input = sc.nextLine();
+        String output = input.substring(0, input.length() - 1) + ""-"" + input.charAt(input.lastIndexOf('-') + 1);
+    }
+}
+
+But I am not able to get the correct output. Can anyone please help me",0.00,4.08
+paper size,paper size,"paper size
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>`${c} ${b}`).join("" "")
+
+Try it online!
+Explanation
+f = (a, b) =>
+  a.split(
+    /\s+/
+  ).map((c) =>
+    `
+      ${c}
+      ${b}
+    `
+  ).join(
+  "" ""
+)",1.99,17.57
+Create a clickable imagemap,क्लिक योग्य छविमानचित्र सिर्जना गर्नुहोस्,"Create an image map that can be clicked on
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.map((e,i)=>{for(j=i;j<a.length;j++)if(e===a[j])return e})
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.map ((e, i) => {
+    for (j = i; j < a.length; j++) {
+      if (e === a[j]) {
+        return e;
+      }
+    }
+  }
+)",0.00,0.00
+No album selected,कुनै क्यामेरा पत्ता लागेन,"Aucun album sélectionné
+
+A:
+
+JavaScript (ES6)
+const input = 'No album selected';
+const output = 'aucun album selectionné';
+
+function translate(input, output) {
+  return input.split(' ').map(word => word.toLowerCase()).join(output);
+}
+
+console.log(translate(input));",0.00,0.00
+Calendar,क्यालेन्डर,"Calendrier
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>`${c} ${b}`)
+
+Try it online!
+Explanation
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map(c => c + ' ' + b);
+}",0.00,0.00
+http://www.google.com/search?q=%samp;ie=UTF-8amp;oe=UTF-8,http://www.google.com/search?q=%sie=UTF-8oe=UTF-8,"http://ne.wikipedia.org/wiki/%s
+
+A:
+
+JavaScript (ES6), 56 bytes
+f=(s)=>{for(let i=s.indexOf(""%"");i<s.length;++i)if(s.charAt(i)==""%"")s=s.substring(0,i)+""_""+s.substr(i+1);return s}
+
+Try it online!
+Explanation:
+f = (s) => {
+  for (let i = 0; i < s.length; i++) {
+    if (s[i] == ""%"") {
+      s = s.slice(0, (i + 1))",0.00,11.66
+You are searching for a three.,तपाईँ %s खोजिरहनुभएको छ ।,"Vous êtes à la recherche d'un trois.
+
+A:
+
+Python 2.7
+from __future__ import print_function
+import sys
+
+def main():
+    if len(sys.argv) != 3:
+        print(""Usage: %s <source> <target>"" % sys.argv[0], file=sys.stderr)
+        exit(1)
+
+    src = sys.argv[1]
+    tgt = ""fr""
+
+    with open(src, ""r"") as f:
+        lines = f.readlines()
+
+    for i in range(len(lines)):
+        line = lines[i]
+        words = line.split()
+        if words[0] != ""You"":
+            continue",0.53,0.61
+Export bookmarks to a file,एउटा फाइलमा पुस्तकचिनो निर्यात गर्नुहोस्,"Import bookmarks from a file
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>b.replace(new RegExp(c,""g""),""""))
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.split(
+    /\s+/
+  ).map((c) =>
+    b.replace(
+      new RegExp(
+        c,
+        ""g""
+      ),
+      """"
+    )
+  )
+
+The idea is to split the input string on whitespace, and then map each element of the resulting array to the result of replacing all occurrences of that",0.00,0.00
+Could not create folder '%s': %s,`%s' फोल्डर सिर्जना गर्न सकेन: %s,"Kunde inte skapa mappen ""%s"": %s
+
+A:
+
+The problem is that you need to escape the backslashes in the string literal. You can do it like this:
+import re
+
+def translate(s):
+    return re.sub(r'\\', r'\\\\', s)
+
+print translate('Could not create directory ""%s"" : %s' % ('/some/path', 'error message'))",0.64,2.84
+DateEdit Flags,मिति सम्पादन झन्डा,"DateEditFlags
+
+A:
+
+I think you can do it like this:
+#include <stdio.h>
+#include <string.h>
+
+int main(void)
+{
+    const char *input = ""DateEdit Flags"";
+    char *output = malloc(strlen(input) + 1);
+    strcpy(output, input);
+
+    for (char *p = output; *p; p++)
+    {
+        if (*p == ' ')
+        {
+            *p = '_';
+        }
+    }
+
+    printf(""%s\n"", output);
+}",0.00,0.00
+Change _Date…,मिति परिवर्तन गर्नुहोस्,"Changed _Date…
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.replace(/_Date_/g,b)
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.replace(
+    /^_Date_/,
+    b
+  );",0.00,0.00
+Arabic (_IBM-864),अरेबिक (_IBM-864),"Chinese (GB2312)
+
+A:
+
+Python 2.7
+from __future__ import with_statement
+import sys
+import codecs
+import re
+
+def main():
+    if len(sys.argv) != 2:
+        print >> sys.stderr, ""Usage: %s <source language> <target language>"" % sys.argv[0]
+        sys.exit(1)
+
+    src_lang = sys.argv[1]
+    tgt_lang = 'ne'
+
+    try:
+        src_file = codecs.open(src_lang, 'r', 'utf-8')
+        src_text = src_file.read().decode('utf-8')
+    except IOError as e:
+        print",0.00,1.64
+_Reload,पुन: लोड गर्नुहोस्,"Reloaded
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map((c, i) => `${c}${b}`);
+}",0.00,0.36
+%s hours,unit-symbols,"%s days
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.toString().split("" "").map(x=>parseInt(x,10)*60*60*b)
+
+Try it online!
+Explanation
+f = (a, b) => {
+  a = a.toString();
+  b = b || 1;
+  return a.split(' ').map((x) => parseInt(x * 60 * 60, 10) * b);
+}",0.00,4.04
+"IP Telephony, VoIP and Video Conferencing","IP टेलिफोनी, VoIP र भिडियो कन्फेरेन्सिङ","Internet Protocol telephony, Voice over Internet Protocol and video conferencing
+
+A:
+
+I think you can do it like this:
+<?xml version=""1.0"" encoding=""utf-8""?>
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Strict//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"">
+<html xmlns=""http://www.w3c.org/1999/xhtml"" xml:lang=""en"" lang=""en"">
+<head>
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"" />
+    <title>Title</title>
+</head>
+<body>
+    <table>
+        <tr>
+            <td>IP Telephony</td><td>VoIP</td><td>Video Conferencing</td>",0.00,2.20
+No more radio buttons.,अरू रेडियो टाँकहरू छैनन् ।,"No más botones de radio.
+
+A:
+
+Python 2.7
+import re
+
+def translate(sentence):
+    pattern = re.compile(r'\b(\w+)\b')
+    return pattern.sub(lambda m: m.group(1), sentence)
+
+print translate(""No more radio button"")
+
+Output
+No más botón de radio",0.00,0.00
+%s:,%s:,"%s
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("":"").map((c,i)=>`${c}: ${b}`).join("":"")
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.split(
+    "":""
+  ).map ((c, i) =>
+    `${c}:` + b
+  ).join ("":"")
+)",0.00,3.91
+Check for new articles automatically,नयाँ लेखका लागि स्वचालित रूपमा जाँच गर्नुहोस्,"New articles will be checked automatically
+
+I have tried to translate it using Google Translate, but I am not sure if it is correct or not. Can anyone help me with this?
+
+A:
+
+Google Translate does not work very well when translating from one language to another. It is better to use an online translation service such as Babylon.",0.00,0.00
+SSHFS Remote Synchronization User Name,समक्रमण सेवा एड इन चयन गरियो,"sshfs remote synchronization user name
+
+A:
+
+I think you can do it like this:
+#!/usr/bin/env perl
+
+use strict;
+use warnings;
+
+my $host = 'localhost';
+my $user = 'sshfs';
+
+my @lines = <DATA>;
+
+for my $line (@lines) {
+    chomp $line;
+    if ($line =~ /^sshfs\s+remote\s+synchronization\s+user\s+name$/) {
+        print $line . ""\n"";
+    }
+}
+
+__DATA__
+sshfs remote synchronisation user name",0.00,0.00
+Game Over!,खेल समाप्त !,"GAME OVER!
+
+A:
+
+JavaScript (ES6), 28 bytes
+s=>s.split(/\s+/).map(t=>t.toLowerCase()).join(' ')
+
+Try it online!",0.00,0.61
+GNOME Games web site,जिनोम खेल वेब साइट,"Gnome games web site
+
+A:
+
+Python 2.x
+import sys
+print sys.stdin.readline().split(' ')[1].split(':')[0].strip()
+
+Python 3.x 
+from __future__ import print_function
+print(input().split()[1].rsplit(':', 1)[0])
+
+Output
+Gnome games",0.00,0.00
+_Selection,चयन गर्नुहोस्,"Sélection
+
+A:
+
+JavaScript (ES6), 28 bytes
+s=>s.split(/\s+/).map(t=>t.toLowerCase().replace(/^\s+|\s+$/g,""""))
+
+Try it online!
+
+A:
+
+Python 2, 32 bytes
+lambda s:''.join(filter(lambda x:x.isalpha(),s.lower().split()))
+
+Try it here!
+Explanation:
+The first filter is to remove all non-alphabetic characters from the string. Then we join the rest of the string with an empty string.",0.00,0.00
+Screen Number: %d,पर्दा नम्बर: %d,"The number of the screen is %d
+
+A:
+
+Python 2.7.6 (default, Nov  6 2014, 11:58:56) 
+[GCC 4.8.2] on linux2
+Type ""help"", ""copyright"", ""warning"" or ""license"" for more information.
+>>> import sys
+>>> sys.stdin.readline()
+'Input: '
+>>> print(sys.stdin)
+Input: 
+>>> input = raw_input('Input:')
+>>> input
+Input: Input:
+>>> s = input.split()
+>>> s
+['Input:', '']
+>>> len(s)
+1",0.54,0.94
+D_elete Memo List,नयाँ मेमो सूची,"Delete memo list
+
+A:
+
+Python 2.7.6 (default, Oct  6 2015, 11:02:16) 
+[GCC 4.8.2] on linux2
+Type ""help"", ""copyright"", ""warning"" or ""license"" for more information.
+>>> import re
+>>> s = ""Delete memo list""
+>>> m = re.findall(r'\w+', s)
+>>> m
+['Delete', 'memo', 'list', '']
+>>> ''.join(m)
+'Delete memo list'",0.00,0.00
+Show the previous move,अघिल्लो चाल देखाउनुहोस्,"The previous move
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>b.match(new RegExp(""^""+c+""$""))[0])
+
+Try it online!
+Explanation
+f = (a, b) => {
+  a = a.replace(/\s+/g, '');
+  b = b.trim();
+  return b.match(
+    new RegExp('^' + a + '$')
+  )
+}",0.00,0.00
+_Lower Path,vectors-action,"Lower Path
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.toLowerCase().split("" "").map(c=>b.indexOf(c)>-1?c:"""")
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.toLowerCase();
+  b = b.toLowerCase()
+  return a.split(' ').map((_, i) =>
+    if (i >= 0 && i < b.length) {
+      return b.charAt(i);
+    } else {
+      return;
+    }
+  )
+}",0.00,5.77
+Use revision:,संशोधन प्रयोग गर्नुहोस्:,"Use revision
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>`${c} ${b}`).join("" "")
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.split(
+    /\s+/
+  ).map(
+    c =>
+      `
+        ${c}
+        ${b}
+      `
+  ).join(
+    "" ""
+  )",0.00,0.33
+Properties,गुणहरू,"Propriétés
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map(c => c + ' ' + b);
+}",0.00,0.00
+Encodings,सङ्केतन,"Decodings
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>`${c} ${b[i]}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map(c => c + ' ' + b[i]);
+}
+
+The idea is to split the input string on spaces, and then map each space to the corresponding character in the output string.",0.00,0.00
+Saturation,अतितृप्त,"Satiation
+
+A:
+
+JavaScript (ES6), 28 bytes
+s=>s.toLowerCase().split(/\s+/).map(t=>t.replace(/^\s+|\s+$/g,"""")).join("" "")
+
+Try it online!",0.00,0.00
+Network,सञ्जाल,"Network
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>`${c} ${b[i]}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map(c => c + ' ' + b[i]);
+}",0.00,0.00
+Rijeka,रिजेका,"Riječe
+
+A:
+
+Python 2.7.9 (default, Nov  6 2015, 11:02:16) 
+[GCC 4.8.2] on linux2
+Type ""help"", ""copyright"", ""and license"" for more information.
+>>> import nltk
+>>> from nltk.corpus import stopwords
+>>> stopwords.words('english')
+['a', 'an', 'are', 'as', 'at', 'but', 'c', 'd', 'e', 'f', 'g', 'h',
+... 'i', 'in', 'is', 'it',",0.00,0.00
+There is nothing on the clipboard to paste.,टाँस्नका लागि क्लिपबोर्डमा केही पनि छैन ।create new folder,"Il n'y a rien sur le presse-papier pour coller.
+
+A:
+
+Python 2.7
+from __future__ import print_function
+import sys
+
+def main():
+    if len(sys.argv) != 2:
+        print(""Usage: %s <text>"" % sys.argv[0], file=sys.stderr)
+        sys.exit(1)
+    text = sys.argv[1]
+    lines = text.split(""\n"")
+    for line in lines:
+        if line.strip():
+            print(line.strip())
+
+if __name__ == ""__main__"":
+    main()
+
+Output
+Usage: python2.7 test.py <text>
+There is",0.00,3.56
+_Toggle Bookmark,टगल पुस्तकचिनो,"Toggle Bookmark
+
+A:
+
+JavaScript (ES6), 28 bytes
+Saved 1 byte thanks to @davidwalsh's comment.
+f=(a,b)=>a.toLowerCase().split("" "").map(c=>`${c} ${b}`).join("""")
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.toLowerCase()
+    .split(/\s+/)
+    .map(word => `${word}${b}`)
+    .join('')
+console.log(f(""toggle bookmark"", ""bookmarks""))
+
+A:
+
+Python 2, 32 bytes
+lambda",0.00,0.00
+make[%d]: Leaving directory `%s',make[%d]: डाइरेक्टरी `%s' छोड्दैछ,"make[4]: *** No rule to make target `%s', needed by `%s'.  Stop.
+
+A:
+
+The problem here is that you are trying to run make on a file that does not exist. You can fix this by changing your makefile to look like this:
+%.o: %.c
+    $(CC) $(CFLAGS) -c -o $@ $<
+
+This will tell make to compile the source file and then create an object file from it.",0.00,6.53
+Title,शीर्षक,"The title of the movie
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.replace(/\s+/g, ' ');
+  return a
+    .split(' ')
+    .map(word => `${word}${b}`);
+}
+
+The idea is to split the input string by spaces, and then map each word to a new string that concatenates the original word with the translated",0.00,0.00
+Font:,फन्ट:,"A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>`${c} ${b[i]}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map(c => c + ' ' + b[i]);
+}",0.00,0.54
+Edit LDAP directory,प्रयोगकर्ता डाइरेक्टरी,"Modify LDAP directory
+
+A:
+
+The problem is that you are trying to translate an English sentence into another language. You need to learn how to translate from one language to another, not vice versa.
+If you want to translate something from English to French, for example, you would start by translating each word in the sentence into French. Then you would put them all together and see if it makes sense. If it doesn't make sense, then you would go back and try to figure out what went wrong.",0.00,0.00
+Custom Header,अनुकूलन सन्देश,"My custom header
+
+A:
+
+I think you can do it like this:
+#include <iostream>
+#include <string>
+#include <sstream>
+
+using namespace std;
+
+int main()
+{
+    string input = ""Custom Header"";
+    string output = ""My custom header"";
+
+    stringstream ss(input);
+    string line;
+    while (getline(ss, line))
+    {
+        if (line.find(""Custom Header"") != string::npos)
+        {
+            output = line;
+            break;
+        }
+    }
+
+    cout << output << endl;
+
+    return 0;
+}",0.00,0.00
+pressed,दबाइएकोtogglebutton,"Pressé
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map(c => c + ' ' + b);
+}",0.00,4.54

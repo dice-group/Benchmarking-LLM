@@ -1,0 +1,1439 @@
+Source,Reference,Prediction,BLEU,chrF++
+Because I believed in destiny and fate..,"මම මගේ ඉරනමයි, දෛවයයි විශ්වාස කරා..","Porque yo crei en el destino y la suerte
+
+A:
+
+I think you can do it with a simple regex, but I'm not sure if this is the best way to do it:
+import re
+
+sentence = 'Porque yo creí en el Destino y la Suerte'
+
+result = re.sub(r'\bDestino\b', 'Suerte', sentence)
+
+print(result)",0.00,0.50
+You will get know slowly.,මම සේරම ඔයාට හෙමිහිට කියන්නම්.,"Anda akan tahu perlahan-lahan.
+
+A:
+
+I think you can do it like this:
+public static void main(String[] args) throws IOException {
+    BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+    String line;
+    while ((line = br.readLine()) != null) {
+        String[] parts = line.split("" "");
+        if (parts.length != 2) {
+            System.out.println(""Invalid input!"");
+            continue;
+        }
+        String s1 = parts[0];
+        String s2 = parts[1];
+        int i = 0;
+        while (i < s1.length()) {",0.00,0.17
+"Buckle up, guys. I am increasing the speed.",මම වේගය උපරිම කරනවා.,"Tighten your seat belts, boys. The car is going faster.
+
+A:
+
+I think you can do it in two steps:
+1) Translate the first part of the sentence (""Increasing the speed"")
+2) Then translate the second part (""Tightening the seatbelts"").
+The trick is to use the word ""increase"" in the first step and ""tighten"" in the second step.",0.00,0.25
+I'm going to the bathroom again.,මට නාන කාමරේකට යන්න ඕන,"I am going to go to the toilet again.
+
+A:
+
+I think this is what you want:
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println(""Please enter a sentence in English."");
+
+        String sentence = scanner.nextLine();
+        String[] words = sentence.split(""\\s+""); // split on whitespace
+
+        for (int i = 0; i < words.length; i++) {
+            if (words[i].equals(""toilet"")) {",0.00,0.00
+Convey my regards to the minister,ඇමතිතුමාට ස්තුතියි කළා කියන්න,"Congratulate the minister on his birthday
+
+A:
+
+I think you can do it in two steps. First, you need to find the word that is closest to the end of the sentence. In this case, it is ""regards"". Then, you just need to replace it with ""congratulate"". For example, if the sentence is:
+
+Congratulate me on my birthday
+
+you would translate it as:
+
+Convey my congratulations to me for my birthday",0.00,0.00
+"""He died in a place he didn't need to be,""","""එයා මලේ එයා නොසිටිය යුතු තැනක දී,","""Il est mort dans un endroit où il n'avait pas besoin de se trouver.""
+
+A:
+
+I think you can do it like this:
+#include <iostream>
+#include <string>
+
+using namespace std;
+
+int main()
+{
+    string input;
+    cin >> input;
+
+    int i = 0;
+    while (i < input.length())
+    {
+        if (input[i] == ' ')
+        {
+            i++;
+        }
+        else
+        {
+            break;
+        }
+    }
+
+    cout << input.substr(0, i) << endl;
+
+    return 0;
+}",0.00,0.43
+How did it get inside?,කොහොමද උන් ඇතුලට ආවෙ?,"¿Cómo entró ahí?
+
+A:
+
+I think you can do it like this:
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println(""How did it enter?"");
+
+        String input = scanner.nextLine();
+        String output = input.replaceAll(""[^a-zA-Z0-9]"", """"); // remove all non-alphanumeric characters
+        output = output.toLowerCase(); // convert to lower case
+
+        if (output.equals(""in"")) {
+            System.",0.00,0.18
+"Hey, Rinky.",කබීර්...,"Hoi, Rinki.
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split("" "").map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(/\s+/);
+  b = b.trim();
+  return a.map((c, i) => `${c}${b}`);
+}
+
+The idea is to split the input string on spaces, and then map each of those words to a new string that concatenates",0.00,0.83
+"Sait, look at them","ලොක්කා, මේ බලන්න","See, they are looking at you
+
+A:
+
+JavaScript (ES6), 28 bytes
+s=>s.split(/\s+/).map(t=>t.toLowerCase()).join(' ')
+
+Try it online!
+
+A:
+
+Python 2, 32 bytes
+lambda s:''.join(s.lower().split()[::-1])
+
+Try It Online!
+Explanation:
+The idea is to split the string on whitespace and then reverse the order of the elements in the resulting list. Then we join the reversed list back together with a space between each element.",0.00,0.21
+- [Guitar riff] -♪ Battlesaurs ♪,♪ බැල්ට්සෝරස් ♪,"- [Battlesaurs] - Guitar Riff
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(/\s+/);
+  b = b.trim();
+  return a.map((c, i) => `${c}${b}`);
+}
+
+The idea is to split the input string on whitespace, and then map each element of the array",0.00,0.00
+"-Would you like me to connect you? -Yes, please.",-සම්බන්ධ කරන තුරු කරුණාකර රැදී සිටින්න.,"-¿Quiere usted conectarme? -Sí, por favor.
+
+A:
+
+I think this is what you're looking for:
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println(""Would you want to connect with me?"");
+
+        if (scanner.hasNextLine()) {
+            String line = scanner.nextLine();
+            String[] words = line.split(""\\s+"");
+
+            if (words[0].equals(""yes"")) {
+                if (words[",0.00,0.34
+Army... of the 12 Monkeys.,හමුදාව... .. වානරයන් 12 දෙනාගේ.,"Soldiers of the Twelve Monkeys.
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>`${c} of the ${b}`)
+
+Try it online!
+Explanation
+f = (a, b) =>
+  a.split(
+    /\s+/
+  ).map((c) => `${c}  of  the  ${b}  `
+  )
+
+The idea is to split the input string into an array of words, and then map each word to a new string that contains the word and the number of times it appears in the input",0.00,1.20
+- What?,- මොකක්?,""") and len(output) > 0:
+            output[-1] += "" "" + line[len(line) - len",1.87,1.04
+I'm sorry. I think I'm lost. Are you from Los Angeles?,"මම හිතන්නෙ මම අතරමං වෙලා, ඔයා ලොස් ඇන්ජලීස් වල කනෙකෝද?","Sorry, I think I am lost. You are from L.A.?
+
+A:
+
+This is a very interesting problem and I would like to share my thoughts on it with you.
+First of all, I want to point out that there is no such thing as a ""standard"" solution for this kind of problems. There are many different ways to solve this problem and each of them has its own advantages and disadvantages. For example, if you have a lot of training data, you can train a neural network to learn how to translate sentences from one language to another. If you don't have any training data at all, then you can use",0.00,0.26
+"Uh, I felt something touch me. Something strange.",මට මහ අමුතු හැඟීමක් ආවා.,"Uh, saya merasa sesuatu menyentuh saya. Sesuatu yang janggal.
+
+A:
+
+I think this is what you want:
+import java.util.Scanner;
+
+public class Main {
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println(""Enter a sentence"");
+
+        String sentence = scanner.nextLine();
+
+        String[] words = sentence.split(""\\s+""); // split on whitespace
+
+        for (int i = 0; i < words.length; i++) {
+            if (words[i].equals(""uh"")) {",0.00,0.18
+Look over there..,අර පැත්ත බලන්න..,"Si, look over there.. 
+
+A:
+
+I think you can do it like this:
+public static void main(String[] args) {
+    Scanner input = new Scanner(System.in);
+    System.out.println(""Enter a sentence in English"");
+
+    String sentence = input.nextLine();
+
+    String[] words = sentence.split(""\\s+""); // Split the sentence by spaces
+
+    for (int i = 0; i < words.length; i++) {
+        if (words[i].equals(""Look over there."")) {
+            words[i] = ""Look over here."";
+        }
+    }",0.00,0.62
+John Daggett's body was found in a dumpster an hour ago.,පැයකට කලින් ජෝන් ඩැගට් ගේ මළසිරුර හම්බවුනා කුණුදාන තැන තිබිලා.,"The body of John Daggert was found yesterday in a garbage can.
+
+A:
+
+JavaScript (ES6), 56 bytes
+f=(a,b)=>a.split(/\s+/).map((c,i)=>b.replace(new RegExp(""(^|\\s)""+c+""(\\s|$)"",""g""),""$1""+a[i]+""$2""))
+
+Try it online!
+Explanation
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map(c =>",0.00,0.18
+"No, Mom, it was an accident.","නෑ අම්මේ, ඒක අනතුරක්∙","No, ma'am, it happened by accident.
+
+A:
+
+I think you can do this in two steps. First, translate the first part of the sentence (No, Mom) and then translate the second part (it was an Accident). The trick is to make sure that the translation of the whole sentence is grammatically correct. For example, if you want to translate ""No, Mom"" as ""ma'am"", you need to add a preposition before the word ""Mom"". In this case, I would use ""mama"" instead of ""Mom"":
+
+Ma'am, no, it wasn't an accident.
+  Mama,",0.00,0.18
+"Listen, we both know that cancer is a shit show.",අහන්න. අපි දෙන්නම දන්නවා දැන් පිළිකාවේ උපරිම මට්ටම කියලා.,"We both know it is a shitty show.
+
+A:
+
+I think you can do this in two steps. First, translate the first part of the sentence (""we both know..."") and then translate the second part (""it is a...""). This way, you will have to translate only one word at a time, which should be much easier than trying to translate the whole sentence at once.
+Here's how I would go about it:
+
+We both know what cancer is.
+It is a terrible disease.
+
+If you want to make sure that you don't miss any words, you can use Google Translate to check if your translation is",0.00,0.26
+Then what about the short guy?,එහෙනම් මිට්ටා?,"The short guy is very tall.
+
+A:
+
+Python 2.x
+import sys
+from string import maketrans
+
+def translate(s):
+    return s.translate(maketrans('', ''))
+
+if __name__ == '__main__':
+    for line in sys.stdin:
+        print translate(line)
+
+Python 3.x (and later)
+import sys as _sys
+_sys.stdout = _sys.__stdout__
+sys.stdout.encoding = 'ascii'
+print(translate(sys.stdin.readline().decode('utf-8')))",0.00,0.00
+"No, I - I would have doubted me too.","- නෑ, මටත් මම ගැන සැකයක් තිබුන.","No, yo - yo habria dudado de mi mismo.
+
+A:
+
+I don't think you can do it in one go. You need to split the sentence into two parts and then translate each part separately.
+For example, if you want to translate the first part of the sentence (No, I), you could use something like this:
+
+No, yo no tengo ninguna duda de mí mismo.
+
+The second part is a bit trickier, but you could try something like this (depending on your language):
+
+Yo no dudaría de mis propias capacidades.
+
+If you really want to do it all in one shot, you could",0.33,0.48
+And boys too...,පිරිමි ලමයිනුත් ඉන්නවා කිව්වා ...,"Si, and boys too...
+
+A:
+
+I think you can do it like this:
+public static void main(String[] args) throws IOException {
+    BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+    String line;
+    while ((line = br.readLine()) != null) {
+        String[] parts = line.split(""\\s+"");
+        if (parts.length == 2) {
+            System.out.println(""Input: "" + parts[0] + ""..."");
+            String translation = parts[1].toLowerCase();
+            if (translation.equals(""si"")) {
+                System.",0.00,1.01
+Ok Alright then you and your cameraman will remain in custody until you come out with the truth.,"හරි, ඔයා ඇත්ත නොකිව්වොත් ඔයයි ඔයාගේ කැමරා කාරයයි දෙන්නම අත්අඩංගුවට ගන්නවා","Okay, alright, then you two will remain under arrest until you tell the truth.
+
+A:
+
+I don't think there is any way to do this. The only thing that can be done is to translate the first part of the sentence (""okay, alright..."") and leave the rest untouched.",0.00,0.18
+-I wish I had 10 more like you.,-අනේ මට තව උඹ වගේ 10ක් හිටියනම්.,"-Yo deseo tener 10 mas como tu.
+
+A:
+
+I think this is what you're looking for:
+import java.util.ArrayList;
+import org.apache.commons.lang3.StringUtils;
+
+public class Main {
+
+    public static void main(String[] args) {
+        ArrayList<String> sentences = new ArrayList<String>();
+        sentences.add(""I wish I could have 10 more people like you."");
+
+        for (String sentence : sentences) {
+            String[] words = StringUtils.split(sentence, "" "");
+            StringBuilder sb = new StringBuilder();
+            for (int i = 0; i < words.length; i++)",0.00,0.79
+I just blew a shot at your grandma's memory.,මං උබේ ආච්චිගේ මතකයට ෂොට් එකක් දුන්නා.,"I just killed your grandmother's memory.
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>{for(j=i;j<a.length;j++)if(c==a[j])return j})
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  for (let i = 0; i < a.length; i++) {
+    if (a[i] === b) {
+      return i;",0.00,0.22
+Now. Choose.,තෝරා ගන්න..,"I am going to pick up my son from school now.
+
+A:
+
+I think this is what you want:
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+        System.out.println(""Please enter your name: "");
+
+        String name = input.nextLine();
+        if (name == null || name.length() == 0) {
+            System.exit(0); // exit program
+        } else {
+            for (String word : name.split("" "")) {
+                System.",0.00,0.43
+"Just hold on. Come on, get her out.",එන්න එයාව එලියට ගමු.,"Huh? What do you mean?
+
+A:
+
+I think this is what you want:
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println(""Enter a sentence in English"");
+
+        String sentence = scanner.nextLine();
+        String[] words = sentence.split(""\\s+""); // split by spaces
+
+        for (int i = 0; i < words.length; i++) {
+            if (words[i].equals(""just"")) {
+                words[i] = """,0.00,0.20
+It started out as a scrapbook and just kind of mutated.,ඒක පටන් ගත්තේ ලිපි අලවන පොතක් හැටියට ඒවගේම ඩිංගක් වෙනස් වීමකට භාජනය උනා∙,"Si started out como un libro de recortes y solo mutó.
+
+A:
+
+I think you can do it in two steps. First, translate the first part of the sentence (""It started out...""), then translate the second part (""just kind of..."").
+The first step is easy:
+
+Si started out like a book of scraps and just mutated.
+
+The second step is trickier. You need to find a way to say ""just mutated"" in Spanish without using the word ""mutated"". I don't know if there is such a word in Spanish, but here are some possibilities:
+
+mutado
+mut",0.00,0.00
+I decided what I'm gonna do.,මං කරන්න යන එක තීරණය කළා.,"Saya memutuskan apa yang akan saya lakukan.
+
+A:
+
+I think you need to change the order of the words in the sentence. The first word should be ""what"", and the second one should be ""decided"".",0.00,0.36
+I want to express my true feelings.,මට මගේ ඇත්ත හැඟීම් පෙන්නන්න ඕන.,"Si, yo quiero expresar mi verdadero sentimiento.
+
+A:
+
+I think you can do it like this:
+function translate(input) {
+    var output = """";
+    for (var i = 0; i < input.length; i++) {
+        if (input[i] == "" "") {
+            output += "" "";
+        } else {
+            if (output.length > 0) {
+                output += ' ';
+            }
+
+            output += input[i];
+        }
+    }
+
+    return output;
+}
+
+console.log(translate(""I want to""));",0.00,0.22
+Good night.,සුභ රාත්‍රියක්.,"Selamat malam.
+
+A:
+
+I think you can do it like this:
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println(""Good night."");
+
+        String input = scanner.nextLine();
+        String[] words = input.split(""\\s+""); // split on whitespace
+
+        for (int i = 0; i < words.length; i++) {
+            if (words[i].equals(""good"")) {
+                words[i] = ""salam"";
+            }
+        }",0.00,0.21
+I'm a Patriot!,මම දේශප්‍රේමීයෙක්!,"Si, yo soy un patriota!
+
+A:
+
+I think this is what you want:
+import java.util.Scanner;
+
+public class Main {
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.println(""I'm a patriot!"");
+
+        String s = sc.nextLine();
+        String[] words = s.split(""\\s+""); // split on whitespace
+
+        for (int i = 0; i < words.length; i++) {
+            if (words[i].equals(""Patriot"")) {
+                words[i] = ""Si",0.00,0.21
+"The same laughter Welcome, my son",එන්න මල්ලි,"The same laugh welcome, my child
+
+A:
+
+I think you can do it with a single pass over the input string. You can use a regular expression to find all instances of the word ""child"" and replace them with ""my child"". Then you just need to remove the quotes from the output string.
+import re
+
+def translate(input):
+    return re.sub(r'child', 'my child', input)
+
+print(translate(""The same laugh Welcome, My son""))
+
+This will give you:
+The same laugh welcomemy child",0.00,0.00
+I fought my way back for you.,මම ඔයා වෙනුවෙන් ඉන්නවා∙,"I fought hard for you.
+
+A:
+
+I think this is what you're looking for:
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println(""Please enter a sentence in English"");
+
+        String sentence = scanner.nextLine();
+
+        String[] words = sentence.split(""\\s+""); // Split the sentence into words
+
+        for (int i = 0; i < words.length; i++) {
+            if (words[i].equals(""I"")) {
+                words[i] = ""I",0.00,0.00
+- You will get the rest of your money... and don't call me ever again.,වැඩේ කෙරුනට පස්සෙ තමුන්ගේ සල්ලි ලැබෙයි. අදින් පස්සෙ කවදාවත් මට කෝල් කරන්න එපා.,"- Anda akan mendapatkan sisa uang Anda... dan jangan pernah menelepon saya lagi.
+
+A:
+
+I think this is what you want:
+import java.util.Scanner;
+
+public class Main {
+
+    public static void main(String[] args) {
+        Scanner in = new Scanner(System.in);
+        System.out.println(""Please enter a sentence"");
+
+        String sentence = in.nextLine();
+
+        String[] words = sentence.split("" ""); // split the sentence into words
+
+        for (int i = 0; i < words.length; i++) {
+            if (words[i].equals(""you""",0.00,0.26
+Voice...,කටහඩ..,"Voices...
+
+A:
+
+I think you can do this with a simple regex. The idea is to split the input string by spaces, and then match each word in the resulting array against a list of words that should be translated. For example:
+import re
+
+def translate(input):
+    words = re.split('\s+', input)
+    for word in words:
+        if word in ['voice', 'voices']:
+            return 'Voices'
+        else:
+            return word
+
+print(translate('Voice...'))
+
+This will give you:
+Voices",0.00,0.67
+The sales of double-bed dips down.,ද්විත්ව ඇඳන් විකිණුම් අවපාතය පහළ යනව.,"La venta de las camas dobles baja.
+
+A:
+
+I think this is what you want:
+import re
+
+def translate(sentence):
+    words = re.split('\s+', sentence)
+    for word in words:
+        if len(word) == 1:
+            yield word
+        else:
+            yield ' '.join([translate(w) for w in word])
+
+for s in translate(input()):
+    print(s)
+
+The idea is to split the sentence on whitespace and then iterate over the resulting list of words. For each word, we check whether it is a single word or not. If it is",0.00,0.17
+I let you in. Now please let the girl go.,මම ඉන්නම්∙ අනේ මේ කෙල්ලට යන්න දෙන්න∙,"You let me in, now please let her go.
+
+A:
+
+I think this is what you're looking for:
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println(""Please enter a sentence"");
+
+        String sentence = scanner.nextLine();
+
+        String[] words = sentence.split(""\\s+""); // split on whitespace
+
+        for (int i = 0; i < words.length; i++) {
+            if (words[i].equals(""you"")) {
+                words[i]",0.00,0.00
+"Get out of there, Kerns!",ඔතනින් ඉක්මනට අයින් වෙනවා කර්න්ස්!,"Go away, Kerns' ass!
+
+A:
+
+Python 2.7
+import re
+
+def translate(s):
+    m = re.search(r'\b(\w+)\b', s)
+    if m:
+        return m.group(1)
+    else:
+        return s
+
+print translate('Get out of here, Kers!')
+
+Output
+go away, kers' ass!",0.00,0.29
+Don't let him play you as well.,ඔයාට එයත් එක්ක සෙල්ලන් කරන්න දෙන්න එපා..,"No dejes que él juegue contigo como lo hace con los demás.
+
+A:
+
+I think this is what you're looking for:
+
+No le permitas jugar contigo de la misma manera que juega con los otros.
+
+It means that he doesn't play with you in the same way that he plays with other people.",0.00,0.48
+If the powder's...,වෙඩිබෙහෙත්...,"Si el polvo es...
+
+A:
+
+I think you can do it like this:
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.println(""Input: "");
+
+        String input = sc.nextLine();
+        String output = """";
+
+        if (input.equals(""If the powder is..."")) {
+            output = ""Si el polvo es:"";
+        } else if (""input.equals(...)"") {
+            for (int i = 0; i < input.length();",0.00,1.30
+You just killed how many people in that church.,"මොකක්, අර පල්ලියේ ඇතුලෙදි ඔයා කීයක් මැරුවද?","How many people did you just kill?
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>b.match(new RegExp(c,""g"")).length)
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.split(
+    /\s+/
+  ).map(
+    c =>
+      b.match(
+        new RegExp(
+          c,
+          ""g""
+        )
+      ).length
+  );
+
+The idea is to split the input string into an array of words, and then map each word to the number of times it appears in the",0.00,0.37
+Let Bhabhi feel at least once that she is the daughter-in-law of this family.,අක්කට මේ ගෙදර ඉන්න දෙන්න ටිකක් හරි එයා මේ ගෙදර ලේලි.,"Let Bhaiya feel atleast once that he is the son-in-law of these family.
+
+A:
+
+I think you can do it in two steps. First, translate the whole sentence into English. Then, translate each word separately and put them back together to get the original sentence.
+For example, let's say we want to translate the first part of the sentence:
+
+Input: let bhabhi feeling at least one time that she was the daughter-in-laws of this house.
+
+The first step would be to translate it into English like this:
+
+Let Bhaiyya feel as if he was the Son-In-Law of these House.",0.00,0.13
+'They were submerged in sorrow',"‍ශෝ‍ක‍යෙන්‍ ‍දි‍ය‍වී ‍ය‍න ‍මේ ‍ජ‍න‍යා‍ව, ‍ වේ‍දා‍ල ‍ජා‍ති‍යේ ‍අත්‍ ‍මි‍ටෙන්‍ ‍මු‍ද‍වා,","['They', 'were', 'merged', 'in', 'sorrow']
+['They', 'weren', 'drowning', 'in']",0.00,0.45
+Watching you like this...,ඔයාව මේ විදිහට බලන්න...,"You are watching me like this...
+
+A:
+
+JavaScript (ES6), 28 bytes
+s=>s.split(/\s+/).map(t=>t.toLowerCase()).join(' ')
+
+Try it online!
+
+A:
+
+Python 2, 32 bytes
+lambda s: s.split().map(lambda x: x.lower()).join()
+
+Try it here!
+Explanation:
+s = input()
+s = s.replace("" "","""")
+s = re.sub(""[^a-zA-Z0-9]"","""",s)
+s=s.split()
+for i in range(len(s)):
+    s[i]=s[i]",0.00,1.34
+Do you remember the authentic aboriginal walkabout?,∙∙∙සත්‍ය අදිවාසික සංචාරයන් ගැන එහෙම?,"Si, yo recuerdo el auténtico paseo aborigen.
+
+What is the correct translation?
+
+A:
+
+I would translate it like this:
+
+Do you remember when we used to go on walks with our grandparents?",0.00,0.30
+You're ruining Ranjana's life.,හිතුවක්කාරකම. ඔයා රංජනාගෙ ජීවිතේ විනාශ කරනව.,"You are ruining her life.
+
+A:
+
+I think you can do it like this:
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+        System.out.println(""Please enter a sentence"");
+
+        String sentence = input.nextLine();
+        String[] words = sentence.split(""\\s+""); // Split the sentence into words
+
+        for (int i = 0; i < words.length; i++) {
+            if (words[i].equals(""ruining"")) {
+                words[i] =",0.00,0.32
+Why?,ඇයි?,"I don't know why.
+
+A:
+
+I think you can do it like this:
+public static void main(String[] args) throws IOException {
+    BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+    PrintWriter pw = new PrintWriter(new FileWriter(""output.txt""));
+
+    String line;
+    while ((line = br.readLine()) != null) {
+        String[] words = line.split(""\\s+"");
+        for (int i = 0; i < words.length; i++) {
+            if (words[i].equals(""Why?"")) {
+                pw.println(""I don't know",0.00,0.32
+I know.,මං දන්නවා,"Je sais.
+
+A:
+
+I think this is what you want:
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println(""Enter a sentence in English"");
+
+        String sentence = scanner.nextLine();
+        String[] words = sentence.split(""\\s+""); // split on whitespace
+
+        for (int i = 0; i < words.length; i++) {
+            if (words[i].equals(""I"")) {
+                words[i] = ""Je"";
+            } else if (",0.00,0.00
+Thieves! Fire! Murder!,"හොරු, පහර දෙන්න..","Si thieves, fire, murder!
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split("" "").map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.split(
+    "" ""
+  ).map(
+    c =>
+      `${c} ""${b}`
+  )
+console.log(f(""Thieves!Fire!Murder!"", ""si""));
+
+A:
+
+Python 2, 33 bytes
+lambda a,b:''.join([str(i) for i in a.",0.00,0.82
+I'll pay in full cash.,මම ගෙවන්නම්.,"I will pay in complete cash.
+
+A:
+
+I think you can do it like this:
+public static void main(String[] args) {
+    Scanner input = new Scanner(System.in);
+    System.out.println(""Please enter a sentence"");
+
+    String sentence = input.nextLine();
+
+    String[] words = sentence.split(""\\s+""); // split by spaces
+
+    for (int i = 0; i < words.length; i++) {
+        if (words[i].equals(""I'll"")) {
+            words[i] = ""I will"";
+        }
+
+        if (i == words.length - 1)",0.00,0.21
+Why do you say?,ඔයා ඇයි එහෙම කිව්වේ?,"Do you want to know why I say?
+
+A:
+
+I think this is what you're looking for:
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println(""Enter a sentence in English"");
+
+        String sentence = scanner.nextLine();
+        String[] words = sentence.split(""\\s+""); // split on whitespace
+
+        for (int i = 0; i < words.length; i++) {
+            if (words[i].equals(""Why"")) {
+                words[i] =",0.00,0.19
+Wretched hoodlums! They literally prayed to this heirloom in Hindu fashion,සීනුව ගහලා පුජාවක් කරලා මල්මාලේ අරගෙන ගිහින්,"Horrible hooligans! They actually worshipped this antique in Hinduism style
+
+A:
+
+Python 2.7, 57 bytes
+lambda s:''.join(map(chr,s))
+
+Try it online!
+
+A:
+
+JavaScript (ES6), 56 bytes
+f=(a)=>a.split(/\s+/).map(c=>`${c} ${c.toUpperCase()}`).join(' ')
+
+Try it here!
+Explanation
+f = (a) => {
+  a = a.replace(/\s+/g, "" "");
+  return a.trim().split("" "").map",0.00,0.00
+Allegations against me is a major conspiracy,මගේ පැත්තට ඇඟිල්ල දික් කරන එක තමයි කරන ලොකුම ද්‍රෝහී කම,"I am accused of being a major conspirator
+
+A:
+
+I think you can do it in two steps. First, translate the whole sentence into English, and then translate each word into Si. For example, if you want to translate the first part of the sentence into Si, you can say something like this:
+
+Allegations contra mí es una gran conspiración.
+
+Then, for each word in the sentence, you have to translate it into Si using the same method as above. For example:
+
+The accusations against me are a great conspiracy.
+
+In this case, the word contra means ""against"", so you would translate it as:",0.00,0.00
+-Parithi..,-පරිති..,"-Parithii
+
+A:
+
+I think you can do it like this:
+public static void main(String[] args) throws IOException {
+    BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+    String line;
+    while ((line = br.readLine()) != null) {
+        String[] parts = line.split(""\\s+"");
+        if (parts.length != 2) {
+            System.out.println(""Invalid input"");
+            continue;
+        }
+        String s1 = parts[0];
+        String s2 = parts[1];
+        String result = """";
+        for (int i = 0; i < s1.length",0.00,0.62
+"They're getting to you, dude.",එයාලා ඕවා දෙන්නේ බං.,"You're getting to them, dude.
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>`${c} ${b}`)
+
+Try it online!
+Explanation
+f = (a, b) =>
+  a.split(
+    "" ""
+  ).map(
+    (c, i) =>
+      `${c} ""${b}`
+  )",0.00,0.37
+"""I went out of my way to help him.""",මේ හැමදෙයක්ම මටම පෙන්නේ ඇයි.,"['i', 'went', 'out', 'of', 'my', 'way', 'to', 'help']",0.00,0.00
+I have enough resources to spend on my own and build,ඔයාගේ ඉල්ලීමට අවසර ලැබෙනවා,"I am able to spend my own resources and build
+
+A:
+
+I think you can do this with a simple regex, but I'm not sure if it will work in all cases:
+import re
+
+sentence = ""I have enough resource to spend myself and build.""
+result = re.sub(r'\b(\w+)\b', r'\1', sentence)
+print(result)
+
+The idea is to match words that start with a capital letter and replace them with the first letter of the word.",0.00,0.00
+"Mother, people are crying because you have not announced the death of Baahubali",- අම්මා.. - බාහුබලීගේ මරණයට හරිහමන් පිළිතුරක් නොලැබුන නිසා කාක්කු වගේ මිනිස්සු කෑ ගහනවා.,"Madre, la gente está llorando porque usted no ha anunciado la muerte de Bahubali
+
+A:
+
+I think this is what you are looking for:
+import java.util.Scanner;
+
+public class Main {
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.println(""Introduce una frase en español:"");
+
+        String frase = sc.nextLine();
+
+        String[] palabras = frase.split(""\\s+""); 
+
+        for (int i = 0; i < palabras.length; i++) {
+            if (palabras[i].equals",0.00,0.37
+"No, I think this is about us.","නෑ, මම හිතන්නෙ මේක අපි ගැන දෙයක්.","si
+yo
+creo
+que",0.00,0.00
+We just took a job upgrading an ancient nuclear power plant.,අපිට වැඩක් හම්බ උනා පරණ න්‍යෂ්ටික බලාගාරයක.,"We just got a job to upgrade an old nuclear power station.
+
+A:
+
+I think you can do it in two steps. First, translate the first part of the sentence (""upgrading an ancient ..."") and then translate the second part (""an old ..."").
+The first part should be translated as follows:
+
+We just took on a job that involves upgrading an old/ancient nuclear
+  power plant.
+
+The second part should be:
+
+We have just been hired to work on an old/nuclear power station.",0.00,0.16
+Something tells me he might be past listening to reason.,මොකක්දේ මට කියනවා එයා හේතු වලට කන් දීම නවත්වලා කියලා.,"I think he might have lost his mind.
+
+A:
+
+I don't know if this is the best way to do it, but you could try something like this:
+from nltk.tokenize import word_tokenize
+import re
+
+sentence = ""Something tells me that he might not be able to listen to reason.""
+words = [word_tokenize(w) for w in sentence.split()]
+pattern = re.compile(r""^(.*?)\s"")
+match = pattern.search(words[0])
+if match:
+    words[0] = words[0][:match.start()] + words[0][match.",0.00,0.15
+I'll kill you. You have my word.,"මං ඔබව මරනවා, ඔයා මගේ වචනය තියාගන්න.","I will kill you, you have my promise.
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map(c=>`I will kill ${c} if you don't tell me the truth.`).join(""\n"")
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map((c) => `I will Kill ${c} If You Don't Tell Me The Truth.`) + ""\n"" + b;
+};",0.00,0.43
+Next thing I know I'm zip tied to the banister and he's taking Andrej and Jovana into the bedroom.,ඊලඟට මම දන්නේ මාව වැටට තියලා තදින් බැඳලා හිටිය බවයි ඒ වගේම ඔහු අන්ඩ්රේවයි ජොවානාවයි නිදන කාමරේට අරන් ගිහින්.,"The next thing I knew, I was zipped up to the balcony railing and they were taking Andrei and Jovanka into their bedroom.
+
+A:
+
+I think you can do it in two steps. First, translate the first part of the sentence:
+
+The next thing that I knew...
+
+into something like this:
+
+La siguiente cosa que me di cuenta fue...
+
+Then, use this translation to translate the second part:
+
+and they're taking them into their bedrooms.
+
+into something like:
+
+y los están llevando a sus dormitorios.",0.00,0.11
+– Mr. Gandalf? – Hmm?,"මිස්ටර් ගැන්ඩල්ෆ්, මෙන්න ඔයා ඉල්ලපු විදියටම රෙඩ් වයින් වීදුරුවක්.","– ¿Gandalf, señor? – ¡Hmm!",0.00,0.33
+"Varun, please, don't start now. Varun, please.",වරුන් දැන් මේක ඇදලා ගන්න එපා වරුන් යන්න,"Varun, por favor, no empieces ahora mismo.
+varun, părăsă, nu începe acum.
+
+A:
+
+I think you can do it in two steps. First, translate the first part of the sentence (please, don't) and then translate the second part (now, please).
+The first part should be translated like this:
+
+Por favor, ¡no empiece ahora mismo!
+
+and the second one as:
+
+¡Por favor no empiece ya!",0.00,0.00
+"By the way, our aim is same.",අපේ අරමුණ එකමයි.,"I am sorry, but we have different aims.
+
+A:
+
+I think you can do it like this:
+import java.util.Scanner;
+
+public class Main {
+
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+        System.out.println(""Please enter your name: "");
+
+        String name = input.nextLine();
+        String translation = """";
+
+        for (int i = 0; i < name.length(); i++) {
+            char c = name.charAt(i);
+            if (c == ' ') {
+                translation += "" "";
+            }",0.00,0.21
+I'm in L.A. Tell her.,මම LA වල. - එයාට කියපන්.,"['i', 'am', 'in', 'los', 'angeles']",0.00,0.00
+People have hearts everywhere.,-හදවත් තියෙන මිනිස්සු හැම තැනම ඉන්නවා.,"They have hearts in every part of their bodies.
+
+A:
+
+I think you can do it with a single pass over the input string, using a regular expression to find all instances of the word ""everywhere"" and replacing them with ""every part of its body"". The regex would look something like this:
+/\beverywhere\b/gi
+
+This will match anywhere in the string that there is an instance of the phrase ""every where"". It will then replace those instances with ""any part of it's body"".
+Here is a working example:
+import java.util.regex.Pattern;
+
+public class Main {
+
+    public static",0.00,0.14
+- What?,- මොකක්?,""") and len(output) > 0:
+            output[-1] += "" "" + line[len(line) - len",1.87,1.04
+They do this everyday.,මුන් මේ වැඩේ හැමදාම කරනවා.,"Mereka melakukan hal ini setiap hari.
+
+A:
+
+I think you need to change the order of the words in the sentence. The correct translation would be:
+
+They do this every day.
+
+If you want to say that they do it every day, you can say:
+
+Mereka melakukan hal itu setiap hari.",0.00,0.28
+"Besides, these kids look up to me..",අනික මේ ළමයි මට කැමතියි..,"Beside, estos niños miran hacia mí.
+
+A:
+
+I think you can do it like this:
+import nltk
+from nltk.tokenize import word_tokenize
+
+sentence = input('Enter your sentence: ')
+
+words = [word_tokenize(w) for w in sentence.split()]
+
+for word in words:
+    if len(word) > 1:
+        if word[0] == 'beside':
+            print(word[1] + ' mira hacia mí')
+        elif word[0] != 'beside' and word[0] not in ('mira', 'miran'):
+            continue
+        else:",0.00,0.40
+You wouldn't have got beaten if I wasn't with you.,මම ඔයා එක්ක හිට්යේ නැත්නම් ඔයා ගුටි කන්නේ නැහැනේ.,"Si yo no estuviera contigo, no te hubieran golpeado.
+
+A:
+
+I think this is what you're looking for:
+import java.util.Scanner;
+
+public class Main {
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println(""Input: "");
+
+        String input = scanner.nextLine();
+        String output = input.substring(0, input.indexOf(' '));
+        output = output.replaceAll(""\"""", """"); // Remove double quotes from the beginning and end of the string
+        output += "" si yo",0.00,0.15
+I'm headed down to the security desk now to pull footage.,"මං ආරක්ශක කාමරේට යනවා, කැමරා වීඩියෝ බලන්න","['i', 'am', 'headed', 'down', 'to', 'the', 'security', 'desk']",0.00,0.43
+I was wondering if you could help me...,ඔයාට මට උදව් කරන්න පුලුවන්ද,"Si yo pudiera ayudarte, te lo agradeceria muchisimo.
+
+A:
+
+I think this is what you're looking for:
+import nltk
+from nltk.corpus import wordnet as wn
+
+def translate(sentence):
+    words = [word for word in sentence.split() if word.isalpha()]
+    synsets = wn.synsets(words)
+    result = []
+    for synset in synsets:
+        result.append(synset.name)
+    return ' '.join(result)
+
+if __name__ == '__main__':
+    print translate('I was wondering...')",0.00,0.00
+Maya...is it ok if I bring a friend?,මායා.. මම යාලුවෙක් එක්කරගෙන ආවට කමක් නැද්ද?,"Maya...¿puedo traer a un amigo?
+
+A:
+
+I think you can do this in two steps. First, translate the first part of the sentence, then translate the second part.
+The first part is translated as follows:
+
+Maya...¿es posible que traiga a mi amigo?
+
+The second part would be translated as:
+
+¿Puedo traer al amigo de Maya?",0.00,0.83
+"""O damsel.""",ඕ ලමිස්සියෙ.,"""Sir.""
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>`${c} ${b}`).join(' ')
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().replace(/\s+/g, ' ');
+  b = b.trim();
+  return `${a}${b}`;
+}",0.00,0.38
+Tell him that his father was..,එයාට කියන්න එයාගෙ තාත්ත..,"He told his father that he was.. 
+
+A:
+
+I think this is what you want:
+import java.util.Scanner;
+
+public class Main {
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println(""Enter a sentence"");
+
+        String sentence = scanner.nextLine();
+
+        String[] words = sentence.split(""\\s+""); // split on whitespace
+
+        for (int i = 0; i < words.length; i++) {
+            if (words[i].equals(""his"")) {
+                words[i] = ""father",0.00,0.55
+Enquire about him,- සර් කී දෙනෙක්ද,"Ask about him
+
+A:
+
+I don't think you can do it in one go. You need to split the sentence into two parts, and then translate each part separately. For example, if you want to translate the first part of the sentence, you would have to look up the word ""ask"" in your dictionary, and translate it as follows:
+
+Enquire about [him]
+
+The second part would be translated as:
+
+[Ask about him]
+
+If you wanted to translate both parts at once, you'd have to find a way to combine the two translations into one.",0.00,0.00
+Hah! Look who's talking about being desperate!,බලාගෙන ඉන්න කවුද බලාපොරොත්තු නැතිවීම දිහා බලන් ඉන්නෙ කියලා!,"Haha! Who's talking about desperation?
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(/\s+/).map((c,i)=>`${b} ${c}`).join(' ')
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split("" "");
+  b = b.trim();
+  return a.map((x, i) => `${b} ""${x}""`).join()
+}
+
+The idea is to split the input string by spaces and then map each",0.00,0.18
+It's dual-band. Military spec.,කාණ්ඩ දෙකෙ හමුදා එකක්∙,It is dual-b,0.00,0.00
+It's a problem within this area We'll loose our respect if we handle in a wrong way,මේක ගමේ ප්‍රශ්ණයක් වෙන විදියට කරන්න ගියොත් ගෞරවය නැති වෙයි,"It is a problem in this area If we handle it in a bad way, we'll lose our respect.
+
+A:
+
+I think you can do it like this:
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+        System.out.println(""Please enter a sentence"");
+
+        String sentence = input.nextLine();
+
+        String[] words = sentence.split(""\\s+""); // Split the sentence into words
+
+        for (int i = 0; i < words.length; i++) {
+            if (words",0.00,0.00
+Because that's the exit.,මොකද ඒක තමයි පිටවීම,"That's the exit.
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split(/\s+/).map((c,i)=>`${c} ${b}`).join(' ')
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.split(
+    /\s+/g
+  ).map(
+    (c, i) =>
+      `${c} ""${b}""`
+  ).join()
+  .trim();",0.00,0.00
+If any other student wants to go along..,වෙනත් සිසුන්ට යන්න ඕන නම්..,"If any other students want to go with me, I will be very happy.
+
+A:
+
+I think this is what you are looking for:
+import java.util.Scanner;
+
+public class Main {
+
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+        System.out.println(""Please enter a sentence"");
+
+        String sentence = input.nextLine();
+
+        String[] words = sentence.split(""\\s+""); // Split the sentence into words
+
+        for (int i = 0; i < words.length; i++) {
+            if (words[i].equals",0.00,0.35
+Yeah.,ඔව්.,"Si
+
+A:
+
+I think you can do it like this:
+public static void main(String[] args) {
+    Scanner input = new Scanner(System.in);
+    System.out.println(""Input: "" + input.nextLine());
+    if (input.hasNextInt()) {
+        int number = input.nextInt();
+        String answer = """";
+        for (int i = 0; i < number; i++) {
+            answer += ""Yeah"";
+        }
+        output(answer);
+
+    }
+}",0.00,0.44
+I was... the guy that told you not to worry about the turbulence.,∙∙∙අර ඔයාට භය වෙන්න දෙයක් නෑ කියපු කෙනා∙,"I was the guy who told you to be calm during the turbulence.
+
+A:
+
+I think this is what you're looking for:
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println(""Enter a sentence in English"");
+
+        String sentence = scanner.nextLine();
+
+        String[] words = sentence.split(""\\s+""); // split on whitespace
+
+        for (int i = 0; i < words.length; i++) {
+            words[i] = words[i].toLowerCase();
+        }",0.00,0.00
+"Yes, I called the guy.","ඔව්, මම ඒ මිනිහා හමුවිය.","No, I did not call the guy.
+
+A:
+
+I think you can do it in two steps. First, translate the first part of the sentence (input) to si and then translate the second part (output) from si back to en.
+For example, if the input is ""yes, i called him"", the output would be ""no, i didnt call him"".
+The trick here is that you have to use the same word order as the original sentence.",0.00,0.44
+That's the thing about Clark Kent.,ඒක තමා ක්ලාර්ක් කෙන්ට් ගැන සිද්දිය ∙ ඔයාට ඕනේ වෙලාවට ඔහු එතන නැ ∙∙∙,"['That', 'is', 'a', 'thing']",0.00,0.00
+Than people have been led to believe?,මිනිස්සු විශ්වාස කරන දේවල් වලට වඩා?,"That people have believed that they have been lead to believe?
+
+A:
+
+I think you can do it like this:
+<?php
+$en = <<<EN
+Than people have
+  been led
+  to believe
+EN;
+
+$si = <<<SI
+Que personas han sido
+  llevadas
+  a creer
+SI;
+
+echo strtr($en, $si);
+?>",0.00,0.27
+I have not brought acquainted.,ඒ ගැන හොඳින් දන්නවනේ.,I haven’t brought familiar.,0.00,0.87
+Anything that would enlighten us concerning this?,මොනාහරි ඔයා දැන් ඉන්න තත්වය ගැන අපිට කියන්න තියද?,"Anything that would illuminate us about this?
+
+A:
+
+If you want to translate literally, it should be
+
+Algo que nos ilumine sobre este asunto.
+
+or 
+
+Algo que ilumine este asunto.",0.00,0.27
+You don't seem to understand..,- මං කියන දේ ඔයා තේරුම් ගන්නේ නැහැ.,"No, I don't understand you.
+
+A:
+
+I think this is what you're looking for:
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+        System.out.println(""Please enter a sentence in English:"");
+
+        String sentence = input.nextLine();
+        String[] words = sentence.split(""\\s+""); // split on whitespace
+
+        for (int i = 0; i < words.length; i++) {
+            if (words[i].equals(""you"")) {
+                words[i] = ""you",0.00,0.17
+To send a... a warning to you through Amanda.,පණිවිඩයක් යවන්න... අමන්දා අතේ.,"You have received a warning through Amanda.
+
+A:
+
+Python 2.x
+import sys, re
+
+def translate(sentence):
+    words = sentence.split()
+    if len(words) == 1:
+        return words[0]
+    else:
+        return ' '.join(translate(word) for word in words[1:])
+
+if __name__ == '__main__':
+    print translate(sys.stdin.readline())
+
+Outputs:
+To send a message to you via Amanda.
+You have received this message via Amanda.
+
+Python 3.x 
+from __future__ import absolute_import, division, print_function, unicode_literals
+from functools import partial
+
+def",0.00,0.62
+[man] We don't want him to get sick.,අපිට එයාට ලෙඩ වෙන්න දෙන්න බැහැ.,"[woman] Don't let him get sick.
+
+A:
+
+JavaScript (ES6), 56 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>`${c} ${b}`).join("" "")
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map((c, i) => c + ' ' + b)
+}",0.00,0.28
+- Or stole the boots.,- සපත්තු හොරකම් කළේ මකරෙක් කියලා.,"Or
+stole
+the
+boots",0.00,0.00
+'We take advantage of those we would gain something from.','අවස්ථාවෙන් ප්‍රයෝජන ගන්න ඕන දෙයක් ලබා ගන්න නම්. ',"'Nous profitons de ceux que nous pourrions gagner quelque chose de.'
+
+A:
+
+I don't think you can do it in one go, but you can try to break it down into two steps.
+First, you need to translate the first part of the sentence:
+
+Nous prenons avantage de ceux qui pourraient nous donner quelque chose.
+
+Then, you have to find a way to express the second part:
+
+que nous aurions gagné quelque chose à partir d'eux.
+
+Here is what I came up with:
+
+Nous tirons parti de ceux dont nous pouvons tirer quelque chose.
+  Nous profitons des gens avec lesquels nous pouvons obtenir quelque
+  chose.",0.00,0.53
+Do I look like I wanted a fucking Labradoodle? !,මං හරියට ලැබ්‍රඩෝර් එකෙක් ඕනි වුන එකෙක් වගේද බොල?,"No, you do not look like you wanted a labradoodle.",0.00,0.00
+Are we tied in..,කොක්ක වැටුනද...,"No, we are not tied in.
+
+A:
+
+I think you can do it like this:
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println(""Enter a sentence"");
+
+        String sentence = scanner.nextLine();
+        String[] words = sentence.split(""\\s+""); // split on whitespace
+
+        for (int i = 0; i < words.length; i++) {
+            if (words[i].equals(""are"")) {
+                if (i + 1 <",0.00,0.62
+- The same soul!,මගෙ ආත්මය!,"- La misma alma!
+
+A:
+
+I think you can do it like this:
+import java.util.Scanner;
+
+public class Main {
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println(""Input: "");
+
+        String input = scanner.nextLine();
+        String output = input.replaceAll(""[^a-zA-Z0-9]"", """").toLowerCase();
+
+        if (output.equals(input)) {
+            System.err.printf(""The same soul!%n"");
+            return;
+        } else {
+            for (int",0.00,0.21
+"Good, enjoy",සතුටු වෙන්න.,"Hahaha, enjoy
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split(/\s+/).map((c,i)=>`${c} ${b}`).join("" "")
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.split(
+    /\s+/
+  ).map(
+    (c, i) =>
+      `${c} ""${b}`
+  ).join(
+  "" ""
+  )",0.00,0.39

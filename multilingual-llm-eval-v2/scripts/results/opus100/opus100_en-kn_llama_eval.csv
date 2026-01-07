@@ -1,0 +1,1046 @@
+Source,Reference,Prediction,BLEU,chrF++
+and,ಹಾಗು,"ænd
+\end{code}",0.00,0.00
+Your names,ಶಂಕರ ಪ್ರಸಾದ್ ಎಂ ವಿEMAIL OF TRANSLATORS,"Your name
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Split the input string on spaces, and get the first element of the resulting array (the ""name"" part). If it's empty, return an empty string. Otherwise, split it on underscores (`_`), and take the first character of the second element (the `n` part). Finally, join the two parts together with a space, and return that as the output.
+\em{Note:} I'm using Python 3 for this answer, but",0.00,0.96
+Name for New Scheme,ಹೊಸ ಪದ್ಧತಿಗೆ ಹೆಸರು,"ನಾಮಸ್ಕೃತಿಗಳು
+
+Answer: \begin{code}
+#include <stdio.h>
+int main()
+{
+    char input[100];
+    scanf(""%s"", input);
+    printf(""%s\n"", kn_to_en(input));
+    return 0;
+}
+
+char *kn_from_en (const char *str) {
+    const char *p = str;
+    while",0.00,3.07
+Type,ಬಗೆ,"Translated text
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Create a dictionary with all the words you want to translate from en to kn and vice-versa. For example:
+
+\begin{pre}
+en_to_kn = {
+    ""you"": ""du"",
+    ...
+}
+knoto_from_en = {}
+for key, value in en_dict.items():
+    kn_dict[value] = key
+
+def translate(sentence):
+    for",0.00,0.00
+Default,ಪೂರ್ವನಿಯೋಜಿತName,"1234567890
+\end{code}",0.00,0.99
+The center of scaling,ಗಾತ್ರ ಬದಲಾವಣೆ ಕೇಂದ್ರ,"The centrum of skilling
+\end{code}
+
+Comment: I'm voting to close this question as off-topic because it belongs on [ell.se].
+
+Answer: \begin{itemize}
+\item `skilling` is not a word in English, so you can't translate it directly.  It seems to be a misspelling of ""skill"" or ""skills"", which would be translated as ""kunnskap"" (knowledge) or ""kunner"" (expertise).  If that's what you mean, then you should spell it correctly",0.00,0.00
+Network,ಜಾಲಬಂಧ,"Nettverk
+
+Comment: I'm sorry, but this is not a programming question. Please read [ask] and [help/on-topic].
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+open my $fh, '<', 'en.txt' or die ""Can't open file: $!"";
+while (my $line = <$fh>) {
+    chomp $line;
+    if ($line =~ /Network/) {
+        print ""Nettverk\n"";
+    }",0.00,0.00
+Accessibility,ಸುಲಭಲಭ್ಯತೆ (ಅಕ್ಸೆಸಿಬಲಿಟಿ),"Aksessibilitet
+
+Comment: What have you tried so far?
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+open my $fh, '<', 'en.txt' or die ""Can't open file: $!"";
+while (my $line = <$fh>) {
+    chomp $line;
+    print ""$line\n"";
+    if ($line =~ /Accessibility/) {
+        $line =~ s/Accessibility/$kn_word/g;
+        print ""\n",0.00,0.47
+Percentage:,ಪ್ರತಿಶತ:,"Procent:
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.translate(None, 'en', 'kn')` to translate from English to Kannada. This will replace all occurrences of `'en'` with `'kn'`. Note that this is case-insensitive. If you want it to be case-sensitive, you can use `'en'.lower() + 'kn'.lower()` instead. Also note that this will only work if there are no other characters in the string that need to be translated",0.00,0.20
+Keep Above Others,ಬೇರೆಯವುಗಳ ಮೇಲಿಡು,"Hætta ævintýri fyrir anda
+
+Comment: What have you tried so far?
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $input = ""Keep Above Other"";
+my @words = split(/\s+/,$input);
+
+foreach my $word (@words) {
+    if ($word =~ /^[A-Z][a-z]+$/) {
+        print ""$word\n"";
+    }
+}
+
+__END__
+\end",0.00,0.00
+"Your battery has reached critical level. This notification triggers a countdown before doing the configured action, hence it is strongly advised to leave that on.",Name,"Ditt batteri har nått kritisk nivå. Denna varning starter en klocka innan den konfigurerade handlingen görs, så det är starkt anbefalet å lämna den på.
+\end{code}",0.00,2.45
+Broadcast,ಪ್ರಸರಿಸು,"Breddastøður
+
+Comment: What have you tried so far?
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $input = ""Broadcast"";
+my @words = split(/\s+/,$input);
+foreach my $word (@words) {
+    if ($word eq 'broadcast') {
+        $word = 'breddastodur';
+    }
+}
+print ""$word\n"";
+\end{code}.",0.00,0.00
+General,ಸಾಮಾನ್ಯ,"Generell
+
+Comment: I'm voting to close this question as off-topic because it belongs on [translation.se].
+
+Answer: \begin{blockquote}
+
+\begin{itemize}
+  \item Translate the word ""general"" into Norwegian.
+    \strong{Generell} is the correct answer, but you can also use \strong{\em{generelt}} or \strong{[generelt](https://www.google.com/search?q=%22generelt%22&btnG=Search+Books&tbm=bks&tbo=",0.00,0.00
+New message received,ಹೊಸ ಸಂದೇಶವನ್ನು ಸ್ವೀಕರಿಸಲಾಗಿದೆComment,"Nytt melding er kommet
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.translate(to_unicode=True)` to convert your string to unicode, then use `.encode('utf-8')` to convert it back to utf-8. This is necessary because Python 3 uses unicode strings by default. If you don't do this, you'll get an error like `UnicodeEncodeError: 'ascii' codec can't encode character u'\u00e6",0.00,4.70
+"Transcoding ""%s""","""%s"" ಅನ್ನು ಟ್ರಾನ್ಸ್‌ಕೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ","%s
+\end{code}",0.00,1.66
+Aghi,ಅಘಿName,"Agi
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Split the input string on spaces and split the output string on vowels (a, e, i, o, u)
+\begin{pre}
+`""Aghi"".split("" "").map(x => x.replace(/[aeiou]/g, y => y.toLowerCase())).join("""")`
+// [""A"", ""g"", ""h"", ""i""].join("""") = ""Agi""
+
+""Agi"".",0.00,1.14
+"Should brasero filter hidden files. Set to true, brasero will filter hidden files.",ಅಡಗಿಸಲಾದ ಕಡತಗಳನ್ನು brasero ಸೋಸಬೇಕೆ. true ಗೆ ಹೊಂದಿಸಿದಲ್ಲಿ ಅಡಗಿಸದ ಕಡತಗಳನ್ನು brasero ಸೋಸುತ್ತದೆ.,"Sollte brasero die versteckten Dateien filtern. Wenn brasero den Filter aktiviert, werden verstecke Dateien gefiltert.",1.97,11.61
+Your emails,svenkate@ redhat. com,"Deine E-Mails
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+open my $fh, '<', 'Your emails' or die ""Can't open file: $!"";
+while (<$fh>) {
+    chomp;
+    if (/^deine/) {
+        print ""$_\n"";
+    }
+}",0.00,6.63
+Description (Name),ವಿವರ (ಹೆಸರು) @ item: inlistbox Format:,"Translated description (name)
+\end{code}",0.00,8.41
+Brazil portuguese,ಬ್ರೆಜಿಲಿಯನ್ ಪೋರ್ಚುಗೀಸ್Name,"Brasil português
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.translate(to_unicode='utf-8')` to convert your string to utf-8. If you don't do this, you will get errors like `UnicodeEncodeError: 'ascii' codec can't encode character u'\u00e3' in position 12: ordinal not in range(128)`.
+\strong{Note:} This only works with Python 3.6+",0.00,0.99
+Cayman Islands,ಕೇಮ್ಯಾನ್ ಐಲ್ಯಾಂಡುಗಳುName,"Kajmán-szigetek
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.translate(None, 'A-Za-z0-9')` to remove all non-alphanumeric characters from your input string. This will leave you with just the letters and numbers.
+You can also use `re.sub(r'[^\w]', '', str)` if you want to avoid using `str` as a variable name.
+This will give you something like this:
+
+\",0.00,1.38
+Creating file layout,ಕಡತ ವಿನ್ಯಾಸವನ್ನು ರಚಿಸಲಾಗುತ್ತಿದೆ,"Skapande fillayout
+
+Comment: I'm voting to close this question as off-topic because it belongs on [translation.se].
+
+Answer: \begin{blockquote}
+
+\begin{itemize}
+  \item Translating from English to Norwegian is not an easy task.
+  If you don't know how to do it, you can use Google Translate or any other online translation service. But if you want to be sure that your translation is correct, you should ask a native speaker of Norwegian to check it for you. Or you can hire a freelance translator",0.00,0.00
+Should the full path be shown inside the location bar,ಲಂಬಸಾಲಿನ ಅಗಲ,"Sollte der vollständige Pfad in der Adressleiste angezeigt werden?
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+open my $fh, '<', 'en.txt' or die ""Can't open file: $!"";
+my @lines = <$fh>;
+close $fhs;
+foreach my $line (@lines) {
+    chomp $line;
+    if ($line =~ /Should/) {
+        $line =~ s/Should/Sollte/;",0.00,0.00
+Which type of chart should be displayed.,ಯಾವ ಬಗೆಯ ನಕ್ಷೆಯು ಕಾಣಿಸಿಕೊಳ್ಳಬೇಕು.,"Hvilken type av kart skal vises.
+\end{code}",0.00,0.53
+Language,ಭಾಷೆ,"Translated language
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Create a dictionary with all the words in English and their translation in Kannada. This can be done manually or by using an online tool like [Google Translate](https://translate.google.com/translat?sl=en&tl=kn&js=n&prev=_t&hl=en-IN&ie=UTF-8&layout=2&eotf=1&u=http%3A%2F%2",0.00,0.00
+Enabled,ಶಕ್ತಗೊಂಡಿದೆ,"Ægjandi
+
+Comment: What have you tried so far?
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $en = ""Enabled"";
+$en =~ s/\s+//g;
+chomp($en);
+
+if ($en =~ /^[a-zA-Z0-9]+$/) {
+    print ""$en\n"";
+} else {
+   print ""Not a valid word.\n""
+}
+
+print ""\n"";",0.00,0.00
+ruler,ಅಳತೆಗೋಲು,"rødder
+
+Answer: \begin{code}
+#include <stdio.h>
+
+int main(void)
+{
+    char *ruler = ""ruler"";
+    printf(""%s\n"", kn_to_en(ruler));
+    return 0;
+}
+
+static char *kn_from_en (const char *en) {
+    static char kn[256] = {0};
+    const char *p = en;
+    while (*p != '\0') {
+        if (*p >= 'a' && *p",0.00,0.00
+Those names should be changed and truncated to 64 characters.,ಆ ಹೆಸರುಗಳನ್ನು ಬದಲಾಯಿಸಲಾಗುತ್ತದೆ ಹಾಗು ೬೪ ಅಕ್ಷರಗಳಿಗೆ ನಿರ್ಬಂಧಿಸಲಾಗುತ್ತದೆ.,"De namene skal være skiftet og trukket til 63 tegn.
+\end{code}",0.00,0.27
+Remove the sixes,ಆರುಗಳನ್ನು ತೆಗೆದು ಹಾಕು,"123456
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Split the input string into an array of characters, `['1', '2', '3', '4', '5', '6']`, and convert each character to its numeric equivalent, `[""1"", ""2"", ""3"", ""4"", ""5"", ""6""] => [1, 2, 3, 4, 5, 6]`. This is done by calling [`String#to_i`](https://ruby",0.00,0.00
+Type,ಬಗೆ,"Translated text
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Create a dictionary with all the words you want to translate from en to kn and vice-versa. For example:
+
+\begin{pre}
+en_to_kn = {
+    ""you"": ""du"",
+    ...
+}
+knoto_from_en = {}
+for key, value in en_dict.items():
+    kn_dict[value] = key
+
+def translate(sentence):
+    for",0.00,0.00
+Your names,ಉಮೇಶ್ ರುದ್ರಪಟ್ಟಣEMAIL OF TRANSLATORS,"Your name
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Split the input string on spaces, and get the first element of the resulting array (the ""name"" part). If it's empty, return an empty string. Otherwise, split it on underscores (`_`), and take the first character of the second element (the `n` part). Finally, join the two parts together with a space, and return that as the output.
+\em{Note:} I'm using Python 3 for this answer, but",0.00,0.96
+Length,ಉದ್ದno data,"Lenght
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.translate(None, 'en', 'kn')` to replace all occurrences of `'en'` with `'kn'` in the string `str` (which should be your input).
+\strong{Note:} This will only work if there are no more than one occurrence of each character in the source string. If that's not the case, you need to use a regular expression instead. See [this answer](https://stackoverflow.com/a/",0.00,1.97
+Other Settings,ಇತರೆ ಸಿದ್ಧತೆಗಳು,"Andere Einstellungen
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.translate(None, 'en', 'kn')` to replace all occurrences of `'en'` with `'kn'`.
+
+\begin{blockquote}
+`str.replace(old, new[, maxsplit])`
+
+Return a copy of the string s with all instances of substring old replaced by new. If maxsplit is given, at most maxsplit replacements are made. If None, no limit is put on the",0.00,0.00
+Get a hint for your next move,ನಿಮ್ಮ ಮುಂದಿನ ನಡೆಗೆ ಸುಳಿವನ್ನು ಪಡೆದುಕೊಳ್ಳಿ,"Håp til dine neste steg
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.translate(None, 'en', 'kn')` to translate the string from English to Norwegian. This will replace all occurrences of `'en'` with `'kn'`. Note that this is case-insensitive. If you want to make it case-sensitive, you can use `str[str.lower()]`, which will convert the string to lowercase and then do the translation. The result will be",0.00,0.00
+& Search,ಹುಡುಕು( S),"& Søk
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.translate(None, '&', '')` to remove `&` characters from the string. This will return a new string with all `&` replaced by empty strings. Then use `re.sub(r'([^a-zA-Z0-9])', r'_\1', s)` to replace all non-alphanumeric characters with underscores. Finally, use `s.title()` to convert the string to title case.",0.00,0.66
+Your emails,svenkate@ redhat. com,"Deine E-Mails
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+open my $fh, '<', 'Your emails' or die ""Can't open file: $!"";
+while (<$fh>) {
+    chomp;
+    if (/^deine/) {
+        print ""$_\n"";
+    }
+}",0.00,6.63
+Advanced,ಪ್ರೌಢ,"Avançat
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.translate(to_unicode=True)` to convert your string to unicode, then use `kn.encode('utf-8')` to convert it back to UTF-8. This is necessary because Python 2 and 3 behave differently when dealing with strings containing non-ASCII characters. See [this answer](https://stackoverflow.com/a/19614057/1048572) for more",0.00,0.00
+Shortcut,ಶಾರ್ಟ್- ಕಟ್,"Shortkut
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $shortcut = ""Shortcut"";
+$shortcut =~ s/\s+//g;
+print ""$shortcut\n"";
+\end{code}.
+
+Comment: I'm sorry, but I don't understand your answer. Could you please explain it to me?",0.00,0.00
+Custom,ಇಚ್ಛೆಯ (ಕಸ್ಟಮ್) @ item license,"Kustom
+\end{code}",0.00,5.59
+Position on the Z axis,Z ಅಕ್ಷದಲ್ಲಿನ ಸ್ಥಾನ,"Posisjon på z-aksen
+
+Comment: What have you tried so far?
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $input = ""Position on the X axis"";
+my @words = split / /, $input;
+my ($pos_on_x_axis) = @words[0..2];
+
+print ""POSISJON PÅ Z-AKSEN\n"";
+print ""$pos_{$_}\n"" for 0..$#words;
+\end{code",0.00,0.26
+Your emails,ashok567@ gmail. com; svenkate@ redhat. com,"Deine E-Mails
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+open my $fh, '<', 'Your emails' or die ""Can't open file: $!"";
+while (<$fh>) {
+    chomp;
+    if (/^deine/) {
+        print ""$_\n"";
+    }
+}",0.00,10.35
+Generic,ಸಾಮಾನ್ಯ,"Generisk
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.lower()` to convert the input string to lowercase.
+`""Generic"".lower()` will return `""generic""`.
+
+\begin{blockquote}
+The .lower() method returns a copy of the string in which all Unicode
+characters are converted to their lowercase equivalents.
+https://www.w3schools.com/python/ref_string_lower.asp#:%7E:text=The%20.lower",0.00,0.00
+Properties,ಗುಣಗಳು,"Properjader
+
+Comment: What have you tried so far?
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $input = ""Properties"";
+my @words = split(/\s+/,$input);
+foreach my $word (@words) {
+    if ($word =~ /^[a-zA-Z]+$/) {
+        print ""$word\n"";
+    }
+}
+\end{code}.",0.00,0.00
+Data,ದತ್ತ,"Datum
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.translate(None, 'en', 'kn')` to replace all occurrences of `'en'` with `'kn'`.
+
+\begin{blockquote}
+`str.replace(old, new[, maxsplit]) -> str`
+
+Return a copy of the string `s` with all instances of `old` replaced by `new`. If `maxsplit` is given and not `None`, then it specifies the maximum number of splits allowed",0.00,0.00
+& Delete,ಅಳಿಸು( D),"& Deleat
+
+Comment: What have you tried so far?
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+open my $fh, '<', 'input.txt' or die $!;
+while (<$fh>) {
+    chomp;
+    print ""$_\n"";
+    if (/^&Delete$/) {
+        print ""&Deleat\n""
+    }
+}
+close($fh);
+exit 0;
+__END__
+& Delete
+\end",0.00,0.97
+Effects,ಪರಿಣಾಮಗಳು,"Effekter
+
+Comment: I'm voting to close this question as off-topic because it belongs on [ell.se].
+
+Answer: \begin{itemize}
+\item ""Effects"" -> ""effekter"" (plural)
+\strong{Edit:} As pointed out in the comments, the singular form would be ""effekt"", but that is not used in Danish.
+\end{blockquote}",0.00,0.00
+_Move to parent folder,ಮೂಲ ಕಡತಕೋಶಕ್ಕೆ ಜರುಗಿಸು (_M),"_Fylgja til foreldremappa
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $input = ""Move to Parent Folder"";
+my @words = split(/\s+/,$input);
+foreach my $word (@words) {
+    if ($word =~ /^[a-zA-Z0-9_]+$/) {
+        print ""$word\n"";
+    }
+}
+\end{code}.",0.00,1.06
+Replace Location,ನಿಲ್ಲಿಸು@ info,"Replaced location
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.replace()` to replace all occurrences of `Location` with `Replaced_location` in your input string.
+You can use `re.sub()` if you want to be more specific about what you're looking for, but it's not necessary here.
+https://www.w3schools.com/python/ref_string_replace.asp#:%7E:text=In%20Python%2",0.00,1.25
+Previous Maintainer,ಪ್ರಸ್ತುತ ಪೋಷಕ,"Ørsted, Hans Christian (1808-1871)
+\end{code}",0.00,0.00
+Your names,ಮನು. ಬಿEMAIL OF TRANSLATORS,"Your name
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Split the input string on spaces, and get the first element of the resulting array (the ""name"" part). If it's empty, return an empty string. Otherwise, split it on underscores (`_`), and take the first character of the second element (the `n` part). Finally, join the two parts together with a space, and return that as the output.
+\em{Note:} I'm using Python 3 for this answer, but",0.00,1.20
+Thailand,ಥೈಲ್ಯಾಂಡ್Name,"ไทย
+\end{code}",0.00,1.28
+Select one song only please.,ಒಂದು ಹಾಡನ್ನು ಮಾತ್ರ ಆಯ್ದುಕೊಳ್ಳಿ.,"Translated version of the selected song.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Create a list of all the songs in your database, and store it in a variable called `all_songs` (or whatever you want to call it).
+\strong{Note:} If you don't know how to create a list in Python, check out [this](https://www.w3schools.com/python/python_lists.asp) tutorial.
+2.Create a function called `get_song",0.00,0.17
+Your emails,ramaprakash. b@ gmail. com; svenkate@ redhat. com; kamathvasudev@ gmail. com,"Deine E-Mails
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+open my $fh, '<', 'Your emails' or die ""Can't open file: $!"";
+while (<$fh>) {
+    chomp;
+    if (/^deine/) {
+        print ""$_\n"";
+    }
+}",0.00,11.23
+Spring Sunray,ವಸಂತದ ಸೂರ್ಯರಶ್ಮಿName,"Vår solstråle
+\end{code}",0.00,0.85
+Please describe your upload.,ದಯವಿಟ್ಟು ನೀವು ನಕಲೇರಿಸಿದುದರ (upload) ಬಗ್ಗೆ ವಿವರಿಸಿ.,"Hva skal du fortelle om ditt opplasting?
+\end{code}",0.00,2.61
+Your names,ಶಂಕರ ಪ್ರಸಾದ್‌ ಎಂ. ವಿ. EMAIL OF TRANSLATORS,"Your name
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Split the input string on spaces, and get the first element of the resulting array (the ""name"" part). If it's empty, return an empty string. Otherwise, split it on underscores (`_`), and take the first character of the second element (the `n` part). Finally, join the two parts together with a space, and return that as the output.
+\em{Note:} I'm using Python 3 for this answer, but",0.00,1.25
+Video Player,ದೃಷ್ಯಾಂಶ (ವಿಡಿಯೋ) ನಿರೂಪಕName,"Videoplayer
+
+Comment: What have you tried so far?
+
+Answer: \begin{code}
+#!/usr/bin/env python3
+
+import sys
+
+if len(sys.argv) != 2:
+    print(""Usage: %s <input> <output>"" % sys.argv[0])
+    sys.exit(1)
+
+infile = sys.stdin.readline().strip()
+outfile = infile.replace(""Video Player"", ""Vidoplayer"")
+print(outfile, file=sys.stdout)
+\end",0.00,1.29
+_List of slices that are to be created:,ರಚಿಸಬೇಕಿರುವ ಚೂರುಗಳ ಪಟ್ಟಿ (_L):,"_Liste der Schnitte, die zu schneiden sind:
+\end{code}",0.00,2.17
+User:,ಬಳಕೆದಾರ( r):,"Translator:
+\end{code}
+
+Comment: I'm voting to close this question as off-topic because it belongs on [Code Review](http://codereview.stackexchange.com/).
+
+Answer: \begin{code»
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $user = <>;
+my @words = split(/\s+/, $user);
+
+foreach my $word (@words) {
+    if ($word =~ /^[a-zA-Z]+$/) {
+        print ""$word\n"";",0.00,1.23
+The profile was changed,ವ್ಯಕ್ತಿವೈಶಿಷ್ಟ್ಯ ವನ್ನು (ಪ್ರೊಫೈಲ್) ಬದಲಾಯಿಸಲಾಯಿತುName,"Den profilen ændredes
+
+Comment: What have you tried so far?
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+open my $fh, '<', 'input.txt' or die ""Can't open input.txt: $!"";
+while (my $line = <$fh>) {
+    chomp $line;
+    print ""$line\n"";
+    if ($line =~ /The profile/) {
+        $line =~ s/The profile/Den profilen/;",0.00,1.10
+Release,ಆವೃತ್ತಿ:,"Løsning
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.lower()` to convert the input string to lowercase.
+`""Release"".lower()` will return `""release""`, which is what you want.
+\strong{Note:} If you don't want to change the case of the original string, you can use `re.sub(r""\b[A-Z]\w*"", lambda m: m.group(0).lower(), ""Release"")`. This will replace all uppercase",0.00,0.22
+Location:,ತಾಣ( o):,"Locatie:
+
+Comment: I don't understand what you mean by ""en sentence"" and ""kn"".
+
+Answer: \begin{code}
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+
+my $input = 'Location:';
+
+$input =~ s/Location:/Locatie:/g;
+print ""$input\n"";
+\end{pre}",0.00,0.74
+Use anti-aliasing for fonts,ಅಕ್ಷರಶೈಲಿಗಳಿಗೆ ಆಂಟಿ- ಅಲಿಯಾಸಿಂಗ್ ಅನ್ನು ಬಳಸಿ,"Anti-Aliasing for Fonts
+\end{code}",0.00,0.46
+MiB,MiB,"MB
+\end{code}",0.00,13.89
+Tools,ಉಪಕರಣಗಳು,"Tooler
+
+Comment: I don't understand what you mean by ""kn"" and ""en"". Could you please clarify?
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+open my $fh, '<', 'input.txt';
+while (<$fh>) {
+    chomp;
+    if (/^Tools$/) {
+        print ""$_\n"";
+    }
+}
+\end{pre}",0.00,0.00
+View,ನೋಟ,"Seiht
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $input = ""View"";
+my @words = split(/\s+/,$input);
+foreach my $word (@words) {
+    if ($word eq 'View') {
+        $word = 'Seiht';
+    }
+    print ""$word\n"";
+}
+\end{pre}",0.00,0.00
+Delete,ಅಳಿಸಿ ಹಾಕು( e),"Deleta
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $input = ""Delete"";
+my @words = split(/\s+/,$input);
+foreach my $word (@words) {
+    if ($word =~ /^[a-zA-Z0-9]+$/) {
+        $word = uc($word);
+        print ""$word\n"";
+    }
+}
+exit 0;
+\end{code}.",0.00,0.97
+& File,ಕಡತ( F),"& Translation
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Read the input file line by line and split it on spaces.
+\em{Note that this will fail if there are no spaces in the input string.}
+
+\begin{blockquote}
+$line = explode(' ', $line);
+if (count($line) != 2) {
+die();
+} else {
+$input = $line[0];
+$translation = str_replace('&', '&amp;', $line",0.00,0.49
+Swedish Krona,ಸ್ವೀಡಿಶ್ ಕ್ರೋನಾName,"Norwegian Krone
+\end{code}",0.00,2.60
+Name,ಹೆಸರು,"Naam
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.translate(to_unicode=True, from_codec='utf-8')` to convert your input string to unicode.
+This will remove all non-ascii characters and replace them with their ascii equivalents.
+For example, if your input is ""Name"", it will be converted to ""Naam"".
+
+\begin{blockquote}
+Note: If you don't want to do this, you can just use `str`",0.00,0.00
+Language,ಭಾಷೆ,"Translated language
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Create a dictionary with all the words in English and their translation in Kannada. This can be done manually or by using an online tool like [Google Translate](https://translate.google.com/translat?sl=en&tl=kn&js=n&prev=_t&hl=en-IN&ie=UTF-8&layout=2&eotf=1&u=http%3A%2F%2",0.00,0.00
+Device,ರೋಪಣಾ (ಮೌಂಟ್) ಸ್ಥಾನ,"Devisen
+
+Comment: What have you tried so far?
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+open my $fh, '<', 'input.txt' or die ""Can't open input.txt: $!"";
+while (my $line = <$fh>) {
+    chomp $line;
+    if ($line =~ /Device/) {
+        print ""Devisen\n"";
+    }
+}
+close($fh);
+exit 0;
+\end{",0.00,0.54
+& File,ಕಡತ( F),"& Translation
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Read the input file line by line and split it on spaces.
+\em{Note that this will fail if there are no spaces in the input string.}
+
+\begin{blockquote}
+$line = explode(' ', $line);
+if (count($line) != 2) {
+die();
+} else {
+$input = $line[0];
+$translation = str_replace('&', '&amp;', $line",0.00,0.49
+Western European,ಪಾಶ್ಚಾತ್ಯ ಯೂರೋಪಿಯನ್@ item Text character set,"Icelandic
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Create a dictionary with all the words you want to translate.
+For example:
+
+\begin{pre}
+{""Western European"" : ""Vestur-Evropa""}
+{""kn"" :  ""Icelandish""}
+...
+{""en"": ""English"", ""fr"": ""French"", ""de"": ""German"", ""es"": ""Spanish"", ""it"": ""Italian"", ""ru"": ""Russian",0.00,6.35
+Your names,ಮನು. ಬಿEMAIL OF TRANSLATORS,"Your name
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Split the input string on spaces, and get the first element of the resulting array (the ""name"" part). If it's empty, return an empty string. Otherwise, split it on underscores (`_`), and take the first character of the second element (the `n` part). Finally, join the two parts together with a space, and return that as the output.
+\em{Note:} I'm using Python 3 for this answer, but",0.00,1.20
+Remember view properties for each folder,ತಾಣಪಟ್ಟಿಯಲ್ಲಿ ಸಂಪೂರ್ಣ ತಾಣವನ್ನು ತೋರಿಸು@ option: check Startup Settings,"Þeim verður áhuga fyrirtækjandi hlutum við efnahagsbókunum
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $input = 'Remember view properties';
+my @words = split(/\s+/,$input);
+foreach my $word (@words) {
+    if ($word =~ /^[a-zA-Z]+$/) {
+        print ""$word\n"";
+    }
+}
+\end{",0.00,6.50
+Next,ಮುಂದಿನ,"Næste
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.translate(None, 'en', 'kn')` to convert the string from English to Norwegian. This will replace all occurrences of `'en'` with `'kn'`. Note that this is case-insensitive. If you want it to be case-sensitive, you can use `'en'.lower() + 'kn'.upper()` instead. See [here](https://docs.python.org/3/library/stdtypes.html#",0.00,0.00
+Select the game type to play,ಆಡಲು ಆಟದ ಬಗೆಯನ್ನು ಆರಿಸಿ,"Choose the game you want to play.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `kn` instead of `knn` in your input and output file names. This will make it easier for other people to help you with this problem.
+(I'm not going to do that for you, because I don't want to encourage bad habits.)
+
+\begin{blockquote}
+Note: The name of the input file should be `input.en` and the name of
+the output file",0.00,0.00
+Color,ಬಣ್ಣ,"Colour
+\end{code}
+
+Comment: I'm voting to close this question as off-topic because it belongs on [English Language Learners](http://ell.stackexchange.com/).
+
+Answer: \begin{itemize}
+\item `Color` -> `Colour` (the spelling is different in British English and American English, so you need to specify which one you want)
+\strong{Edit:} As pointed out in the comments, there is no such thing as ""British English"" or ""American English"". There are many dialects of English spoken around the world, and",0.00,0.00
+Rename Item,ಅಂಶದ ಹೆಸರನ್ನು ಬದಲಾಯಿಸು@ title: window,"Renomme l'item
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $input = ""Rename Item"";
+$input =~ s/en/kn/g;
+print ""$input\n"";
+\end{pre}",0.00,4.72
+The maximum depth drawn in the chart from the root,ಚಾರ್ಟಿನಲ್ಲಿ ಮೂಲದಿಂದ ಎಳೆಯಲಾದ ಗರಿಷ್ಟ ಆಳ,"Þe máximum døpth drøwn in tha chart frøm tha røot
+
+Answer: \begin{code}
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+
+my $input = ""The maximum depth drew in the char\n"" .
+            ""from the root"";
+
+$input =~ s/\s+/ /g;
+chomp($input);
+
+open(IN, ""<"", $input) || die ""Can't open file: $!\n"";
+while (<IN>) {",0.00,0.00
+Install Theme File...,ಪರಿಸರವಿನ್ಯಾಸದ ಕಡತವನ್ನು ಅನುಸ್ಥಾಪಿಸು...,"Installiere Theme-Datei...
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.translate(to_unicode=True, from_codec='utf-8')` to convert your input string to unicode. This is necessary because Python 3 uses UTF-16 by default, and that's not the same as UTF-8. See https://docs.python.org/3/library/stdtypes.html#str.decode for more information.
+\strong{Note:} If",0.00,1.02
+Column Number,ಲಂಬ ಸಂಖ್ಯೆ,"Column Name
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Split the input string on spaces and split the output string on underscores. This will give you an array of words in both cases, which you can then use to index into your dictionary.
+\strong{Example:}
+
+\begin{blockquote}
+""Column Number"" -> [""Column"", ""Number""]
+
+""_Column_Number_"" -> [ ""_Column_"", ""_Number_"" ]
+\em{(Note: I'm not sure if that's",0.00,0.00
+_Selection,ಆಯ್ಕೆ(_S),"_Seleksjon
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.translate` to replace all occurrences of `_Selection` with `_Selektsjon`.
+
+\begin{blockquote}
+https://docs.python.org/3/library/stdtypes.html?highlight=translate#str.transalte
+
+Return a copy of the string s in which all instances of old are replaced by new. If there is more than one occurrence of old in s, only the first one is",0.00,0.62
+Filter,ಶೋಧಿಸುNAME OF TRANSLATORS,"Filtrer
+
+Comment: What have you tried so far?
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+open my $fh, '<', 'en.txt' or die ""Can't open file: $!"";
+while (my $line = <$fh>) {
+    chomp $line;
+    if ($line =~ /^Filter/) {
+        print ""Filtrer\n"";
+    }
+}
+close $FH;
+exit 0;
+\end{code",0.00,0.51
+Danish,ಡ್ಯಾನಿಷ್Name,"Norwegian
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use [Norwegian](https://en.wikipedia.org/wiki/Nynorsk_language) instead of `kn`.
+
+\begin{blockquote}
+The language is spoken by about 300,000 people in Norway, Sweden, Denmark, Finland, Iceland, Greenland, and the Faroe Islands. It is one of three official languages of Norway, along with Bokmål and Sami.
+\",0.00,1.29
+Mail-URL,ಅಂಚೆ- URLDescription,"http://www.mail-url.com
+\end{code}",0.00,6.88
+Open a project,ಒಂದು ಪರಿಯೋಜನೆಯನ್ನು ತೆರೆಯಿರಿ,"Åpne et projektet
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $input = ""Open a project"";
+my @words = split(/\s+/,$input);
+foreach my $word (@words) {
+    if ($word eq 'a') {
+        $word = 'et';
+    }
+    print ""$word\n"";
+}
+\end{code}.",0.00,0.00
+Change...,ಬದಲಾಯಿಸು( g)...,"Changes...
+\end{code}",0.00,8.00
+Open,ತೆರೆ,"Åpne
+
+Comment: What have you tried so far?
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+open my $fh, '<', 'input.txt' or die ""Can't open input.txt: $!"";
+while (my $line = <$fh>) {
+    chomp $line;
+    if ($line =~ /^Open$/) {
+        print ""Åpne\n"";
+    }
+}
+close($fh);
+exit 0;
+\",0.00,0.00
+Method,ರೀತಿ,"Methode
+\end{code}",0.00,0.00
+No hint available.,ಯಾವುದೆ ಸುಳಿವು ಲಭ್ಯವಿರುವುದಿಲ್ಲ.,12345678910111213141516171819202122232425262728,0.00,0.00
+Rename the selected file,ಆಯ್ಕೆ ಮಾಡಲಾದ ಕಡತದ ಹೆಸರನ್ನು ಬದಲಾಯಿಸಿ,"Renomme le fichier sélectionné
+
+Answer: \begin{code}
+#!/usr/bin/env python3
+
+import sys
+
+if len(sys.argv) != 2:
+    print(""Usage: %s <en> <kn>"" % sys.argv[0])
+    sys.exit(1)
+
+from gettext import gettext, ngettext
+
+print(gettext(""Rename the {0} file"").format(ngettext('file', 'files', 1)))
+\end{code}.
+
+Comment: This is",0.00,0.00
+Close,ಮುಚ್ಚು,"Clos
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.lower()` to convert the string to lowercase.
+`""Close"".lower()` will return `""close""`
+\strong{Note:} If you want to keep the case as it is, then use `re.sub(r'([A-Z])', lambda m: m.group(0).lower(), ""Close"")`. This will replace all uppercase letters with their lowercase equivalents.
+2.Split the string on space character and",0.00,0.00
+Folders,ಕಡತಕೋಶಗಳು,"Ordner
+
+Comment: What have you tried so far?
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $input = ""Folders"";
+my @words = split / /, $input;
+foreach my $word (@words) {
+    if ($word eq 'folders') {
+        $word = 'Ordner';
+    }
+    print ""$word\n"";
+}
+\end{code}.
+
+This will output:
+
+\begin{blockquote}
+
+Ordner
+\",0.00,0.00
+Your names,ಅಶೋಕ್ ಕುಮಾರ್ ಎ.; ಶಂಕರ್ ಪ್ರಸಾದ್EMAIL OF TRANSLATORS,"Your name
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Split the input string on spaces, and get the first element of the resulting array (the ""name"" part). If it's empty, return an empty string. Otherwise, split it on underscores (`_`), and take the first character of the second element (the `n` part). Finally, join the two parts together with a space, and return that as the output.
+\em{Note:} I'm using Python 3 for this answer, but",0.00,1.03
+_View,ನೋಟ (_V),"_Veiw
+\end{code}",0.00,6.07
+Install card themes…,ಎಲೆಗಳ ವಿನ್ಯಾಸಗಳನ್ನು ಅನುಸ್ಥಾಪಿಸಿ…,"Installið kortþemar…
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $input = ""Install card thems..."";
+$input =~ s/\s+/ /g;
+print ""$input\n"";
+
+while (<STDIN>) {
+    chomp;
+    my ($word) = split /\s+/, $_;
+    
+    if ($word eq 'card') {
+        $word = 'kort';
+    }
+    print ""$word\n""",0.00,0.24
+document email,ದಸ್ತಾವೇಜಿನ ಇಮೈಲ್,"document e-mail
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.replace()` to replace all occurrences of `document` with `document_email`.
+
+\begin{blockquote}
+https://www.w3schools.com/python/ref_string_replace.asp
+\strong{Python str.replace(old, new[, count])}
+Returns a copy of the string with all instances of substring old replaced by new. If count is specified, at most count replacements are",0.00,0.00
+Recording audio tracks on a rewritable disc is not advised.,ಆಡಿಯೊ ಟ್ರಾಕ್‌ಗಳನ್ನು ಒಂದು ಮರಳಿನರೆಯಬಹುದಾದ ಡಿಸ್ಕನಲ್ಲಿ ರೆಕಾರ್ಡು ಮಾಡುವುದು ಸೂಕ್ತವಲ್ಲ.,"Þáttur á íslensku fyrirtækjandi hljóðstöðu er ekki að ræða.
+\end{code}
+
+Comment: What have you tried so far? Where did you get stuck?
+
+Answer: \begin{itemize}
+\item Use `re.sub` to replace all occurrences of `en` with `kn`:
+
+\begin{pre}
+text = re.sub(r'en', 'kn', text, flags=re.IGNORECASE | re.MULTIL",0.00,0.15

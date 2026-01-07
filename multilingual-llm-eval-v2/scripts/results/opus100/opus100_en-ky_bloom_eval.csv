@@ -1,0 +1,1537 @@
+Source,Reference,Prediction,BLEU,chrF++
+Milton,"МилтонCity in Florida, United States","마이토리
+
+A:
+
+I think this is what you want:
+import java.util.Scanner;
+
+public class Main {
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println(""Enter a sentence"");
+
+        String sentence = scanner.nextLine();
+
+        String[] words = sentence.split(""\\s+""); // split on whitespace
+
+        for (int i = 0; i < words.length; i++) {
+            if (words[i].length() > 1) {
+                words[i] = words[i].substring(",0.00,6.63
+kps,өткөрүлдү,"sks
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>b.replace(c,""""))
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split("" "");
+  b = b.trim();
+  return a.map(x => b.slice(0, x.length).replace(x, """"));
+}",0.00,0.00
+Deleting now…,Азыр өчүрүлүүдө…,"데이터베이스를 삭제하고 있습니다.
+
+A:
+
+I think you can do it like this:
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void)
+{
+    char str[] = ""Deleting now..."";
+    char *str2 = strdup(str);
+    int len = strlen(str2);
+
+    for (int i = 0; i < len; i++)
+    {
+        if (str2[i] == ' ')
+        {
+            str2[i] = '\0';
+        }
+    }
+
+    printf(""%s\n"", (char *)str2",0.00,0.00
+Search for Files...,Файл издөө...,"Searching for files...
+
+A:
+
+Python 2.7
+import sys, re
+
+def main():
+    if len(sys.argv) != 2:
+        print >> sys.stderr, ""Usage: %s file"" % sys.argv[0]
+        sys.exit(1)
+
+    filename = sys.argv[1]
+
+    with open(filename, 'r') as f:
+        lines = f.readlines()
+
+    for line in lines:
+        m = re.search(r'Search for Files...', line)
+        if m:
+            print line
+
+if __name__ == '__main__':
+    main()
+
+Outputs:
+Searching for file",0.00,1.41
+Station,Жаңы радиостанция,"Train station
+
+A:
+
+Python 2.7, 57 bytes
+lambda s:''.join(map(chr,s))
+
+Try it online!
+
+A:
+
+JavaScript (ES6), 56 bytes
+a=>a.split(/\s+/).map(c=>c.toLowerCase()).join(' ')
+
+Try it here!
+Explanation:
+a =>
+  a.split(
+    /\s+/
+  ).map(
+    c =>
+      c.toLowerCase()
+  ).join(
+    ' '
+  )
+
+The split function splits the string into an array of words. The map function takes each word and converts it to lower case. The join function concatenates",0.00,0.00
+paper size,paper size,"paper size
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>`${c} ${b}`).join("" "")
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map((c, i) => `${c}${b}`);
+}",1.88,15.71
+", {0}",{0} токтотуу,", {1}
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("","").map(c=>`${c}, ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.split(
+    "",""
+  ).map(
+    c =>
+      `${c},  ${b}  `
+  )
+console.log(f(""{0}, {1}"", ""a"", ""b""))",0.00,2.40
+DVD Preferences,Ырастоолор,"DVD Preferences
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.replace(/\s+/g, ' ');
+  return a
+    .split(' ')
+    .map(word => `${word} ${b}`);
+};",0.00,0.00
+License URL:,лицензия,"http://www.google.com/intl/en_us/mapfiles/ms/micons/license.png
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.replace(/https?:\/\/(www\.)?google\.([a-z]{2,3})\/intl/en/i,`<img src=""${b}"" alt="""" />`)
+
+Try it online!
+Explanation
+f = (a, b) => {
+  a = a.replace(
+    /https?:\\/\\/(www\\.)?(google\\.([A-Za-z]{2})\\/intl\\/",0.00,0.00
+Sort Track Artist:,_Аткаруучу:,"소녀시대 타이틀 아이스크립트
+
+A:
+
+Python 2.7, 57 bytes
+lambda s:''.join(s.split()[::-1])
+
+Try it online!
+
+A:
+
+JavaScript (ES6), 56 bytes
+f=(a,b)=>a.split(/\s+/).map((c,i)=>{for(j=i;j>0;j--)if(c==b[j])return a.slice(0,i-j+1)+"" ""+c;return c}).join("" "");f(",0.00,0.32
+Playing Track,Тыюу салуу,"메이저트랙을 프로필하고 있습니다.
+
+A:
+
+I think this is what you want:
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    string input, output;
+    cin >> input >> output;
+
+    if (input == ""playing"")
+    {
+        cout << output << endl;
+    }
+
+    return 0;
+}",0.00,0.00
+Isoka,Isoka,창가에서 나오는 햇살이 자꾸 눈부시게 보여줄 것 같아.,0.00,0.00
+"An unknown error occurred while trying to open ""%s"".","""%s"" ачуу учурунда белгисиз ката пайда болду.","The file could not be opened because of an unknown error.
+
+A:
+
+Python 2.7.6 (default, Nov  6 2014, 11:02:56) 
+[GCC 4.8.2] on linux2
+Type ""help"", ""copyright"", ""warning"" or ""license"" for more information.
+>>> import sys
+>>> sys.path.append('/home/mike/Documents/translations')
+>>> from translate.misc.multistring import multistring
+>>> m = multistring(['hello', 'world'])
+>>> m.translate('en', 'korean')
+['안�",0.00,0.66
+%s is the wrong size (%s != %s + %s),%s көлөмү туура эмес (%s != %s + %s),"%s is not the right size (%d != %d + %d)
+
+A:
+
+Python 2.7
+import sys
+
+def main():
+    if len(sys.argv) != 3:
+        print >> sys.stderr, ""Usage: %s <size1> <size2> <size3>"" % sys.argv[0]
+        return 1
+
+    size1 = int(argv[1])
+    size2 = int()
+    size3 = int()
+
+    for i in range(size1):
+        size2 += size1 - i
+        size3 += size2 - i
+
+    if size1 != size2:
+        print ""Wrong size""
+    elif size2",0.68,4.56
+Created on %1$s,%1$s күнү жаратылган,"생성된 날 %2$s
+
+A:
+
+I think this is what you want:
+#include <iostream>
+#include <string>
+
+using namespace std;
+
+int main()
+{
+    string s1 = ""Created on %1$s"", s2 = ""Created on %2$s"";
+
+    cout << s1 << endl;
+    cout << s2 << endl;
+
+    return 0;
+}",0.00,3.39
+Show or hide the artist/album browser,Кичи-браузерди көрсөтүү же бекитүү,메뉴를 보이게 하거나 숨겨두는 것을 선택해주세요.,0.00,0.00
+Open '%s','%s' ачуу,"네이버에서 '%s'을 열어보세요.
+
+A:
+
+I think this is what you want:
+#include <stdio.h>
+#include <string.h>
+
+int main(void)
+{
+    const char *input = ""Open %s"";
+    char *output;
+
+    output = strdup(input);
+    printf(""%s\n"", output);
+
+    free(output);
+}",0.00,3.94
+Custom,Башка:,"컴퓨터
+
+A:
+
+I think you can do it like this:
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void)
+{
+    char *input, *output;
+    input = (char*)malloc(sizeof(char)*100);
+    strcpy(input, ""Custom"");
+
+    printf(""%s\n"", input);  // Input
+    printf(""%s"", output);   // Output
+
+    return 0;
+}",0.00,0.34
+Create a new path...,vectors-action,"Create a new folder named ""Path"" in the current working directory.
+
+A:
+
+Python 2.7.9 (default, Oct  6 2015, 11:02:56) 
+[GCC 4.8.2] on linux2
+Type ""help"", ""copyright"", ""warning"" or ""license"" for more information.
+>>> import os
+>>> os.makedirs('Path')
+>>> 
+
+Python 3.4.3 (default) [MSC v.1900 64 bit (AMD64)] on win32
+>>> import sys
+>>> sys.path.append(os.getcwd())
+>>> os",0.00,7.17
+Fish Preferences,Балыктын ырастоолору,"I like to eat fish, but I don't like raw fish.
+
+A:
+
+Python 2.7.9 (default, Nov  6 2015, 11:02:56) 
+[GCC 4.8.2] on linux2
+Type ""help"", ""copyright"", ""warning"" or ""license"" for more information.
+>>> import sys
+>>> print(sys.version)
+'2.7\n'
+>>> 
+>>> def translate(s):
+...     return ' '.join(map(lambda x: x.translate(None, 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOP",0.00,0.00
+UI translation,Интерфейсти которуу,"미디어 인터페이스
+
+A:
+
+Here is my solution:
+public static void main(String[] args) throws IOException {
+    BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+    String input = br.readLine();
+    System.out.println(translate(input));
+}
+
+private static String translate(String input) {
+    if (input == null || input.isEmpty()) {
+        return null;
+    }
+    String[] words = input.split(""\\s+"");
+    StringBuilder sb = new StringBuilder();
+
+    for (int i",0.00,0.00
+File where bug-buddy will save your bug report in case it can't be sent immediately to Bugzilla.,Кийинчерээк жөнөтүү үчүн ката жөнүндөгү кабар сактоо файлы.,"File where you can find all the bugs that you have reported. You can sort them by date, severity, priority, assignee, etc.",0.00,0.27
+Removing track {0} of {1},Элементтер импорттолууда {0} из {1},"삭제된 트랙 {2} of {3}
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>`${c} of ${b}`).join("" "")
+
+Try it online!
+Explanation
+f = (a, b) =>
+  a.split(
+    /\s+/
+  ).map((c) => `${c}of${b}`)
+  .join(' ')",0.00,1.14
+Delete channel,Каналды өчүрүүundo-type,"삭제되었습니다.
+
+A:
+
+I think you can do it like this:
+#include <iostream>
+#include <string>
+#include <sstream>
+
+using namespace std;
+
+int main()
+{
+    string input = ""delete channel"";
+    string output = """";
+
+    istringstream iss(input);
+    string line;
+    while (getline(iss, line))
+    {
+        if (line.length() > 0)
+        {
+            output += line + ""\n"";
+        }
+    }
+
+    cout << output << endl;
+
+    return 0;
+}",0.00,2.46
+Device Properties,Аспаптардын касиеттери,"데이터 프레임즈
+
+A:
+
+I think this is what you are looking for:
+#include <stdio.h>
+#include <string.h>
+
+int main(void)
+{
+    char *str = ""Device Properties"";
+    char *p = strchr(str, ' ');
+    if (p == NULL)
+    {
+        printf(""%s\n"", str);
+        return 0;
+    }
+    else
+    {
+        p++;
+        while (*p != '\0' && *p != ' ')
+        {
+            printf(""%c"", *p);
+            ++p;
+        }
+        printf",0.00,0.00
+About the GNOME Desktop,GNOME чөйрөсү жөнүндө,"The GNOME Desktop is a free and open-source desktop environment for Linux, Mac OS X, and other Unix-like operating systems.",1.30,7.23
+Authorize for Last.fm,Last.fm сайтынан аткаруучунун веб-бетин карап чыгуу,"['Authorize', 'for', 'last.fm']
+['to', 'authorize']",0.00,7.87
+_Rating:,_Рейтинг:,"번역:
+
+A:
+
+I think you can do it like this:
+#include <stdio.h>
+#include <string.h>
+
+int main(void)
+{
+    char *input = ""_Rating:"";
+    int len = strlen(input);
+
+    char *output = malloc(len + 1);
+    if (output == NULL)
+    {
+        printf(""Out of memory\n"");
+        return 1;
+    }
+
+    memcpy(output, input, len); 
+    output[len] = '\0';
+
+    printf(""%s\n"", output); 
+
+    free(output);
+}",0.00,0.53
+Nagagami,Nagagami,"미안해
+
+A:
+
+I think this is what you want:
+#include <iostream>
+#include <string>
+
+using namespace std;
+
+int main()
+{
+    string input;
+    cin >> input;
+
+    if (input == ""안녕하세요"")
+    {
+        cout << ""사랑합니다."" << endl;
+    }
+    else
+    {
+        int i;
+        for (i = 0; i < input.length(); i++)
+        {
+            if (isalpha(input[i]))
+            {
+                cout << input[i];
+            }
+            else
+            {
+                break;
+            }
+        }
+    }
+
+    return 0;",0.00,2.33
+Moline-Quad Cities,Moline-Quad Cities,"Moline, Quad Cities
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("","").map(c=>`${c}, ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(',');
+  b = b.trim();
+  return a.map((c, i) => `${c}${b}`);
+}",0.88,22.97
+Starting and Stopping,Иштетүү жана токтотуу:,"처음부터 마지막까지
+
+A:
+
+I think you can do it like this:
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void)
+{
+    int i = 0;
+    int j = 0;
+
+    while (i < 10)
+    {
+        if (j == 0)
+        {
+            printf(""Starting and stopping\n"");
+            j = 1;
+        }
+        else
+        {
+            if (++j > 1)
+            {
+                printf(""\n%d, %d"", i, j);
+                i = j;
+            }
+        }
+    }
+
+    return 0;
+}",0.00,0.29
+pixel,unit-plural,"piksel
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>{for(j=i;j<a.length;j++)if(c==a[j])return j})
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.split(
+    "" ""
+  ).map(
+    (c, i) =>
+      for (j = i; j < a.length; j++) if (c === a[j]) return j
+  )
+console.log(f(""pixel"", ""piksel",0.00,3.90
+"backup before removal, choose version CONTROL","өчүрөрдөн мурун копиясын сактап кал, CONTROL версиясын танда","backup before deletion, choose control version
+
+A:
+
+I think you can do it like this:
+#include <iostream>
+#include <string>
+#include <vector>
+
+using namespace std;
+
+int main(int argc, char *argv[])
+{
+    if (argc != 2)
+    {
+        cout << ""Usage: "" << argv[0] << "" <source> <target>"" << endl;
+        return 1;
+    }
+
+    string source = argv[1];
+    string target = argv[2];
+
+    vector<string> words;
+    split(words, source, ' ');
+
+    for (size_t i = 0; i < words.size(); ++i)
+        words[i] = words[i].",0.00,0.14
+Properties,Касиети,"Propriétés
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>{for(j=i;j<b.length;j++)if(c==b[j])return j})
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  return a.map(c => {
+    for (i = 0; i < b.length; i++) {
+      if (c === b[i]) {
+        return i;
+      }
+    }",0.00,0.00
+Viedma,ViedmaWienVienne,"윤마이다
+
+A:
+
+I think this is what you want:
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void)
+{
+    char *input = ""Viedma"";
+    char output[100];
+    int len = strlen(input);
+
+    for (int i = 0; i < len; i++)
+    {
+        if (input[i] == ' ')
+        {
+            output[i] = input[i + 1];
+        }
+        else
+        {
+            printf(""%c"", input[i]);
+        }
+    }
+
+    printf(""%s"", output);
+    return 0;
+}",0.00,8.27
+Christiansted,Christiansted,"조선생당
+
+A:
+
+I think you can do it like this:
+#include <stdio.h>
+#include <string.h>
+
+int main(void)
+{
+    char *str = ""Christiansted"";
+    int len = strlen(str);
+
+    for (int i = 0; i < len; i++)
+    {
+        if (str[i] == ' ')
+        {
+            str[i] = '_';
+        }
+    }
+
+    printf(""%s\n"", str);
+    return 0;
+}",0.00,21.72
+Set all licenses to this value,Бул жанрды баардык жолчолорго коюу,"This value is set to all licenses
+
+A:
+
+I think you can do it like this:
+public static void main(String[] args) {
+    Scanner scanner = new Scanner(System.in);
+    System.out.println(""Enter input sentence"");
+
+    String input = scanner.nextLine();
+    String[] words = input.split(""\\s+""); // split by space
+
+    for (int i = 0; i < words.length; i++) {
+        if (words[i].equals(""license"")) {
+            words[i] = ""license_value"";
+        }
+    }
+
+    String output = """";
+    for (",0.00,0.00
+CRTC %d: trying mode %dx%d@%dHz with output at %dx%d@%dHz (pass %d),%d CRTC: %dx%d@%dГц режимин текшерүү; чыгуусу %dx%d@%dГц (%d-жолку аракет),"CRTC %x: trying mode %sx%s@%sHz with outputs at %sx%s'%s'%s' (pass %s)
+
+A:
+
+I don't know if this is what you're looking for, but you can do it like this:
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void) {
+    int i, j, k, l, m, n, o, p, q, r, s, t, u, v, w, x, y, z, aa, bb, cc, dd, ee, ff, gg, hh, ii, jj, kk, ll, mm, nn,",0.00,5.66
+"background, style","Толтурууbackground, style","소개, 형태
+
+A:
+
+I think this is what you want:
+#include <iostream>
+#include <string>
+#include <sstream>
+
+using namespace std;
+
+int main()
+{
+    string input = ""background, style"";
+    string output = """";
+    stringstream ss(input);
+
+    while (getline(ss, output, ','))
+    {
+        cout << output << endl;
+    }
+
+    return 0;
+}",0.00,20.96
+Number,Жолчонун номери,20,0.00,0.00
+_Reset to 0°,view-action,"버리기 위치를 0으로 변경합니다.
+
+A:
+
+I think this is what you want:
+#include <iostream>
+#include <string>
+#include <sstream>
+
+using namespace std;
+
+int main()
+{
+    string input;
+    cin >> input;
+
+    stringstream ss(input);
+    string line;
+    while (getline(ss, line))
+    {
+        if (line.find(""_Reset to "") != string::npos)
+        {
+            string::size_type pos = line.find_first_of(' ');
+            cout << line.substr(0, pos",0.00,2.62
+Could not open stream or playlist,Агымды же ойномо тизмесин ачуу мүмкүн эмес,"더블레이어를 열지 못했습니다.
+
+A:
+
+I think this is what you are looking for:
+#include <iostream>
+#include <fstream>
+#include <string>
+#include <sstream>
+
+using namespace std;
+
+int main()
+{
+    string line;
+    ifstream infile(""input.txt"");
+    if (infile.is_open())
+    {
+        while (getline(infile, line))
+        {
+            stringstream ss;
+            ss << line << endl;
+            cout << ss.str() << endl;
+        }
+    }
+    else
+    {
+        cout << ""could not open",0.00,0.00
+Unrecognized launch option: %d,Туура эмес иштетүү параметри: %d,"Launch option not recognized: %d
+
+A:
+
+The problem is that you are using %d as an argument to printf, but %d is not a valid format specifier for printf. You need to escape it with a backslash:
+printf(""Unrecognized launch options: %d\n"", unrecognizedLaunchOptions);",0.70,1.52
+Play this song,Ойнотуучу тизме,"또 하루를 살고 싶었다
+
+A:
+
+I think you can do it like this:
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void)
+{
+    char *str = ""Play this song"";
+    int len = strlen(str);
+
+    for (int i = 0; i < len; i++)
+    {
+        if (str[i] == ' ')
+        {
+            str[i] = '_';
+        }
+    }
+
+    printf(""%s\n"", str);
+    return 0;
+}",0.00,0.00
+Science,Илим,"소개
+
+A:
+
+I think this is what you want:
+#include <iostream>
+#include <string>
+
+using namespace std;
+
+int main()
+{
+    string input;
+    cin >> input;
+
+    if (input == ""science"")
+    {
+        cout << ""Science"" << endl;
+    }
+    else
+    {
+        return 0;
+    }
+
+    return 0;
+}",0.00,0.00
+"Downloads, past week:",Жүктөө убактылуу токтоду,"데이터 다운로드, 최근 1주간
+
+A:
+
+I think this is what you want:
+import nltk
+from nltk.corpus import stopwords
+
+stopwords = set(stopwords.words('english'))
+
+sentence = ""Downloads, last week:\n""
+sentence += ""  Input: %s\n"" % (""Downloads, last month:\n"")
+for word in sentence.split():
+    if word not in stopwords:
+        sentence += ""%s\n"" % (word)
+
+nltk.sent_tokenize(sentence",0.00,0.00
+Ratio: %s,Рейтинги: %s,"%s/%s
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(/\s+/).map((c,i)=>{for(j=i;j<b.length;j++)if(c==b[j])return j})
+
+Try it online!
+Explanation
+f = (a, b) => {
+  a = a.trim().split("" "");
+  b = b.trim();
+  return a.map(c => {
+    for (i = 0; i < b.length; i++) {
+      if (c === b[i]",0.00,1.25
+Error,Ката,"エラー
+
+A:
+
+If you want to translate it literally, you can do this:
+
+エラー (Error)
+エラーメッセージ (Error Message)
+エレベーター (Elevator)
+エリア (Area)
+エンジニア (Engineer)
+エネルギー (Energy)
+エンディング (Ending)
+エントリー (Entry)
+エピローグ (Epilogue)
+エスケープ (Escape)
+エストリート (Exit)
+エトワールド (Exterior)
+エクスポート (",0.00,0.00
+_View,_Көрүнүш,"봄이 오는 것을 볼 수 있습니다.
+
+A:
+
+I think this is what you want:
+<?php
+$lang = array(
+    'View' => '보기'
+);
+
+foreach ($lang as $key => $value) {
+    echo $key . ': ' . $value . PHP_EOL;
+}
+?>",0.00,0.51
+No new songs available for {0}.,{0} үчүн жаңы ырлар табылган жок,"There is no new song available for {1}.
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(/\s+/).map((c,i)=>`There is no ${c} available for ${b}.`)
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.split(
+    /\s+/g
+  ).map(
+    (c, i) =>
+      `${c} is not available for ""${b}.""`
+  )
+);
+
+A:
+
+Python 2, 32 bytes
+lambda a,b:''.join([str(x)for x in",0.00,0.45
+Oregon Inlet,Oregon Inlet,"천천한 바람이 불어오는 곳
+
+A:
+
+I think you can do it like this:
+#include <iostream>
+#include <string>
+
+using namespace std;
+
+int main()
+{
+    string input = ""Oregon Inlet"";
+    string output = """";
+
+    for (int i = 0; i < input.length(); i++)
+    {
+        if (input[i] == ' ')
+        {
+            output += "" "";
+        }
+        else
+        {
+            if (output != """")
+            {
+                output += ""\n"";
+            }
+
+            output += input[i];
+        }
+    }
+
+    cout << output << endl;
+
+    return",0.00,13.54
+Kananga,Kananga,"Kyango
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>`${b} ${c}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map((s, i) => `${s} ${b}`);
+}",0.00,5.51
+_Take a photo,_Сүрөткө тартуу,"Take a picture
+
+A:
+
+Python 2.7.6 (default, Nov  6 2015, 11:02:56) 
+[GCC 4.8.2] on linux2
+Type ""help"", ""copyright"", ""warning"" or ""license"" for more information.
+>>> import sys
+>>> print(sys.stdin.readline())
+Take a picture
+>>>",0.00,0.00
+Charpicker Applet Factory,Charpicker Апплет Фабрикасы,"Ky.CharPickerAppletFactory
+
+A:
+
+I don't know if this is what you are looking for, but here is how I would do it:
+import java.awt.*;
+import javax.swing.*;
+
+public class Main extends JFrame {
+
+    public static void main(String[] args) {
+        new Main();
+    }
+
+    public Main() {
+        setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        setBounds(100, 100, 450, 300);
+
+        JPanel panel = new JPanel();
+        panel.setBorder(new LineBorder(Color.BLACK));
+        add(panel);",0.00,4.69
+light-and-shadow filter,light-and-shadow чыпкасы,"light and shadow filter
+
+A:
+
+I think you can do it in two steps. First, you need to translate the word ""filter"" from English to Korean. Then, you have to translate that word back to English.
+The first step is pretty easy. You just need to look up the translation of ""light-and-shadow"" in Google Translate. The result will be something like this:
+
+이름을 한국어로 변환하기 위해서는 아래와 같은 경우를 사용할 수 있습니다. 이름의 인",0.00,16.96
+Create a new smart playlist,Жаңы ыңгайлуу ойнотмо тизмесин түзүү,"새로운 컨텐츠를 생성하세요
+
+A:
+
+I think this is what you want:
+#include <iostream>
+#include <string>
+#include <sstream>
+
+using namespace std;
+
+int main(int argc, char *argv[])
+{
+    if (argc != 2)
+    {
+        cout << ""Usage: "" << argv[0] << "" input"" << endl;
+        return 1;
+    }
+
+    string input = argv[1];
+    string output = """";
+
+    ifstream infile(input.c_str());
+    if (!infile.is_open())
+    {
+        cerr",0.00,0.00
+L_atitude:,_Жазылык алкак:,"R_latitude:
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>{c=parseInt(c,10);for(var d=i;d<b.length;d++)if(c==b[d])return d;return-1})
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map",0.00,0.61
+Remove From Play Queue,Ойнотмо катардан жоготуу,"삭제하기
+
+A:
+
+I think you can do it like this:
+import java.util.Scanner;
+
+public class Main {
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println(""Enter the sentence"");
+
+        String sentence = scanner.nextLine();
+
+        String[] words = sentence.split(""\\s+""); // split by space
+
+        for (int i = 0; i < words.length; i++) {
+            if (words[i].equals(""Remove"")) {
+                words[i] = words[i].substring",0.00,0.00
+paper size,paper size,"paper size
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>`${c} ${b}`).join("" "")
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map((c, i) => `${c}${b}`);
+}",1.88,15.71
+Bafia,Бафия,"Ba-fia
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map(c=>`${c}-${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map((c, i) => `${c} - ${b}`);
+}",0.00,0.00
+Recommended Artists,Сунуш кылынган радиолор,"미스터트 아티스트
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation
+f = (a, b) => {
+  a = a.trim().split("" "");
+  b = b.trim();
+  return a.map((c, i) => `${c}${b}`);
+}",0.00,0.00
+Could not write CD,Дискке жазуу болбой калды,"데이터를 쓰지 못하였습니다.
+
+A:
+
+I think this is what you want:
+#include <iostream>
+#include <string>
+#include <sstream>
+
+using namespace std;
+
+int main()
+{
+    string input;
+    cin >> input;
+
+    stringstream ss(input);
+    string line;
+    while (getline(ss, line))
+    {
+        cout << line << endl;
+    }
+
+    return 0;
+}",0.00,0.00
+Password hint,Password hint,"password hint
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map(c => c + ' ' + b);
+}",0.78,20.63
+_Reload,_Кайра жүктө,"로딩
+
+A:
+
+I think this is what you want:
+#include <iostream>
+#include <string>
+#include <sstream>
+
+using namespace std;
+
+int main(int argc, char *argv[])
+{
+    if (argc != 2)
+    {
+        cout << ""Usage: "" << argv[0] << "" input.txt"" << endl;
+        return 1;
+    }
+
+    string line;
+    ifstream infile(argv[1]);
+    while (getline(infile, line))
+    {
+        stringstream ss(line);
+        string word;
+        getline(ss, word, ' ');
+
+        if (",0.00,0.00
+"Generated keyword/value pair is too long (keyword=%s, length=%s)","Чыккан ачкыч-сөз/маани экилиги ото узун (ачкыч-сөз=%s, узундугу=%s)","Generated key/value pairs are too long. Please reduce the length of keywords and values to be less than %s characters.
+
+I have tried this code but it does not work.
+import re
+from bs4 import BeautifulSoup
+
+soup = BeautifulSoup(open('example.html'), 'html.parser')
+
+keywords = soup.find_all('div', {'class': 'col-md-6'})
+for keyword in keywords:
+    value = keyword.find_next_sibling('p').text
+    if len(value) > 50:
+        print(keyword.text + ': ' + value[:50] + '...",0.00,1.58
+Saving Metadata to File,_Метаберилиштерди файлга жазуу,파일을 저장하는 데이터를 존재하는 것으로 표시합니다.,0.00,0.00
+Aeroparque,Aeroparque,"Aéroport international de Buenos Aires (Aeroparque Jorge Newbery)
+
+A:
+
+Here is my solution:
+import java.util.Scanner;
+
+public class Main {
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println(""Enter the sentence"");
+
+        String sentence = scanner.nextLine();
+
+        String[] words = sentence.split(""\\s+""); // Split the sentence into words
+
+        for (int i = 0; i < words.length; i++) {
+            if (words[i].equals(""Aeroparque"")) {
+                System.",0.00,8.81
+Unknown,Белгисиз,"누군가를 알 수 없다.
+
+A:
+
+I think you can do it like this:
+import re
+
+def translate(sentence):
+    result = """"
+    for word in sentence.split():
+        if len(result) > 0:
+            result += "" ""
+        result += re.sub(""[^a-zA-Z0-9]"", """", word)
+    return result
+
+print translate(""Unknown"")
+
+The idea is to replace all non-alphanumeric characters with an empty string.",0.00,0.00
+Shutter,Жапкыч,"シャッター
+
+A:
+
+I think this is what you want:
+import java.util.Scanner;
+
+public class Main {
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println(""Enter a sentence"");
+
+        String sentence = scanner.nextLine();
+
+        String[] words = sentence.split(""\\s+""); // split on whitespace
+
+        for (int i = 0; i < words.length; i++) {
+            if (words[i].equals(""shutter"")) {
+                System.err.println(",0.00,0.00
+About the GNOME Desktop,GNOME чөйрөсү жөнүндө,"The GNOME Desktop is a free and open-source desktop environment for Linux, Mac OS X, and other Unix-like operating systems.",1.30,7.23
+_View,_Түр,"봄이 오는 것을 볼 수 있습니다.
+
+A:
+
+I think this is what you want:
+<?php
+$lang = array(
+    'View' => '보기'
+);
+
+foreach ($lang as $key => $value) {
+    echo $key . ': ' . $value . PHP_EOL;
+}
+?>",0.00,0.86
+%a %l:%M %p,%a %l:%M %p,"%b %m %p
+
+A:
+
+Python 2.7.6 (default, Nov  6 2014, 11:02:16) 
+[GCC 4.8.2] on linux2
+Type ""help"", ""copyright"", ""warning"" or ""license"" for more information.
+>>> import time
+>>> time.strftime(""%a %b %d %H:%M:%S %Y"", time.localtime(time.time()))
+'Mon Dec 06 14:02:16 2014'",0.75,5.17
+Authentication Required,Аутентификация керек,"로그인이 필요합니다.
+
+A:
+
+I think this is what you want:
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    string str = ""Authentication Required"";
+    cout << str.substr(0, str.find_first_of(' ')) << endl;
+    return 0;
+}",0.00,0.00
+Important tasks are running,Маанилүү иштер аткарылууда,"Important tâches sont en cours d'exécution
+
+A:
+
+I think you can do it like this:
+import java.util.Scanner;
+
+public class Main {
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println(""Important tasks are: "");
+
+        while (scanner.hasNextLine()) {
+            String line = scanner.nextLine();
+            String[] words = line.split(""\\s+"");
+
+            for (int i = 0; i < words.length; i++) {
+                if (words[i].equals(""tasks""))",0.00,0.00
+force NAME as group for added files,кошулган файлдардын группасын АТЫ деп кой,"force NAME to be added as a group for all files
+
+A:
+
+I think this is what you're looking for:
+perl -pe 's/(^|\n)force\s+NAME\s+as\s+group\s+for\s+added\s+files(.*)/\1\2/g' file.txt",0.00,0.00
+paper size,paper size,"paper size
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>`${c} ${b}`).join("" "")
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map((c, i) => `${c}${b}`);
+}",1.88,15.71
+Notify user when the battery is low.,Заряд азайган кезде колдонуучуларды билдирүү,"메시지를 보내기 위해 사용자에게 알림을 보여줍니다.
+
+A:
+
+I think you can do it like this:
+<?php
+$lang = array('en' => 'English', 'ko' => 'Korean');
+if (isset($_GET['lang'])) {
+    $lang[$_GET['lang']] = $_GET['lang'];
+}
+?>
+<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <meta",0.00,0.00
+There was an error launching the keyboard preferences dialog: %s,Алиптергич ырастоо диалогун чыгаруу учурунда ката пайда болду: %s,도움버튼 설정 페이지를 실행하는 중 오류가 발생하였습니다. %s,2.52,0.98
+Convert the image to grayscale,image-convert-action,"Grayscale conversion of the image
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>{for(var d=0;d<c.length;d++)if(c[d]==b)return c.slice(0,d+1)}).join("" "")
+
+Try it online!
+Explanation
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map(x => {
+    for (var i =",0.00,12.88
+Albu_m Title:,Альбом боюнча,"미스터 소개
+
+A:
+
+I think you can do it like this:
+public static void main(String[] args) throws IOException {
+    BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+    String line;
+    while ((line = br.readLine()) != null) {
+        String[] parts = line.split(""\\s+"");
+        if (parts.length != 2) {
+            System.out.println(""Invalid input"");
+            continue;
+        }
+        String s1 = parts[0];
+        String s2 = parts[1];
+        String result = """";
+        for (",0.00,0.00
+Failed to get new songs for {0}.,{0} үчүн жаңы ырларды алуу мүмкүн эмес.,데이터베이스에서 새로운 음악을 가져오는데 실패했습니다.,0.00,0.53
+unquote filenames read with -T (default),-T менен алынган файлдардын аттарындагы ковычкалар өчүрүлөт (алдынала тандалат),"""filename1.txt, filename2.txt""
+
+A:
+
+I think you can do it like this:
+#!/usr/bin/env perl
+
+use strict;
+use warnings;
+
+my @filenames = <DATA>;
+
+foreach my $filename (@filenames) {
+    chomp($filename);
+    print ""$filename\n"";
+}",0.00,0.53
+"The location of the .desktop file describing the launcher. This key is only relevant if the object_type key is ""launcher-object"".","Расположение файла .desktop, описывающего кнопку запуска. Этот параметр имеет смысл, только если тип объекта (object_type) содержит ""launcher-object"".","The name of the folder containing the .xdg-desktop-file for this launcher, or an empty string if there is no such file.
+
+A:
+
+I think you can do it like this:
+import requests
+from bs4 import BeautifulSoup
+
+r = requests.get('https://apps.gnome.org/applications/desktop-files/')
+soup = BeautifulSoup(r.content, 'html.parser')
+
+for link in soup.find_all('a'):
+    if link['href'].endswith('.desktop'):
+        print(link.text)
+
+This will give you all the links",0.00,8.05
+Set all sort album artists to this value,Баардык жолчолорго бул аткаруучунун атын коюу,"This value is set for all sort albums
+
+A:
+
+JavaScript (ES6), 28 bytes
+s=>s.split(/\s+/).map(t=>t.toLowerCase().replace(/^\s+|\s+$/g,""""))
+
+Try it online!
+
+A:
+
+Python 2, 32 bytes
+lambda s:''.join(set(s.lower().split()).difference(' '))",0.00,0.00
+Folders,Каталогдор,"나 사랑하는데
+
+A:
+
+Here is my solution:
+import java.util.Scanner;
+
+public class Main {
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println(""Enter the sentence"");
+
+        String sentence = scanner.nextLine();
+
+        String[] words = sentence.split(""\\s+""); // Split the sentence into words
+
+        for (int i = 0; i < words.length; i++) {
+            if",0.00,0.00
+_Bookmarks,_Китеп белгилер,"블루키즈
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map((c, i) => `${c}${b}`);
+}",0.00,0.00
+Edit Active Palette,palette-editor-action,"편집하기 위한 오픈 클래스
+
+A:
+
+Here is my solution:
+#include <iostream>
+#include <string>
+#include <sstream>
+#include <fstream>
+
+using namespace std;
+
+int main(int argc, char *argv[])
+{
+    if (argc != 2)
+    {
+        cout << ""Usage: "" << argv[0] << "" input.txt"" << endl;
+        return 1;
+    }
+
+    string line;
+    ifstream file(argv[1]);
+    if (!file.is_open())
+    {
+        cerr << ""Unable to open file"" << endl; 
+        return 1; 
+    }",0.00,6.74
+_About,_Бул жөнүндө,"[('About',), ('이', 'p', 'ro', 'gam', 'e', 'lu', 'h', 'a', 'su',",0.00,0.00
+General,Жалпы,처음부터 한국어를 알고 싶었는데 그렇지 않았을 때까지 나는 오랜 시간이 흘렀다.,0.00,0.00
+Install Failed,Орнотуу ишке ашпады,데이터베이스를 설치하는데 실패했습니다.,0.00,0.00
+Separator,Бөлгүч,네이버 서비스를 사용하기 위해서는 다음과 같이 구성되어야 합니다.,0.00,0.00
+Location:,Жайгашкан жери:,"Location:
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>`${c}: ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.split(
+    /\s+/
+  ).map(
+    c =>
+      `${c}:` +
+      b
+    )
+  )",0.00,0.42
+Delete Playlist,Ойнотуу тизмесин алып таштоо,"%s\n"", output);  
+    free(output)",0.00,0.00
+Artigas,Artigas,"하늘에서 보이지 않는 구름을 위한 노래가 있다.
+
+A:
+
+I think this is what you are looking for:
+<?php
+$en = ""Artigas"";
+$ky = """";
+if (strlen($en) > 0) {
+    $ky = preg_replace(""/[^a-zA-Z0-9]/"", """", $en);
+}
+echo $ky . ""<br>"";
+?>",0.00,12.85
+Point Pleasant,Point Pleasant,"%s\n"",",0.00,2.87
+License URL:,лицензия,"http://www.google.com/intl/en_us/mapfiles/ms/micons/license.png
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.replace(/https?:\/\/(www\.)?google\.([a-z]{2,3})\/intl/en/i,`<img src=""${b}"" alt="""" />`)
+
+Try it online!
+Explanation
+f = (a, b) => {
+  a = a.replace(
+    /https?:\\/\\/(www\\.)?(google\\.([A-Za-z]{2})\\/intl\\/",0.00,0.00
+Notify user when the battery is low.,Заряд азайган кезде колдонуучуларды билдирүү,"메시지를 보내기 위해 사용자에게 알림을 보여줍니다.
+
+A:
+
+I think you can do it like this:
+<?php
+$lang = array('en' => 'English', 'ko' => 'Korean');
+if (isset($_GET['lang'])) {
+    $lang[$_GET['lang']] = $_GET['lang'];
+}
+?>
+<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <meta",0.00,0.00
+"Error correction tries to work around problem areas on a disc, such as surface scratches, but will slow down importing substantially.","Каталарды издөө дискте болгон чийиктерди жана башка көйгөйлөрдү оңдойт, бирок жазууларды импорттоо ылдамдыгын бир кача төмөндөтөт.",처리된 오류 수정은 디스크에서 발생하는 문제가 있을 때 사용될 수 있는 것이다.,0.00,0.17
+Password hint,Password hint,"password hint
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map(c => c + ' ' + b);
+}",0.78,20.63
+Import CD,Дискти импорттоо,キーディスクをインポート,0.00,0.00

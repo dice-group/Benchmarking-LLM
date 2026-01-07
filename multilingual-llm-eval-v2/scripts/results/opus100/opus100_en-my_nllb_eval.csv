@@ -1,0 +1,101 @@
+Source,Reference,Prediction,BLEU,chrF++
+Message edited at %s,စကား လက်ခံရ,Xabar % s da tahrirlangan,0.00,0.00
+Hide main window,ပင်မဝင်းဒိုး ဖွက်ထားပါ,Негізгі терезені жасыру,0.00,0.00
+/clear: clear all messages from the current conversation,/clear - အခုစကားပြောရာမှ စာကြောင်းများအားလုံး ရှင်းလင်းပါ,/ clear: वर्तमान वार्तालाप से सभी संदेशों को साफ़ करें,0.00,7.04
+"Last month clashes between indigenous Bodo tribes and Muslim settlers in the Indian State of Assam broke out which led to rioting, killings and mass displacement.",ပြီးခဲ့တဲ့လက ဖြစ်ပွားခဲ့သော် အိန္ဒိယနိုင်ငံ အာသံပြည်နယ်အတွင်းမှ ဒေသခံဘိုဒိုမျိုးနွယ်စုများနှင့် လာရောက်အခြေချနေထိုင်သော မွတ်ဆလင်တို့၏ပဋိပက္ခသည် အဓိကရုဏ်းဖြစ်ခြင်း၊,"В прошлом месяце в индийском штате Ассам произошли столкновения между коренными племенами Бодо и мусульманскими поселенцами, которые привели к беспорядкам, убийствам и массовому перемещению.",0.00,0.00
+Failed to open '%s' for writing: %s,'%s' ကို ဖွင့်ပြီး ရေးသားဖို့ မအောင်မြင်တဲ့ အရာ - %s,लिखने के लिए '% s' खोलने में विफलः % s,0.00,5.29
+Santos knows what challenges women face in this male-dominated industry.,အမျိုးသားများ အုပ်စိုးထားသော ဤ သတင်းလုပ်ငန်းတွင် အမျိုးသမီးများ ကြုံတွေ့ရသော အခက်အခဲများကို ဆန်တို့(စ) သိသည်။,"Сантос знает, с какими проблемами сталкиваются женщины в этой индустрии, где доминируют мужчины.",0.00,0.00
+From which families do they come?,သူတို့ ဘယ်မိသားစုကလာတာလဲ။,Da quali famiglie provengono?,0.00,0.00
+Go to the next image of the gallery,ရှေ့ဆုံးပုံ သွားပါ,गैलरी की अगली छवि पर जाएँ,0.00,0.00
+Postal Code:,စာတိုက်အမှတ် -,Ταχυδρομικός κώδικας:,0.00,0.00
+"But aside from the three-finger salute, protesters are also doing read-in protests in public places to dramatize their opposition to the coup.",ထိုင်း​တပ်​မတော်​က မေ​လ(၂​၀)ရက်​နေ့​တွင် ည​မ​ထွက်​ရ​အမိန့်​ကို ကြေညာခဲ့ပြီး နှစ်​ရက်​အကြာ​တွင် အာဏာ​သိမ်း​ခဲ့​သည်။,"Pero aparte del saludo de tres dedos, los manifestantes también están haciendo protestas en lugares públicos para dramatizar su oposición al golpe.",0.00,0.00
+libburnia burning suite,libburnia ရိုက်ယူမှုနည်းများ,libburnia égő lakosztály,7.25,27.28
+Simulation of (S)VCD burning,အက်ဒီဗီဒီ ရေးယူရန် အစမ်းပြသခြင်း,Simulazione dell'accensione di (S) VCD,0.00,0.00
+Extension(s),အမျိုးအစား,Estensione (s),0.00,0.00
+Creating file layout,ဖိုင်နေရာချထားမှုကိုပြုလုပ်,फ़ाइल लेआउट बनाना,0.00,0.00
+Select Your Avatar Image,မျက်နှာစာပုံ ရွေးချယ်ပါ,अपना अवतार छवि चुनें,0.00,0.00
+Text Editor,စာသား တည်းဖြတ်ကိရိယာ,पाठ संपादक,0.00,0.00
+Pause length:,ရပ်မှတ် ကြာချိန်:,Toʻxtash davomiyligi:,0.00,0.99
+Song start:,သီချင်းအစ,Începutul cântecului:,0.00,0.00
+Rickshaw as a mean of transportation pulled by a human being has been considered a violation of human rights. So the Commune of Antsirabe launched the “cyclopousse” – a rickshaw pulled by a bike.,"ဒါပေမဲ့​လည်း ""ရိုးရာ"" လန်​ချား​တွေ​က အန်​ဆီ​ရာ​ဘဲ ဒေသ​ခံတော်တော်​များ⁠များ​အတွက် အဓိက​သွား​လာ​ရေး​နည်း​အနေ​နဲ့ ဆက်​ရှိ​နေ​သေး​တာ​ပါ​ပဲ။",O riquixá como meio de transporte puxado por um ser humano tem sido considerado uma violação dos direitos humanos.,0.00,0.00
+Changes the case of selected text.,ရွေးချယ်ထားသော စာသားကို အကြီးအသေးပြောင်း,चयनित पाठ का केस बदलता है.,0.00,0.00
+What is your Google ID?,Google အမည် သွင်းပါ,Qual è il tuo ID Google?,0.00,22.46
+Image from today's protest in Benghazi.,"""စိတ်မကောင်းပါဘူး ခရစ်(စ်)ရယ် ၊",Sary avy amin'ny hetsi-panoherana androany tao Benghazi.,0.00,0.00
+_Debug,_D အမှားစစ်,_ डिबग,0.00,2.22
+Appending audio tracks to a CD is not advised.,စီဒီသို့သီချင်းဖိုင်များထပ်ထည့်ခြင်းကို မပြုလုပ်စေလိုပါ,Não é aconselhável anexar faixas de áudio a um CD.,0.00,0.00
+File format not recognized,ဖိုင်ပုံစံကိုအသိအမှတ်မပြုနိင်ပါ,Файл пішімі танылмаған,0.00,0.00
+"For a moment, the news about the checkpoint came as a shock.",ယင်းသည် ကျွန်ုပ်၏ ဘ၀ကို ပြီးဆုံးစေခဲ့သောသူတို့၏ အကြွင်းမဲ့ နိဂုံးဟု အနက်ဆောင်ပါသည်။,"Per un attimo, la notizia del posto di blocco è stata uno shock.",0.00,0.00
+"Saving ""%s""",%sကို အစပြုနေတယ်,"""% s"" सहेज रहा है",0.00,3.51
+Import Snippets,အချက်အလက်အတိုထွာများကို ထည့်သွင်း,स्निपेट आयात करें,0.00,0.00
+Whether to check words typed against the languages you want to check with.,ရိုက်လိုက်သော စာသားများကို သင်စစ်ဆေးစေလိုသော ဘာသာစကားအတိုင်း စစ်ဆေးပေးရန် လိုမလို,क्या आप जिन भाषाओं के साथ जाँच करना चाहते हैं उनके विरुद्ध टाइप किए गए शब्दों की जाँच करें.,0.00,0.00
+Groups,အဖွဲ့,Ομάδες,0.00,0.00
+Format:,အချိုးအစား-,Пішімі:,0.00,0.00
+Mer_ge,_G ရောပါ,Συγχώνευση,0.00,0.00
+Unrecognized launch option: %d,စတင်ဆောင်ရွက်ရန်ရွေးချယ်စရာ: %d ကိုအသိအမှတ်မပြု,Tanilmagan ishga tushirish moslamasi: % d,0.00,2.35
+Type,အမျိုးအစား,Τύπος,0.00,0.00
+8 Shocking Quotes from Malaysian Politicians · Global Voices,မလေးရှား နိုင်ငံရေးသမားများ ပြောသည့် လန့်စရာစကား (၈)ခွန်း,8 шокирующих цитат малайзийских политиков,0.00,0.00
+Simulation of data CD burning,ဒေတာစီဒီရေးယူရန်အစမ်းပြသခြင်း,Simulação de gravação de dados em CD,0.00,0.00
+Default,မူရင်းအတိုင်း,Προεπιλογή,0.00,0.00
+Loose Routing,အတည်မရှိလမ်းကြောင်း,ढीला रूटिंग,0.00,0.00
+Enable Search Highlighting,အရောင်မျဉ်းဖြင့် ရှာနိုင်အောင် ပြုလုပ်,खोज हाइलाइटिंग सक्षम करें,0.00,0.00
+An Instant Messaging client for GNOME,ဂနုမ်းအတွက် စကားပြောဆိုမှု ကလိုင်းယင့်,GNOME के लिए एक त्वरित संदेश क्लाइंट,0.00,0.00
+Select all files,ဖိုင်များအားလုံးကိုရွေးချယ်ပါ,Ehli faýllary saýla,0.00,0.00
+"Traveling across Madagascar through public transportation is still a unique experience. The most affordable way to travel is via the rural taxi, Taxi Brousse.",မာ​ဒ​ဂါ​စကား​တစ်​ခွင် အများ​ပြည်​သူ​သုံး​ယာဉ်​များ​ကို သုံး​၍ ခရီးသွား​ရ​ခြင်း​မှာ ထူးခြား​သည့် အတွေ့​အကြုံ​တစ်​ခု​ဖြစ်​နေ​ပါ​သေး​သည်။,"Ο πιο προσιτός τρόπος για να ταξιδέψετε είναι μέσω του αγροτικού ταξί, Taxi Brousse.",0.00,0.00
+"""%s"" is busy.","""%s"" မအားသေးပါ","""%s"" व्यस्त है.",7.25,13.99
+Name,အမည်,Ονοματεπώνυμο,0.00,0.00
+Sets consistent sound levels between tracks,သီချင်းအပုဒ်တွေကြား တူညီမှုရှိတဲ အသံနှုန်းကိုသတ်မှတ်ပါ,ट्रैक के बीच सुसंगत ध्वनि स्तर सेट करता है,0.00,0.00
+Error while loading the project.,ပရောၐျက်ကိုဖွင့်နေစဉ်အမှားဖြစ်နေသည်,परियोजना लोड करते समय त्रुटि.,0.00,0.00
+_Check Spelling...,_C စာလုံးပေါင်းစစ်,- Έλεγξε την ορθογραφία...,0.00,0.00
+offline,လိုင်းပြင်,ऑफ़लाइन,0.00,0.00
+Sounds,အသံများ,Dźwięki,0.00,0.00
+Specify file containing saved configuration,သိမ်းဆည်းမှုပုံစံတွင် ပါဝင်သောဖိုင်ကို သတ်မှတ်ပါ,Saqlangan moslamalarni oʻz ichiga olgan faylni koʻrsatish,0.00,0.00
+Advanced,အဆင့်မြင့်,Προχωρημένη,0.00,0.00
+Error: Client resource %s does not exist.,မှားယွင်းချက် -Clientအရင်းအမြစ် %s မတည်ရှိပါ။,त्रुटिः क्लाइंट संसाधन %s मौजूद नहीं है.,3.24,1.25
+C_ontact,_O အဆက်အသွယ်,C_contact,0.00,1.57
+"The cylinders contain sheets of plastic membranes wrapped around a central pipe, and the membranes are stippled with pores less than a hundredth the diameter of a human hair.",စလင်ဒါထဲတွင် အလယ်ဗဟို ပိုက်ကို ရစ်ပတ်ထားသော ပလက်စတစ် အမှေးပါးအလွှာများ အထပ်လိုက်ပါဝင်သည်။ ထိုအမှေးပါးများသည် လူ့ဆံပင်၏ အချင်းထက် အဆတစ်ရာမျှပိုသေးသော အစက်အပြောက်များဖြင့် အပေါက်ဖောက်ထားသည်။,"Los cilindros contienen láminas de membranas plásticas envueltas alrededor de un tubo central, y las membranas están salpicadas de poros de menos de una centésima parte del diámetro de un cabello humano.",0.00,0.00
+There are unsaved modifications to your %s account.,သင်၏ %s အကောင့်ပေါ်တွင် မသိမ်းဆည်းရသေးသော ပြုပြင်ပြောင်းလဲမှုများ ရှိသည်။,आपके %s खाते में सहेजे नहीं गए संशोधन हैं.,2.57,0.82
+Climb Speed:,တက်နှုန်း အလျင် -,Скорость подъема:,0.00,0.00
+Egypt: The Tweeting President · Global Voices,တွစ်​တာ​စာ​တို​ပို့​နေ​သော သမ္မတ,Αίγυπτος: Ο Πρόεδρος που Τουϊτάρει,0.00,0.00
+Calculating,ဂဏန်းတွက်စက်,Υπολογισμός,0.00,0.00
+"""%s"" is busy.","""%s"" မအားသေးပါ","""%s"" व्यस्त है.",7.25,13.99
+"File ""%s"" could not be opened (%s)","(%s) မှဖိုင် ""%s"" ကိုဖွင့်မရပါ","फ़ाइल ""% s"" खोला नहीं जा सका (% s)",0.00,12.94
+"One city and five countries — Colombia, Ecuador, Peru, Indonesia, Papua New Guinea and San Diego, California — have already declared a state of emergency due to the El Niño, while the United Nations has deployed emergency resources to a further 10 countries.",ပါပူဝါနယူးဂီနီ နှင့် အမေရိကန်နိုင်ငံ ကယ်လီဖိုးနီးယားပြည်နယ်ရှိ ဆန်ဒီယာဂိုမြို့တို့တွင် အရေးပေါ်အခြေအနေကို ကြောညာလိုက်ကြပြီဖြစ်ပြီး ကမ္ဘာကုလသမဂ္ဂအနေဖြင့်လည်း နောက်ထက် နိုင်ငံ ၁၀ နိုင်ငံတွင် အရေးပေါ်လုပ်ငန်းစဉ်များကို စီမံဆောင်ရွက်ထားပြီး ဖြစ်သည်။,"Uma cidade e cinco países  Colômbia, Equador, Peru, Indonésia, Papua Nova Guiné e San Diego, Califórnia  já declararam estado de emergência devido ao El Niño, enquanto as Nações Unidas desdobraram recursos de urgência para mais 10 países.",0.00,0.00
+@PinkNinj4: ohai @RedPepperUG remember when u printed names & addresses of 'queers' in 2009?,၂၀၀၆ ခုနှစ် ဩဂုတ်လတွင် ငရုတ်ကောင်းနီမှ ယူဂန်ဒန် လိင်တူချစ်သူဟု ယူဆရသူများ၏ အမည်များကို ထုတ်ဝေဖော်ပြခဲ့သည်။,@PinkNinj4: ohai @RedPepperUG tadidinao ve ny fotoana namoahanao anarana sy adiresin'ireo 'queers' tamin'ny 2009?,0.00,0.00
+Or maybe Greater Nanyang?,တောင်​ပိုင်း ဟင်​ဒူ​စ​တန်၊,Sau poate Greater Nanyang?,0.00,0.00
+Extract files from the archive,ဖိုင်ထုပ်ထဲမှဖိုင်တွေကိုထုတ်ယူပါ,Faýllary arşiwden aç,0.00,0.00
+Accept,လက်ခံ,स्वीकार करें,0.00,0.00
+It is not interesting for me to work with colleagues here and I do not envision any development.,ဒီကလုပ်ဖော်ကိုင်ဖက်တွေနဲ့ အလုပ်လုပ်ရတာ ဘယ်လိုဖွံ့ဖြိုးတိုးတက်မှုတွေကိုမှ မျှော်မှန်းလို့မရသလို ကျွန်မအတွက် စိတ်ဝင်စားဖို့ မကောင်းတော့ဘူး။,"Det er ikke interessant for mig at arbejde sammen med kolleger her, og jeg ser ingen udvikling i øjnene.",0.00,0.00
+No silence could be detected,ငြိမ်မှတ်ကိုမတွေ့ရှိပါ,Aucun silence n'a été détecté.,0.00,0.00
+%s / %s,%s / %s,% s / % s,4.56,100.00
+Allow DAO use,DAO အသုံးပြုမှုကိုခွင့်ပြု,Consentire l'uso di DAO,6.10,4.29
+"In our days, which have all become similar to each other, death has become the norm and life the exception.",တစ်ရက်နှင့် တစ်ရက် ထပ်တူကျလာသော ကျွန်ုပ်တို့၏ နေ့ရက်များတွင် သေဆုံးခြင်းသည် ဓုဝ တစ်ခု ဖြစ်လာပြီး ရှင်သန်ခြင်းဟာ ချွင်းချက်တစ်ခု ဖြစ်လာသည်။,"Nei nostri giorni, che sono diventati tutti simili gli uni agli altri, la morte è diventata la norma e la vita l'eccezione.",0.00,0.00
+Want to dedicate 1st tweet to martyrs of #jan25 revolution and brave #syrians...,ပထမဆုံးတွစ်တာစာတိုကို #jan25 (ဇန်၂၅) တော်လှန်ရေးနဲ့ ရဲရင့်တဲ့ #syrians (ဆီးရီးယားလူမျိုးတွေ)အတွက် အထူးပြုချင်တယ်.,Θέλω να αφιερώσω το πρώτο μου tweet στους μάρτυρες της επανάστασης της 25ης Ιανουαρίου και τους γενναίους Σύριους...,0.00,0.64
+"Sure, Samsung might be seen by some as a national champion, but there are many who also see it as the epitome of corporate evil—and not without reason Wrote Robert Koehler in his blog post on a poll result showing South Koreans still support Samsung in its patent legal battle against Apple.",အယ်ပဲ(လ်)နဲ့ ဖြစ်နေတဲ့ မူပိုင်ခွင့်အတွက် တရားရင်ဆိုင်မှုစစ်ပွဲမှာ ဆမ်ဆောင်းကို ထောက်ခံအားပေးသူ တောင်ကိုးရီးယားလူမျိုးတွေရှိနေသေးတယ်ဆိုတာကို ပြတဲ့ စစ်တမ်းတစ်ခုအကြောင်း ရောဘတ် ကိုအယ်ဟလာက သူ့ဘလော့(ဂ်)မှာ ရေးသွားတာပါ။,"Claro, Samsung puede ser visto por algunos como un campeón nacional, pero hay muchos que también lo ven como el epítome del mal corporativo"" y no sin razón escribió Robert Koehler en su blog sobre el resultado de una encuesta que muestra que los surcoreanos todavía apoyan a Samsung en su batalla legal de patentes contra Apple.",0.00,0.00
+We have several of the same kind already and recently they are not being useful to us and to the rest of the Asia-Pacific region.,ကျွန်တော်​တို့ ကြိုက်​ကြိုက် မ​ကြိုက်​ကြိုက် ဒါ​က ပြဿနာ​ဖြစ်​စေ​တဲ့ အရာ​ဆို​တာ ထင်ရှား​လွန်း​ပါ​တယ်။,Ya tenemos varios del mismo tipo y recientemente no nos están siendo útiles ni a nosotros ni al resto de la región Asia-Pacífico.,0.00,0.00
+Sort by _Name,_N အမည်အရ စီစဉ်ပါ,_ Ady bilen tertible,0.00,1.08
+Properties,%s ဂုဏ်သတ္တိများ,Eigenschaften,0.00,1.14
+"Bagan, which is also a popular tourism destination, has almost 3,000 pagodas and temples. The last time an earthquake destroyed Bagan temples was in 1975.",၈ ပမာဏရှိသော ငလျှင်ကြောင့် ဘုရားစေတီ ပုထိုးပေါင်း ၂၂၈ ပျက်ဆီးဆုံးရှုံးခဲ့ရပြီး လူ ၃ ဦးအသက်ဆုံးရှုံးခဲ့ရတယ်လို့ မြန်မာအာဏာပိုင်များက သတင်းပေးပို့ခဲ့ပါတယ်။,Η τελευταία φορά που ένας σεισμός κατέστρεψε τους ναούς του Μπάγκαν ήταν το 1975.,0.00,0.00
+Minimum drive buffer fill ratio (in %%) (see cdrecord manual):,ဒရိုက်ဗ်ကြားခံ ဖြည့်သည့် အနိမ့်ဆုံးအချိုး(in %%) (cdrecordလက်စွဲကြည့်ရန်):,Rapporto minimo di riempimento del buffer dell'azionamento (in %%) (cfr. manuale del cdrecord):,1.87,16.04
+The specified contact is offline,ရွေးထားသော အဆက်အသွယ်မှာ လိုင်းပြင်ပရောက်နေသည်။,निर्दिष्ट संपर्क ऑफ़लाइन है,0.00,0.00
+General,အထွေထွေ,Γενικά,0.00,0.00
+Disable syntax highlighting,စာသား၊ စာလုံးများ အရောင်မျဉ်းတားခြင်းကို မပြုလုပ်,वाक्यविन्यास हाइलाइटिंग अक्षम करें,0.00,0.00
+"The pipe is so large I could walk through it standing upright, were it not full of Mediterranean seawater pumped from an intake a mile offshore.",တစ်မိုင်အကွာအဝေး လောက်တွင်ရှိသော မြေထဲပင်လယ်ကမ်းခြေမှ ဆားငန်ရေများနှင့် ပြည့်မနေပါက ထိုပိုက်များသည် အလွန်ကြီးမားသောကြောင့် ကျွန်တော်ပင်အထဲက မတ်တက်ရပ်၍ ကောင်းကောင်းလျှောက်သွားနိုင်သည်။,"Ο σωλήνας είναι τόσο μεγάλος που θα μπορούσα να περπατήσω μέσα του όρθιος, αν δεν ήταν γεμάτος Μεσογειακό θαλασσινό νερό που αντλείται από μια είσοδο ένα μίλι μακριά από την ακτή.",0.00,0.00
+Not a launchable item,ဖွင့်လို့မရသည့်အရာ,लॉन्च करने योग्य आइटम नहीं,0.00,0.00
+_Edit,_E တည်းဖြတ်,_संपादित करें,0.00,1.60
+Add files to an archive,ဖိုင်တွဲထဲသို့ဖိုင်များပေါင်းထည့်ပါ,Faýllary bir arşiwe ekle,0.00,0.00
+C_ontact,_O အဆက်အသွယ်,C_contact,0.00,1.57
+_Toolbar,_T တန်ဆာပလာတန်း,_ Esbap zolaky,0.00,1.23
+Pop up notifications if the chat isn't focused,စကားပြောရာ တစ်ခုတည်း မဟုတ်လျှင် အသိပေးချက်များ ပွင့်ထွက်ပါ,पॉप अप अधिसूचनाएँ यदि चैट केंद्रित नहीं है,0.00,0.00
+Song titles,သီချင်းခေါင်းစဉ်,Şarkı başlıkları,0.00,0.00
+Offline — %s,လိုင်းပြင်ရောက် — %s,ऑफ़लाइन  % s,0.00,3.15
+_Unlock Document,_U ဖိုင်ကို သော့ဖွင့်ရန်,दस्तावेज़ _ अनलॉक करें,0.00,0.78
+By extension,တိုးချဲ့မှုအရ,Por extensão,0.00,0.00
+Check update,နောက်ဆုံးရ အသစ်ကို စစ်ဆေးပါ,अद्यतन की जाँच करें,0.00,0.00
+Background Properties,နောက်ခံဂုဏ်သတ္တိ,Orqa fon xususiyatlari,0.00,0.00
+Unable to open URI,URI ကို ဖွင့်လို့မရပါ,URI खोलने में असमर्थ,6.10,5.59
+"""%s"" created successfully",ဖိုင်ထုပ်ကိုအောင်မြင်စွာဖန်တီးနိင်ပါပြီ,"""% s"" सफलतापूर्वक बनाया गया",0.00,0.00
+The stored position (in pixels) of the chat window side pane.,စကားပြောဝင်းဒိး ဘေးတန်း၏ သတ်မှတ်ထားသော နေရာ (ပစ်ဇယ်ဖြင့်),चैट विंडो के साइड फलक की संग्रहीत स्थिति (पिक्सेल में) ।,0.00,0.65
+Start to burn the contents of the selection,ရွေးချယ်သည့်အကြောင်းအရာများကို ဒေတာရိုက်ယူမည်,Saýlanan hatlary nusgala,0.00,0.00
+The defined Storage resources are:,ဖော်ပြပါ Storage အရင်းအမြစ်များ -သည်,Les ressources de stockage définies sont:,0.00,5.04
+"Select the files you want to restore and click on the ""Restore"" button","မူရင်းတိုင်းပြန်ထားလိုသောဖိုင်များကို ရွေးချယ်၍ ""မူရင်းတိုင်းပြန်ထား"" ခလုတ်ကိုနှိပ်ပါ","Wählen Sie die Dateien, die Sie wiederherstellen möchten und klicken Sie auf die Schaltfläche ""Wiederherstellen""",0.00,0.39
+"Receiving ""%s"" from %s","""%s"" ကို %s ဆီမှ လက်ခံနေသည်","%s से ""%s"" प्राप्त कर रहा है",3.85,9.89

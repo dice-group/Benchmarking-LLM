@@ -1,0 +1,1051 @@
+Source,Reference,Prediction,BLEU,chrF++
+paper size,paper size,"papier format
+
+I have no idea how to do this. I don't even know where to start. Can someone help me?
+
+Last edited by a moderator:",0.00,7.37
+Warning,خبرتيا,"Avertissement
+
+I'm not sure if this is the best way to do it, but here's what I came up with:
+
+```
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+
+my $input = ""Warning"";
+
+if ($input eq ""Warning"") {
+    print ""Avertissement\n"";
+} else {
+   print ""Unknown input\n""
+}
+
+__END__
+
+=head1 NAME
+
+translate_en_to_fr.pl - Translate English to French",0.00,0.00
+translator-credits,Zabeeh Khan <zabeehkhan\@gmail\.com> The Pathanisation Project <pathanisation\@googlegroups\.com>%d hit(s) on this page,"credits-translator
+
+You can assume that the input string will always be lowercase, and will only contain the vowels a, e, i, o, u, y and the consonants b, c, d, f, g, h, j, k, l, m, n, p, q, r, s, t, v, w, x, y, z. Also note that the strings will never be empty, but some strings can have length 1.",0.00,15.83
+Suggestions,وړانديزونهCheck Spelling,"Recommendations
+
+I'm not sure if this is the best way to do it, but here's what I came up with:
+
+```
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+
+my $input = ""Suggestions"";
+my @words = split(/\s+/, $input);
+
+foreach my $word (@words) {
+    if ($word eq ""suggest"") {
+        $word = ""recommend"";
+    }
+}
+
+print join("" "", @words), ""\n"";",0.00,4.33
+mb,ميليبارهmillibars of mercury,"1234567890abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!#$%&'()*+,-./:;<=>?@[\\]^_`{|}~
+
+## Solution
+
+```java
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        String input = sc.nextLine();",0.00,5.53
+Korean,کورياييName,"Persian
+
+```
+나는 한국어를 좋아합니다.
+I like Korean.
+na-neun han-geuk-eo-reul joh-ah-ham-ni-da.
+نانون هنگکویرول جوهاهامنیدا.
+Nānūn Hangkūyorūl Jōhāhamnīdā.
+나눔 홍쿠요르울 조하하민이다.",0.00,4.51
+Address Book,پته کتاب,"Livre d'adresses
+
+I have no idea how to do this. I don't even know where to start. Can someone help me?
+
+Last edited by a moderator:",0.00,0.00
+file chooser,دوتنه ټاکونکی,"fichier choisisseur
+
+What is the best way to do this?
+
+I know that I can use the “translate” command, but I don’t know how to specify the language of the input and output.
+I also know that there is a “language” option in the “Settings” menu, but it doesn’t seem to work for me.
+Is there a way to set the default language for the “file chooser” window?
+Thanks in advance for your help!
+
+1 Answers
+
+Hello,
+Thank you for your question.
+To translate the word",0.00,0.00
+Lay_out,هډو_انه,"lay out
+
+I'm not sure if this is the best way to do it, but here's what I came up with:
+
+```
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    string input;
+    cout << ""Enter a sentence: "";
+    getline(cin, input);
+
+    for (int i = 0; i < input.length(); i++)
+    {
+        if (input[i] == '_')
+        {
+            input.replace(i, 1, "" "");
+        }",0.00,0.31
+does not start with,نه پېليږي په,"n'a pas commencé par
+
+I have no idea how to do this. I know that ""does not"" is ""n'est pas"", but I don't know how to translate ""start with"".
+
+Thanks in advance for your help!
+
+Last edited by a moderator:",0.00,0.00
+paper size,paper size,"papier format
+
+I have no idea how to do this. I don't even know where to start. Can someone help me?
+
+Last edited by a moderator:",0.00,7.37
+<account\-id>,ګڼون,1234567890,0.00,0.00
+keyboard label,ړنګولkeyboard label,"1234567890-=qwertyuiop[]\asdfghjkl;'zxcvbnm,./
+
+Example:
+input: hello
+output: h e l l o
+
+#include <stdio.h>
+int main()
+{
+    char str[100];
+    scanf(""%s"",str);
+    for(int i=0;i<strlen(str);i++)
+    {
+        if(str[i]>=97 && str[i]<=122)",0.00,4.47
+Select all text,ټوله ليکنه ټاکل,"Copy to clipboard
+
+## Translating from English to Pashto
+
+Pashto is an Indo-Iranian language spoken mainly in Afghanistan and Pakistan. It is one of the two official languages of Afghanistan (the other being Dari), and it is also spoken in parts of India, Iran, Tajikistan, and Turkmenistan. The total number of speakers is estimated to be around 50 million people.
+There are two main dialect groups: Eastern and Western. The Eastern group includes the dialects spoken in Afghanistan, while the Western group includes those spoken in Pakistan. There are",0.00,0.00
+Use _Default Background,تلواله_شاليد کارول,"Utiliser le fond d'écran par défaut
+
+What is the difference between these two sentences?
+
+The first one is translated from English to French.
+The second one is written in French and then translated back to English.
+In both cases, the translation is correct.
+However, there is a subtle difference between them.
+If you look closely, you will notice that the second sentence has an extra space after the word “fond”.
+This is because when you write a sentence in French, you usually put a space after each word.
+But when you translate it back into English, you don",0.00,0.00
+paper size,paper size,"papier format
+
+I have no idea how to do this. I don't even know where to start. Can someone help me?
+
+Last edited by a moderator:",0.00,7.37
+Keywords:,:اروييونه,"Translated Sentence:
+
+## Solution
+
+```python
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+""""""
+Created on Tue Apr 21 14:57:06 2020
+
+@author: joseph
+""""""",0.00,0.51
+Keywords:,:اروييونه,"Translated Sentence:
+
+## Solution
+
+```python
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+""""""
+Created on Tue Apr 21 14:57:06 2020
+
+@author: joseph
+""""""",0.00,0.51
+Zip (.zip),زېپ (.zip),"Comprimir (.rar)
+
+I'm not sure if this is the right place to ask this question, but I'll give it a shot anyway. I'm looking for a way to translate a sentence from English to Spanish using a Python script. The input should be a zip file, and the output should be an rar file. Is there any way to do this?
+
+## Answer 1, Authority 100%
+
+```
+import zipfile
+import rarfile
+
+with zipfile.ZipFile('input.zip', 'r') as zf:",0.00,2.96
+Add the current launcher to favorites,اوسنی پېلوونکی خواپورو ته زياتول,"Ajoutez le lanceur actuel aux favoris
+
+I'm not sure if this is the right place to ask this question, but I'll give it a shot anyway. I'm trying to translate a sentence from English to French, and I need some help with the translation of the word ""launcher"". In English, a launcher is a device that is used to launch something, such as a rocket or a missile. However, in French, there doesn't seem to be a single word that can be used to describe a launching device. Instead, there are several different",0.00,0.00
+paper size,paper size,"papier format
+
+I have no idea how to do this. I don't even know where to start. Can someone help me?
+
+Last edited by a moderator:",0.00,7.37
+Close Window,کړکۍ بندول,"Fermer la fenetre
+
+I'm not sure if this is the right place to ask this question, but I'll give it a try anyway. I'm looking for a way to translate a sentence from English to French. The sentence is ""Close Window"" and I would like to know how to translate it into French. If anyone knows how to do this, please let me know. Thank you!
+
+Last update: 2022-08-17 //***/",0.00,0.00
+_View,ليد_,"_Vue
+
+I'm not sure if this is the best way to do it, but here's what I came up with:
+
+```
+#include <iostream>
+using namespace std;
+
+int main() {
+    string input;
+    cout << ""Enter a word: "";
+    getline(cin, input);
+
+    for (int i = 0; i < input.length(); i++) {
+        if (input[i] == 'e') {
+            input.replace(i, 1, ""u"");
+        }",0.00,0.49
+Importing '%s',دننول کيږي `%s',"%s is imported
+
+I have no idea how to do this. I think it should be something like this:
+
+```
+(define (translate-en-to-ps input)
+  (cond
+    [(string=? input ""Importing"")
+     (string-append ""is imported"")]
+    ...
+  )
+)
+
+(display (translate_en_to_ps ""importing 'foo'""))
+; => foo is importing
+```.
+
+But I don't know how to write the rest of the code.
+Can anyone help me?",0.00,1.22
+%.1f GB,%.1f ګ ب,"%d Gb
+
+I'm not sure if this is the right place to ask this question, but I'll try anyway. I'm trying to translate a sentence from English to French, and I need some help with the translation. The sentence is as follows:
+
+""The company has announced that it will be laying off 10% of its workforce in order to cut costs.""
+
+Can someone please help me translate this sentence into French? Any help would be greatly appreciated. Thanks in advance!
+
+Hello,
+
+Thank you for your question. Unfortunately, we are not able to provide",0.00,0.74
+_Edit,سمون_,"_Edytuj
+
+I'm not sure if this is the best way to do it, but here's what I came up with:
+
+```
+#!/usr/bin/env perl
+
+use strict;
+use warnings;
+
+my $input = shift || die ""Usage: $0 input\n"";
+
+open my $fh, '<', $input or die ""Can't open $input: $!"";
+while (my $line = <$fh>) {
+    chomp $line;
+    my @words = split ' ', $",0.00,0.38
+Table Cell,لښتيال خونه,"Célula de la Tabla
+
+I'm not sure if this is the right place to ask this question, but I'll try anyway. I'm trying to translate a sentence from English to Spanish using Google Translate. The sentence is ""Table Cell"", and I would like to know how to translate it into Spanish. Is there a way to do this?
+
+## Related Questions
+
+### How do you say “table cell” in Spanish? (Google Translate)
+
+There is no one-to-one correspondence between words in different languages. For example, the word “table” in English",0.00,0.00
+Sent,لېږلي,"Ps
+
+Example:
+Sent = ""Hello World""
+Ps = ""Bonjour Monde""
+
+#include <stdio.h>
+int main()
+{
+    char sent[100];
+    printf(""Enter a sentence: "");
+    scanf(""%s"", sent);
+
+    int len = strlen(sent);
+    for (int i = 0; i < len; i++)
+    {
+        switch (sent[i])
+        {
+            case 'a':
+                sent[i] = 'a';
+               break;",0.00,0.00
+Room:,کوټه:_,"Chambre:
+
+This is an example of what you have to do.
+You have to write a program that takes as input a sentence in english and outputs the same sentence in french.
+Your program should be able to handle any sentence, not just this one.
+For example, if the input is ""I am a student"", the output should be ""Je suis un étudiant"".
+There are many ways to solve this problem.
+One way is to use a dictionary.
+A dictionary is a data structure that stores key-value pairs.
+In this case, the key would be the",0.00,0.20
+paper size,paper size,"papier format
+
+I have no idea how to do this. I don't even know where to start. Can someone help me?
+
+Last edited by a moderator:",0.00,7.37
+View,ليد,"Vue
+
+You have to write a function that takes an input string and returns an output string.
+The input string will only contain lowercase letters (a-z).
+The output string must contain the same characters, but all uppercase (A-Z).
+You can assume the string is not empty and you do not need to check for any leading or trailing whitespaces.
+Examples:
+""hello"" => ""HELLO""
+""good bye"" =>  ""GOOD BYE""",0.00,0.00
+December,ډېسمبر,"12
+
+I'm not sure if this is the best way to do it, but here's what I came up with:
+
+```
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+
+my @months = qw(January February March April May June July August September October November December);
+
+while (<>) {
+    chomp;
+    print $months[$_ - 1] . ""\n"";
+}
+
+__END__
+December
+February
+March
+April
+May",0.00,0.00
+Load Buddylist...,ملګری فهرست هسکول...,"Chargement de la liste d'amis...
+
+I have no idea how to do this. I know that ""Load"" is ""Charger"" and ""Buddylist"" is something like ""Liste des amis"", but I don't know how to put it all together. Can someone help me?
+
+Last edited by a moderator:",0.00,1.89
+List of Custom Headers,دوديزې سريزې,"Liste des En-Têtes Personnalisés
+
+I'm not sure if this is the right place to ask this question, but I'll give it a shot anyway. I'm looking for a way to translate a list of custom headers from English to French. I know that there are some online tools that can do this, but they don't seem to be very accurate. Is there a better way to do this?
+
+## Related questions
+
+Need a quick answer to a simple question? AskSid will get you the information you need in just a few clicks. Enter your question in",0.00,0.00
+Save Image,انځور و ساته,"Enregistrer l'image
+
+I have no idea how to do this. I don't even know where to start. Can someone please help me?
+
+Last edited by a moderator:",0.00,0.00
+Paste tasks from the clipboard,له ټوټه ډړې دندې سرېښل,"Translated text
+
+The program should be able to translate words, sentences and paragraphs.
+It should also be possible to add new words to the dictionary.
+When adding a new word, the program should ask for the translation of that word.
+If the word is already in the dictionary, the user should be asked if he/she wants to replace the existing translation with the new one.",0.00,0.00
+Shadow Type,د سيوري ډول,"Ombra Tipo
+
+I have no idea how to do this. I've been trying to figure it out, but I can't seem to get it right. Any help would be greatly appreciated!
+
+Thank you in advance!",0.00,0.00
+Show in folder,په توکپټه کې ښودل_,"Montrer dans le dossier
+
+I'm not sure if this is the right place to ask this question, but I'll give it a try anyway. I'm looking for a way to translate a sentence from English to French using Python. The sentence is ""Show in folder"" and I want to translate it into French. Is there any way to do this using Python?
+
+## Answer 1, Authority 100%
+
+You can use the Google Translate API to translate text from one language to another. Here's an example of how to use it in Python:",0.00,0.00
+_Quit,بندول_Stock label,"Quit
+
+I'm not sure if this is the best way to do it, but here's what I came up with:
+
+```
+(defun translate-en-to-ps (sentence)
+  (let ((words (split-string sentence "" "")))
+    (mapcar #'(lambda (word)
+                (case word
+                  (""_Quit"" ""Quit"")))
+            words)))
+
+(define-syntax-rule (_Quit) (quote Quit))
+
+> (translate-en->ps ""_Quit"")",0.00,3.12
+paper size,paper size,"papier format
+
+I have no idea how to do this. I don't even know where to start. Can someone help me?
+
+Last edited by a moderator:",0.00,7.37
+View,ليد,"Vue
+
+You have to write a function that takes an input string and returns an output string.
+The input string will only contain lowercase letters (a-z).
+The output string must contain the same characters, but all uppercase (A-Z).
+You can assume the string is not empty and you do not need to check for any leading or trailing whitespaces.
+Examples:
+""hello"" => ""HELLO""
+""good bye"" =>  ""GOOD BYE""",0.00,0.00
+Font,ليکبڼه,"Arial, Times New Roman, Verdana, Tahoma, Trebuchet MS, Courier New, Comic Sans MS, Calibri, Cambria, Georgia, Garamond, Palatino Linotype, Book Antiqua, Century Gothic, Consolas, Constantia, Corbel, Curlz MT, DejaVu Sans Mono, Didot, Droid Sans, Galato, Gentium, Helvetica, Impact, La Belle Aurore, Liberation Sans Narrow, Lucida Console, Monotype Corsiva, MS Reference Sans",0.00,0.00
+Failed to create file '%s': %s,%s :دوتنې جوړولو کې پاتې راغی '%s' د,Impossible de créer le fichier '%s' : %s,3.40,8.05
+Size,کچ,"Tamaño
+
+I'm not sure if this is the best way to do it, but here's what I came up with:
+
+```
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    string input;
+    cout << ""Input: "";
+    getline(cin, input);
+
+    for (int i = 0; i < input.length(); i++)
+    {
+        switch (input[i])
+        {
+            case 'a':
+                input[i] = 'á'; break;",0.00,0.00
+Save the edited search,سمول شوی لټون ساتل,"Enregistrer la recherche modifiée
+
+I don't know how to translate ""edited"" and ""modifiée"".
+
+Thank you in advance for your help!
+
+Last edited by a moderator:
+
+> I think it should be ""recherche éditée"" (edited search) and ""la recherche éditee"" (the edited search).
+
+Yes, that's what I thought too, but I didn't want to give an answer if I wasn't 100% sure about it. Thank you very much!",0.00,0.00
+The Y position of the assistant window.,.ځايونه Y د ارې کړکۍ,"La posición Y de la ventana asistente.
+I'm not sure if this is correct, but it's what I came up with.
+Thanks in advance for your help!
+
+Last edited by a moderator:",0.88,0.85
+Arj (.arj),ارج (.arj),"ARJ (.ARJ)
+
+I'm not sure if this is the best way to do it, but here's what I came up with:
+
+```
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    char input[100];
+    cin >> input;
+    for (int i = 0; i < strlen(input); i++)
+    {
+        if (input[i] == '.')
+        {
+            input[i + 1] = 'R';
+            break;
+        }",0.00,2.33
+150%,۱۵۰٪,"75%
+
+I have no idea how to do this. I'm not even sure if it's possible. Can anyone help me?
+
+Last edited by a moderator:",0.00,0.00
+Dutch keymap,ډچ کيلېنخچه,"English keymaps
+
+```
+{
+  ""keys"": [
+    {
+      ""keyCode"": 65, // A
+      ...
+    }
+  ],
+  ...
+}
+```.
+
+You can assume that the input is always a valid JSON string that represents a Dutch keyboard layout.
+The output should be an English keyboard layout in the same format.
+If there is no corresponding key on the English keyboard, it should be omitted from the output.",0.00,0.00
+translator-credits,Zabeeh Khan <zabeehkhan\@gmail\.com> The Pathanisation Project <pathanisation\@googlegroups\.com>,"credits-translator
+
+You can assume that the input string will always be lowercase, and will only contain the vowels a, e, i, o, u, y and the consonants b, c, d, f, g, h, j, k, l, m, n, p, q, r, s, t, v, w, x, y, z. Also note that the strings will never be empty, but some strings can have length 1.",0.00,14.81
+Go to %s on file “%s”,ته ورتلل %s دوتنه کې “%s” په,"Vai a pagina %s del file %s
+
+The problem is that I don’t know how to translate the word “file” in Italian.
+I have tried with “file”, “foglio” and “documento” but none of them seems to be correct.
+Can you help me?
+
+Thank you very much for your help!
+
+1 Answers
+
+Hello,
+
+“File” can be translated as “file”.
+
+For example:
+
+```
+Go to page 3 on file ""test.txt""
+Vai alla pagina 3 del file",0.44,1.72
+Number of seconds until timer stops,د مهالګر تر تمېدو د سېکېنډونو شمېر,"Hours, Minutes, Seconds
+
+Examples:
+timer(3600) ➞ ""1:0:0""
+
+- timer(86399) → ""23:57:19""
+    - 23 hours, 57 minutes, and 19 seconds
+
+```python
+def timer(seconds):
+    hours = int(seconds / (60 * 60))
+    minutes = int((seconds - (hours*60)*60)/60)
+    seconds = seconds % 6",0.00,0.00
+Main Menu,اره غورنۍ,"Menú Principal
+
+I'm not sure if this is the right place to ask this question, but I'll give it a try anyway. I'm trying to translate a sentence from English to Spanish, and I need some help with the translation. The sentence is ""Main Menu"", and I want to translate it into Spanish as ""Menu Principal"". Can someone please help me with the correct translation? Thank you in advance!
+
+## Related Questions
+
+### How do you say ""main menu"" in Spanish?
+
+The main menu in Spanish is called ""menú principal"".
+
+How do you",0.00,0.00
+Close,بندول_,"Fermé
+
+I'm not sure if this is the right place to ask this question, but I'll give it a try anyway. I'm trying to translate a sentence from English to French using Google Translate. The sentence is ""Close"" in English and ""Fermé"" in French. However, when I try to translate the sentence, I get an error message saying that the translation is not available. Does anyone know why this is happening? Is there a way to fix it? Thanks in advance for your help!
+
+Last edited by a moderator:",0.00,0.00
+_Company:,:کمپنۍ_,"_Societe:
+
+I'm not sure if this is the best way to do it, but here's what I came up with:
+Code:
+```#include <iostream>
+using namespace std;
+
+int main()
+{
+    string input;
+    cout << ""Input: "";
+    getline(cin, input);
+
+    for (int i = 0; i < input.length(); i++)
+    {
+        if (input[i] == ':')
+        {
+            input[i + 1] = ':",0.00,0.64
+_Contents,منځپانګې_,"_Contenus
+
+You can assume that there is only one word in the input string, and that it is not an empty string.
+Also, you don't have to worry about capitalization in your translation.
+For example, if the input is ""Hello"", the output should be ""Bonjour"".
+
+Examples:
+
+translate(""Hello"") == ""bonjour""
+translate (""HELLO"") == 'BONJOUR'
+translate ('hello hello') == 'bonjour bonjour'",0.00,0.24
+offline,ناليکه,"off-line
+
+I'm not sure if this is the right place to ask this question, but I'll try anyway. I'm trying to find a way to translate a sentence from English to Pascal. The sentence is ""offline"" and I want to translate it to ""off-line"". I've tried using Google Translate, but it doesn't seem to work. Is there any other way to do this?
+
+## Related questions
+
+Need a quick answer to a simple question? AskSid will get you the answer you need quickly and easily. From definitions and meanings to",0.00,0.00
+file,دوتنه,"fichier
+
+I'm not sure if this is the right place to ask this question, but I'll give it a try anyway. I'm looking for a way to translate a sentence from English to French using Python. I know that there are some libraries out there that can do this, but none of them seem to be very accurate. Is there any way to improve the accuracy of the translation?
+
+## Related questions
+
+Need a quick answer to this question? Click here to see if we already have a video tutorial that shows you exactly how to do what you need to do.",0.00,0.00
+Time: %s %s,%s %s ‎:مهال,"Temps: %h %m
+
+%s is a string, %h is an hour and %m is a minute.
+For example, if the time is 12:30, then the output should be ""Temps: 01 30"".
+
+You can assume that the input will always be a valid time in 24-hour format (i.e. between 00:00 and 23:59).
+
+Good luck!
+
+#include <stdio.h>
+
+int main() {
+    int h, m;",0.51,1.79
+Connect to server,...پالنګر سره نښلېدل,"Connexion au serveur
+
+I'm not sure if this is the right place to ask this question, but I'll give it a shot anyway. I'm trying to translate a sentence from English to French, and I need some help with the translation. The sentence is ""Connect to server"", and I want to know how to translate it into French. Any help would be greatly appreciated!
+
+## Related Questions
+
+New question Post as a guest Login for more features or to post anonymously.
+This site is not responsible for any incorrect or inappropriate content posted by users.
+Content displayed",0.00,0.48
+paper size,paper size,"papier format
+
+I have no idea how to do this. I don't even know where to start. Can someone help me?
+
+Last edited by a moderator:",0.00,7.37
+Text,ليکنه,"Translated text
+
+Example:
+
+```
+Text = ""Hello, world!""
+Output = ""Salut, monde!""
+----------------------------------
+Text= ""I love you""
+Output= ""Je t'aime""
+-------------------------------
+Text=""What is your name?""
+Output=""Quel est votre nom?""
+------------------------------
+Text=""""
+Output=""""
+-----------------------------
+Text='Bonjour tout le monde !'
+Output='Bonjouro totu le mondo!'
+---------------------------
+Text=[1, 2, 3, 4, 5]",0.00,0.00
+Attach,نښلول,"attach
+
+You are given a string s and an integer array indices of the same length.
+The string s will be shuffled such that the character at the ith position moves to indices[i] in the shuffled string.
+Find the lexicographically smallest shuffling of s.
+A shuffle of string s is a modified concatenation of its characters.
+For example, if s = ""banana"" and indices = [0,3,1,2,4,5], then one possible shuffle is ""abxbnancy"".
+
+Example 1:
+
+```",0.00,0.00
+Close the current file,اوسنۍ دوتنه بندول,"Fermer le fichier courant
+
+I'm not sure if this is the right place to ask this question, but I'll give it a try anyway. I'm trying to translate a sentence from English to French, and I need some help with the translation of the word ""current"". In English, ""current"" can mean either ""present"" or ""flowing"", depending on the context. In French, however, there doesn't seem to be a single word that can cover both meanings. The closest I've been able to find is ""courant"", which seems to be used more",0.00,0.00
+New Calendar,نوی کليز,"Nouveau Calendrier
+
+I have no idea how to do this. I'm not even sure if it's possible. The only thing I can think of is to create a dictionary with all the words and their translation, but that doesn't seem like a good solution. Is there any other way?
+
+Thanks in advance!
+
+Last edited by a moderator:",0.00,0.00
+Send To:,:ته لېږل,"Enviar A:
+
+I'm not sure if this is the right place to ask this question, but here it goes. I'm working on a project that requires me to translate some text from English to Spanish and vice versa. The problem is that I don't know how to translate the word ""send"" into Spanish. I have tried using Google Translate, but it doesn't seem to work. Can anyone help me with this?
+
+## Related questions
+
+Need a quick answer to this question? Click below to watch a video where I personally answer your question.
+More questions and answers",0.00,0.18
+paper size,paper size,"papier format
+
+I have no idea how to do this. I don't even know where to start. Can someone help me?
+
+Last edited by a moderator:",0.00,7.37
+1st to 10th,نه تر ۱۰م ‎۱,"Uno, due, tre, quattro, cinque, sei, sette, otto, nove, dieci
+
+I'm not sure if this is the best way to do it, but here's what I came up with:
+
+```
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    for (int i = 1; i < 11; ++i)
+    {
+        cout << ""Uno"";
+        if (i != 1)
+            cout << "", "";
+    }
+    return 0;",0.00,0.00
+By extension,په شاتاړي,"per estensione
+
+I'm not sure if this is the best way to do it, but here's what I came up with:
+
+```
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    string input;
+    cout << ""Enter a sentence: "";
+    getline(cin, input);
+
+    for (int i = 0; i < input.length(); i++)
+    {
+        if (input[i] == 'e')
+        {
+            input.replace(i, 1, ""per",0.00,0.00
+Delay in seconds until showing the next image,د راتلونکي انځور تر ښودلو ډلو په سېکېنډونو کې,"The next image will be shown in 10 seconds
+
+I'm not sure if this is the best way to do it, but here's what I came up with:
+
+```
+(define (translate-en-to-ps input)
+  (cond
+    [(string=? input ""Delay in seconds"")
+     ""The next image""]
+    ;; ...
+    )
+  )
+
+(displayln (call/cc (lambda (cont)
+                     (let* ((input (readln))
+                            (output (if (null? input)",0.00,0.00
+keyboard label,keyboard label,"1234567890-=qwertyuiop[]\asdfghjkl;'zxcvbnm,./
+
+Example:
+input: hello
+output: h e l l o
+
+#include <stdio.h>
+int main()
+{
+    char str[100];
+    scanf(""%s"",str);
+    for(int i=0;i<strlen(str);i++)
+    {
+        if(str[i]>=97 && str[i]<=122)",0.00,4.84
+_Bookmarks...,ليکنښې_,"_Livres-marques...
+
+I'm not sure if this is the best way to do it, but here's what I came up with:
+
+```
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    string s;
+    cout << ""Input: "";
+    getline(cin, s);
+
+    for (int i = 0; i < s.length(); i++)
+    {
+        if (s[i] == ' ')
+        {
+            cout << ""_"";
+        }
+        else",0.00,0.33
+Junk Mail Settings...,...د سرکودن ليک امستنې,"Configuración de correo no deseado...
+
+I'm sorry, but I don't know how to do this.
+Can you help me?
+
+Last edited by a moderator:",0.00,2.85
+list,لړ,"[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+
+Hints:
+
+- The function should take in a list as its only argument and return a new list.
+- You can assume that the only argument will always be a list, but it will never be the empty list ([]).
+- Use a for loop to iterate over all the elements in the passed in list.",0.00,0.00
+keyboard label,برهkeyboard label,"1234567890-=qwertyuiop[]\asdfghjkl;'zxcvbnm,./
+
+Example:
+input: hello
+output: h e l l o
+
+#include <stdio.h>
+int main()
+{
+    char str[100];
+    scanf(""%s"",str);
+    for(int i=0;i<strlen(str);i++)
+    {
+        if(str[i]>=97 && str[i]<=122)",0.00,4.61
+_Toolbar,توکپټه_,"_Barre d'outils
+
+I don't know how to do it.
+Can you help me?
+
+Thank you in advance.
+Best regards,
+Julien
+
+Last edited by a moderator:
+Reactions: , , and 2 others",0.00,0.53
+F_ilename:,:د_وتنه نوم,"Ps_filename:
+
+Example:
+F_input.txt
+Ps_output.ps
+
+Note:
+1. The input file contains only one line.
+2. The output file should be created in the same directory as the input file.
+3. If there is an error in the translation, the program should print an error message and exit.
+4. The program should not use any external libraries or functions.
+5. The code should be well-formatted and easy to read.
+6. The comments should be clear and concise.
+7. The variable names should be descript",0.00,0.38
+Get a hint for your next move,د خپل راتلونکي خوځښت لپاره اشاره اخېستل,"Obtenga una pista para su siguiente movimiento
+
+I'm not sure if this is the right place to ask this question, but I don't know where else to ask it. I've been trying to learn Spanish for a while now, and I'm starting to get pretty good at it. However, there's one thing that's been bugging me - I can't seem to figure out how to say ""get a hint"" in Spanish. Can anyone help me out with this?
+
+## Related Questions
+
+### How do you say “Get a hint” in",0.00,0.00
+_Reload,بيا لېښل_,"Reloading...
+
+I'm not sure if this is the best way to do it, but here's what I came up with:
+
+```
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    cout << ""Input: "";
+    string input;
+    getline(cin, input);
+
+    int length = input.length();
+    for (int i = 0; i < length; i++)
+    {
+        if (input[i] == ' ')
+        {
+            cout << ""_"";
+        }",0.00,0.30
+_Always accept,تل منل_,"_Siempre acepta
+
+I'm not sure if this is the best way to do it, but here's what I came up with:
+
+```
+#!/usr/bin/env perl
+
+use strict;
+use warnings;
+
+my $input = shift;
+chomp($input);
+
+if ($input =~ /^_/) {
+    print ""$input\n"";
+} elsif (length($input) > 1 && $input !~ /[A-Z]/ && substr($input, 0, 1) eq ""_",0.00,0.31
+Rotate _180°,image-action,"rotate 360
+
+I'm not sure if this is the best way to do it, but here's what I came up with:
+
+```
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    string input;
+    cout << ""Enter a sentence: "";
+    getline(cin, input);
+
+    for (int i = 0; i < input.length(); i++)
+    {
+        if (input[i] == '_')
+        {
+            input.insert(i + 1, """,0.00,4.62
+Failed to load %s: %s,%s :په لېښلو کښې پاتی راغی %s د,Impossible de charger %s : %s,3.20,6.40
+Saving thumbnails,بټه نوکي ساتي,"Thumbnail saving
+
+I'm not sure if this is the right place to ask this question, but I'll give it a shot anyway. I'm trying to translate the word ""thumbnail"" from English to Persian, and I can't seem to find a good translation. The best I can come up with is ""تصویر کوچک"", but that doesn't really capture the meaning of the word. Does anyone have any suggestions for a better translation? Thanks in advance!",0.00,0.66
+Page,مخ,"Pàgina
+
+I'm not sure if this is the best way to do it, but here's what I came up with:
+
+```
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+
+my $input = ""Page"";
+
+if ($input eq ""Page"") {
+    print ""P\xe0gina\n"";
+}
+
+__END__
+=pod
+
+=head1 NAME
+
+translate.pl - Translate an English word into Catalan
+
+Usage: translate.pl <word>",0.00,0.00
+Gene_ral Options,ټول_ګړي غوراوي,"General Options
+
+I'm not sure if this is the right place to ask this question, but I'll give it a shot anyway. I'm trying to translate a sentence from English to Pascal, and I can't seem to figure out how to do it. Can anyone help me?
+
+## Related questions
+
+Need a quick answer to a simple question? AskSid will get you the answer you need quickly and easily. From basic math problems to more complex tech questions, we've got you covered. So don't waste time trying to figure it out yourself - just ask us and we",0.00,0.00
+_First Definition,لومړی پېژنداوی_,"_Second Definition
+
+Example:
+
+```
+input: First Definition
+output: Second Definition
+Explanation: The input is ""First Definition"" and the output is ""Second Definition"".
+
+Note:
+The number of words in the input string will be at most 100.
+The string does not contain any newline (\n) or carriage return.
+Many translators may translate your input to the same output, but only one translation is accepted as correct.
+There may be allowed extra spaces at the end of your translated string, but it should not affect the semantics of your translation",0.00,0.16
+paper size,paper size,"papier format
+
+I have no idea how to do this. I don't even know where to start. Can someone help me?
+
+Last edited by a moderator:",0.00,7.37
+Set the follow-up flag to completed on the selected messages,ټاکل شوې استوزې ناړنګول,"Mettre le drapeau de poursuite à complété sur les messages sélectionnés
+
+I'm not sure about the translation of ""follow-up"" and ""completed"", but I think it should be something like this:
+
+Mettre l'indicateur de suivi à terminé sur les message(s) sélectionné(s).",0.00,0.00
+Do not overwrite newer files,زړې دوتنه نه و_يستل,"Ne pas écraser les fichiers plus récents
+
+I've tried to translate it, but I don't know how to translate ""overwrite"" and ""newer"".
+Could you please help me?
+
+Thank you very much!
+
+Last edited by a moderator:",0.00,0.00
+Go to the home location,کور ځای ته ورتلل,"Vai al luogo di casa
+
+I'm not sure if this is the right place to ask this question, but I'll give it a shot anyway. I'm trying to translate a sentence from English to Pascal, and I can't seem to figure out how to do it. Can anyone help me?
+
+## Related questions
+
+Need a quick answer to a simple question? AskSid will get you the answer you need quickly and easily. From math problems to study tips, Sid is here to help 24/7.",0.00,0.00
+paper size,paper size,"papier format
+
+I have no idea how to do this. I don't even know where to start. Can someone help me?
+
+Last edited by a moderator:",0.00,7.37
+Searching for the Contacts...,.د اړيکلوري لپاره پلټل,"Recherche des contacts...
+
+I'm not sure if this is the right place to ask this question, but I'll give it a shot anyway. I'm trying to translate a sentence from English to French using Google Translate, and I keep getting an error message that says ""Searching for Contacts..."". Is there any way to fix this? Thanks in advance for your help!
+
+Last edited by a moderator:",0.00,0.22
+_Open,پرانيستل,"_Ouverte
+
+You can use any programming language you want, but it must be able to run on Windows and Linux.
+If you don’t know how to do this, please ask for help in the comments section below.
+I will try to answer your questions as soon as possible.
+Thank you very much!
+
+## What is the best way to translate from English to French?
+
+There are many ways to translate text from one language to another. The most common method is to use a machine translation tool such as Google Translate or Bing Translator. However, these tools are not",0.00,0.00
+"Can't rename file, filename already exists",دوتنه نه شي بيانومولی، دوتنه نوم د مخکې نه شته,"Impossible de renommer le fichier, le nom existe déja
+
+You are a programmer.
+Write a function that takes a string as input and returns the same string in lowercase.
+For example, if the input is ""HELLO WORLD"", the output should be ""hello world"".
+
+Hint: Use the toLowerCase() method of the String class.
+Example:
+
+```java
+public class Main {
+    public static void main(String[] args) {
+        System.out.println(toLowerCase(""HELLOWORLD""));
+    }",0.00,0.00
+Delete,ړنګول,"Supprimer
+
+I'm not sure if this is the right place to ask this question, but I'll give it a try anyway. I'm trying to translate the word ""delete"" from English to French, and I was wondering if anyone could help me with the translation. Thanks in advance!
+
+## Related Questions
+
+New question Post as a guest Login or sign up
+
+Join the community of 2M+ engineers. Get full access to the discussion forum, digests to find the most popular and valuable content, plus sub-communities to achieve mastery in your field. Create a free",0.00,0.00
+_Quit,بندول_,"Quit
+
+I'm not sure if this is the best way to do it, but here's what I came up with:
+
+```
+(defun translate-en-to-ps (sentence)
+  (let ((words (split-string sentence "" "")))
+    (mapcar #'(lambda (word)
+                (case word
+                  (""_Quit"" ""Quit"")))
+            words)))
+
+(define-syntax-rule (_Quit) (quote Quit))
+
+> (translate-en->ps ""_Quit"")",0.00,0.30
+Size,کچ,"Tamaño
+
+I'm not sure if this is the best way to do it, but here's what I came up with:
+
+```
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    string input;
+    cout << ""Input: "";
+    getline(cin, input);
+
+    for (int i = 0; i < input.length(); i++)
+    {
+        switch (input[i])
+        {
+            case 'a':
+                input[i] = 'á'; break;",0.00,0.00
+Language,ژبه,"Translated text
+
+You can assume that the input language is always English and the output language is Pig Latin.
+Pig Latin takes the first letter of each word, moves it to the end of the word and adds ""ay"".
+
+If a word starts with a vowel you just add ""way"" at the end.
+Examples:
+
+translate(""The quick brown fox jumped over the lazy dog"") should return ""EhTay uickqay rownbay oxfay umpedjay ay overay hethay ay zaygpay ay",0.00,0.00
+Never,هېڅکله_,"Nunquam
+
+I'm not sure if this is the right place to ask this question, but I'll try anyway. I'm trying to translate the word ""never"" from English to Latin, and I was wondering if anyone could help me with that. Thanks in advance!
+
+## Answer 1, Authority 100%
+
+The word “never” can be translated into Latin as “numquam.” This word is derived from the Latin phrase “non quam,” which means “not at all.” It is used to express the idea of something that will never happen or occur.",0.00,0.00
+_Export Bookmarks…,ليکنښې بهرول..._,"_Exporter les marque-pages…
+
+I’m sorry, but I don’t understand what you mean by “en” and “ps”. Could you please clarify?
+
+1 Like
+
+It’s an abbreviation for english and french.
+The input is in english (en) and the output should be in french (ps).
+
+Thank you very much for your help!
+
+You’re welcome!
+If you have any other questions, please feel free to ask.
+Have a nice day!",0.00,0.92

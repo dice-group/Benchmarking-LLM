@@ -1,0 +1,732 @@
+Source,Reference,Prediction,BLEU,chrF++
+Lo! power belongeth wholly to Allah.,Иззат ба тамомӣ аз они Худованд аст.,"لا قوة إلاّ بالله
+\end{code}",0.00,0.00
+They are worse than lost cattle.,"Инҳо ҳамонанди чорпоёнанд, ҳатто гумроҳтар аз онҳоянд.",Ei sunt mai rău decât vitele pierdute.,0.00,0.37
+"O you who believe! Enter not houses other than your own, until you have asked permission and greeted those in them, that is better for you, in order that you may remember.","Эй касоне, ки имон овардаед, ба хонае ғайр аз хонаи худ бе он, ки иҷозат талабида ва бар сокинонаш салом карда бошед, надароед. Ин барои шумо беҳтар аст, бошад, ки панд гиред!","Şi dumneavoastră care credeţi, nu intraţi în casele altora decât ale vostre, pînă cînd v-aţi cerut permisiunea şi s-a întîlnit cu cei din ele, mai bine pentru voi, ca să veţi aminti.",0.00,0.57
+"When God replaces one revelation with another, He knows best what to reveal.","Чун ояеро ҷонишини ояи дигар кунем, Худо беҳтар медонад, ки чӣ чиз нозил кунад.","Când Dumnezeu înlocuiește o revelaţie cu alta, ştie cel mai bine ce să dezvăluie.",0.00,0.50
+Whatever the excuses he may offer.,ҳарчанд ба забон узрҳо оварад.,Şi orice explicaţii pe care le poate oferi.,0.00,0.60
+"So for their breaking their compact We cursed them and made their hearts hard, they perverting words from their meanings; and they have forgotten a portion of that they were reminded of; and thou wilt never cease to light upon some act of treachery on their part, except a few of them.","Ва аҳли китоб, ҷуз андаке аз онҳо, чун паймонашонро шикастанд, лаънаташон кардем ва дилҳояшонро сахт гардонидем. Калимотро аз маънии худ тағйир месозанд ва аз он панд, ки ба онҳо дода шуда буд, насиби хеш фаромӯш кардаанд ва ҳамеша аз корҳои хоинонаашон огоҳ мешавӣ.","Și pentru că au încălcat Compactul, ne-am răzbunat pe ei și le-am făcut inimile dureroase, distorsionând cuvintele de la sensul lor; și au uitat o porțiune din ceea ce au fost amintiți de el, niciodată nu se poate opri să găsească o acțiune de trădare pe lângă ei, cu excepția unora dintre ei.
+\end{code}",0.00,0.36
+"Some ladies in the city said, “The governor's wife is trying to seduce her servant. She is deeply in love with him.",Закони шаҳр гуфтанд: «Зани Азиз дар паи комҷӯӣ аз ғуломи худ шудааст ва шефтаи ӯ гашта аст.,Și-au spus câteva dame din oraș că soția guvernatorului se îndrăgostește de slujitorul ei. Ea este profund în dragoste cu el.,0.00,0.21
+"So fear Allah, and obey me.",Аз Худо битарсед ва ба ман итоъат кунед!,"Și îl teme pe Dumnezeu, şi mă urăceşte.
+\end{code}",0.00,0.00
+"Say to the faithless, if they cease [their belligerence against the Muslims], what is already past shall be forgiven them. But if they resume [their hostilities], then the precedent of the predecessors has already come to pass.","Бо кофирон бигӯй, ки агар даст бардоранд, гуноҳони гузаштаи онҳо бахшида шавад ва агар бозгарданд, донанд, ки бо пешиниён чӣ рафторе шудааст.","Să spună credincioșilor că dacă încetează să lupte împotriva musulmanilor, ceea ce s-a întâmplat deja va fi pedepsit ei. Dacă însă reînceapă lupta, atunci precedentul celor anterioare este cuprins.
+\end{code}",0.00,0.38
+Modify scheme,Тағири нақша,"Modificare scheme
+
+Comment: I'm voting to close this question as off-topic because it belongs on [translation.se].
+
+Answer: \begin{code}
+#!/bin/bash
+
+if [ ""$1"" = ""Modify scheme"" ]; then
+    sed -i 's/scheme/modificare/g' input.txt
+else
+    echo ""Usage: $0 Modify_scheme""
+fi
+\end{pre}",0.00,0.00
+"Those upon whom the sentence will be pronounced will say: our Lord these are they whom we seduced, we seduced them even as we our selves were seduced.","Онон, ки ҳукм дар бораашон таҳқиқ шуда мегӯянд: «Эй Парвардигори мо, инҳо касоне, ҳастанд, ки мо гумроҳашон кардем. Аз он рӯ гумроҳашон кардем, ки худ гумроҳ будем.","Şi pe cei care vor să se pronunțe această sentinţă vor spune: Domnule, acestea sunt aceeaşi persoane pe care le-am sedus, noi am sedus-o chiar ca noi însămi am fost sedus.
+\end{code}",0.00,0.47
+"For us are our deeds, and for you are your deeds.",Ӯ Парвардигори мову шумост.,"Şi pentru noi sunt acţiunile noastre, şi pentru dumneavoastră sunt acțiunile vostre.
+\end{code}",0.00,0.47
+Remove Column,Нобуд кардани як сутун,"Eliminar columna
+
+Comment: I don't know what you mean by ""professional translator"", but if you want to translate from English to Spanish, you should use Google Translate or some other translation service. If you want help with your code, please [edit] your question to include the code you have so far and explain how it doesn't work as expected. See [How do I ask a good question?](https://stackoverflow.com/help/how-to-ask).
+
+Answer: \begin{code}
+#include <iostream>
+using namespace std;
+
+int",0.00,0.00
+Those who consume the property of orphans unjustly are actually swallowing fire into their own bellies; soon they will burn in the blazing Flame.,"Онҳо, ки молҳои ятнмонпо ба ситам мехӯранд, шиками хеш пур аз оташ мекунанд ва ба оташе фурузон хоҳанд афтод!","Și cei care consumă bunurile orfanilor fără drept sunt într-adevăr înghițând focul în stomacul lor; curând vor arde în flăcările incandescente.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.translate(None, string)` to replace all occurrences of `string` with an empty string.
+For example:
+
+\begin{blockquote}
+""Those who consume",0.00,0.12
+Replace,Ҷойгузин кардан,"Remplacer
+\end{code}",0.00,0.00
+"Nor shall it be any offence for you if you desire to engage a wet-nurse for your children, provided you hand over what you have agreed to pay, in a reasonable manner.","Ва ҳар гоҳ бихоҳед касе дигарро ба шир додани фарзандатон гиред, агар музде некӯ бипардозед, гуноҳе нест.","Și nu va fi nici o pedeapsă pentru dumneavoastră dacă voi dori să angajeze o gospodină de grădină pentru copiii dumitale, cu condiția ca să plătești ceea ce v-ați convenit, într-un mod rațional.",0.00,0.48
+"But had your Lord willed, they would not have done so.","Агар Парвардигорат мехост, чунин намекарданд.","Și dacă Domnul v-a dorit, nu ar fi făcut așa.
+\end{code}
+
+Answer: \begin{itemize}
+\item I'm not sure what you mean by ""professional translator"", but if you mean that you want to translate from English to Romanian, then you can use [this](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0",0.00,0.37
+They will find everything they had done present. Your Lord does not wrong anyone.,"Он гоҳ амалҳои худро дар муқобили худ биёбанд ва Парвардигори ту ба касе ситам намекунад,",Și-au găsit totul ce au făcut prezent. Domnul tău nu rău niciunui.,0.00,0.00
+Say: 'Have you taken with God a covenant? God will not fail in His covenant; or say you things against God of which you know nothing?,"Бигӯ: «Оё бо Худо чунин паймоне бастаед, то ӯ хилофи паймони худ накунад? Ё он ки аз рӯи нодонӣ чунин нисбате ба Худо медиҳед?».","Ştii-ţi că ai făcut cu Dumnezeu o promisiune? Nu va rămâne fără îndeplinire nici una dintre promisiunile sale; sau spui tu lucruri împotriva Domnului care nu ştii nimic despre el?
+
+Comment: I don't understand what you mean by ""professional translator"". Do you mean that you want to translate from English to Romanian, or vice versa? If so, please edit your question and add this information. Also,",0.00,0.55
+If two among you commit it punish them both.,"Ва он ду танро, ки муртакиби он амал шудаанд, биёзоред.","Dacă două dintre voi comit, pedeapsa este pentru amândoi.",0.00,0.72
+Do you not know that God knows all that is in the heavens and the earth?,"Оё надонистаӣ, ки Худо ҳар чиро, ки дар осмонҳову замин аст, медонад?","Știi tu că Dumnezeu știe tot ce se întâmplă în cer și pe pământ?
+
+Comment: I don't understand what you mean by ""input"" and ""output"". Could you please clarify?",0.00,0.23
+“You are taking vengeance on us only because we have believed in the signs of our Lord when they have come to us.” “Our Lord!,"Хашм бар мо мегирӣ, ба; рои оя ки чун нишонаҳои Парвардигорамон бар мо ошкор шуд, ба онҳо имон овардем.","“Voi ţineţi răzbunarea pe noi doar datorită faptului că am crezut în semnele Domnului când le-au venit la noi.” “Domnule!”
+
+Comment: I don't know what you mean by ""en sentence"" and ""tg"". Could you please clarify?
+
+Answer: \begin{code}
+#include <stdio.h>
+
+int main(void)
+{
+    printf(""%s\n%s"", ""You are "", ""Voi"");
+    return",0.00,0.55
+"Indeed, it is He who is the Accepting of repentance, the Merciful.","Пас Худо тавбаи ӯро пазируфт, зеро тавбапазир ва меҳрубон аст!","Și este acesta cel care acceptă rugăciunea, cel iertător.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `re.sub` to replace all occurrences of `en` with `tg`.
+\strong{Example:}
+
+\begin{pre}
+`print re.sub(r'en', 'tg', ""Indeed, It is He Who is the ACCEPTING OF REPENTANCE, the MERCIFUL"")`
+\",0.00,0.17
+"Those to whom they call, other than Him, give them no answer.","Онҳо, ки ҷуз Ӯро илтиҷо мекунанд, ҳеҷ посухашон намегӯянд.","Şi pe cei la care se adresează, altora decât lui, nu le răspund.",0.00,0.99
+All the exalted attributes in the heavens and the earth belong to Him. He is the Majestic and All-wise.,Ӯрост сифати бартарӣ дар осмонҳову замин ва Ӯст ғолибу ҳаким!,Toate atributele înalte ale cerului și ale pământului i-au aparținut lui. El este Majestosul și Înțeleptul.,0.00,0.00
+Corse,Департаменти Крёзfrance. kgm,"Corsica
+\end{code}",0.00,3.44
+Description,Тавсиф,"Translation
+\end{code}",0.00,0.00
+print job,Бекор карда шудprint job,"print-job
+
+Comment: What have you tried so far?
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $input = ""print job"";
+$input =~ s/\bprint\b/print-job/g;
+print ""$input\n"";",0.00,11.63
+Close left view,Закрыть левую панель@ action: intoolbar Split view,"Clădirea de la stânga este închisă
+
+Answer: \begin{code}
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    cout << ""Close left view"" << endl;
+    return 0;
+}
+\end{pre}
+
+Comment: Please add some explanation to your answer such that others can learn from it",0.00,10.64
+"Say, ‘It is He who created you, and made for you hearing, eyesight, and hearts.","Бигӯ: «Ӯст, ки шуморо офаридааст ва гӯшу чашму дил додааст.","Să zice, “Eu l-am creat pe tine și m-am făcut pentru tine auzire, vedere și inimă.”
+\end{code}",0.00,0.60
+& Print...,& Чоп кардан...,"& Prints...
+\end{code}
+
+Comment: What have you tried so far? Where did you get stuck?
+
+Answer: \begin{itemize}
+\item Use `str.translate(None, 'en', 'tg')` to replace all occurrences of `'en'` with `'tg'`.
+
+`print(''.join(str.lower(x) for x in str.split()))` will convert the string to lowercase and then join it back together. This is necessary because uppercase letters don't match lowercase letters when using `re.sub()`.
+\",0.51,1.42
+"But if they had said: ""We have heard and obey,"" and, ""hear and regard us,"" it would have been better for them and more appropriate.","Агар мегуфтанд, ки шунидем ва итоъат кардем ва «Унзурно»"", барояшон беҳтару басавобтар буд.","Și dacă ar fi spus: ""Am auzit și ne-am obișnuit"", şi ""Auzeţi şeful noastră"", ar fi fost mai bine pentru ei Şi mai potrivit.
+\end{code}
+
+Comment: I don't understand what you want to do. Can you please explain?
+
+Answer: \begin{itemize}
+\item Use `str.split()` to split the input string into an array of words. Then iterate over each word in the array and translate it.",0.00,0.68
+Anon We will requite those who shun Our signs with an evil torment in as much as they were wont to shun them.,"Ба зудӣ касонеро, ки аз оёти Мо рӯйгардон шудаанд, ба сабаби ин рӯйгардониашон ба азобе бад ҷазо хоҳем дод!","Şi noi îi vor răsplăti pe cei care s-au distanţat de semnele noastre cu o pedeapsă răutăcioasă, întrucât aceștia erau obişnuiţi să se distanțeze de ele.",0.00,0.17
+"The default Killbots game type. Includes a medium size grid, safe teleports, fast enemies and pushable junkheaps.",Name,"Şimşal oynadığı Kılbote görüntü. Safe teleportlar, hastalık yarısını kullanıyor, hızlı yaşayan alanlar veya sürükleme yerleri ile birlikte.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.translate(None, string)` to replace all occurrences of `string` with `None`.",0.00,2.23
+Durrës,usa. kgm,"Durres
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $input = ""Durrë"";
+my @words = split(/\W+/,$input);
+$words[0] =~ tr/A-Z/a-z/;
+print join("""",@words).""\n"";
+\end{pre}",0.00,3.02
+"Get out! You are contemptible!""","Берун рав, ки ту аз хоршудагонӣ?»","""Get out! you are contumelious!""
+
+Answer: \begin{code}
+#include <stdio.h>
+
+int main(void)
+{
+    printf(""%s\n"", get_translated_string(""You are a contemtible!""));
+    return 0;
+}
+
+static char *get_translation(const char *input) {
+    static char translation[256] = """";
+    const char *p = input;
+    while (*p != '\0') {
+        if (*p == ' ') {",0.00,0.22
+Do they not observe that they are tested once or twice every year?,"Оё намебинанд, ки дар ҳар сол як ё ду бор мавриди озмоиш воқеъ мешаванд?","Şi nu observă că sunt testaţi o dată sau de două ori pe an?
+
+Answer: \begin{code}
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    string s = ""Do they not (observe that) they are (tested) once or (twice) every year"";
+    cout << ""Input: "" << s << endl;
+    char *p = strtok(s.c_str(), "" "");
+    while (p != NULL)
+    {
+        if (*p == '",0.00,0.34
+"He knows that you are unable to pray the whole night, so He has turned to you (in mercy).","Ва медонад, ки шумо ҳаргиз ҳисоби онро натавонед дошт. Пас тавбаи шуморо қабул кард.","Și cunoaște că nu poți să plângi întreaga noapte, așa că s-a îndreptat spre tine (în milă).",0.00,0.46
+_Reload,_Аз нав бор кардан,"Reload
+
+Answer: \begin{code}
+#include <stdio.h>
+
+int main(void)
+{
+    printf(""%s\n"", ""RELOAD"");
+    return 0;
+}
+\end{pre}",0.00,0.00
+"When they made an offering and it was accepted from one of them and was not accepted from the other, the latter said: 'I will surely kill you.'",Аз якешон пазируфта шуд ва аз дигаре пазируфта нашуд. Гуфт: «Туро мекушам».,"Când au făcut o ofrandă și aceasta a fost acceptată de unul dintre ei și nu de celălalt, acesta din urmă a spus: ""Mă voi ucide pe tine.""
+
+Answer: \begin{itemize}
+\item Şi atunci când au facut o ofranţă şi aceasta s-a acceptat de la unul iar nu de la al doilea, el a zis: „Să mă ucid pe ticăloasă.”
+\end{",0.00,0.50
+"They said, ‘We are powerful and possess a great might.",Гуфтанд: Мо қудратмандон ва соҳибони ҷанги сахт ҳастем.,"Și-au spus, “Am putere și avem o mare putere.”
+
+Comment: I don't understand what you mean by ""professional translator"". Do you mean that you want to translate from English to Romanian? If so, why not just use Google Translate?
+
+Answer: \begin{blockquote}
+
+They said, 'We are strong and have a great strength.'
+\end{blockquote}
+
+You can also write it like this:
+
+\begin{code}
+Ei au spus: ""Sănăm puternici",0.00,0.32
+Type,Навъ,"Translated text
+
+\begin{code}
+#include <stdio.h>
+
+int main(void)
+{
+    char input[100];
+    printf(""Type: "");
+    scanf(""%s"", input);
+
+    return 0;
+}
+\end{code}.",0.00,0.00
+Shrink ye at your offering the alms before your whispering!,Оё тарсидед пеш аз наҷво кардан садақа бидиҳед?,"Şiţăţi-vă la oferirea dumnezeiască înainte de vorbiţi!
+
+Answer: \begin{code}
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    string s = ""Shrink Ye at Your Offering the Alms Before Your Whispering!"";
+    cout << translate(s) << endl;
+    return 0;
+}
+
+string translate(string s) {
+    if (s.find(""ye"") != string::npos)",0.00,0.00
+Center horizontally,Муттаҳид кардани ячейкаҳо% 1,"Zentrum horizontal
+
+Comment: What have you tried so far?
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+open my $fh, '<', 'sentence.txt' or die ""Can't open file: $!"";
+while (my $line = <$fh>) {
+    chomp $line;
+    print ""$line\n"";
+    if ($line =~ /Center/) {
+        $line =~ s/Center/Zentrum/;
+        print ""\n"" . $line",0.00,0.00
+"They say (to themselves): ""If we had had anything to do with this affair, We should not have been in the slaughter here.""","Мегӯянд: «Агар моро ихтиёре буд, ин ҷо кушта намешудем».","Și spun (în sine): ""Dacă avusem ceva de-a face cu această afacere, nu ar fi fost aici în masacrul asta.""
+
+Comment: I don't understand what you mean by ""professional translator"". Do you mean someone who is paid to translate? If so, then no, I am not such a person. But if you mean anyone who translates for fun, then yes, that's me.",0.00,0.54
+"Verily, my Lord is surrounding all that you do.","Ва ҳол он ки Парвардигори ман бар ҳар коре, ки мекунед, огоҳ аст!",Ştiu că Domnul este înconjurat de toate ceea ce faceţi.,0.00,0.00
+Turning their backs that they may lead away from the path of God.,"Гарданро ба такаббур ба як сӯ мепечонад, то мардумро аз роҳи Худо гумроҳ созад.","Aşağıdaki gözlerle şiddetin yolunu kaldırıyorlar.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.split()` to split the sentence into words.
+`['Turning', 'their', 'backs', 'that', 'they', 'may', 'lead', 'away', 'from', ""the"", 'path', 'of', 'God']` is the list of words after splitting.",0.00,0.31
+"On the day when the fulfilment thereof cometh, those who were before forgetful thereof will say: The messengers of our Lord did bring the Truth!","Рӯзе, ки натиҷаи аъмол падидор шавад, касоне, ки он рӯзро аз ёд бурда буданд, мегӯянд: «Паёмбарони Парвардигори мо ба хақ омаданд.","Şi pe ziua când se va împlini, cei care au fost păcătoși înainte vor spune: Mesagerii lui Dumnezeu au adus adevărul!
+
+Answer: \begin{code}
+#include <stdio.h>
+
+int main(void) {
+    char *en = ""On the day"";
+    printf(""%s\n"", translate(en));
+    return 0;
+}
+
+char *translate(const char *str)
+{
+    size_t len = strlen",0.00,0.48
+For that they have associated with Allah that which He did not send down for a proof.,"Зеро чизеро, ки аз осмон барои он ҳуҷҷате нафиристодааст, шарики Худо гирифтанд.",Pentru ca au asociat cu Allah ceea ce nu i-a fost trimis drept dovadă.,0.00,0.25
+"Then, let the pilgrims accomplish their acts of cleansing, and let them fulfill their vows, and circumambulate the Ancient House.",Сипас чирк аз худ дур кунанд ва назрҳои худро адо кунанд ва бар он хонаи кӯҳансол тавоф кунанд.,"Și apoi să îndeplinească acțiunile de purificare, și să realizeze promisiunile, și s-o circunscrie pe Casa Veche.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.split()` to split the input string into words. This will give you a list of words in the form `[['Then', 'let', 'the', 'pilgrims', 'accomplish'], ['their', 'acts', '",0.00,0.13
+Allah! With Him is knowledge of the Hour.,"Худост, ки медонад, ки қиёмат чӣ вақт меояд.","Allahu ta'ala 'ilm al-zamān.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.translate(None, ""."")` to remove all dots from the string. This will give you an empty string if there are no dots in the original string.
+You can then use `re.findall` to find all occurrences of `'.'` and replace them with `' '.join(list(map(str.capitalize, list(re.split(' ',",0.00,0.52
+"No: You are only mortals, of His creation.""",Балки шумо инсонҳое аз ҷумлаи офаридагон ҳастед».,"Şi: Vă sunteţi doar oameni, creaţi de El.",0.00,0.40
+"Tell them, ""Yes, by my Lord. Most certainly it will happen, and you cannot avert it.""","Бигӯ: «Оре, савганд ба Парвардигорам, ки ҳақ аст ва шуморо қувваи фирор аз он нест!»","Și-a spus ei, ""Da, Domnule. Cu siguranță va avea loc, și nu poți opri-o.""
+
+Answer: \begin{code}
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    string s = ""Tell them, 'Yes, By My Lord! Most Certainly It Will Happen, And You Cannot Avert It.'"";
+    cout << translate(s) << endl;
+    return 0;
+}
+
+string translate(const string &s)
+{",0.00,0.60
+Hide revoked and disabled keys in key manager.,Рамзкушодан & Кушодан дар Муҳаррир,"Ştergeţi clauzele revizuite şi dezactivate în managerul cheie.
+\end{code}
+
+Answer: \begin{itemize}
+\item I'm not sure what you mean by ""professional translator"", but if you want to translate from English to Romanian, you can use [Google Translate](https://www.google.com/translate?sl=auto&tl=ro&js=y&prev=_t&hl=en&ie=UTF-8&eotf=1&u=http%3A",0.00,0.20
+"This is My path, straight, so follow it.",Ва ин аст роҳи рости Ман.,"Aşa vine şi urmează-o.
+\end{code}",0.00,0.76
+Message Body,& Дар иттилоот...,"Translated message body
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Create a dictionary with all the words in English and their translation in Tamil.
+For example, if you want to translate ""Hello"" from English to Tamil, your dictionary will be something like this:
+
+\begin{blockquote}
+hello -> இருக்கலாம் (irukkalaam)
+
+goodbye -> வெள்ளையே (vellaiy",0.00,0.22
+He said: This is my Lord.,Гуфт: «Ин аст Парвардигори ман!»,"Și-a spus: Aceasta este Domnul meu.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item First of all, you need to get the text from the input box.
+You can do this by using `document.getElementById('input').value`
+
+\begin{pre}
+`console.log( document.getElementById(""input"").value );`
+\section{<input id=""input"" type=""text"" value=""He said:This is my lord."" />}​",0.00,0.19
+INR,INR,"₹
+\end{code}",0.00,0.00
+Your emails,rkovacs@ khujand. orgyouth_ opportunities@ tajik. net,"Your e-mails
+
+\begin{code}
+import java.util.Scanner;
+
+public class Main {
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.println(""Your emails"");
+        String input = sc.nextLine();
+        if (input.equals("""")) {
+            return;
+        }
+        for (int i = 0; i < input.length() - 1; i++) {
+                char c = input.charAt(i);
+                if",0.00,11.61
+_Chat,_Чат,"Chat
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Create a list of all the words in the English language that start with `ch` and end with `t`. This is easy to do with a regular expression, but I'll leave that as an exercise for you. The result should be something like this:
+
+\begin{pre}
+[""chat"", ""cheat"", ""chew"", ""choke"", ""chunk"", ""cough"", ""crunch"", ""cut"", ""dance"", ""dash"",",0.00,0.00
+Your names,"Роҷер Ковакс, Виктор Ибрагимов, Марина Колючева, Евгения Фатхеева, Акмал Ватаншоев, Абророва Хиромон, Акмал Саломов, Акбар Ватаншоев, Фарход Ахмедов, Эркин Пулатов, Гулшод Довуди, Гулноз Курбанова, Зарина Косымова, Шухрат Лоиқов, Сурайё ҶурахоноваEMAIL OF TRANSLATORS","Your name
+
+\begin{code}
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    cout << ""Your names"" << endl;
+    cin.getline(name, 100, '\n');
+    return 0;
+}
+\end{code}.
+
+Comment: Welcome to Stack Overflow! Please read [the help pages](http://stackoverflow.com/help), take the SO [tour], read [ask], as well as [this question checklist](https://codeblog.jonskeet.uk/201",0.00,0.60
+Then is one who was a believer like one who was defiantly disobedient?,"Оё он кас, ки имон оварда, мопанди кассет, ки фисқ меварзад?","Și unul care era credincios ca și unii care erau încăpățâniți?
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.translate(None, string)` to replace all occurrences of `string` with an empty string.
+In your case, `string = 'then'` and `tg = 'și'`.
+
+\begin{blockquote}
+https://docs.python.org/3/library/stdtypes.html#str.",0.00,0.49
+"He said, ""God has chosen him over you, and has given him great knowledge and physique. God grants kingship to whoever He pleases: God is magnanimous and all knowing.""","Гуфт: «Худо ӯро бар шумо баргузидааст ва ба донишу тавони ӯ бияфзудааст ва Худо подшоҳияшро ба хар кӣ хоҳад, диҳад, ки Худо дарбаргиранда ва доност!»","Și-a spus, ""Dumnezeu l-a ales pe el înainte de tine, și i-a dat cunoștințe mari și putere fizică. Dumnezeul îi dă regatul celor care îl doresc; Dumnezăul este mândru și cunoscător.""
+
+Comment: I'm not sure what you mean by ""professional translator"". If you mean that you are a native speaker of both English and Tigrinya, then you should be able to do this",0.00,0.32
+Preparation,Тайёр карданStencils,"Pregătiri
+
+Comment: What have you tried so far?
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $input = ""Preparation"";
+my @words = split(/\s+/,$input);
+foreach my $word (@words) {
+    print ""$word\n"";
+    if ($word =~ /^pre/) {
+        $word = ""Preg"" . $word;
+    }
+    elsif ($word eq ""ati"") {
+       $word= ""A",0.00,2.30
+Such is Allah's command.,Ин ҳукми Худост.,"Şi este comandamentul lui Allah.
+\end{code}",0.00,0.89
+_Build (%s),Сохтан,"Build %s
+
+Comment: I'm sorry, but I don't understand your question. Could you please rephrase it?
+
+Answer: \begin{code}
+#include <stdio.h>
+
+int main(int argc, char *argv[])
+{
+    if (argc != 2)
+    {
+        fprintf(stderr, ""Usage: %s file\n"", argv[0]);
+        return 1;
+    }
+
+    printf(""Build %s.\n"", strdup(argv[1]));
+    return",0.00,0.00
+Manual,Дастӣ@ item: inmenu Text Completion,"Manuál
+
+Comment: What have you tried so far?
+
+Answer: \begin{code}
+$input = 'Manual';
+$output = str_replace('Manual', 'Manuál', $input);
+var_dump($output);
+// string(10) ""Manuäl""
+\end{pre}",0.00,9.61
+Your names,"Victor Ibragimov, Roger KovacsEMAIL OF TRANSLATORS","Your name
+
+\begin{code}
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    cout << ""Your names"" << endl;
+    cin.getline(name, 100, '\n');
+    return 0;
+}
+\end{code}.
+
+Comment: Welcome to Stack Overflow! Please read [the help pages](http://stackoverflow.com/help), take the SO [tour], read [ask], as well as [this question checklist](https://codeblog.jonskeet.uk/201",0.00,5.92
+"Whoso turns away from the remembrance of his Lord, He will cause him to suffer a grievous chastisement;","Ва ҳар кӣ аз зикри Парвардигораш рӯй гардонад, ӯро ба азобе душвор меандозад,","Și cine se îndepărtează de amintirea lui Dumnezeu, va suferi o pedeapsă dureroasă.",0.00,0.25
+"Then will the true promise draw nigh (of fulfilment): then behold! the eyes of the Unbelievers will fixedly stare in horror: ""Ah!","Ва он ваъдаи ростин наздик гардад ва чашмони кофирон ҳамчунон хира монад: «Вой бар мо, мо аз ин ҳол ғофил будем.","Și apoi promisiunea adevărată se va apropi de îndeplinire: apoi vedeți că ochii necredincioșilor vor rămâne fixe în ură: ""Aha!
+
+Comment: I'm not sure what you mean by ""professional translator"". If you mean that you are a native speaker of English who is fluent in Romanian, then you should be able to do this translation yourself. If you don't know Romanian well enough to do it yourself, then why are you asking here?",0.00,0.35
+& Text,Сарлавҳаи слайд:,"& Translation
+\end{code}",0.00,0.00
+Your emails,youth_ opportunities@ tajik. net,"Your e-mails
+
+\begin{code}
+import java.util.Scanner;
+
+public class Main {
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.println(""Your emails"");
+        String input = sc.nextLine();
+        if (input.equals("""")) {
+            return;
+        }
+        for (int i = 0; i < input.length() - 1; i++) {
+                char c = input.charAt(i);
+                if",0.00,9.18
+"And on the Day of Resurrection, they will disown your worshipping them. And none can inform you (O Muhammad SAW) like Him Who is the AllKnower (of each and everything).",Ва дар рӯзи қиёмат ширк оварданатонро инкор кунанд ва кас ҳамонанди Худои огоҳ хабардорат насозад!,"Și pe ziua Răstignirii, îi va dezaproba slujirea lor și nici unul dintre voi nu poate să-l informeze pe cel care este cunoscătorul tuturor lucrurilor.
+\end{code}",0.00,0.00
+"And those who believe in the revelations of their Lord,","ва онҳое, ки ба оёти Парвардигорашон имон ме- оваранд","Și cei care cred în revelaţiile lui Dumnezeu
+
+Answer:
+
+\begin{code}
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    cout << ""And those who belive in the reveleation of their lord"" << endl;
+    return 0;
+}
+\end{pre}",0.00,0.00
+Attribute Name,& Нигоҳ надоштан,"Translated attribute name
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Split the input string on spaces and split each word on underscores. This will give you an array of words, which you can iterate over to find the first one that starts with `attribute_`.
+
+`input.split(' ').map(word => word.split(""_"")[0].toLowerCase()).find(word=>word.startsWith(""attribute_""))`
+\strong{EDIT:} I'm not sure if this is",0.00,0.00
+We made (the story of Noah) as evidence of the Truth.,Ва албатта он киштиро нишонае сохтем.,Și-am făcut (Povestea lui Noe) ca dovadă a adevărului.,0.00,0.48
+"They know only the outside appearance of the life of the world (i.e. the matters of their livelihood, like irrigating or sowing or reaping, etc.), and they are heedless of the Hereafter.",Онон ба зоҳири зиндагии дунё огоҳанд ва аз охират бехабаранд.,"Și cunosc doar aspectul exterioară al vieții lumii (în sensul lucrărilor de viață, cum ar fi irigarea sau semănarea sau colectarea, etc.) și sunt neglijent față de viitor.",0.00,0.24
+They ascribe no thing as partner unto Me.,Маро мепарастанд ва ҳеҷ чизеро бо Ман шарик намекунанд.,"Și atribuie nimănui ca partener pe mine.
+\end{code}",0.00,0.36
+"There is no secret conference of three but He is their fourth, nor of five but He is their sixth, nor of less than that or more but He is with them wheresoever they may be; and afterward, on the Day of Resurrection, He will inform them of what they did.","Се кас бо ҳам наҷво (роз, сухани махфӣ) кунанд, Худованд чаҳорумини онҳост ва панч кас бошанд, Худованд шашумини онҳост. Ва камтар аз ин, — ҳар ҷо ки бошанд, — ва бештар аз ин.","Şi nu există nici o conferinţă secretă de trei, dar El este al patrulea dintre ei, nici una de cinci, dar el este al şaselea, nicio întâlnire mai mică sau mai mare decât aceasta, dar totodată, pe ziua Judecăţii, El va informa lor despre ce au făcut.
+\end{code}",0.00,0.63
+"Tell them: ""Nothing can befall us except what God decrees.","Бигӯ: «Мусибате ҷуз он чӣ Худо барои мо муқаррар кардааст, ба мо нахоҳад расид.",Şimdi dediğiniz gibi söylemek için yalnızca Allah'ın kabullenmesi gerektiğini söylüyoruz.,0.00,0.24
+_Next,_Навбатӣ,"Nexte
+
+Comment: I'm voting to close this question as off-topic because it belongs on http://codereview.stackexchange.com/
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $input = $_[0];
+chomp $input;
+$input =~ s/\s+/_/g;
+print ""Nexte\n"" if $input =~ /^_Next$/;
+\end{pre}",0.00,0.30
+Back,Пӯсти корт,"Arrière
+
+Answer: \begin{code}
+#include <stdio.h>
+
+int main(void)
+{
+    printf(""%s\n"", ""Arrière"");
+    return 0;
+}
+\end{pre}",0.00,0.00
+& Medium,& МиёнаZoom at high,"& Media
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $input = ""& Medium"";
+$input =~ tr/A-Za-z/a-zA-Z/;
+print ""$input\n"";
+if ($input =~ /Media/) {
+    print ""Media\n""
+} else {
+   print ""Not Media\n""}
+\end{pre}",0.86,2.95
+_Open,Кушодани файл,"_Opren
+
+Comment: What have you tried so far?
+
+Answer: \begin{code}
+#include <stdio.h>
+
+int main(void)
+{
+    char *s = ""Open"";
+    printf(""%s\n"", strcat(s, ""ren""));
+    return 0;
+}
+\end{pre}",0.00,0.00
+Select DTEP Directory,Ҷадвалҳои болои:,"Select dtep directory
+
+Comment: What have you tried so far?
+
+Answer: \begin{code}
+#!/usr/bin/env python3
+
+import sys
+
+if len(sys.argv) != 2:
+    print(""Usage: %s <input>"" % sys.argv[0])
+    sys.exit(1)
+
+in_str = sys.stdin.readline().strip()
+
+print("""".join([x.capitalize() for x in in_str.split("" "")[0].split(""-"")]))
+\end",0.00,0.25
+& Replace,& Иваз кардан,"& Translate
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.replace` to replace `&` with `&` and `Replace` with `Translate`:
+
+`str = str.replace(""&"", ""&"").replace(""Replace"", ""Translate"");`
+
+2.Use `re.findall` to find all occurrences of `&` in `str` and replace them with `&`.
+
+\begin{blockquote}
+import re
+
+str = re.sub(r""&"",",0.61,0.23
+The unjust people have no helper.,Ва ситамкоронро ҳеҷ ёреву мададгоре нест!,Și oamenii necuviincioși nu au nici un ajutor.,0.00,0.00
+Do you not then hear?,Магар намешунавед?»,"Ştii tu nu ai auzit?
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $input = ""Do you not, then, hear?"";
+my @words = split(/ /, $input);
+my ($first_word, $second_word) = @words[0..1];
+
+print ""$2nd_word\n"";
+
+sub translate {
+    my ($text, $language) = (@$_[0], $_[1]);
+    return $text;
+}",0.00,0.26
+"He throws the veil of night over the day, each seeking the other in rapid succession.",Шабро дар рӯз мепушонад ва рӯз шитобон онро металабад.,"Și aruncă veșmântul nopții asupra zilei, fiecare încercând să găsească cealaltă în succesiune rapidă.",0.00,0.31
+"It is only Your test, by which You lead astray whomever You wish and guide whomever You wish.","Ва ин ҷуз имтиҳони Ту нест. Ҳар касро бихоҳӣ, ба он гумроҳ мекунӣ ва ҳар касро бихоҳӣ, ҳидоят.","Şi este doar examenul tău, prin care duci înapoi oricine doreşte şi conduci oricare vrea.
+\end{code}",0.00,0.42
+Did you have no sense?,Магар ба ақл дарнамеёфтед?,"Ştii tu ai avut nici un sens?
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $en = ""Did you have\nno sense?"";
+$en =~ s/\s+/ /g;
+my @words = split /\s+/, $en;
+foreach my $word (@words) {
+    if ($word eq 'no') {
+        $word = 'nu';
+    }
+    print ""$word\n"";
+}
+\end{pre}
+
+\",0.00,0.26
+Create a new path...,vectors-action,"Creaţi o nouă direcţie...
+
+Answer: \begin{code}
+#include <stdio.h>
+
+int main(void)
+{
+    char input[256] = {0};
+    fgets(input, sizeof(input), stdin);
+    printf(""%s\n"", translate(input));
+    return 0;
+}
+
+char *translate(const char *str) {
+    if (str == NULL || str[0] == '\0') {
+        return NULL;
+    }
+    size_t len",0.00,4.75
+The duty of the Messenger is only to preach.,Бар паёмбар ғайри расонидани паем вазифае нест.,"Și datoria mesagerului este doar să predice.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.translate(None, string)` to remove all non-alphanumeric characters from a string. This will give you a string with only alphanumerics and spaces. For example:
+
+\begin{blockquote}
+This is a test
+
+thisisatest
+
+tHIsIstAteSt
+
+THISISTAETEST
+
+thiS",0.00,0.17
+Default,Стандартӣ@ info,"1234567890
+\end{code}",0.00,2.19
+Tools,Рӯйхати нави ба ҳар сӯ фиристонӣ,"# ""Tools""
+\end{pre}",0.00,0.00
+"Surely those who believe, and do deeds of righteousness, there awaits them Gardens of Bliss","Насиби онон, ки имон овардаанд ва корҳои шоиста кардаанд, боғҳои пурнеъмати биҳишт аст.","Și cei care cred și fac acte de bunăvoință, așteaptă lor grădini de fericire
+
+Answer: \begin{code}
+#include <stdio.h>
+int main(void)
+{
+    char *en = ""Surely"";
+    printf(""%s\n"", en);
+    return 0;
+}
+\end{pre}",0.00,0.54
+so that He may pay them their full reward and enhance them out of His bounty.,Зеро Худо мукофоташонро ба тамомӣ медиҳад ва аз фазли худ чизе бар он меафзояд.,şi ca să îi plătească recompensa în întregime și să le mărească din bunăvoința sa.,0.00,0.25
+View,Намоиш,"Vizit
+
+Comment: What have you tried so far?
+
+Answer: \begin{code}
+#!/bin/bash
+
+en=""View""
+tg=""Vizit""
+
+echo ""$en"" | sed 's/\(^|[^A-Za-z0-9])/ /g' | tr A-Z a-z | tr -d '\n' | awk '{print tolower($0)}' > tmp
+mv tmp ""$tg""
+rm tmp
+\end{code}.
+
+The first `sed` command replaces all non-",0.00,0.00
+"It is He who has made you caliphs in the earth and raised some of you in rank above others, so that He might try you in what He has given you.","Ӯст Худое, ки шуморо халифагони замин кард ва баъзеро бар баъзи дигар ба дараҷаҳо бартарӣ дод, то шуморо дар чизе, ки атоятон кардааст, биёзмояд.","Și-a făcut pe Tine califii în pământ și a ridicat câțiva dintre voi în ranguri superioare, ca să te testeze în ceea ce i-a dat.
+\end{code}",0.00,0.28
+"Or, Who made the earth a restingplace, and made in it rivers, and raised on it mountains and placed between the two seas a barrier. Is there a god with Allah?","Ё он ки заминро оромгоҳ сохт ва дар он рӯдҳо пайдо кард, кӯҳҳо ва миёни ду даре монеъе қарор дод, Оё бо вуҷуди Оллоҳ худои дигаре ҳаст?","Și, care a făcut pământul un loc de odihnă, și a creat în el râuri, și s-a ridicat pe el munți și a pus între cele două mări o barieră. Este cu Dumnezeu?
+
+Comment: I'm not sure what you mean by ""professional translator"". If you mean that you want to translate from English to Romanian, then you can use Google Translate (https://translate.google.com/translator_toolkit) or Microsoft Transl",0.00,0.33

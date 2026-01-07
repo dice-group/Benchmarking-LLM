@@ -1,0 +1,1654 @@
+Source,Reference,Prediction,BLEU,chrF++
+We've been stuck here.,మేముఇక్కడకష్టంచేసిన,"We are stuck here.
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(/\s+/);
+  b = b.trim();
+  return a.map((c, i) => `${c}${b}`);
+}
+
+The idea is to split the input string on whitespace, and then map each element of the resulting array to a new string with the",0.00,0.00
+I'm having so much fun here.,నేనుఇక్కడచాలాసంతోషాన్నిచేస్తున్నాను,"I'm having such fun here.
+
+A:
+
+Python 2.7
+import re
+
+def translate(s):
+    m = re.match(r'\b(\w+)\b', s)
+    if m:
+        return m.group(1)
+    else:
+        return s
+
+if __name__ == '__main__':
+    print translate('I\'m having \'such\' fun here.')
+
+Output
+I'm having 'such' fun here. 
+
+A:
+
+JavaScript (ES6)
+function translate(str) {
+  return str.replace(/\w+/g, function(word) {
+    return word.toUpperCase();
+  });",0.00,0.00
+Yeah.,అవును.,"Yes.
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>b.replace(new RegExp(c,""g""),""""))
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map(x => b.replace(
+    new RegExp(x, ""g""),
+    """"
+  ))
+}
+
+The idea is to split the input string on spaces, and then map each word to the empty string",0.00,0.28
+Is used to notify that the table row header has changed,పట్టిక కాలమ్ రో శీర్షిక మార్చబడిందని సూచించబడింది,"is used to notifiy that the Table Row Header has changed
+
+A:
+
+I think this is what you want:
+import java.util.*;
+import static java.lang.System.out;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println(""Enter a sentence"");
+
+        String sentence = scanner.nextLine();
+        String[] words = sentence.split(""\\s+""); // split on whitespace
+
+        for (int i = 0; i < words.length; i++) {
+            if (words",0.00,0.00
+But what do you care for? Not music.,కానీ మీరు కోసం ఏమి పట్టించుకోనట్లు లేదు?,"But what does it matter to you, not music?
+
+A:
+
+I don't think there is any way to do this in one go. You have to split the sentence into two parts and then translate each part separately.
+The first part of the sentence can be translated like this:
+
+But what do I care for?
+  Not music.
+
+The second part can be:
+
+What matters to me is not music.
+
+So the whole sentence should be translated as follows:
+
+But what's important to me isn't music.
+
+If you want to get rid of the ""and"", you can replace it with ""but"".",0.00,0.15
+"At the end of a long Friday after 4 PM, if I remember correctly.","సుదీర్ఘ శుక్రవారం ముగింపులో 4 PM తరువాత, నేనుసరిగ్గాగుర్తుఉంటే","A long Friday at the end. After 4 PM.
+
+A:
+
+JavaScript (ES6), 56 bytes
+f=(a,b)=>a.split(/\s+/).map((c,i)=>{for(let d=i;d<a.length;d++)if(c===a[d])return c}).join("" "")
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  for (let i = 0; i < a.length; i++) {",0.66,1.27
+I told him how we used to roll with the ladies in high school.,నేను మేము అధిక పాఠశాల లో మహిళలు తో వెళ్లండి ఉపయోగించారు ఎలా చెప్పాడు.,"He told me how he used to play with the girls in his high school.
+
+A:
+
+I think you can do it like this:
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println(""Please enter a sentence"");
+
+        String sentence = scanner.nextLine();
+
+        String[] words = sentence.split(""\\s+""); // Split the sentence into words
+
+        for (int i = 0; i < words.length; i++) {
+            if (words[i].equals(""",0.00,0.13
+Maithili,గుజరాతిName,"English
+
+Maithili is a language spoken in northern India. It belongs to the Indo-Aryan family of languages and is closely related to Hindi, Bengali, Gujarati, Marathi, Oriya, Sanskrit, Tamil, Telugu, Kannada, Malayalam, Urdu, Persian, Pashto, Balochi, Kashmiri, Punjabi, Assamese, Burmese, Thai, Lao, Khmer, Tibetan, Mongolian, Japanese, Korean, Chinese, etc.
+
+A:
+
+I think you can do this with a simple regex:
+import re
+
+input = ""Maithili""
+output = ""English""",0.00,1.17
+"♪ BABY, LIFE'S TOO SHORT","♪బేబీ,లైఫ్ఈస్ టూషార్ట్","♪ Baby, life is too short
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>{for(j=i;j<a.length;j++)if(c==a[j])return j})
+
+Try it online!
+Explanation
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map(c => {
+    for (i = 0; i < a.length; i++) {
+      if (c ===",0.00,0.52
+[ FOOTSTEPS ],[అడుగుజాడల్లో],"[ HANDS ]
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split("" "").map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(/\s+/);
+  b = b.trim();
+  return a.map((c, i) => c + ' ' + b);
+}",0.00,0.74
+Size,పరిమాణం,"Length
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>`${c} ${b}`).join("" "")
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map((c, i) => `${c}${b}`);
+}",0.00,0.00
+Did you?,మీకు నచ్చిందా?,"Yes, I did.
+
+A:
+
+Python 2.x
+import sys
+print(sys.stdin.readline().translate({
+    'yes': 'Yes',
+    'no': 'No',
+}))
+
+Python 3.x 
+from __future__ import print_function
+with open('input.txt') as infile:
+    for line in infile:
+        print(line.translate({'yes':'Yes', 'no':'No'}))",0.00,0.00
+Your names,కృష్ణబాబు కె విజయ్ కిరణ్ కముజుEMAIL OF TRANSLATORS,"You are John Doe and you are Jane Doe
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.split(
+    /\s+/
+  ).map(
+    c =>
+      `${c} ""${b}`
+  )
+console.log(f('John Doe', 'Jane Doe'))
+
+A:
+
+Python 2, 32 bytes
+lambda a,b:''.join([str(i)+' '+str(",0.00,1.18
+Your names,కృష్ణబాబు కె విజయ్ కిరణ్ కముజుEMAIL OF TRANSLATORS,"You are John Doe and you are Jane Doe
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.split(
+    /\s+/
+  ).map(
+    c =>
+      `${c} ""${b}`
+  )
+console.log(f('John Doe', 'Jane Doe'))
+
+A:
+
+Python 2, 32 bytes
+lambda a,b:''.join([str(i)+' '+str(",0.00,1.18
+Yes.,అవును.,"Tee.
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split(/\s+/).map((c,i)=>`${c} ${b}`).join("" "")
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map((word, i) => `${word}${b}`);
+}",0.00,0.39
+She doesn't need your help!,నాకు స్వభావం గురించి మాట్లాడటానికి లేదు.,"She's not in need of your help!
+
+A:
+
+JavaScript (ES6), 28 bytes
+s=>s.split(/\s+/).map(t=>t.toLowerCase().replace(/^\s+|\s+$/g,"""")).join("" "")
+
+Try it online!",0.00,0.30
+August,ఆగస్టు,"Te
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(/\s+/);
+  b = b.trim();
+  return a.map((c, i) => c + ' ' + b);
+}
+
+The idea is to split the input string on whitespace and then map each element of the resulting array to the concatenation of that element and the target string",0.00,0.00
+"- Huh! - Different, entirely.","వివిధ, పూర్తిగా.","- Uhh! - Not at all.
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map((word, i) => `${word}${b}`);
+}",0.00,0.67
+I'm the motherfuckin' Death Star up in this shit... droppin' fuckin' planets.,నేను ఈ పాట లో 'motherfuckin డెత్ స్టార్ అప్ am... Droppin 'నువ్వు నీ అమూల్యమైన' గ్రహాలు.,"I'm the Motherfucking Death Star Up in This Shit...
+Droppin' Fuckin' Planets.
+
+A:
+
+I think you can do it like this:
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println(""Please enter a sentence"");
+
+        String sentence = scanner.nextLine();
+
+        String[] words = sentence.split(""\\s+""); // split on whitespace
+
+        for (int i = 0; i < words.length; i++) {
+            if (words",0.00,13.67
+- Yeah.,- అవును.,"- Yes.
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>b.replace(new RegExp(c,""g""),""""))
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim()
+  b = b.trim()
+
+  // Split on whitespace
+  const words = a
+    .split( /\s+/g )
+    .map( word => word.trim() )
+
+  // Replace all occurrences of each word with an empty string
+  return b
+    .replace( new RegExp( words.join( """,0.53,0.51
+"Well, you don't look exactly like a basket of fruit yourself.","బాగా, మీరు మీ పండు ఒక బుట్ట వంటి సరిగ్గా చూడండి లేదు.","Well, you're not exactly looking like a bunch of bananas yourself.
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.split(
+    "" ""
+  ).map(
+    (c, i) =>
+      c + "" "" + b
+  );",0.00,0.46
+I'd been in the army less than a year when that unholy Tet arrived.,. ఆ పవిత్రం Tet వచ్చే నేను సైన్యం కన్నా తక్కువ ఒక సంవత్సరం ఉంటుంది.,"I was in the military for less than one year, when that terrible Tet came.
+
+A:
+
+I think you can do this with a simple regex:
+import re
+
+def translate(text):
+    return re.sub(r'\d+', '', text)
+
+if __name__ == '__main__':
+    print translate('I'd been in...')
+
+This will remove all numbers from the string, leaving only letters and punctuation.
+If you want it to be case-insensitive, use re.IGNORECASE instead of re.DOTALL.",0.47,1.17
+Is used to notify that the table summary has changed,పట్టిక సంక్షిప్తత మార్చబడిందని సూచించబడింది,This is a\ntest of\nmy\nnew\ntable\nsummary\nfunction.,0.00,0.00
+- No.,- నం,"- Yes.
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>b.indexOf(c)===-1?'Yes':'No')
+
+Try it online!
+Explanation
+f = (a, b) => {
+  a = a.replace(/\s+/g, '');
+  b = b.trim().toLowerCase();
+  return a.length === 0 ? 'Yes' : 'No';
+}
+
+The idea is to split the input string on whitespace, and then map each element of the resulting array to the index of",0.54,0.54
+To scare us.,మాకు బెదరింపు.,"To frighten us.
+
+A:
+
+Python 2.7
+import re
+
+text = ""To scare us.""
+pattern = re.compile(r'\bto\s+scare\s+us\b')
+result = pattern.findall(text)
+
+print result
+
+Prints:
+['to frighten']
+
+Python 3.x
+from __future__ import print_function
+import regex as re
+
+def findall(text, pattern):
+    return [match.group() for match in re.finditer(pattern, text)]
+
+print(findall(To scare us., r'\bto\s+\w+\s+scare\s",0.00,0.21
+I believe in love and marriage and I really hope you find a nice guy.,నేను ప్రేమ మరియు పెళ్లి నమ్మకం మరియు నేను నిజంగా మీరు ఒక nice guy కనుగొనేందుకు ఆశిస్తున్నాము.,"I believe in your love and your marriage and i really hope that you find someone nice.
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.split(
+    "" ""
+  ).map(
+    (c, i) =>
+      `${c} ""${b}`
+  );
+
+The first argument to map is the index of the current element in the array being iterated over. The second argument is the value of the",0.00,1.97
+I don't know.,నాకు తెలీదు.,"Je ne sais pas.
+
+A:
+
+Python 2.7
+from __future__ import print_function
+import sys
+
+def main():
+    if len(sys.argv) != 2:
+        print(""Usage: %s <text>"" % sys.argv[0], file=sys.stderr)
+        sys.exit(1)
+    text = sys.argv[1]
+    print(text)
+
+if __name__ == ""__main__"":
+    main()
+
+Output
+Usage: python2.7 test.py <text>
+Je ne sais plus rien.
+
+If you want to use Python 3.x, you can replace print function with str.format:
+from string import format
+
+def",0.00,0.21
+AntiqueWhite,పురాతన తెలుపుcolor,"WhiteAntique
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>`${c}-${b}-${i}`)
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.split(
+    "" ""
+  ).map(
+    (c, i) =>
+      `${c} - ${b} - ${i}`
+  );
+
+The idea is to split the string on spaces, and then map over each of the resulting array elements with a function that takes three arguments:
+
+the current element in the array",0.00,1.12
+Let's make them suspicious.,యొక్క వాటిని అనుమానాస్పద తయారు చేద్దాము,"Let them be suspicious.
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>{for(j=i;j<a.length;j++)if(c==a[j])return j})
+
+Try it online!
+Explanation
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map(c => {
+    for (i = 0; i < a.length; i++) {
+      if (c === a[i])",0.00,0.00
+"Girl, we know you from Georgia.","గర్ల్, మేము జార్జియా నుండి మీకు తెలిసిన.","You are a girl from Georgia.
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(/\s+/);
+  b = b.trim();
+  return a.map((c, i) => c + ' ' + b);
+}
+
+The idea is to split the input string on whitespace and then map each element of the resulting array to the concatenation of the",0.00,0.39
+Description,@ label title of a listbox where the possible duplicate bug numbers are put in,"Translation
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(/\s+/);
+  b = b.trim();
+  return a.map((c, i) => c + ' ' + b);
+}
+
+The idea is to split the input string on whitespace and then map each element of the resulting array with a function that concatenates the current element with the",0.64,15.77
+You like a girl?,మీరు ఒక అమ్మాయి ఇష్టం?,"You like that girl?
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>`${c} ${b}`).join("" "")
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.replace(/\s+/g, ' ');
+  return a
+    .split(' ')
+    .map(word => `${word} ${b}${word}`)
+    .join('');
+};",0.00,0.29
+Format:,ఫార్మేట్:,"Format:
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(/\s+/);
+  b = b.trim();
+  return a.map((c, i) => c + ' ' + b);
+}",0.00,0.41
+What's going on with you and my wife?,మీరు మరియు నా భార్య ఏమి జరుగుతుందో?,"What is going on between me and your wife?
+
+A:
+
+I don't know if this is what you want, but I think it can be done in O(n^2) time using dynamic programming. The idea is to build a table of all possible pairs of words that can be formed from the first word and the second word. For example, for the input ""What's going on?"", the table would look like this:
+[
+  [""What's"", ""going"", ""on""],
+  [""my"", ""wife""],
+  ["""", """", """"]
+]
+
+Then, given a pair of words (w1,",0.00,0.17
+No. You know what I'm gonna do for you?,నం మీరు నేను మీరు ఏమి గొన్న వద్ద ఏమి?,"No, I don't know what you're gonna do to me.
+
+A:
+
+I think this is an interesting problem and one that can be approached in a number of different ways. Here are my thoughts on how to solve it.
+The first thing to note is that there is no need to translate the entire sentence at once. Instead, we can break it up into smaller pieces, each of which can be translated independently. For example, let's say we have the following sentence:
+
+No, you know what I’m gonna do
+  for you?
+
+If we want to translate it into te, we could split it up as follows:
+
+No
+You know what",0.00,0.15
+You help me in the lab.,మీరు ప్రయోగశాలలో సహాయం.,"I help you at the lab.
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>`I help you ${c}.`).join(' ')
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split("" "");
+  b = b.trim();
+  return a.map((c) => `I help your ${c}!`)
+}
+
+A:
+
+Python 2, 32 bytes
+lambda a,b:''.join(i for i in",0.00,0.26
+"That's better than anybody, so far.","ఆ ఇప్పటివరకు ఎవరైనా, కంటే మెరుగైన ఉంది.","That is better than anyone, up to now.
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>b.replace(new RegExp(""^""+c,""g""),""""))
+
+Try it online!
+Explanation
+f = (a, b) => {
+  a = a.trim()
+  b = b.trim()
+
+  // split on whitespace
+  const words = a
+    .split(' ')
+    .map(word => word.trim())
+
+  // replace all occurrences of ""word"" with """"
+  return b.replace(
+    new RegExp",0.00,0.37
+Contrast,కాంట్రాస్ట్,"Contrast
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map(c => c + ' ' + b);
+}",0.00,0.00
+- My base chakra.,- నా బేస్ చక్రం.,"- Mi chakra base.
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>{for(j=i;j<a.length;j++)if(c==a[j])return j})
+
+Try it online!
+Explanation
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map(c => {
+    for (i = 0; i < a.length; i++) {
+      if (c === a[i]",0.65,0.59
+"And this guy that I don't even know checks us out of the jail... and then says all this weird stuff... and brings us here with these people... like, touching us and talking to us... and I don't know them, and I don't feel comfortable.",నేను కూడా తెలియదు ఈ వ్యక్తి జైలు మాకు బయటకు తనిఖీ... ఆపై అన్ని ఈ అదృష్టము stuff చెప్పారు... మరియుఈ వ్యక్తులతోఇక్కడమాకుతెస్తుంది...,This guy that I'm not even acquainted with checks me out from the jail and then he says all these weird things and brings me here with those people like touching me and speaking to me and I do not know them and I am not comfortable.,0.00,0.77
+Then what?,అప్పుడు ఏమి?,"Te, then what?
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>`${c} ${b}`).join("""")
+
+Try it online!
+Explanation
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map((x, i) => `${x}${b}`)
+}",0.00,0.36
+Eject,ఎజెక్ట్Name,"Te
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map(c => c + ' ' + b);
+}",0.00,1.23
+(SOFTLY SINGING ALONG),(మెత్త పాటు SINGING),"(SINGING)
+I love you, I love you so much
+And I want to be with you forever
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(/\s+/).map((c,i)=>b.replace(new RegExp(""(^|\\s)""+c+""(\\s|$)"",""g""),`$1${i}`))
+
+Try it online!
+Explanation
+f = (a, b) =>
+  a.split(
+    /\s+/g
+  ).map(
+    (c, i) =>
+      b.replace(",0.00,9.27
+Home Folder,ఇంటి ఫొల్డర్,"HOME FOLDER
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(/\s+/);
+  b = b.trim();
+  return a.map((c, i) => c + "" "" + b);
+}
+
+The idea is to split the input string on whitespace and then map each element of the array to a new string with the first element",0.00,0.00
+Space,స్పేస్,"Te
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>{for(j=i;j<a.length;j++)if(c==a[j])return j})
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.split(
+    "" ""
+  ).map(
+    (c, i) =>
+      for (j = i; j < a.length; j++) if (c === a[j]) return j
+  )
+console.log(f('Space', 'Te'))",0.00,0.00
+I'm not hurt.,నేను బాధించింది లేదు.,"I am not hurt.
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split(/\s+/).map((c,i)=>`${c} ${b}`).join(' ')
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.split(
+    /\s+/
+  ).map(
+    (c, i) =>
+      `${c} ""${b}`
+  ).join()
+  .trim()
+;
+
+The split() function splits the input string into an array of words. The map() function takes each word in the array and replaces it with a",0.00,0.23
+- Real stupid?,- తెలివితక్కువదని రియల్?,"- Yes, real stupid!
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>`${c} ${b}`).join("" "")
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map(str => `${str}${b}`);
+}",0.84,0.30
+Where is he?,అతను ఎక్కడ ఉంది?,"He is at home.
+
+A:
+
+Python 2.7
+import re
+
+def translate(s):
+    m = re.match('(\w+)\((.*?)\)', s)
+    if not m:
+        return s
+    return m.group(1) + ' (' + m.groups()[1] + ')'
+
+print translate('Where is he?')
+
+Output
+he (at home)",0.00,0.37
+She forgot?,- ఆమె మర్చిపోయారా?,"He forgot?
+
+A:
+
+Python 2.7
+import re
+
+def translate(s):
+    m = re.search(r'(?i)\b(.*?)\b', s)
+    if m:
+        return m.group(1)
+    else:
+        return s
+
+print translate('She forgot?')
+
+Output
+He forgot!
+
+A:
+
+JavaScript (ES6)
+function translate(str) {
+  return str.replace(/\B(?=(\d{3})+(?!\d))/g, "" "");
+}
+
+console.log(translate(""She forgot?""))",0.00,0.25
+- Are you okay?,- మీరు ఓకే ఉన్నాయా?,"Yes, I'm fine.
+
+Python 3.x
+import urllib.parse as urlparse
+from urllib.request import urlopen
+from bs4 import BeautifulSoup
+
+url = 'https://translate.yandex.net/api/v1.5/tr.json/translate?key=AIza",0.00,0.35
+"Oh, ooh-bee-doo",-Ooh-ఉంటుందిడూ -Oop-డీ-అల్పమైన,"Ooh, bee-doo
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>b.replace(new RegExp(c,""g""),i))
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.split(
+    "" ""
+  ).map(
+    (c, i) =>
+      b.replace(
+        new RegExp(
+          c,
+          ""g""
+        ),
+        i
+      )
+  )
+
+The first line splits the input string into an array of words. The second line replaces each word with its index in the array",0.00,1.86
+"Transcoding ""%s""","""%s""ను ట్రాన్సుకోడింగ్ చేయుచున్నది","""Transcoding %s""
+
+A:
+
+Python 2.7.6 (default, Nov  6 2014, 11:02:16) 
+[GCC 4.8.2] on linux2
+Type ""help"", ""copyright"", ""warning"" or ""license"" for more information.
+>>> import sys
+>>> sys.stdout.write(sys.stdin.readline())
+'transcoding %s'
+>>>",0.00,1.76
+You let two unknown men enter this house uninvited.,MOREL: మీరు రెండు తెలియని పురుషులు ఈ ఇల్లు గుర్తించని ఎంటర్ వీలు.,"You allowed two unknown people to enter your house without inviting them.
+
+A:
+
+Python 2.7
+import re
+
+def translate(s):
+    m = re.match('(?i)(\w+)\s+(\S+)', s)
+    if not m:
+        return s
+    return m.group(1) + ' ' + m.groups()[0]
+
+print translate('You let (two unknown men) (enter this house) (uninvited)')
+
+Output
+You allowed two known people to come into your house",0.00,0.48
+- Grant:,- అస్య మైధునాభిలాషి!,"- Te:
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split("" "").map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(/\s+/);
+  b = b.trim();
+  return a.map((c, i) => c + ' ' + b);
+}
+
+The idea is to split the input string on whitespace, and then map each element of the resulting array to the concatenation of that element and",0.50,0.47
+Your emails,k. meetme@ gmail. com infyquest@ gmail. com@ label,"You have sent me an email
+
+A:
+
+Python 2.7.6 (default, Nov  6 2014, 11:58:56) 
+[GCC 4.8.2] on linux2
+Type ""help"", ""copyright"", ""warning"" or ""license"" for more information.
+>>> import re
+>>> s = 'Your emails'
+>>> m = re.match(r'(.*) has sent you an email', s)
+>>> print m.group(1)
+You have sent them an email",0.00,11.76
+You see if you can.,మీకు మీరు చూడండి.,"I see if I can.
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>`I see if ${c} is ${b}.`)
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.split(
+    "" ""
+  ).map(
+    (c, i) =>
+      `I 'see' if '${c}' is '${b}'.`
+  );",0.00,0.36
+"Have a nice day, Rapunzel.",", ఒక nice రోజు Rapunzel కలవారు.","I wish you had a nice hair day.
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.split(
+    "" ""
+  ).map(
+    (c, i) =>
+      `
+        ${c}
+        ${b}
+      `
+  )
+)",0.76,6.07
+What it looks like is the spontaneous cellular transferral we've been trying to achieve for months.,ఇది కనిపిస్తుంది ఏమి యాదృచ్ఛిక సెల్యులార్ transferral ఉంది మేము నెలల సాధించడానికి ప్రయత్నిస్తున్నారు చేసిన.,"It looks like we have finally found a way to do it.
+
+A:
+
+I think you can get away with something like this:
+import java.util.*;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println(""Enter a sentence:"");
+
+        String sentence = scanner.nextLine();
+        String[] words = sentence.split(""\\s+""); // split on whitespace
+
+        List<List<String>> sentences = new ArrayList<>();
+
+        for (int i = 0; i < words.length; i++) {
+            if (",0.00,2.14
+Details,వివరములు,"Details
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map((c, i) => `${c}${b}`);
+}",0.00,0.00
+ltchy.,Ltchy. నా,"tltchy.
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split("" "").map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(/\s+/);
+  b = b.trim();
+  return a.map((c, i) => c + ' ' + b);
+}
+
+The idea is to split the input string on spaces, and then map each word to a new string that concatenates the current word with the",0.00,4.19
+Show zoom slider,జూమ్ స్లైడర్‌ను చూపుము@ option: check,"Zoom in/zoom out
+
+A:
+
+JavaScript (ES6)
+function translate(input, output) {
+  return input.split(' ').reduce((a, b) => {
+    if (b === 'in' || b === 'out') {
+      a[b.toLowerCase()] = true;
+      return a;
+    }
+    return a;
+  }, {});
+}
+
+console.log(translate('show zoom slider', 'zoom in / zoom out'));",0.00,4.18
+You know what that key is for?,మీరు కీ కోసం అని ఏమి తెలుసు?,"That key is used to open the door.
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split("" "").map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map((c, i) => `${c}${b}`);
+}
+
+The idea is to split the input string on spaces, and then map each of those words to a new string with",0.00,0.00
+Ray's?,రే యొక్క?,"Rays?
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map(c => c + ' ' + b);
+}",0.00,0.43
+Bristol. Bristol.,బ్రిస్టల్ . బ్రిస్టల్.,"Bristol is a city in the United Kingdom, located in the county of Somerset, on the River Avon. It is the capital of the West Midlands region and has a population of over 1.5 million people. The city is famous for its architecture, including the Royal Crescent, which was designed by Sir Christopher Wren, as well as the University of Bristol, which is one of the oldest universities in the world.
+
+A:
+
+I don't know if this is the best way to do it, but here's what I came up with:
+#include <iostream>
+#include <string>
+#include <vector>
+
+using namespace std;
+
+int main",0.00,0.31
+Status,స్థితి,"Te
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split("" "").map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map(str => `${str} ${b}`);
+};
+
+The first argument is the input string, and the second argument is what you want to put in front of each word.",0.00,0.00
+Display debug statements on stdout for Brasero media library,బ్రాసెరో మీడియా లైబ్రరీ కొరకు stdout పైన డీబగ్ వివరణములను ప్రదర్శించుము,"Print debug statements to stdout
+
+A:
+
+I think you can do it like this:
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(int argc, char *argv[])
+{
+    if (argc != 2)
+    {
+        fprintf(stderr, ""Usage: %s <filename>\n"", argv[0]);
+        exit(EXIT_FAILURE);
+    }
+
+    FILE *fp = fopen(argv[1], ""r"");
+
+    while (!feof(fp))
+    {
+        char line[1024];
+        int len = fgets(line, sizeof(line), fp);
+
+        if (len == 0)
+        {
+            break;",0.54,3.17
+LARRY KING:,లారీ కింగ్:,"Larry King:
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>`${c}: ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split("" "");
+  b = b.trim();
+  return a.map((c, i) => `${c}:` + b);
+}
+
+The first argument to map is the index of the current element in the array, and the second argument is the value to be assigned to",0.00,0.26
+I might never see you again.,నేను మీరు మళ్ళీ చూడండి ఎప్పుడూ ఉండవచ్చు,"I may not see you for a long time.
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(/\s+/).map((c,i)=>b.replace(new RegExp(c,""g""),i))
+
+Try it online!
+Explanation
+f = (a, b) => {
+  a = a.trim()
+  b = b.trim()
+
+  // split on whitespace
+  const words = a
+    .split(' ')
+    .map(word => word.trim())
+
+  // replace all occurrences of c with i
+  return b.replace(
+    new RegExp(words",0.00,0.00
+Good night.,- గుడ్ రాత్రి.,"Te good night.
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.replace(/\s+/g, ' ');
+  return a
+    .split(' ')
+    .map(word => `${word} ${b}`);
+};
+
+The idea is to split the input string on spaces, and then map each word to a new string that contains both the original word and the translated word.",0.00,0.24
+Your emails,k. meetme@ gmail. com infyquest@ gmail. com,"You have sent me an email
+
+A:
+
+Python 2.7.6 (default, Nov  6 2014, 11:58:56) 
+[GCC 4.8.2] on linux2
+Type ""help"", ""copyright"", ""warning"" or ""license"" for more information.
+>>> import re
+>>> s = 'Your emails'
+>>> m = re.match(r'(.*) has sent you an email', s)
+>>> print m.group(1)
+You have sent them an email",0.00,11.42
+Go! -Find Connor!,- కానర్ కనుగొను!,"Come here, Connor!
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>b.replace(new RegExp(c,""g""),""""))
+
+Try it online!
+Explanation
+f = (a, b) => {
+  a = a.trim()
+  b = b.trim()
+
+  // split on whitespace
+  const words = a
+    .split(' ')
+    .map(word => word.trim())
+
+  // replace with empty string
+  return b.replace(
+    new RegExp(words.join('|'), 'g'),
+    ''",0.00,0.24
+"Harley, I'm gonna be as honest as I can be.","హార్లే, నేను చేయడం వంటి నిజాయితీ ఉండాలి గొన్న వద్ద.","Harley, je vais être aussi honnête que je peux l'être.
+
+A:
+
+I think this is what you are looking for:
+import re
+from nltk.tokenize import word_tokenize
+
+sentence = ""I am going to be honest with you.""
+tokens = [word_tokenize(s) for s in sentence.split()]
+for token in tokens:
+    if len(token) == 1:
+        print(token)
+    elif token[0] == ""be"":
+        if token[1] == ""with"":
+            if token[2] == ""you"":
+                if token[3] == ""going"":
+                    if token[4] == ""to"":",0.00,0.32
+magenta3,మెజెంటా 3color,"red3
+
+A:
+
+Python 2.7, 57 bytes
+f=lambda s,t:t.translate(s)
+
+Try it online!
+Explanation:
+f = lambda s, t: t.translate (s)
+
+The first argument is the string to be translated, and the second is the target string. The function returns the translated string.
+In this case, we want to translate each character of the input string into the corresponding character in the target string:
+>>> f('magenta3', 'red3')
+'red3'",0.00,1.70
+Condition my hair.,కండిషన్ నా జుట్టు.,"My hair is conditioned.
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split("" "").map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(/\s+/);
+  b = b.trim();
+  return a.map((c, i) => c + ' ' + b);
+}
+
+The idea is to split the input string by spaces, and then map each word to its concatenation with the target string.",0.00,0.25
+Device,పరికరం,"Devices
+
+A:
+
+Python 2.7.9 (default, Nov  6 2015, 11:02:56) 
+[GCC 4.8.2] on linux2
+Type ""help"", ""copyright"", ""warning"" or ""license"" for more information.
+>>> import sys
+>>> sys.version_info
+sys.version('2.7', '9.0.0', 'final')
+>>> from string import maketrans
+>>> s = 'input: device\noutput: devices'
+>>> translated = s.translate(maketrans('', ''))
+>>> translated
+'input: devices\noutput",0.00,0.00
+Yes.,అవును,"Tee.
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split(/\s+/).map((c,i)=>`${c} ${b}`).join("" "")
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map((word, i) => `${word}${b}`);
+}",0.00,0.00
+Hed,మంగళ,"Het
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(/\s+/);
+  b = b.trim();
+  return a.map((c, i) => c + ' ' + b);
+}
+
+The idea is to split the input string on spaces, and then map each word to a new string that concatenates it with the target string.",0.00,0.00
+Hello?,హలో?,"Hola?
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(/\s+/);
+  b = b.trim();
+  return a.map((c, i) => c + ' ' + b);
+}
+
+The idea is to split the input string on whitespace and then map each element of the resulting array to the concatenation of that element and the target string",0.00,0.40
+"Keep it up, two, three, four",", రెండు, మూడు, నాలుగు దానిని ఉంచండి","Two, three and four
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split("","").map((c,i)=>`${c},${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.split(
+    "",""
+  ).map(
+    (c, i) =>
+      `
+        ${c},
+        ${b}
+      `
+  )
+console.log(f(""two,three,four"", ""five,six,seven""))",0.00,0.77
+Audio Recorder,శబ్దాలను రికార్డ్ చెసె కార్యక్రమంName,"Video Recorder
+
+A:
+
+I think you can do something like this:
+#include <iostream>
+#include <string>
+#include <sstream>
+#include <fstream>
+
+using namespace std;
+
+int main(int argc, char *argv[])
+{
+    if (argc != 2)
+    {
+        cout << ""Usage: "" << argv[0] << "" input.wav output.avi"" << endl;
+        return 1;
+    }
+
+    string inputFile = argv[1];
+    string outputFile;
+
+    ifstream infile(inputFile.c_str());
+    ofstream outfile(outputFile.substr(0, outputFile.find_last_of('.",0.00,0.99
+It's pure methane.,క్యోటో ఒప్పందం -,"Methane is pure.
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>{for(j=i;j<a.length;j++)if(c==a[j])return j})
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.split(
+    "" ""
+  ).map(
+    (c, i) =>
+      for (j = i; j < a.length; j += 1) if (c === a[j]) return j
+  )
+console.log(f(""It's pure",0.00,0.00
+Send Email To...,ఈ మెయిల్ పంపు...,"Sends email to...
+
+A:
+
+I think you can do it with regular expressions. Here is an example:
+import re
+
+sentence = ""Send Email To...""
+result = re.sub(r""\s+"", "" "", sentence)
+result = result.split("" "")
+result[0] = result[0].strip()
+result[1] = result[1].strip()
+
+print(result)
+
+Result:
+['Send Email To', '']",0.00,1.64
+- Are you okay?,- మీరు ఓకే ఉన్నాయా?,"Yes, I'm fine.
+
+Python 3.x
+import urllib.parse as urlparse
+from urllib.request import urlopen
+from bs4 import BeautifulSoup
+
+url = 'https://translate.yandex.net/api/v1.5/tr.json/translate?key=AIza",0.00,0.35
+Text length,పాఠం పొడవు,"Translation
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(n,t)=>{for(let i=0;i<n;i++)if(t.indexOf(i)!=-1)return t.substring(0,i)}
+
+Try it online!
+Explanation:
+f = (n, t) => {
+  for (let i = 0; i < n; i++) {
+    if (t.includes(i)) {
+      return t.slice(
+        0,
+        i
+      );
+    }
+  }
+  return t;
+}",0.00,0.00
+but I won 50 G in a poker tournament.,కానీ నేను ఒక పోకర్ టోర్నమెంట్ను 50 G గెలిచింది.,"But I won fifty thousand G in an online poker tournament.
+
+A:
+
+JavaScript (ES6), 56 bytes
+f=(a,b)=>a.split("" "").map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map((c, i) => `${c}${b}`);
+}",0.70,0.68
+FUEISHA:,FUEISHA:,"TEFUEISHA
+
+This is my code:
+import java.util.Scanner;
+
+public class Main {
+
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+        System.out.println(""Please enter your name: "");
+
+        String name = input.nextLine();
+
+        int i = 0;
+        while (i < name.length()) {
+            char c = name.charAt(i);
+            if (c == ' ') {
+                i++;
+            } else {
+                break;
+            }
+        }
+
+        String translation = """";
+        for (int j = 0;",0.00,6.96
+Remove tracks,పాటలను తొలగించు,"Delete tracks
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>b.indexOf(c)===i?a.replace(c,""""):b)
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.split(
+    "" ""
+  ).map(
+    (c, i) =>
+      b.indexOf(
+        c
+      ) === i ?
+        a.replace(
+          c,
+          """"
+        )
+      :
+        b
+  );",0.00,0.00
+Yeah.,అవును.,"Yes.
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>b.replace(new RegExp(c,""g""),""""))
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map(x => b.replace(
+    new RegExp(x, ""g""),
+    """"
+  ))
+}
+
+The idea is to split the input string on spaces, and then map each word to the empty string",0.00,0.28
+The depth (in number of bits) of the pixmap bound to this texture,ఈ లేఖినికి బంధించబడిన పిక్స్ మ్యాప్ యొక్క వెడల్పు(బిట్స్ సంఖ్యలో),"The width and height of the texture in pixels
+
+I have no idea how to do it. Can you please help me?
+
+A:
+
+If I understand your question correctly, you want to know how to get the pixel dimensions of a texture using OpenGL ES 2.0. You can use glGetTexLevelParameteriv(GL_TEXTURE_2D, 0, GL_TEXTURE_WIDTH, &width); and glGetIntegerv(GL_UNPACK_ALIGNMENT, &alignment).",0.00,0.31
+"Beer, I guess.","బీర్, నేను అనుకుంటున్నాను.","Teh, I think.
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>`${c} ${b}`).join("" "")
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map(str => `${str}${b}`)
+}",0.00,0.60
+Your emails,k. meetme@ gmail. com infyquest@ gmail. com,"You have sent me an email
+
+A:
+
+Python 2.7.6 (default, Nov  6 2014, 11:58:56) 
+[GCC 4.8.2] on linux2
+Type ""help"", ""copyright"", ""warning"" or ""license"" for more information.
+>>> import re
+>>> s = 'Your emails'
+>>> m = re.match(r'(.*) has sent you an email', s)
+>>> print m.group(1)
+You have sent them an email",0.00,11.42
+Miscellaneous,ఇతరత్రాScreen saver category,"Te
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>{for(j=i;j<a.length;j++)if(c==a[j])return b})
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  return a.map(c => {
+    for (i = 0; i < a.length; i++) {
+      if (c === a[i]) {
+        return b;
+      }
+    }
+  }",0.00,7.46
+As we are experiencing some really nice above seasonal weather.,.. మేము రుతువు సంబంధిత వాతావరణ పైన నిజంగా nice కొన్ని ఎదుర్కొనే నాటికి,"We are experiencing very nice above-seasonal weather.
+
+A:
+
+Python 2.7
+import re
+
+def translate(s):
+    m = re.match(r'(\w+)\((.*?)\)', s)
+    if not m:
+        return s
+    return m.group(1) + ' (' + m.groups()[1] + ')'
+
+print translate('We are experiencing...')
+
+Python 3.x
+from string import maketrans
+
+translate = lambda s: s.translate(maketrans('', ''))
+
+print(translate(""We are experiencing....""))",0.60,1.92
+Mar,మార్చిApril,"Maar
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(/\s+/);
+  b = b.trim();
+  return a.map((c, i) => c + ' ' + b);
+}
+
+The idea is to split the input string on spaces, and then map each word to a new string that concatenates it with the target string.",0.00,1.59
+I saw it.,నేనుచూసింది.,"It was me.
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(/\s+/);
+  b = b.trim();
+  return a.map((c, i) => c + ' ' + b);
+}
+
+The idea is to split the input string on whitespace and then map each element of the resulting array to the concatenation of that element and the",0.00,0.25
+But I wish you all the best with your struggle.,కానీ నేను మీ పోరాటం తో అన్ని ఉత్తమ అనుకుంటున్నారా.,"Tapi saya harap kamu semua sukses dengan perjuanganmu.
+
+A:
+
+I think this is what you want:
+import java.util.*;
+import static java.lang.Math.*;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner in = new Scanner(System.in);
+        System.out.println(""Enter a number"");
+
+        int n = in.nextInt();
+        int sum = 0;
+        for (int i = 1; i <= n; i++) {
+            if (i % 2 == 0) {
+                sum += i;
+            }
+        }
+        double result = Math.",0.00,0.17
+Mungo Bane,Name,"Mungo Baney
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>{for(j=i;j<b.length;j++)if(c==b[j])return j})
+
+Try it online!
+Explanation
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map(c => {
+    for (i = 0; i < b.length; i++) {
+      if (c === b[i]",0.00,1.54
+Oh nonsense.,అర్ధంలేని ఓహ్.,"No, it's not nonsense.
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>b.replace(new RegExp(""^""+c,""g""),""""))
+
+Try it online!
+Explanation
+f = (a, b) => {
+  a = a.trim()
+  b = b.trim()
+
+  // split on whitespace
+  const words = a
+    .split(' ')
+    .map(word => word.trim())
+
+  // replace all occurrences of ""word"" with """"
+  words.forEach((word, i) => b =",0.00,0.24
+Runway secure.,రన్వేసురక్షిత డ్యూక్:,"The runway is secure.
+
+A:
+
+JavaScript (ES6), 56 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map(c => c + ' ' + b);
+}",0.00,0.33
+And you'll be a goonie too.,మరియుమీరు. ఒక goonieఉంటుందిచాలా,"And you will be a geek too.
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.split(
+    "" ""
+  ).map((c) => `
+      ${c}
+      ${b}
+    `
+  )
+)",0.00,2.82

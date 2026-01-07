@@ -1,0 +1,686 @@
+Source,Reference,Prediction,BLEU,chrF++
+Mozilla (HTML),Mozilla (HTML),"Móvil (HTML).
+
+\begin{code}
+<!DOCTYPE html PUBLIC ""-//W3C//DTD HTML 4.01 Transitional//EN"" ""http://www.w3.org/TR/html4/loose.dtd"">
+<html>
+    <head>
+        <meta http-equiv=""Content-Type"" content=""text/html; charset=ISO-8859-1"">
+        <!--[if lte IE 6]>
+            <script src=""http://html5shiv.googlecode.com",0.00,7.71
+Workspace Switcher Preferences,Àwọn ìkúndùǹ Ìjánu-ìsún Ààyè-iṣẹ́,"Preguntas de configuración de la pantalla de tareas
+
+Answer: \begin{itemize}
+\item Translating from English to Spanish is not as easy as it seems.
+\end{itemize}\
+
+\begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $input = ""Workspace Switching Preferences"";
+my @words = split(/\s+/,$input);
+foreach my $word (@words) {
+    if ($word =~ /^[A-Z][a-z]+$",0.00,4.60
+Set,Dí,"Siete
+\end{code}
+
+Answer: \begin{itemize}
+\item `set` is a reserved word in Python, so you need to escape it with a backslash: `set\sout{t}`. This also works for other reserved words such as `if`, `for`, `while`, `else`, `elif`, `try`, `except`, `finally`, `return`, `continue`, `break`, `pass`, `print`, `raise`, `yield`, `import`, `from`, `in`, `is`, `as`, `and`, `or`,",0.00,0.51
+Background color,Àwọ̀ ẹ̀yìn,"Color de fondo
+\end{code}",0.00,1.26
+Invalid desktop file ID,ID fáìlì ojú-iṣẹ́ àìfẹsẹmúlẹ̀,"Desktop file ID is invalid.
+\end{code}
+
+Answer: \begin{itemize}
+\item I'm not sure what you mean by ""en"" and ""yo"", but if you want to translate from English to Spanish, you can use [Google Translate](https://translate.google.com/translat?sl=en&tl=es&js=n&prev=_t&hl=en) or [Bing Translator](http://www.microsofttranslator.com/#en%7Ces). If you don't want to use an online transl",0.65,3.60
+Edit Menus,Ṣàyẹ̀wò Àwọn Àtòjọ-ẹ̀yàn,"Editar menús
+\end{code}",0.00,3.13
+Fonts,Àwọn àyọkà ìsàlẹ̀-ilà,"Tipos de letra
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $sentence = ""Fonts"";
+my @words = split(/\s+/,$sentence);
+foreach my $word (@words) {
+    if ($word =~ /^[a-zA-Z]+$/) {
+        print ""$word\n"";
+    }
+}
+\end{code}.",0.00,3.94
+_Show passwords,_Fi àmì-àṣírí hàn,"¡Mostrar las contraseñas!
+\end{code}
+
+Comment: ¿Cuál es la pregunta?
+
+Answer: \begin{itemize}
+\item `input` y `output` son variables que reciben el texto de entrada y salida respectivamente, por lo tanto debes cambiarlos por los valores que quieras mostrar al usuario (en este caso ""show passwords"" y ""mostrar las conraseñas"") para que puedan ser leídos por el usuario.
+Por ejemplo:
+
+\begin{code",0.00,2.80
+_Password:,_Àmì-àṣírí:,"Password:
+\end{code}",0.00,3.01
+Specifies the number of milliseconds delay after the pointer enters the panel area before the panel is automatically re-shown. This key is only relevant if the auto_hide key is true.,Ń sọ ní pàtó oye ìdádúró ọ̀kẹ́-ìṣísẹ̀ lẹ́yìn tí atọ́ka náà ti wọ agbègbè náà kí pánẹ́ẹ̀lì tó dá farahàn. Ìgbà tí bọ́tìnì ìpamọ́_aládàáṣe bá jẹ́ òótọ́ nìkan ni bọ́tìnì yìí wúlò.,"1000
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Split the input string into words using `str.split()`.
+\em{You can also use `re.split()` with a regular expression, but it's overkill for this simple task.}
+\strong{Example:}
+
+\begin{pre}
+`print(input_string.split("" "")) # ['specifies', 'the', 'number', 'of', 'milliseconds', 'delay', 'after', 'pointer', '",0.00,8.95
+Click to view your appointments and tasks,Tẹ̀ láti wo àwọn àdéhùn-ìpàdé àti àwọn iṣẹ́ rẹ,"Haga clic para ver sus citas y tareas
+\end{code}",0.00,7.92
+Switch between open windows using buttons,Sún láàrin àwọn fèrèsé ṣíṣí nípa lílo àwọn bọ́tìnì,"Cambiar entre las ventanas abiertas usando botones
+\end{code}",0.00,8.11
+Epiphany Web Browser,Awáròyìn Wẹ́ẹ̀bù Epiphany,"Epifania web browser
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.title()` to get the title of the string, and then use `re.sub()` to replace all occurrences of ""Web"" with ""Epifania"".
+
+\begin{blockquote}
+import re
+
+def translate(s):
+
+    return s.title().replace(""Web"", ""epifania"")
+
+print(translate(""Epiphanny Web Browser""))
+
+>>> epifania
+\",0.00,8.02
+Personal settings,Àwọn ààtò àti àwọn ìkúndùn aládàáni,"Personales Einstellungen
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.translate(None, 'en', 'yo')` to replace all occurrences of `'en'` with `'yo'`.
+\em{Note that this is case-insensitive, so `'En'` will be replaced with `'Yo'`.}
+If you want to make it case-sensitive, you can use [`str.maketrans`](https://docs.python.org/3/library/stdtypes",0.00,5.80
+_Edit,À̀yẹ̀wò,"Editar
+\end{code}",0.00,1.60
+_Copy Address,_Ṣẹ̀dà Àdírẹ̀sì,"_Copiar Dirección
+\end{code}",0.00,5.95
+MENU_FILE,FÁÌLÌ_ÀTÒJỌ-Ẹ̀YÀN,"Menu_file
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.translate(None, 'en', 'yo')` to replace all occurrences of `'en'` with `'yo'` in the string `str`. This will return a copy of `str` with all `'en's` replaced by `'yo's`.
+
+\begin{blockquote}
+https://docs.python.org/3/library/stdtypes.html?highlight=str#str-translation-operations
+
+`str",0.00,0.97
+"If true, the ""Known Applications"" listing in the ""Run Application"" dialog is made available. Whether or not the listing is expanded when the dialog is shown is controlled by the show_program_list key.","Tó bá jẹ́ òótọ́, ""Àwọn Ìṣàmúlò-ètò Mímọ̀"" tía tòjọ nínú onísọ̀rọ̀gbèsì ""Rọ́ọ̀nù Ìsàmúlò-ètò""wà nílẹ̀. Bóyá a fẹ ìṣàtòjọ náà tàbí a kò fẹ̀ẹ́, nígbà tí onísọ̀rọ̀gbèsì náà bá ti farahàn bọ́tìnì àtòjọ_àtòjọ-ètò_ìfihàn ló ń darí rẹ̀.","Si es cierto, la lista de aplicaciones conocidas que se muestra en el diálogo de ejecución se hace disponible. La expansión de la lista depende del valor de la clave show_application_list.
+\end{code}",0.00,7.54
+_Pause per frame:,_Ìdẹsẹ̀dúró fún férémù kọ̀ọ̀kan:,"Pausa por cada frame.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use [`str.translate()`](https://docs.python.org/3/library/stdtypes.html#str.maketrans) to translate from `en` to `yo`:
+
+\begin{blockquote}
+Return a copy of the string with all occurrences of each character in `from_unicode` replaced by the corresponding value in `to_ascii`, and vice-versa. The translation is case-pres",0.00,4.08
+Show _only the current workspace,Fi ààyè-iṣẹ́ lọ́wọ́lọ́wọ́ nìkan hàn,"Mostrar sólo el espacio de trabajo actual
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+open my $fh, '<', 'en.txt' or die $!;
+while (<$fh>) {
+    chomp;
+    print ""$_\n"" if /^Show _only_the_current_workspace$/;
+}
+\end{pre}",0.00,4.62
+Go to most visited,Lọ sí ojú-ìwé tókàn tí a óò bẹ̀ wò,"Vaya al sitio más visitado
+\end{code}",0.00,7.13
+_Detach Tab,_Yọ Táàbù,"Desconectar Tábua
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.translate(None, 'yo')` to remove all occurrences of `yo` from the string.
+\strong{Note:} This will also remove any other characters that happen to be in the same position as `yo`. For example, if there is a `y` at the end of the string, it will also be removed. If this is not what you want, you can use `re.sub` instead.",0.00,1.26
+Use Internet time,Lo àkókò Ítánẹ́ẹ̀tì,"Usar el tiempo de Internet
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item First of all, you need to know how to use `str.translate()` method.
+https://www.w3schools.com/python/ref_string_translate.asp
+
+\begin{blockquote}
+The str.translate() method returns a copy of the string in which all occurrences of one or more specified characters have been replaced by another character or characters. The translation is case-sensitive. If no characters are specified,",0.00,2.11
+_Tabs,_À̀wọn táàbù,"Tabs
+\end{code}",0.00,3.38
+Web pages,Àwọn ojú-ìwé wẹ́ẹ̀bù,"Translated web pages
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `requests` to get the HTML content of the page. This will return a string, which you can then pass to `BeautifulSoup` to parse it and extract the text you want. See [this question](https://stackoverflow.com/questions/2437193/how-do-i-get-the-html-source-code-of-a-web-page-using-python) for more information",0.00,2.59
+%l:%M %p,Dí,"12:00 PM
+\end{code}",0.00,0.00
+Custom Application Launcher,Aṣàfilọ́lẹ̀ Ìṣàmúlò-ètò Àkànṣe,"Aplicación de lanzamiento personalizado
+\end{code}
+
+Answer: \begin{itemize}
+\item I'm not sure if this is what you want, but it works for me:
+
+\begin{pre}
+`echo ""Custom Application Launcer"" | sed 's/\([A-Za-z0-9_]*\)/Aplicación/g'`
+# => Aplicacion de lanzamientos personalizados
+
+echo ""custom application launcher"" | awk '{gsub(""[[:alpha:]]"",""Aplicacion"")}1'",0.00,3.98
+Temporary Files,Àwọn Fáìlì Ìgbà Díẹ̀,"Los archivos temporales
+\end{code}",0.00,3.28
+could not get information about output %d,"position"", ""size"", and ""maximum","no se pudo obtener información sobre el saldo %s
+\end{code}",0.00,9.82
+Cut the selection,Gé ẹ̀yàn náà,"Eliminar la selección
+\end{code}",0.00,5.94
+Personal settings,Àwọn ààtò àti àwọn ìkúndùn aládàáni,"Personales Einstellungen
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.translate(None, 'en', 'yo')` to replace all occurrences of `'en'` with `'yo'`.
+\em{Note that this is case-insensitive, so `'En'` will be replaced with `'Yo'`.}
+If you want to make it case-sensitive, you can use [`str.maketrans`](https://docs.python.org/3/library/stdtypes",0.00,5.80
+Clear Recent Documents,Pa Àwọn Àkọsílẹ̀ Àìpẹ̀ Rẹ́,"Deshacer los archivos recientes
+\end{code}",0.00,3.42
+Cut the selection,Gé ẹ̀yàn náà,"Eliminar la selección
+\end{code}",0.00,5.94
+Move windows to current workspace when unminimized,Gbé àwọn fèrèsé lọ sí ààyè-iṣẹ́ lọ́wọ́lọ́wọ́ tí a kò bá fẹ̀ẹ́lójú mọ́,"Mover las ventanas a la pantalla actual cuando no estén minimizadas
+\end{code}",1.84,6.17
+System configuration and monitoring,Ìṣàmójútó àti àtòpọ̀ ètò kọ̀ǹpútà,"Sistema de configuración y monitoreo
+\end{code}",0.00,5.97
+XX Large,Ńlá Púpọ̀,"XX Grande
+\end{code}
+
+Comment: What have you tried so far? Where did you get stuck?
+
+Answer: \begin{itemize}
+\item Use `str.lower()` to convert the string to lowercase.
+`""XX Large"".lower() == ""xx large""` will return `True`.
+
+\begin{blockquote}
+The .lower() method returns a copy of the string in which all the
+characters are converted to lower case.
+https://www.w3schools.com/python/ref_string_lower.asp#:%7E:",0.00,1.06
+_Never accept,_Kò gbà rárá,"Nunca acepta
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $sentence = ""never accept"";
+$sentence =~ s/\b(en|yo)\b/$1/g;
+print ""$sentence\n"";
+\end{pre}",0.00,3.63
+Window List Content,Àkóónú Àtòjọ Fèrèsé,"Windows List Contenido
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.translate(None, 'a-z')` to replace all lowercase letters with their uppercase equivalents.
+`str.upper()` will do the same, but only for the first letter of each word.
+You can also use `re.sub(r'[A-Z]', lambda m: m.group(0).upper(), str)` if you don't want to import the `string` module.
+\",0.00,3.01
+Choose an application...,Rọ́ọ̀nù Ìṣàmúlò-ètò...,"Escolha uma aplicação...
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+open my $fh, '<', 'input.txt' or die ""Can't open input.txt: $!"";
+while (my $line = <$fh>) {
+    chomp $line;
+    print ""$line\n"";
+    if ($line =~ /Escolha/) {
+        $line =~ s/\bChoose\s+an\b/$_[0]/g;
+        print ""$",0.00,4.04
+Profile directory to use in the private instance,Atọ́nà àkójọpọ̀-ìròyìn tí a óó lò nínú àpẹẹrẹ aládàáni,"/var/www/vhosts/example.com/httpdocs/profile
+\end{code}",0.00,5.25
+_Next Tab,_Táàbù Tókàn,"Próxima Página
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.translate(None, 'en', 'yo')` to translate the string from English to Spanish. This will replace all occurrences of `'en'` with `'yo'`. Note that this is case-insensitive. If you want it to be case-sensitive, you can use [`str.maketrans`](https://docs.python.org/3/library/stdtypes.html?highlight=str#str.",0.00,1.78
+Appointments,Àwọn Àdéhùn-ìpàdé,"Asignaciones
+
+Answer: \begin{code}
+$text = ""Appointments"";
+$translated = str_replace(""Appointment"", ""Asignación"", $text);
+echo $translatted;
+\end{code};
+
+Comment: Please add some explanation to your answer such that others can learn from it",0.00,4.42
+Mozilla (HTML),Mozilla (HTML),"Móvil (HTML).
+
+\begin{code}
+<!DOCTYPE html PUBLIC ""-//W3C//DTD HTML 4.01 Transitional//EN"" ""http://www.w3.org/TR/html4/loose.dtd"">
+<html>
+    <head>
+        <meta http-equiv=""Content-Type"" content=""text/html; charset=ISO-8859-1"">
+        <!--[if lte IE 6]>
+            <script src=""http://html5shiv.googlecode.com",0.00,7.71
+Test applet utility,Yẹ ohun-èlò ápúlẹ́ẹ̀tì wò,"Teste aplicación utilidad
+\end{code}
+
+Answer: \begin{itemize}
+\item I'm not sure if this is what you want, but it works for me:
+
+`System.out.println(String.format(""%s %s"", ""Test"", ""applet"").toUpperCase().replaceAll(""[^A-Za-z0-9_]"", """"));`
+
+output: `TEST APPLET UTILIDAD`
+<a href=""https://i.stack.imgur.com/143Xt.png""",0.00,4.03
+The GNOME Panel,Pánẹ́ẹ̀lì GNOME,"La pantalla de Gnome
+
+Answer: \begin{code}
+#include <stdio.h>
+
+int main(void)
+{
+    printf(""%s\n"", ""The %s Panel"", ""GNOME"");
+    return 0;
+}
+$ ./a.out
+La pantlla de GNOme
+\end{pre}",0.00,8.60
+System configuration and monitoring,Ìṣàmójútó àti àtòpọ̀ ètò kọ̀ǹpútà,"Sistema de configuración y monitoreo
+\end{code}",0.00,5.97
+Languages,Àwọn èdè,"Translations
+\end{code}",0.00,6.84
+Korean (_EUC-KR),Korean (_EUC-KR),"English (_ISO-8859-1)
+\end{code}",0.00,8.39
+frames,àwọn férémù,"frases
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.translate(to_unicode=True, from_codec='utf-8')` to convert your input string to unicode.
+This will replace all non-ascii characters with their unicode equivalents.
+You can then use `re.findall` to find all occurrences of `frames` and replace them with `frases`.
+\strong{Note:} If you don't want to change the case of the words, you can use",0.00,1.95
+List of locations,Àtòjọ àwọn ìṣàmúlò-ètò àìmọ̀,"list of locations in yo language
+
+\begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my @locations = (
+    'London',
+);
+
+foreach my $location (@locations) {
+    print ""$location\n"";
+    my $translation = translate($location);
+    if ($translation ne '') {
+        print ""$translation\n""
+    }
+}
+
+sub translate {
+  my ($input) = @_;
+  return $input unless defined $input;
+  $input =~ s",0.00,3.77
+Personal settings,Àwọn ààtò àti àwọn ìkúndùn aládàáni,"Personales Einstellungen
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.translate(None, 'en', 'yo')` to replace all occurrences of `'en'` with `'yo'`.
+\em{Note that this is case-insensitive, so `'En'` will be replaced with `'Yo'`.}
+If you want to make it case-sensitive, you can use [`str.maketrans`](https://docs.python.org/3/library/stdtypes",0.00,5.80
+Go to the address entered in the address entry,Lọ sí àdírẹ̀sì tí a tẹ̀ wọlé nínú àmúwọlé àdírẹ̀sì,"Vaya a la dirección introducida en la entrada de direcciones
+
+Comment: What have you tried so far?
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $sentence = ""Go to"";
+my @words = split(/\s+/,$sentence);
+foreach my $word (@words) {
+    if ($word eq 'the') {
+        $word = 'a';
+    }
+    print ""$word "";
+}
+print ""\n"";
+
+exit 0;
+\",0.55,5.96
+_Export Bookmarks…,Gbé Àwọn Àmì-ìwé Jáde,"Exportar los marcadores…
+\end{code}
+
+Answer: \begin{itemize}
+\item I'm not sure what you mean by ""\em{I don't know how to do it}"", but if you want to translate from English to Spanish, you can use [Google Translate](https://www.google.com/translate?sl=auto&tl=en&js=y&prev=_t&hl=es&ie=UTF-8&eotf=1&u=http%3A%2F%2Fin.wikipedia.org).
+\",0.00,4.22
+User Password,Á̀mì-àṣírí Òǹlò,"123456
+\end{code}",0.00,1.60
+Show the title column,Kọ́lọ̀mù àkọ́lé nìkan ni kí o fihàn,"Mostrar la columna titulo
+
+Comment: What have you tried so far?
+
+Answer: \begin{code}
+public static void main(String[] args) {
+    Scanner sc = new Scanner(System.in);
+    String input = sc.nextLine();
+    System.out.println(input + "" -> "" + translate(input, ""yo""));
+}
+
+private static String translate(String input, String language) { // Translates from English to Spanish
+    if (language.equals(""en"")) {
+        return input;
+    } else {",0.00,4.43
+_Work Offline,_Ṣiṣẹ́ Láìsí Lórí Wáyà,"Trabajar sin conexión
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.translate(None, 'en', 'yo')` to translate the string from English to Spanish. This will replace all occurrences of `'en'` with `'yo'`. Note that this is case-insensitive. If you want to make it case-sensitive, you can use [`str.maketrans`](https://docs.python.org/3/library/stdtypes.html?highlight=str.",0.00,2.51
+Loc_k To Panel,_Lọ́ọ̀kì Sí Pánẹ́ẹ̀lì,"토너로 패널
+\end{code}",0.00,0.78
+Abort pending downloads?,Dènà àwọn àgbéwọlé tó kù díẹ̀?,"¿Abortar las descargas pendientes?
+\end{code}",0.00,8.02
+"If true, the workspaces in the workspace switcher will display the names of the workspaces. Otherwise they will display the windows on the workspace. This setting only works when the window manager is Metacity.","Tó bá jẹ́ òótọ́, àwọn ààyè-iṣẹ́ nínú ì̀jánu-ìsún ààyè-iṣẹ́ yóò ṣàfihàn àwọn orúkọ àwọnààyè-iṣẹ́. Láì jẹ́ bẹ́ẹ̀ wọn yóò ṣàfihàn àwọn fèrèsé lórí ààyè-iṣẹ́ náà.","Si la verdad, los espacios de trabajo en el selector de espacios mostrarán los nombres de los trabajos. De lo contrario, mostrará las ventanas en el espacio de trabajo. Esta configuración solo funciona cuando el gestor de ventanas es Metacity .
+\end{code}",0.00,8.20
+Directory not Writable,Atọ́nà Tí kò Ṣeé Kọ,"El directorio no es escritable
+\end{code}",0.00,5.21
+_Tabs,_À̀wọn táàbù,"Tabs
+\end{code}",0.00,3.38
+Create new file in the given directory,Ṣẹ̀dá fáìlì tuntun nínú atọ́nà náà,"Crea un nuevo archivo en la carpeta dada
+\end{code}",0.00,9.04
+%l:%M:%S %p,%l:%M:%S %p,"%h:%i:%s %P
+\end{code}
+
+Answer: \begin{itemize}
+\item Use `strftime` to get the time in the format you want, and then use `sprintf` to convert it to the desired format.
+\strong{Example:}
+
+\begin{pre}
+#include <stdio.h>
+int main(void)
+{
+    char buf[128];
+    strftime(buf, sizeof(buf), ""%H:%I:%S"", localtime(&(time(NULL))));
+    sprintf(",0.00,3.39
+Log out,_Parí iṣẹ́,"Salir
+\end{code}",0.00,4.55
+Show date in clock,Fi déètì hàn nínú aago,"Mostrar fecha en reloj
+\end{code}",0.00,8.06
+Chinese Traditional (_EUC-TW),Chinese Traditional (_EUC-TW),"Chinese Simplified (_GB2312-80)
+\end{code}",6.10,22.65
+Window Grouping,Ìpín Fèrèsé,"Grupo de ventanas
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $input = ""Window Grouping"";
+my @words = split(/\s+/,$input);
+foreach my $word (@words) {
+    if ($word =~ /^[A-Z][a-z]+$/) {
+        print ""$word\n"";
+    }
+}
+\end{code}.",0.00,3.49
+_Edit,À̀yẹ̀wò,"Editar
+\end{code}",0.00,1.60
+_Applet:,_Ápúlẹ́ẹ̀tì,"Applet
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.replace()` to replace `_Applet:` with `Applet`.
+\strong{Note:} This will not work if there are more than one `_` in the string. In that case, you can use `re.sub()` or `regex` to find and replace all occurrences of `_` with `o`.
+
+\begin{pre}
+`str = str.replace(""_Applet"", ""Applet"") #or re.sub",0.00,1.75
+%s Files,Àwọn fáìlì,"%d Files
+\end{code}",0.00,3.62
+http://www.google.com/search?q=%samp;ie=UTF-8amp;oe=UTF-8,http://www.google.com/search?q=%sie=UTF-8oe=UTF-8,"http%3A%2F%2Fi.europa.eu%2Feuropean_commission%2Faudiovisual_and_media_services_directive_2010_136_en
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use [`urlparse`](http://docs.python.org/2/library/urlparse.html) to parse the URL and get the `scheme`, `netloc`, `path` and `query` parts of it.
+\",0.00,11.58
+(with minor help from George),(pẹ̀lú ìrànwọ́ kékeré láti ọ̀dọ́ George),"\begin{blockquote}
+
+¿Cuál es la diferencia entre un traductor profesional y uno no profesional?
+\end{itemize}
+  ¿Cuáles son los requisitos que debe cumplir un buen traductor?
+  Cuales son las dificultades que se pueden encontrar en el proceso de traducción, y cómo puedes superarlas?
+
+Comment: I'm voting to close this question as off-topic because it belongs on [ell.se].
+
+Answer: \strong{¿Qué es lo",0.00,5.02
+Launcher location,Ààyè Aṣàfilọ́lẹ̀,"Locación del lanzador
+
+Answer: \begin{code}
+#include <stdio.h>
+
+int main(void)
+{
+    printf(""%s\n"", ""Locación del lançador"");
+    return 0;
+}
+\end{pre}
+
+Comment: Please add some explanation to your answer such that others can learn from it",0.00,2.76
+"In a Xinerama setup, you may have panels on each individual monitor. This key identifies the current monitor the panel is displayed on.","Nínú àgbékalẹ̀-ètò Xinerama, o lè ní àwọn pánẹ́ẹ̀lì lórí àpótí ìṣàfihàn kọ̀ọ̀kan. Bọ́tìnì yìí ń tọ́ka sí àpótí ìṣàfihàn lọ́wọ́lọ́wọ́ tí a ti ṣàfihàn pánẹ́ẹ̀lì náà lé lórí.","En una configuración de Xinera, puedes tener pantallas en cada monitor individual. Esta tecla identifica el monitor en el que se muestra la pantalla actual.
+\end{code}
+
+Answer: \begin{itemize}
+\item `en` and `yo` are not languages, they're codes for English and Spanish respectively. The code for English is `en`, and the code for Spanish is `es`. So your first line should be:
+
+\begin{blockquote}
+In a XINERAMA setup, YOU MAY HAVE P",0.46,11.06
+The water needs changing,A ní láti pààrọ̀ omi náà! (Wo déètì òní),"El agua necesita cambiar
+
+Answer: \begin{code}
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.println(""The water needs to be changed"");
+        String input = sc.nextLine();
+        if (input.equalsIgnoreCase(""El agua"")) {
+            input = ""The water"";
+        }
+        else if (!input.toLowerCase().startsWith(""el"") || !input.endsWith(""a",0.00,6.21
+Specifies the number of milliseconds delay after the pointer enters the panel area before the panel is automatically re-shown. This key is only relevant if the auto_hide key is true.,Ń sọ ní pàtó oye ìdádúró ọ̀kẹ́-ìṣísẹ̀ lẹ́yìn tí atọ́ka náà ti wọ agbègbè náà kí pánẹ́ẹ̀lì tó dá farahàn. Ìgbà tí bọ́tìnì ìpamọ́_aládàáṣe bá jẹ́ òótọ́ nìkan ni bọ́tìnì yìí wúlò.,"1000
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Split the input string into words using `str.split()`.
+\em{You can also use `re.split()` with a regular expression, but it's overkill for this simple task.}
+\strong{Example:}
+
+\begin{pre}
+`print(input_string.split("" "")) # ['specifies', 'the', 'number', 'of', 'milliseconds', 'delay', 'after', 'pointer', '",0.00,8.95
+Rotate image on vertical panels,Yí àwòrán po lórí àwọn pánẹ́ẹ̀lì òòró,"Rotar la imagen en los paneles verticales
+\end{code}",0.00,7.31
+_Add to Drawer...,_Fikún Dúrọ́wà...,"Añadir a la carpeta...
+\end{code}",0.00,8.10
+Shopping,Ìnọ́jà,"Comprar
+\end{code}",0.00,3.40
+(empty),(òfìfo),"""You are a profesional translator.""
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.translate(None, 'en', 'yo')` to replace all occurrences of `'en'` with `'yo'` in the string `str`. This will return a copy of `str` with all `'en's` replaced by `'yo's`.
+
+\begin{blockquote}
+https://docs.python.org/3/library/stdtypes.html#str.transliterate
+
+Return a",0.00,1.56
+_Type:,S_ítà̀ì:,"_Text:
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `input()` to get the user's input. This will return a string, which you can then convert to an integer using `int(input())`.
+\strong{Note:} If the user enters something that is not a number, it will throw an error.
+You can catch this error using `try` and `except` statements. See [here](https://www.w3schools.com/python/python_try_except.asp",0.00,1.61
+Delete the selected bookmark or topic,Pa àmì-ìwé tàbí àkọlé tí a yàn jẹ,"Eliminar el marcador o tema seleccionado
+\end{code}",0.00,7.08
+Icon used for button,Áíkànnù tí a lò fún bọ́tìnì nǹkan,"Icono usado para botón
+\end{code}",0.00,4.71
+Appointments,Àwọn Àdéhùn-ìpàdé,"Asignaciones
+
+Answer: \begin{code}
+$text = ""Appointments"";
+$translated = str_replace(""Appointment"", ""Asignación"", $text);
+echo $translatted;
+\end{code};
+
+Comment: Please add some explanation to your answer such that others can learn from it",0.00,4.42
+http://www.google.com,"http://www.google.com/search?ie=UTF-8oe=UTF-8q=http://www.google.nl"" and ""http://www.google.nl/search?q=%s","https://translate.yandex.com/
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `re.sub` to replace all occurrences of `http://` with `https://`.
+
+\begin{pre}
+>>> re.sub(r'http://', r'https://', 'http://example.com').encode('utf-8')
+b'\xef\xbb\xbf\xe2\x80\x9chttps://examp\xc3\xa9",0.00,20.06
+Personal preferences and administration settings,Àwọn ààtò ìṣàkóso àti àwọn ìkúndùn aládàáni,"Preferencias personales y opciones de administración
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.title()` to get the title case of the string. This will give you ""Preferencias Personales Y Opciones De Administración"".
+\strong{Note:} If you don't want to capitalize the first letter of each word, then use `str[0].upper() + str[1:].lower()`.
+
+\begin{blockquote}
+`str.capitalize()`",0.00,6.41
+(empty),(òfìfo),"""You are a profesional translator.""
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.translate(None, 'en', 'yo')` to replace all occurrences of `'en'` with `'yo'` in the string `str`. This will return a copy of `str` with all `'en's` replaced by `'yo's`.
+
+\begin{blockquote}
+https://docs.python.org/3/library/stdtypes.html#str.transliterate
+
+Return a",0.00,1.56
+"Enable program list in ""Run Application"" dialog","Mú àtòjọ àtòjọ-ètò inú onísọ̀rọ̀gbèsì ""Rọ́ọ̀nù Ìsàmúlò-ètò"" ṣíṣẹ","Habilitar la lista de programas en el ""Dialogo de aplicación ejecutar""
+\end{code}",0.00,7.13
+Saved _passwords,Yan àmì-àṣírí.,"Guardar las contraseñas
+\end{code}
+
+Answer: \begin{itemize}
+\item Use `str.translate(None, '_')` to replace all `_` with empty string.
+Then you can use `re.sub(r'_([a-zA-Z0-9]+)', r'\g<1>', str)` to replace `_passwords` with `guardar_las_contraseñas`. Note that `\g` is used to refer to the matched group in the replacement pattern. See [here](https://docs.python.org/3/library/re",0.00,2.88
+_Automatic,_Aládàáṣe,"Automatico
+\end{code}",0.00,4.90
+_Minimum size:,_Ìwọ̀n tó kéré jù:,"Minimo tamaño:
+\end{code}",0.00,4.85
+Send an email message to “%s”,Fi lẹ́tà kọ̀ǹpútà ránṣẹ́ sí àdírẹ̀sì “%s”,"Enviar un correo electrónico a ""%s""
+\end{code}",0.00,5.80
+%a %I:%M %p,%a %d %b %Yfriendly timeFeb 12 12:34 am,"%d/%m/%y
+
+\begin{code}
+#include <stdio.h>
+int main(int argc, char **argv)
+{
+    char *date = argv[1];
+    time_t t = strtotime(date);
+    printf(""%02d/%02m/%04y\n"", t / 86400, (t / 3600) % 24 + 1, t & 31536e6);
+}
+$ ./a.out ""2017/",0.00,9.76
+Save _As…,Fi pamọ́ Lórúkọ,"Salvar como…
+\end{code}",0.00,4.12
+_Personal Data,Àkójọpọ̀-ẹ̀rì Ara-ẹni,"Personal data
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $sentence = ""Personal data"";
+$sentence =~ s/\b(en|yo)\b/$1/g;
+print ""$sentence\n"";
+\end{pre}",0.00,3.76
+Turkish (I_SO-8859-9),Turkish (I_SO-8859-9),"English (UTF-8)
+\end{code}",0.00,12.49
+Background _image:,Àwòrán_ẹ̀yìn:,"Background image:
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.replace()` to replace `_image:` with `image:` and then use `re.sub()` to remove the extra space at the end of the string. This will give you `Background image:`.
+
+`output = str.replace('_image:', 'image:') + re.sub(r'\s+$', '', output)`
+
+[Demo](https://tio.run/##K6gsycjPM/r/",0.00,2.52
+Selection Caret,Caret Ẹ̀yàn,"Translated text
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Split the input string on spaces, and then split each of those strings on `yo` and `en`.  Then loop over the resulting list of lists, and join them back together with `yo`:
+
+\begin{pre}
+import re
+
+def translate(s):
+    words = re.split(r""\s+"", s)
+    for w in words:
+        if w.startswith(""yo""):
+            w =",0.00,2.56
+Cu_t,G_é,"Cut
+\end{code}",0.00,4.31
+Arabic (ISO-_8859-6),Arabic (ISO-_8859-6),"Yoruba (UTF-8)
+\end{code}",0.00,6.73

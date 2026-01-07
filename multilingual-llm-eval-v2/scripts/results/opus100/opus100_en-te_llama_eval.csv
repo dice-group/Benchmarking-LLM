@@ -1,0 +1,833 @@
+Source,Reference,Prediction,BLEU,chrF++
+We've been stuck here.,మేముఇక్కడకష్టంచేసిన,"Wij hebben hier gebleven.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Create a dictionary with all the words you want to translate and their translations. For example:
+
+\begin{pre}
+`{""We've"": ""Wij hebben"", ""been"": ""ben"", ""stuck"": ""gebleven"", ""here"": ""hier"", ""have"": ""hebben"", ""we"": ""wij"", ""you"": ""jij"", ""there"": ""daar""}`
+\",0.00,0.00
+I'm having so much fun here.,నేనుఇక్కడచాలాసంతోషాన్నిచేస్తున్నాను,"Ik heb zo veel plezier hier.
+\end{code}
+
+Comment: Welcome to Stack Overflow! Please take the [tour], read [what's on-topic here](/help/on-topic), [ask], and the [question checklist](//meta.stackoverflow.com/q/260648/843953), and provide a [mre].
+""Implement this feature"" is off-topic for Stack Overflow unless you have a very specific, answerable question about an implementation issue; we expect you to make an honest attempt at writing",0.00,0.00
+Yeah.,అవును.,"Yea.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Split the input string on spaces, and split the output string on space characters. This will give you an array of words for both inputs and outputs. For example, if the input is ""Yeah"", then the array would look like this:
+
+\begin{blockquote}
+[""Ye"",""ah""]
+\strong{Note:} I'm using `String.split("" "")` instead of `StringTokenizer` because it's easier to work with",0.00,0.21
+Is used to notify that the table row header has changed,పట్టిక కాలమ్ రో శీర్షిక మార్చబడిందని సూచించబడింది,"is gebruikt om aan te geven dat de tabelrijhoofd heeft veranderd
+
+Answer: \begin{itemize}
+\item ""Is used to"" -> ""is gebruikt voor"" (literally, ""is used for"")
+\end{itemize}.
+
+Comment: Thank you very much!",0.00,0.00
+But what do you care for? Not music.,కానీ మీరు కోసం ఏమి పట్టించుకోనట్లు లేదు?,"Waar heb jij dan toch belang aan? Niet muziek.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `nlp` module from `nltk` library. It has a function called `sent_tokenize` which splits a sentence into tokens and returns a list of tokens.
+https://www.tutorialspoint.com/python/python_natural_language_processing.htm#:%7E:text=Natural%20Language%2DProcessing%2C",0.00,0.17
+"At the end of a long Friday after 4 PM, if I remember correctly.","సుదీర్ఘ శుక్రవారం ముగింపులో 4 PM తరువాత, నేనుసరిగ్గాగుర్తుఉంటే","Aan het einde van een lange Vrijdag na 16.00 uur, als ik mij goed herinner.
+\end{code}",0.00,0.28
+I told him how we used to roll with the ladies in high school.,నేను మేము అధిక పాఠశాల లో మహిళలు తో వెళ్లండి ఉపయోగించారు ఎలా చెప్పాడు.,"Hän sanoi, että meidän yliopiston koulussa olivat ollut tyttöjä.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item First of all, you need to split the input sentence into words. This can be done using `str.split()` function. For example:
+
+\begin{blockquote}
+`input_sentence = ""I told him ...""`
+
+`word_list = input_sentance.split("" "")`
+\",0.00,0.15
+Maithili,గుజరాతిName,"मैथिली
+\end{code}",0.00,1.39
+"♪ BABY, LIFE'S TOO SHORT","♪బేబీ,లైఫ్ఈస్ టూషార్ట్","Baby, life's too short
+\end{code}",0.00,0.71
+[ FOOTSTEPS ],[అడుగుజాడల్లో],"[ STEPES ]
+\end{code}",0.00,2.25
+Size,పరిమాణం,"Sise
+
+Answer: \begin{code}
+#include <stdio.h>
+
+int main(void)
+{
+    printf(""%s\n"", ""Size"");
+    return 0;
+}
+\end{pre}",0.00,0.00
+Did you?,మీకు నచ్చిందా?,"Hastu?
+
+Answer: \begin{code}
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    string s = ""Did you?"";
+    cout << ""Input: "" << s << endl;
+    char c = s[0];
+    if (c == 'D')
+    {
+        switch (s[1])
+        {
+            case 'i':
+                cout <<""Hastu?""<<endl;
+                break;
+            default:
+                return 0;
+        }
+    }
+}
+\",0.00,0.33
+Your names,కృష్ణబాబు కె విజయ్ కిరణ్ కముజుEMAIL OF TRANSLATORS,"Your name
+\end{code}",0.00,0.00
+Your names,కృష్ణబాబు కె విజయ్ కిరణ్ కముజుEMAIL OF TRANSLATORS,"Your name
+\end{code}",0.00,0.00
+Yes.,అవును.,"Já.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.lower()` to convert the string to lowercase.
+`""Yes"".lower()` returns `""yes""`.
+
+\begin{blockquote}
+The str.lower() method returns a copy of the string in which all
+uppercase letters are replaced by their lowercase equivalents.
+https://docs.python.org/3/library/stdtypes.html?highlight=str%E2%80%93lower#str.",0.00,0.22
+She doesn't need your help!,నాకు స్వభావం గురించి మాట్లాడటానికి లేదు.,"Ella no necesita tu ayuda!
+\end{code}",0.00,0.00
+August,ఆగస్టు,"Août
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Create a list of all the months in English and French. For example, `['January','February','March','April','May','June','July','August','September','October','November','December']` for English and `['janvier','février','mars','avril','mai','juin','juillet','août','septembre','octobre','novembre','décembre']",0.00,0.00
+"- Huh! - Different, entirely.","వివిధ, పూర్తిగా.","- Hé! - Anders, helemaal.
+\end{code}",0.00,1.83
+I'm the motherfuckin' Death Star up in this shit... droppin' fuckin' planets.,నేను ఈ పాట లో 'motherfuckin డెత్ స్టార్ అప్ am... Droppin 'నువ్వు నీ అమూల్యమైన' గ్రహాలు.,"Ær móðurfræðið stjórnstöðin upp í þessu skíðum... dreggandi fræðingar.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.translate` to replace all non-ASCII characters with their UTF-8 equivalents, and then use `re.sub` to remove any remaining punctuation (e.g. `.replace(u'\u2019', '')`).
+\",0.00,5.97
+- Yeah.,- అవును.,"- Já.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Create a list of all possible words that can be used to translate ""Yeah"" into Portuguese. For example, `['Sim', 'Já', 'Não']`
+\strong{Note:} I'm not sure if this is the best way to do it, but it's what I came up with. If you know a better way, please let me know in the comments and I'll update my answer.
+2.Create a",0.44,0.47
+"Well, you don't look exactly like a basket of fruit yourself.","బాగా, మీరు మీ పండు ఒక బుట్ట వంటి సరిగ్గా చూడండి లేదు.","Wel, jij ziet er niet helemaal uit als een bak van fruit.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `nl_langinfo(CODESET)` to get the code set for the current locale. In this case it is `te_CH` (Dutch in Switzerland) and not `te`, which is Dutch in the Netherlands. This means that you need to use the [transliteration table](https://en.wikipedia.org/wiki/ISO_8859-",0.00,0.32
+I'd been in the army less than a year when that unholy Tet arrived.,. ఆ పవిత్రం Tet వచ్చే నేను సైన్యం కన్నా తక్కువ ఒక సంవత్సరం ఉంటుంది.,"1968 was my first year in the Army, and it was also the year of the Tet Offensive.
+\end{code}
+
+Answer: \begin{itemize}
+\item `I'd` is an adverbial phrase modifying the verb `been`. It should be followed by the past participle form of the main verb (i.e. \em{been}), not the infinitive form (\em{to be}).
+
+\begin{blockquote}
+I’d been [in the army](https://www.merriam-webster.com",0.54,1.22
+Is used to notify that the table summary has changed,పట్టిక సంక్షిప్తత మార్చబడిందని సూచించబడింది,"Ik is gebruikt om te melden dat de tabel samenvatting veranderd is
+
+Comment: Welcome to Stack Overflow! Please take the [tour] to learn how Stack Overflow works and read [ask] on how to improve the quality of your question. Then check the [help/on-topic] to see what questions you can ask. If you post code, XML or data samples, **please** highlight those lines in the text editor and click on the ""code samples"" button ( `{  }` ) on the editor toolbar to nicely format and syntax highlight it!
+
+Answer: \begin",0.00,0.00
+- No.,- నం,"- Nee.
+\end{code}
+
+Comment: I'm voting to close this question as off-topic because it belongs on [Code Review](http://codereview.stackexchange.com/).
+
+Answer: \begin{code»
+#include <stdio.h>
+
+int main(void)
+{
+    int i = 0;
+    while (scanf(""%d"", &i) != EOF)
+    {
+        if (i == 0)
+        {
+            printf(""No.\n"");
+        }
+        else
+        switch (i",0.66,0.63
+To scare us.,మాకు బెదరింపు.,"Tó scároimid.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.split()` to split the string on spaces and then use `str[0]` to get the first part of the string.
+`str[1]` will give you the second part.
+You can use `if` statement to check if the first word is ""to"" or not.
+If it's not ""to"", then you can replace it with ""t"" using `str = str.replace(""to"",",0.00,0.22
+I believe in love and marriage and I really hope you find a nice guy.,నేను ప్రేమ మరియు పెళ్లి నమ్మకం మరియు నేను నిజంగా మీరు ఒక nice guy కనుగొనేందుకు ఆశిస్తున్నాము.,"Ik geloof in liefde en huwelijk en ik hoop dat je een leuke jongen vindt.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `nlp` module to split the sentence into tokens. This will give you a list of tokens, each token being a word or a punctuation mark. For example:
+
+\begin{blockquote}
+['I', 'believe', 'in', 'love', 'and', 'marriage', ',', '",0.00,1.45
+I don't know.,నాకు తెలీదు.,"Ik weet niet.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Create a dictionary with all the words that you want to translate from en to te and vice-versa. In your case, it would be something like this:
+
+`en_dict = {'I': 'Ik', 'know': 'Weet', 'not': 'Niet', 'do': 'Doe', 'you': 'Jij', 'are': 'Zijn', 'a': 'Een', 'professional':",0.00,0.24
+AntiqueWhite,పురాతన తెలుపుcolor,"AantiekWit
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.lower()` to convert the string to lowercase.
+`""AntiqueWhite"".lower()` will return `""aantiekwit""`, which is what you need.
+\strong{Note:} If you don't want to change the case of the input string, use `re.sub(r""[A-Z]"", r""_\1"", ""Antique White"").lower()` instead. This will replace all uppercase",0.00,1.87
+Let's make them suspicious.,యొక్క వాటిని అనుమానాస్పద తయారు చేద్దాము,"Lets maak hen suspicieus.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item First of all, you need to split the input string into words. This can be done using `str.split()` method. For example, if your input string is `Let's Make Them Suspicious`, then the output will be `['Let', 's', 'Make', 'Them', 'Suspicious']`.
+Now, for each word in the list, we need to check whether it starts with",0.00,0.00
+"Girl, we know you from Georgia.","గర్ల్, మేము జార్జియా నుండి మీకు తెలిసిన.","Mädchen, wir kennen Dich von Georgien.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.split()` to split the sentence into words.
+`word = str.split(' ')[0]` will give you the first word of the sentence.
+Use `word.capitalize()` to capitalize the first letter of the word.
+Then use `word + 's'` to get the plural form of the noun.
+Finally, join all the words together using `' '.",0.00,0.34
+Description,@ label title of a listbox where the possible duplicate bug numbers are put in,"Translated description
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Create a dictionary with all the words in English and their translation in Te Reo Māori. This can be done manually or using an online tool such as [this one](https://www.teara.govt.nz/en/tools-and-resources/12/translation-dictionary) (which also has audio pronunciation for each word).
+
+\begin{blockquote}
+<a href=""https://i.stack.",0.75,13.19
+You like a girl?,మీరు ఒక అమ్మాయి ఇష్టం?,"Jij vindt een meisje leuk?
+\end{code}",0.00,0.77
+Format:,ఫార్మేట్:,"\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.split()` to split the string on spaces and then use `str[0]` to get the first element of the list, which is the first word in the sentence. Then use `re.sub()` to replace all occurrences of `en` with `te`. Finally, use `join()` to join the words back together again. This should give you the desired output.
+\strong{Example:}
+
+\begin{blockquote}
+input = ""You are",0.00,0.20
+What's going on with you and my wife?,మీరు మరియు నా భార్య ఏమి జరుగుతుందో?,"Waar gaat het mee met jou en mijn vrouw?
+\end{code}",0.00,0.51
+No. You know what I'm gonna do for you?,నం మీరు నేను మీరు ఏమి గొన్న వద్ద ఏమి?,"No, you know wat ik voor jou ga doen?
+
+Answer: \begin{code}
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+
+my $input = ""No. You Know What I\'m Gonna Do For You?\n"";
+$input =~ s/\s+/ /g;
+my @words = split /\s+/, $input;
+foreach my $word (@words) {
+    if ($word eq 'no') {
+        $word = 'nee';
+    }
+    elsif ($word == 'you')",0.00,0.23
+You help me in the lab.,మీరు ప్రయోగశాలలో సహాయం.,"Du hjälper mig i laboratoriet.
+\end{code}",0.00,0.69
+"That's better than anybody, so far.","ఆ ఇప్పటివరకు ఎవరైనా, కంటే మెరుగైన ఉంది.","Dat is beter dan iedereen, tot nu toe.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Split the sentence into words using `str.split("" "")` or `re.findall(r""[a-zA-Z]+"",sentence)`.
+This will give you a list of words in the sentence.
+You can then iterate over this list and check if the word is a proper noun by checking if it starts with an uppercase letter. If it does, add it to a new list",0.00,0.34
+Contrast,కాంట్రాస్ట్,"Kontrakt
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.lower()` to convert the string to lowercase.
+`""Contrast"".lower() == ""contrast""` is true, but `""Kontrakt"".lower()` is not equal to `""kontrakt""`.
+
+\begin{blockquote}
+The .lower() method returns a copy of the string in which all uppercase letters are converted to their lowercase equivalents.
+https://docs.python.org/3/library",0.00,0.00
+- My base chakra.,- నా బేస్ చక్రం.,"- Mijn basischakra is.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Create a dictionary with all the words that you want to translate. For example:
+
+\begin{pre}
+dict = {'My': 'Mijn', 'base': 'basis', 'chakras': 'krachten', 'is': 'is' }
+
+def translate(sentence):
+    for word in sentence.split():
+        if word in dict:
+            return dict[word] + '",0.56,0.46
+"And this guy that I don't even know checks us out of the jail... and then says all this weird stuff... and brings us here with these people... like, touching us and talking to us... and I don't know them, and I don't feel comfortable.",నేను కూడా తెలియదు ఈ వ్యక్తి జైలు మాకు బయటకు తనిఖీ... ఆపై అన్ని ఈ అదృష్టము stuff చెప్పారు... మరియుఈ వ్యక్తులతోఇక్కడమాకుతెస్తుంది...,"Það hefur það sem þetta góða fólkur hættir úr fengslum... og þeir sagði þá mikilvæglegra stöngu... og brúðar við þessum menn... ef ekki kenna dem, og ekki finna komfyrt.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.translate(None, '",0.00,2.88
+Then what?,అప్పుడు ఏమి?,"Than wat?
+\end{code}",0.00,1.34
+Eject,ఎజెక్ట్Name,"ejecta
+\end{code}
+
+Answer: \begin{itemize}
+\item I'm not sure what you mean by ""en"" and ""te"", but if you mean English and Te Reo Māori, then this is how you would do it:
+
+\begin{pre}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+while (<>) {
+    chomp;
+    my ($word) = split /\s+/; # split on whitespace
+    print ""$word\n"";
+    $word =~ tr/aei",0.00,1.07
+(SOFTLY SINGING ALONG),(మెత్త పాటు SINGING),"Softly singing along
+\end{code}",0.00,0.83
+Home Folder,ఇంటి ఫొల్డర్,"Home-folder
+
+Comment: I'm not sure what you mean by ""en sentence"" and ""te"". Could you clarify?
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $input = 'Home Folder';
+$input =~ tr/A-Za-z/a-zA-Z/;
+print ""$input\n"";
+
+if ($input eq 'Home-folder') {
+    print ""Correct!"";
+} else {
+   print ""Incorrect"";
+ }
+\end{",0.00,0.00
+Space,స్పేస్,"space
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.strip()` to remove leading and trailing spaces from the input string. This will ensure that there is only one space at the beginning and end of the string, which is what you want for your output. (Note that this won't work in Python 2, where strings are immutable; you'll need to use `str(s).strip()`.)
+
+\begin{pre}
+`output = ' '.join(input.strip().split())",0.00,0.00
+I'm not hurt.,నేను బాధించింది లేదు.,Ik ben niet gekwetst.,0.00,0.89
+- Real stupid?,- తెలివితక్కువదని రియల్?,"- Reálstupid?
+\end{code}",7.25,1.52
+Where is he?,అతను ఎక్కడ ఉంది?,"Waar is hij?
+\end{code}",0.00,1.10
+She forgot?,- ఆమె మర్చిపోయారా?,"SHE FORGOT?
+\end{code}",0.00,0.99
+- Are you okay?,- మీరు ఓకే ఉన్నాయా?,"- Är du okej?
+\end{code}",4.56,1.98
+"Oh, ooh-bee-doo",-Ooh-ఉంటుందిడూ -Oop-డీ-అల్పమైన,"Ō, ō-bē-dō
+\end{code}
+
+Comment: I'm voting to close this question as off-topic because it belongs on [Code Review](https://codereview.stackexchange.com/).
+
+Answer: \begin{code}\documentclass[a4paper]{article}
+\usepackage[utf8]{inputenc}
+    \usepackage[T1]{fontenc} % T1 font encoding is used by default in LaTeX2e
+\setcounter{tocdepth}{3}
+%\usepackage{lipsum} % for dummy text
+
+\",0.00,1.47
+"Transcoding ""%s""","""%s""ను ట్రాన్సుకోడింగ్ చేయుచున్నది","%s
+\end{code}",0.00,1.81
+You let two unknown men enter this house uninvited.,MOREL: మీరు రెండు తెలియని పురుషులు ఈ ఇల్లు గుర్తించని ఎంటర్ వీలు.,Du lät två okända männen komma in i detta hus utan att bjuda in dem.,0.00,0.30
+- Grant:,- అస్య మైధునాభిలాషి!,"- Grants:
+
+Comment: I don't understand what you mean by ""input"" and ""output"". Could you please clarify?
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $in = 'Grant';
+my @out = ();
+
+while ($in) {
+    chomp $in;
+    push @out, substr($in, 0, length($in) - 1);
+}
+
+print join(' ', @out), ""\n"";
+
+__END__
+Grants",0.59,0.49
+Your emails,k. meetme@ gmail. com infyquest@ gmail. com@ label,"Deine E-Mails
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $input = ""Your emails"";
+my @words = split(/\s+/,$input);
+foreach my $word (@words) {
+    if ($word =~ /^deine/) {
+        $word = 'deine';
+    }
+    print ""$word\n"";
+}
+\end{pre}",0.00,11.21
+You see if you can.,మీకు మీరు చూడండి.,"Du ziet of je dat kunt.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.replace` to replace all occurrences of ""You"" with ""Du"".
+Then use `re.findall` to find all instances of ""see"" and replace them with ""du ziet"".
+Finally, join the two strings back together using `'\n'` (newline) as a separator.
+This will give you something like:
+
+\begin{blockquote}
+'Du ziet",0.00,0.21
+"Have a nice day, Rapunzel.",", ఒక nice రోజు Rapunzel కలవారు.","Wünsche dir einen schönen Tag, Rapuzel.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Split the input string on spaces and split each word on underscores. This will give you an array of words.
+`[""Have"", ""a"", ""nice"", ""day"", ""Rapunzel""]`
+\strong{Note:} I'm not sure if this is the best way to do it, but it's what I came up with. If there's a better way, please",0.00,8.94
+What it looks like is the spontaneous cellular transferral we've been trying to achieve for months.,ఇది కనిపిస్తుంది ఏమి యాదృచ్ఛిక సెల్యులార్ transferral ఉంది మేము నెలల సాధించడానికి ప్రయత్నిస్తున్నారు చేసిన.,"Hwæt wæs þe ic hæfde, swa swa myn heofonlican eorðan, ac middangeard monnum sēo þāra līcan.
+\end{code}",0.00,2.85
+Details,వివరములు,"Detaillen
+
+Answer: \begin{code}
+$input = ""Details"";
+$output = str_replace(""s"", ""t"", $input);
+echo $output;
+\end{pre}",0.00,0.00
+ltchy.,Ltchy. నా,"ltych.
+\end{code}",0.00,10.62
+Show zoom slider,జూమ్ స్లైడర్‌ను చూపుము@ option: check,"Showzoomslider
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Split the input string on spaces and split the output string on underscores. This will give you an array of words in both cases, which you can then use to build up the translated string. For example:
+
+\begin{pre}
+`var input = ""Show Zoom Slider"";`
+`console.log(input.split("" "").map(word => word.toUpperCase()).join("" ""));`
+// → ""SH",0.00,2.55
+You know what that key is for?,మీరు కీ కోసం అని ఏమి తెలుసు?,"Du weet wat die sleutel voor is?
+
+Comment: I'm sorry, but I don't understand your question. What do you mean by ""input"" and ""output""?
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $input = 'You know what this key is used for?';
+my @words = split / /, $input;
+$words[0] =~ tr/y/u/;
+print join(' ', @words), ""\n"";
+
+__END__
+Du",0.00,0.22
+Ray's?,రే యొక్క?,"Rays?
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $sentence = ""Ray's"";
+$sentence =~ tr/A-Z/a-z/;
+print ""$sentence\n"";
+
+if ($sentence eq ""Rays"") {
+    print ""YES\n""
+} else {
+   print ""NO\n""}
+\end{pre}",0.00,0.39
+Bristol. Bristol.,బ్రిస్టల్ . బ్రిస్టల్.,"Bristol. Bristel.
+\end{code}
+
+Answer: \begin{itemize}
+\item `Bristol` is not a valid word in Te Reo Māori, so you need to replace it with something else. I've used `Tauranga`, but you can use whatever you like. The important thing is that it has the same number of syllables and vowels as the original English word. If you don't do this, your translation won't make sense. For example, if you translated `Auckland` as `Aukland`,",0.00,0.38
+Status,స్థితి,"Status
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.title()` to get the title case of the string.
+https://docs.python.org/3/library/stdtypes.html#str.casefold and https://www.w3schools.com/python/ref_string_capitalize.asp for more info.
+`""Status"".title()` will return `""Status""`.
+
+\begin{blockquote}
+The .title() method is used to convert a string",0.00,0.00
+Display debug statements on stdout for Brasero media library,బ్రాసెరో మీడియా లైబ్రరీ కొరకు stdout పైన డీబగ్ వివరణములను ప్రదర్శించుము,"Display debug statemens op stderr voor Brasero-mediabibliotheek
+\end{code}",0.00,2.37
+LARRY KING:,లారీ కింగ్:,"}
+LarryKing: Larry
+\textit{Explanation:}",0.00,1.08
+I might never see you again.,నేను మీరు మళ్ళీ చూడండి ఎప్పుడూ ఉండవచ్చు,"Mi möchtest, dass ich dich nie wiedersehe.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Split the sentence into words using `str.split()` and then convert each word to lowercase using `word.lower()`.
+\strong{Note:} If you want to preserve the case of the first letter of each word, use `word[0].lower()` instead.
+2.Join the words back together using `', '.join(words)`.
+3.Convert the whole sentence to uppercase using `.upper",0.00,0.00
+Good night.,- గుడ్ రాత్రి.,"Gute Nacht.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Create a dictionary with all the words you want to translate from English to German and vice-versa. For example:
+
+`dictionary = {'good': 'gut', 'night': 'nacht', 'en': 'und', 'sentence': 'Sentenz'}`
+
+\strong{NOTE:} If you don't know how to create dictionaries in Python, check [this](https://www.w3schools.",0.00,0.43
+Your emails,k. meetme@ gmail. com infyquest@ gmail. com,"Deine E-Mails
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $input = ""Your emails"";
+my @words = split(/\s+/,$input);
+foreach my $word (@words) {
+    if ($word =~ /^deine/) {
+        $word = 'deine';
+    }
+    print ""$word\n"";
+}
+\end{pre}",0.00,10.55
+Go! -Find Connor!,- కానర్ కనుగొను!,"Gå! -Finns Connor?
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $sentence = ""Go! - Find Connor"";
+$sentence =~ s/\s+/ /g;
+print ""$sentence\n"";
+my @words = split(/ /, $sentance);
+foreach my $word (@words) {
+    if ($word =~ /^[A-Z][a-z]+$/) {
+        print ""$word "";
+    }
+}
+\end{code",0.66,0.56
+"Harley, I'm gonna be as honest as I can be.","హార్లే, నేను చేయడం వంటి నిజాయితీ ఉండాలి గొన్న వద్ద.","Harlekin, ich werde so ehrlich sein, wie es mir möglich ist.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.translate(None, 'en', 'te')` to replace all occurrences of `'en'` with `'te'`.
+This will return a new string without `'en'`, which is what you want.
+You can then use `str[::-1]` to reverse the order of the characters in the string.
+Finally, you can use `reversed",0.00,0.32
+magenta3,మెజెంటా 3color,"Magenta 3
+\end{code}",0.00,4.85
+Condition my hair.,కండిషన్ నా జుట్టు.,"} Condición mi pelo
+\",0.00,0.00
+Device,పరికరం,"Devices
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $sentence = ""Device"";
+my @words = split(/\s+/,$sentence);
+foreach my $word (@words) {
+    if ($word eq 'device') {
+        $word = 'devices';
+    }
+    print ""$word\n"";
+}
+\end{pre}",0.00,0.00
+Yes.,అవును,"Já.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.lower()` to convert the string to lowercase.
+`""Yes"".lower()` returns `""yes""`.
+
+\begin{blockquote}
+The str.lower() method returns a copy of the string in which all
+uppercase letters are replaced by their lowercase equivalents.
+https://docs.python.org/3/library/stdtypes.html?highlight=str%E2%80%93lower#str.",0.00,0.00
+Hed,మంగళ,"Hæð
+
+Comment: What have you tried so far?
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $sentence = ""Hed"";
+$sentence =~ s/\b(h)ed\b/$1æð/g;
+print ""$sentence\n"";
+\end{pre}",0.00,0.00
+Hello?,హలో?,"Hallo?
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Create a dictionary with all the words in English and their Dutch equivalents. For example, ""Hello"" -> ""Hallo"", ""What is your name?"" -> ""Wat is uw naam?"", etc. This can be done manually or by using an online tool such as [Google Translate](https://translate.google.com/translat?sl=auto&tl=nl&js=y&prev=_t&hl=en&ie=",0.00,0.35
+"Keep it up, two, three, four",", రెండు, మూడు, నాలుగు దానిని ఉంచండి","Hang in there, 2, 3, 4
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $sentence = ""Keep it up"";
+my @words = split(/\s+/,$sentence);
+foreach my $word (@words) {
+    if ($word =~ /^[0-9]+$/) {
+        print ""$word\n"";
+    } elsif ($word eq 'two') {
+       print ""Hang in "";
+       for (1..3) {",0.00,0.71
+Audio Recorder,శబ్దాలను రికార్డ్ చెసె కార్యక్రమంName,"Audiorecorder
+\end{code}",0.00,0.52
+It's pure methane.,క్యోటో ఒప్పందం -,Es ist rein Methan.,0.00,0.00
+Send Email To...,ఈ మెయిల్ పంపు...,"Send e-mail to...
+
+Answer: \begin{code}
+#include <stdio.h>
+int main(void)
+{
+    printf(""%s\n"", ""Send email to..."");
+    return 0;
+}
+\end{pre}",0.00,2.99
+- Are you okay?,- మీరు ఓకే ఉన్నాయా?,"- Är du okej?
+\end{code}",4.56,1.98
+Text length,పాఠం పొడవు,"Translated text length
+\end{code}",0.00,0.00
+but I won 50 G in a poker tournament.,కానీ నేను ఒక పోకర్ టోర్నమెంట్ను 50 G గెలిచింది.,"But I won $50,000 playing poker.
+\end{code}",0.00,1.70
+FUEISHA:,FUEISHA:,"FUÉISA:
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.lower()` to convert the input string to lowercase. This will make it case-insensitive, which is what you need for this problem. If you don't do this, your code will fail if the user enters ""fueisha"" instead of ""fuéisha"".
+
+\begin{pre}
+`input_string = str.lower(raw_input(""Input: "")) # Convert to lower",0.00,2.05
+Remove tracks,పాటలను తొలగించు,"Remove tracks
+
+Answer: \begin{code}
+#include <stdio.h>
+
+int main(void)
+{
+    printf(""%s\n"", ""Remove tracks"");
+    return 0;
+}
+\end{pre}",0.00,0.00
+Yeah.,అవును.,"Yea.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Split the input string on spaces, and split the output string on space characters. This will give you an array of words for both inputs and outputs. For example, if the input is ""Yeah"", then the array would look like this:
+
+\begin{blockquote}
+[""Ye"",""ah""]
+\strong{Note:} I'm using `String.split("" "")` instead of `StringTokenizer` because it's easier to work with",0.00,0.21
+The depth (in number of bits) of the pixmap bound to this texture,ఈ లేఖినికి బంధించబడిన పిక్స్ మ్యాప్ యొక్క వెడల్పు(బిట్స్ సంఖ్యలో),"Die Tiefe (in Anzahl der Bits) des Pixmaps, das an diese Textur gebunden ist
+
+Answer: \begin{itemize}
+\item ""The depth"" -> ""Die Tiefen"" (""depth"" is not a noun in German)
+-> ""The Depths"" ->  ""Die Teile""
+\end{itemize}\
+
+Comment: Thank you for your answer. I'm sorry, but I don't understand it. Could you please explain what you mean?",0.00,0.33
+"Beer, I guess.","బీర్, నేను అనుకుంటున్నాను.","Bier, ich denke.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.split()` to split the string on spaces and then iterate over the resulting list of words using `for i in range(0, len(words))` (where `len(words)` is the number of words in the input string).
+For each word, use `words[i].lower()` to get the lowercase version of the word.
+If the word starts with an uppercase letter, convert it to lowercase.",0.00,0.36
+Your emails,k. meetme@ gmail. com infyquest@ gmail. com,"Deine E-Mails
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $input = ""Your emails"";
+my @words = split(/\s+/,$input);
+foreach my $word (@words) {
+    if ($word =~ /^deine/) {
+        $word = 'deine';
+    }
+    print ""$word\n"";
+}
+\end{pre}",0.00,10.55
+Miscellaneous,ఇతరత్రాScreen saver category,"Miscellaneous
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.title()` to get the title of the string.
+`""Miscellaneous"".title()` will give you ""Miscelleanous"" which is what you want.
+\strong{Note:} This only works if the string has a title. If it doesn't, you can use `re.findall(r'\w+', str)` to get all the words in the string and then check if any of them is a",0.00,5.89
+As we are experiencing some really nice above seasonal weather.,.. మేము రుతువు సంబంధిత వాతావరణ పైన నిజంగా nice కొన్ని ఎదుర్కొనే నాటికి,"Wij zien nu een hele mooie boven de seizoensweer.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `nlp` module to split the sentence into words and then use `nltk` to get the part of speech (POS) of each word. For example:
+
+\begin{pre}
+from nltk.tokenize import word_tokenize
+sentence = ""As we are enjoying some nice above-seasonal weather.""
+tokens = word_",0.50,1.76
+Mar,మార్చిApril,"Maar
+\end{code}",0.00,1.44
+I saw it.,నేనుచూసింది.,"Ik heb het gezien.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Create a dictionary with all the words that need to be translated and their translations. For example, if you want to translate ""I saw it"" to ""ik heb 't gezien"", create a dictionary like this:
+
+\begin{pre}
+`{""I"": ""ik"", ""saw"": ""heb"", ""it"": ""'t"", ""seen"": ""gezien"", ""have"": ""heb""}`
+\",0.00,0.23
+But I wish you all the best with your struggle.,కానీ నేను మీ పోరాటం తో అన్ని ఉత్తమ అనుకుంటున్నారా.,"Mijn beste wensen met uw strijd.
+\end{code}",0.00,0.40
+Mungo Bane,Name,"Múngo Báne
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $input = ""Mungo"";
+my @words = split(/\s+/,$input);
+foreach my $word (@words) {
+    if ($word =~ /[A-Z]/){
+        $word = uc($word);
+    }
+    print ""$word "";
+}
+print ""\n"";
+
+__END__
+\end{pre}",0.00,2.21
+Oh nonsense.,అర్ధంలేని ఓహ్.,"O nonsensi.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Split the input string on spaces and split the output string on vowels (a, e, i, o, u).
+\em{You can use `str.split()` or `re.split()`, depending on whether you want to do this in Python 2 or 3. I'm using Python 3 here.}
+
+\begin{blockquote}
+`""Oh nonsence"".split()` => [""Oh"", ""nons",0.00,0.23
+Runway secure.,రన్వేసురక్షిత డ్యూక్:,"Runnan säkert.
+\end{code}
+
+Answer: \begin{itemize}
+\item `runway` is a noun, so it needs to be pluralized in the output.  This can be done by adding an `s` to the end of the word.
+The same goes for `secure`, which is a verb.
+You could also use the [pluralize](https://docs.python.org/3/library/string.html#string.capitalize) method on the words, but that's not necessary here.
+So your code",0.00,0.20
+And you'll be a goonie too.,మరియుమీరు. ఒక goonieఉంటుందిచాలా,"Ond jij zult ook een goonie worden.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `nlp` to split the sentence into words and tokens, then use `ngrams` to find all n-grams of length 2 in the sentence. For example, for the sentence ""And you will be a goner too"", we can get the following result:
+
+<a href=""https://i.stack.imgur.com/143Xt.png"" rel=""nofollow",0.00,4.21

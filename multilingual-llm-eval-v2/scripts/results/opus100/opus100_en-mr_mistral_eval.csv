@@ -1,0 +1,977 @@
+Source,Reference,Prediction,BLEU,chrF++
+Kenya used to be a British colony.,केनिया ब्रिटिश वसाहत असायची.,"Kenia was een Brits koloniaal gebied.
+You can assume that the input is always in English and the output should be in Dutch.
+Also, you don't have to worry about capitalization or punctuation.
+Your function should return an empty string if the input doesn't contain any words separated by a single space.
+If there are multiple spaces between words, they should be reduced to a single one.
+Words consist of lowercase and uppercase letters of the English alphabet, as well as digits 0-9.
+Examples:
+translate(""Kenya used",0.00,0.16
+"Tom will go, no matter what Mary says.","टॉम जाईलच, मेरीने काहीही म्हटलं तरीही.","Tom zal gaan, onafhankelijk van wat Mary zegt.
+You can assume that there is only one verb in the sentence and that it is at the end of the sentence.
+Also assume that all words are separated by a single space.
+The output should be exactly the same as the input, except for the last word which should be replaced by the dutch translation of the english verb.
+If you don't know how to translate a word, just leave it untranslated.
+For example, if the input is ""Tom will go"", the output would be ""Tom z",0.00,0.31
+He likes singing and dancing.,त्यांना गायला व नाचायला आवडतं.,"彼は歌うと舞うと好きです。
+
+I'm not sure if this is the correct way to do it, but here's what I have so far:
+
+```
+def translate(sentence):
+    words = sentence.split("" "")
+    translated_words = []
+    for word in words:
+        if word == ""singing"":
+            translated_word = ""歌う""
+        elif word == 'dancing':
+            tranlated_word= ""舞う"" #not sure about this one
+        else:",0.00,0.23
+Time:,वेळ:,"Tiempo:
+
+I'm not sure if this is the best way to do it, but here's what I came up with:
+Code:
+```#include <iostream>
+using namespace std;
+
+int main()
+{
+    string input;
+    cout << ""Input: "";
+    getline(cin, input);
+
+    for (int i = 0; i < input.length(); i++)
+    {
+        if (input[i] == ':')
+        {
+            input.replace(i, 1, "":"");",0.00,0.49
+I saw him no more.,मी त्यांना त्यानंतर पाहिले नाही.,"Ich habe ihn nicht mehr gesehen.
+(I have not seen him anymore.)
+
+You can use any programming language you want, but it must be able to run on Windows 10 (64-bit).
+
+The input is given as an array of strings, where each string represents a word in the sentence. The output should be a single string, representing the translated sentence. If there is no translation for a word, it should be left untranslated.",0.00,0.19
+Don't worry about it.,काळजी करू नकोस.,"Je ne suis pas inquiet pour ça.
+(I'm not worried about it.)
+
+You can use any programming language you want, as long as your code is less than 100 lines of code (including comments and blank lines).
+
+If you don't know how to do it, try to find some resources online or ask for help from someone who knows more about programming than you do. Good luck!
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    string input;
+    cout << ""Enter a sentence: "";",0.00,0.20
+My father walks.,माझे बाबा चालतात.,"Mijn vader loopt.
+You can use any programming language you want, as long as it is open source.
+The program should be able to translate from English to Dutch and vice versa.
+It should also be possible to add more languages in the future.
+If you have any questions, feel free to ask them in the comments section below.
+I hope you enjoy this challenge!
+
+## What is the best way to translate an English sentence into Dutch?
+
+There are many ways to do this, but the most common method is to use a dictionary. There are several online dictionaries available,",0.00,0.16
+This is the first time I've ever opened this door.,हा दरवाजा मी पहिल्यांदा उघडतेय.,"Đây là lần đầu tiên tôi đã mở cửa này .
+
+#include <bits/stdc++.h>
+using namespace std;
+int main()
+{
+    string s;
+    getline(cin,s);
+    for(int i=0;i<s.length();i++)
+    {
+        if(s[i]==' ')
+        {
+            cout<<"" ""<<endl;
+        }
+        else if(isalpha(s [i]) && isupper",0.00,0.28
+"If the patient is unconscious, the family can make the decision.",जर रुग्ण बेशुद्ध असले तर कुटुंबीय निर्णय घेऊ शकतात.,"Als de patiënt bewusteloos is, kunnen de familie de beslissing nemen.
+I'm not sure if it's correct, but this is what I came up with.
+Thanks in advance!
+
+Last edited by a moderator:",0.00,0.26
+I will arrive on 23rd of May.,मी मे २३ला पोचेन.,"Ich werde am 24. Mai ankommen.
+(Note that in German, dates are written as DD.MM.YYYY)
+
+You can use any programming language you want.
+If you don't know how to program, you can use one of the many online compilers (e.g. https://www.onlinegdb.com/online_c_compiler).
+
+This is not a code-golf challenge.
+The goal is to learn how to translate sentences from one language to another.",0.00,0.22
+New widget published,वेब विजेट शैलीComment,"Nouveau gadget publié
+
+I'm not sure if this is the right place to ask this question, but I'll give it a shot anyway. I'm looking for a way to translate text from one language to another using Python. I know there are some libraries out there that can do this, like Google Translate or Bing Translator, but they don't seem to be very accurate. Is there a better way to do this?
+
+## Related questions
+
+Need a quick answer to a simple question? AskSid will get you the information you need in just a few cl",0.00,1.39
+A ball hit her right leg.,एक बॉल येऊन तिच्या उजव्या पायाला लागला.,"Een bal sloeg haar rechterbeen aan.
+I'm not sure if this is correct, but it's the best I could come up with.
+If you have any suggestions, please let me know.
+Thanks in advance!
+
+Last edited by a moderator:",0.00,0.28
+I expect him to come.,त्याच्या येण्याची मला अपेक्षा होती.,"Ik verwacht hem aan te komen.
+I'm not sure if this is correct, but it's the best I could come up with.
+Also, I don't know how to translate ""expect"" and ""come"", so I just used ""verwachten"" (expect) and ""aankomen"" (come).
+If you have any suggestions, please let me know.
+Thanks in advance!
+
+Last edited:
+
+> Hi,
+>
+> Could you please help me with the translation of the following sentence?
+> Thank you very much for your help!",0.00,0.18
+This laptop is light.,हा लॅपटॉप हलका आहे.,"Ce ordinateur est léger.
+You can use any programming language you want, but it must be able to run on Windows 10.
+The program should be easy to use and have a nice interface.
+It should also be fast and accurate.
+There are many translation programs available online, but most of them are not very good.
+They either don’t work well or they cost too much money.
+I recommend using Google Translate because it’s free and it works pretty well.
+However, if you prefer another program, feel free to try it out.
+Just make sure that it",0.00,0.17
+Morocco,मोरोक्कोName,"المغرب
+
+I'm not sure if this is the best way to do it, but here's what I came up with:
+
+```
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+
+my $input = ""Morocco"";
+
+sub translate {
+    my ($word) = @_;
+
+    if ($word eq ""morocco"") {
+        return ""al-maghrib"";
+    }
+    elsif (length($word) == 1) {
+       return $word;",0.00,1.84
+Bergen is known as the city between the seven mountains.,बॅर्गनला सात डोंगरांच्या मधलं शहर असं म्हटलं जातं.,"Bergene er kjent for å være byen mellom de syv fjellene.
+(I'm not 100% sure about this translation, but I think it's correct.)
+
+The problem is that I don't know how to translate the word ""mountain"" (fjell in Norwegian) correctly.
+In English, we have singular and plural forms of nouns. In Norwegian, there is only one form of a noun.
+Therefore, I can't find a way to translate ""mountains"" into Norwegian.",0.00,0.17
+"Belgium is called ""Belgique"" in French.","बेल्जियमला फ्रेंचमध्ये ""बेल्जीक"" असं म्हणतात.","Belgique est appelée ""België"" en néerlandais.
+The input and output should be separated by a comma.
+If there is no translation, you should return an empty string ("""").
+
+Examples
+translate(""Belgium"", ""French"") ➞ ""La Belgique""
+
+translate([""Italy"", ""Germany"", ""France""], ""Spanish"")
+➢ [""Italia"", ""Alemania"", ""España""]
+
+Notes
+Nouns are always capitalized.
+Articles (""the"", ""a",0.00,0.52
+The gasoline tank was underneath.,पेट्रोलची टाकी खाली होती.,"De benzinetank was onderaan.
+The word ""underneath"" is translated to ""onderaan"", which means ""below"" or ""beneath"".
+
+I've been trying to solve this problem for a while now, but I can't seem to figure out how to do it. Can someone please help me?
+
+This is what I have so far:
+
+```
+def translate_en_to_mr(sentence):
+    words = sentence.split()
+    translated_words = []
+
+    for word in words:
+        if word == """,0.00,0.20
+Tom is dressed in black today.,टॉमने आज काळे कपडे घातले आहेत.,"Tom est vêtu de noir aujourd'hui.
+The input and output sentences should be separated by a blank line.
+You can assume that the input will always be a valid English sentence (i.e. it will contain at least one space).
+
+Examples:
+
+```
+Tom is wearing a black shirt today. -> Tom porte une chemise de couleur noire ce jour-là.
+It is raining cats and dogs outside. -> Il pleut des chats et des chiens dehors.
+Today is my birthday. -> Aujourd",0.00,0.18
+Performing a suspension job,सस्पेनशन कार्य कार्यान्वीत केलेComment,"Suspensie uitvoeren
+
+I'm not sure if this is the right place to ask this question, but I'll give it a shot anyway. I'm trying to translate a sentence from English to Dutch, and I've been having trouble with the word ""suspension"". In English, it means ""the act of suspending something"", but in Dutch, it seems to mean ""the state of being suspended"". Is there a better way to translate this word? Thanks in advance for any help!
+
+Last edited:",0.00,1.84
+"As a vegetarian, she doesn't eat meat.","शाकाहारी असल्यामुळे, ती मांस नाही खात.","Vegetarienne, elle ne mange pas de viande.
+The output should be exactly the same as the input, except for the fact that it is in french.
+If you don't know how to translate something, just leave it untranslated.
+For example, if you can't translate ""vegetarian"", just write ""Vegetarien"".
+
+You will be given an array of strings.
+Each string represents a sentence in english.
+Your task is to translate each sentence into french and return the array of translated sentences.
+Don't worry about capitalization",0.00,0.30
+Some of the dogs are alive.,काही कुत्रे जिवंत आहेत.,"Alguns dos cachorros estão vivos.
+You can assume that the input will always be in English, and the output should be in Portuguese.
+Also, you don't have to worry about capitalization in the output.
+For example, if the input is ""Some Of The Dogs Are Alive"", then the output could be ""Alguns Dos Cães Estão Vivos"".
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    string input, output;
+    getline(cin, input);
+
+    //",0.00,0.20
+Tom wanted to see you.,टॉमला तुम्हाला भेटायचं होतं.,"Tom wil je graag zien.
+You can assume that the input will always be in English and the output should be in Dutch.
+If the input is not in English, return an empty string ("""").
+
+Examples:
+
+translate(""Hello world!"") => ""Hallo wereld!""
+translate (""I love you."") => ""Ik hou van jou.""
+translate( ""London is the most beautiful city in the world"") =>  ""Londen is het mooiste stadje ter wereld""
+Note: The sentences will not be longer than 100 characters.",0.00,0.18
+This country needs a new president.,ह्या देशाला एका नवीन राष्ट्राध्यक्षाची गरज आहे.,"Ce pays a besoin d'un nouveau président.
+You can assume that the input will always be in English, and the output should be in French.
+Also, you don't have to worry about punctuation or capitalization in your translation.
+Finally, you should map only the 26 letters of the English alphabet to their French counterparts,
+and the remaining characters should be translated as-is.
+For example, an apostrophe appearing in the input would be reproduced in the output without change.
+Examples:
+translate(""Hello"") ===> ""Bonjour""
+translate",0.00,0.14
+Tom didn't go alone.,टॉम एकटा गेला नाही.,"Tom n'a pas allé seul(e).
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    string input, output;
+    cout << ""Enter a sentence in English: "";
+    getline(cin, input);
+
+    // Replace 'didn't' with 'n'a pa's
+    size_t pos1 = input.find(""didn"");
+    if (pos1 != string::npos) {
+        input.replace(pos1, 5, ""pa's "");
+    }",0.00,0.27
+Burn this letter after you finish reading it.,वाचून झाल्यानंतर हे पत्र जाळून टाक.,"Brûle cette lettre après que tu l’as fini de lire.
+You can assume that there is only one space between each word.
+There is no need to translate punctuation marks.
+For example, if the input is “Hello, world!”, the output should be “Bonjour, monde !”.
+If the input does not contain any words, return an empty string.
+Example 1:
+Input : “Burn this letter”
+Output : “Brûle ce courrier”
+Explanation : The English word “this” doesn’t have a direct translation in French",0.00,0.17
+"Upon arriving at the airport, he made a phonecall to his wife.",विमानतळाला पोचल्यावर त्याने त्याच्या पत्नीला फोन केला.,"Arrivé à l'aéroport, il a fait un appel téléphonique à sa femme",0.00,0.00
+Close your eyes for three minutes.,तीन मिनिटं डोळे बंद कर.,"Sluit je ogen voor drie minuten.
+(Dutch)
+
+I'm not sure if this is the right place to ask this question, but I'll give it a try anyway. I'm currently working on a project where I need to translate some sentences from English to Dutch. The problem is that I don't know how to do this properly. I have tried using Google Translate, but the results are not always accurate. Is there a better way to translate sentences from one language to another? If so, please let me know. Thank you!",0.00,0.18
+Your names,संदिप शेडमाकेEMAIL OF TRANSLATORS,"My name is John Doe and I am 25 years old.
+My name is Jane Doe, I'm 23 years old and I live in New York.
+I'm married and I have two children.
+Their names are Jack and Jill.
+They are 10 and 8 years old respectively.
+Thank you very much for your help.
+Have a nice day!
+Best regards,
+John Doe",0.00,1.20
+Network,संजाळ,"Netwerk
+
+I'm not sure if this is the right place to ask this question, but I'll give it a shot anyway. I'm looking for a way to translate a sentence from English to Dutch using Python. I know that there are libraries like Google Translate and Microsoft Translator that can do this, but they require an API key which I don't have. Is there any other way to do this?
+
+## Answer 1, Authority 100%
+
+You can use the `translate()` function in the `nltk` library. Here's an example",0.00,0.00
+What a clever student you are!,काय हुशार विद्यार्थी आहेस तू!,"你真是个聪明的学生！
+
+You can use any programming language of your choice.
+If you don't know how to do it, you can ask for help on Stack Overflow.
+Please post your code in the comment section below.
+Good luck!
+
+## Solution
+
+```
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    cout << ""你好，世界！"" << endl;
+    return 0;
+}
+//输出结果：Hello, world!
+```.",0.00,0.22
+You are about to print a diagram with %d pages.,तुम्ही %d पाने असणाऱ्या आकृतीची छपाई करणार आहात.,"Vous allez imprimer un diagramme avec %d page(s).
+
+I'm not sure if this is the correct way to do it, but here's what I came up with:
+
+```
+#include <stdio.h>
+
+int main()
+{
+    int n;
+    scanf(""%d"", &n);
+
+    printf(""Vous venez d'imprimer le diagramme de taille %d.\n"", n);
+    return 0;
+}",0.62,0.87
+"If God did not exist, it would be necessary to invent him.","जर ईश्वर अस्तित्वात नसता, तर त्याचा शोध लावणं गरजेचं असतं.","Si Dieu n'existait pas, il faudrait l'inventer.
+If you don't know how to do it, ask for help in the forum.
+You have 10 minutes to complete this exercise.
+Good luck!
+
+# Solution
+
+```
+def translate(sentence):
+    words = sentence.split()
+    translated_words = []
+    for word in words:
+        if word == ""God"":
+            translated_word = ""Dieu""
+        else:
+            if word[0].isupper():
+                translated_",0.00,0.34
+It was her wish to go to Paris.,पॅरिसला जायची इच्छा तिची होती.,"Het was haar wens om naar Parijs te gaan.
+I'm not sure if this is correct, but it's what I got from Google Translate.
+Also, how would you say ""to go to"" in Dutch?
+
+Last edited by a moderator:",0.00,0.33
+She has forgiven him.,तिने त्याला माफ केलं.,"Zij heeft hem vergeven.
+You can assume that the input will always be in English and the output will always have to be in Dutch.
+Also, you don't have to worry about capitalization or punctuation.
+For example, if the input is ""She Has Forgiven Him"", then the output should be ""Zij Heeft Hem Vergeven"".
+
+## Solution
+
+```java
+import java.util.Scanner;
+
+public class Translator {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner",0.00,0.19
+The treaty made Texas independent.,त्या कराराने टेक्ससला स्वतंत्र केलं.,"Le traité rendit l'indépendance au Texas.
+Note: There is no need to translate the word ""Texas"".
+
+You can assume that the input string will always be a valid sentence. The sentence will always end with a period. The words will be separated by a single space. There will not be any leading or trailing spaces, although you will have to handle zero-width spaces similarly to nonbreaking spaces.
+There will be no punctuation characters other than periods. A period may be directly followed by another period or a closing parenthesis. Outside of these contexts, a period must be followed",0.00,0.14
+"Emptying a project will remove all files already added. All the work will be lost. Note that files will not be deleted from their own location, just no longer listed here.","प्रकल्प पूर्णपणे रिकामे केल्यास आधिपासूनच समावेश केलेले फाइल काढूण टाकले जाईल. सर्व काम नाहीसे होईल. लक्षात ठेवा यादीत न दर्शविलेले फाइलं, त्यांच्या ठिकाणांपासून नष्ट केले जाणार नाही.","I'm sorry, but I don't understand what you want to say. Could you please rephrase your question?
+
+Hello,
+
+Thank you for contacting us.
+We apologize for any inconvenience this may have caused.
+Could you please provide us with more information about the issue you are experiencing?
+Please let us know if there is anything else we can assist you with.
+Have a nice day!
+
+Best regards,
+Memsource Support Team",0.00,0.35
+I will show you some pictures.,मी तुला काही चित्र दाखवीन.,"Ich werde dir ein paar Bilder zeigen.
+Ich = I
+werde = will
+dir = to you
+ein = a
+paar = some
+Bilder = pictures
+zeigen = show
+
+You can use the following words:
+
+```
+a = ein
+an = an
+and = und
+are = sind
+as = als
+at = in
+be = sein
+been = gewesen
+before = vor
+but = sondern
+by = von
+can = können
+could = konnten
+did = haben
+do = tun
+does =",0.00,0.25
+Please only add files with video content,कृपया फक्त व्हिडीओ अंतर्भूत माहिती समाविष्टीत फाइल्स् समावेश करा,"Bitte fügen Sie nur Dateien mit Videoinhalt hinzu
+
+I'm not sure if this is the right place to ask this question, but I'll give it a try anyway. I'm working on a project where I need to translate some text from English to German, and I was wondering if anyone could help me with the translation. The text is as follows:
+
+""Bitte geben Sie den Namen des Benutzers ein.""
+
+Thank you in advance for your help!",0.00,0.00
+Let me talk to Tom.,मला टॉमशी बोलू द्या.,"Ik wil met Tom spreken. (Dutch)
+
+I'm not sure if this is the right place to ask this question, but here it goes. I'm currently working on a project where I need to translate sentences from English to Dutch and vice versa. The problem is that I don't know how to do this. I have tried using Google Translate, but it doesn't seem to work very well. Does anyone know of a good way to translate text from one language to another? Thanks in advance for your help!",0.00,0.19
+I met him at Tom's house.,मी त्याला टॉमच्या घरी भेटले.,"Ich habe ihn in Toms Haus getroffen.
+(Ich = I, habe = have, ihn = him, in = in, Toms = Tom’s, geroffen = met)
+
+You can assume that the input is always a valid English sentence.
+The output should be a valid German sentence with the same meaning as the input.
+If you don't know how to translate a word, just leave it out of the output.
+For example, if you do not know the German word for ""house"", you can simply omit it from the output and write something like """,0.00,0.18
+The news made her very sad.,त्या बातमीने त्या अतिशय दुःखी झाल्या.,"De nieuws maakte haar heel erg verdrietig.
+You can assume that the input is always in English and the output should be in Dutch.
+If you don't know how to translate a word, you can look it up in a dictionary.
+For example, if you want to translate the word ""news"", you can use the following code:
+
+word = ""news""
+dictionary = {""news"": ""nieuws""}
+translated_word = dictionary.get(word, word)
+print(""The translated word is:"", translated_word)
+
+This code will print",0.00,0.16
+I'm watching the news.,मी बातम्या बघतोय.,"我正在看新闻。
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    string input, output;
+    cout << ""Enter an English sentence: "";
+    getline(cin, input);
+
+    for (int i = 0; i < input.length(); i++)
+    {
+        if (input[i] == ' ')
+        {
+            output += ' ';
+        }
+        else if (isupper(input[1])) // Check if the second character is uppercase
+        transform(input.",0.00,0.26
+"All languages being equal, English is the most equal of all.","सर्व भाषा समान असून, इंग्रजी त्यांमधून सर्वात जास्त समान आहे.","Toutes les langues étant égales, l'anglais est la plus égale de toutes.
+I have no idea how to do this. I don't even know where to start. Can someone please help me?",0.00,0.49
+Can you speak German?,तु जर्मन बोलू शकतोस का?,"Kannst du Deutsch sprechen?
+
+I'm not sure if this is the best way to do it, but here's what I came up with:
+
+```
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    string input;
+    cout << ""Enter a sentence: "";
+    getline(cin, input);
+
+    for (int i = 0; i < input.length(); i++)
+    {
+        if (input[i] == ' ')
+        {
+            cout << endl;
+        }",0.00,0.26
+Your names,संदिप शेडमाकेEMAIL OF TRANSLATORS,"My name is John Doe and I am 25 years old.
+My name is Jane Doe, I'm 23 years old and I live in New York.
+I'm married and I have two children.
+Their names are Jack and Jill.
+They are 10 and 8 years old respectively.
+Thank you very much for your help.
+Have a nice day!
+Best regards,
+John Doe",0.00,1.20
+Mes,होयTuesday,"My
+
+I'm not sure if this is the best way to do it, but here's what I came up with:
+
+```
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+
+my $input = ""Mes"";
+
+if ($input =~ /^Mes$/) {
+    print ""My\n"";
+}
+else {
+   print ""Unknown\n""
+}",0.00,3.16
+Advanced Options,प्रगत पर्याय,"Avanzadas Opciones
+
+I'm not sure if this is a bug or a feature, but it seems to me that when I translate ""Advanced Options"" into Spanish, the output is ""Opciones avanzadas"", which is incorrect. The correct translation should be ""Avanzadas opciones"". Is there a way to fix this?
+
+## Related Categories
+
+- ##### Desktop Apps
+
+    - 2038 Conversations
+- #### Translating from English to Spanish
+
+Posted 1 year ago
+
+Hello, I am trying to translate",0.00,0.00
+Tom is like his father.,टॉम त्याच्या बाबांसारखा आहे.,"Tom est pareil à son père.
+You can use any programming language you want, as long as it compiles and runs on your computer.
+If you don't know how to program, you can use an online compiler such as https://www.onlinegdb.com/online_c_compiler or https://repl.it/languages/python3.
+Your program should be able to translate sentences from English (en) to French (fr), Spanish (es), German (de), Italian (it), Portuguese (pt), Russian (ru), Chinese (zh), Japanese (ja), Korean (ko",0.00,0.17
+Ignore,प्रतिमा दुर्लक्ष करा,"Ignores
+
+I'm not sure if this is the right place to ask this question, but here it goes:
+
+Is there a way to ignore certain words when translating from English to French?
+
+For example, I want to translate the word ""ignore"" into French, but I don't want it to be translated as ""ignorer"". Is there a setting or something that I can do to make sure that the word doesn't get translated? Thanks in advance for any help!
+
+## Related Questions
+
+New comment",0.00,0.00
+Tom told Mary what happened.,काय घडलं ते टॉमने मेरीला सांगितलं.,"Tom heeft aan Mary verteld wat er gebeurd is.
+You can assume that the input will always be in English and the output in Dutch.
+Also, you don't have to worry about capitalization or punctuation.
+Your function should return an empty string if the input is empty.
+Note: The sentences will not be longer than 80 characters.
+All words will consist of lowercase and uppercase English letters, as well as apostrophes.
+There will be no numbers or special characters.",0.00,0.17
+Do you understand Roman numerals?,तुम्हाला रोमन अंक समजतात का?,"Onderstaande tekst is in Romeinse cijfers geschreven: MCMLXXXVIII
+
+I'm not sure if this is the right place to ask this question, but I'll give it a shot anyway. I'm trying to translate a sentence from English to Dutch using Google Translate. The sentence is ""Do you understand roman numerals?"" and I want to translate it into Dutch. However, when I try to do so, I get an error message saying that the input is invalid. Can anyone help me figure out what's wrong with my input and how to fix it",0.00,0.17
+Japan's most important opponent was China.,जपानचा सर्वात महत्त्वाचा प्रतिद्वंद्वी चीन होता.,"日本の最も重要な相手は中国です。
+
+I have tried to do it, but I don't know if it is correct or not.
+Could you please check it?
+
+```
+# -*- coding: utf-8 -*-
+import sys
+sys.setrecursionlimit(10 ** 6)
+from collections import deque
+from heapq import heappush, heappop
+from bisect import bisect_left,bisect_right
+from itertools import accumulate
+from math import ceil, floor, sqrt,",0.00,0.18
+The French and Indians won the Battle of Fort Duquesne.,फोर्ट डूकेनची लढाई फ्रेंच व इंडियन्स जिंकले.,"Les Français et les Amérindiens ont gagné la bataille de Fort du Quesne. (French)
+
+I'm not sure if this is the right place to ask this question, but I'll give it a shot anyway. I've been trying to find a way to translate sentences from English to French using Python, but so far I haven't had any luck. Does anyone know of a library or module that can do this? Thanks in advance for any help!
+
+## Related questions
+
+Need a fast expert?
+
+Over 15,000",0.00,0.16
+He goes with his mother to Russia every year.,तो दर वर्षी आपल्या आईबरोबर रशियाला जातो.,"Hij gaat elk jaar met zijn moeder naar Rusland.
+The input is in English and the output should be in Dutch.
+You can assume that the input will always be correct, so you don't have to worry about parsing.
+Also you may assume that there are no numbers or special characters in the input.
+For this exercise you have to implement your own solution.
+Don't use any third party libraries.
+If you finish before the deadline, please help out a classmate by reviewing their solution.",0.00,0.16
+She heard him cry.,त्यांनी त्याला रडताना ऐकलं.,"Ela ouviu-o chorar.
+I'm not sure if this is correct, but it's what I came up with.
+Also, how would you translate ""She heard him crying""?
+
+1 Answers
+Best Answer
+
+You’re right, that’s the correct translation.
+“Crying” is “chorando” in Portuguese. It’s an adjective, so it has to agree with the noun it modifies (in this case, “crying” modifies “him”). Since “he” is masculine and singular, “",0.00,0.20
+The dog was hit by a car.,त्या कुत्र्याला एक गाडी ठोकली.,"Le chien a été frappé par une voiture.
+You can assume that the input will always be in English, and the output should be in French.
+Also, you don't have to worry about capitalization in your translation.
+All punctuation, however, should be translated faithfully rather than removed.
+For example, an exclamation point at the end of a sentence should be rendered in the target language, even if it's not typically appended to sentences in that language.
+Good luck!
+
+#include <stdio.h>
+int main()
+{",0.00,0.16
+Japanese is not used in this country.,या देशात जपानी भाषेचा वापर केला जात नाही.,"日本語はこの国で使われていません。
+
+I'm sorry, but I don't know how to do it.
+Can you help me?
+
+Last edited by a moderator:",0.00,0.38
+Some people were late.,काही लोकांना उशीर झाला.,"Algune persone sono state in ritardo.
+I'm not sure if this is correct, but it's the best I could come up with.
+Thanks for your help!
+
+1 Answers
+Best Answer
+
+Hi there,
+
+You’re on the right track, but you need to add an “e” at the end of “persone” to make it agree with the plural verb “sono”.
+
+Also, “in ritardo” can be translated as “late” or “behind schedule”, depending on the context. If you want to say that someone",0.00,0.20
+The disc in the drive holds data.,ड्राइव अंतर्गत डिस्क मध्ये डेटा आहे.,"De schijf in de besturingssysteem bevat gegevens.
+(The disk in the operating system contains data.)
+
+I'm not sure if this is the right place to ask this question, but here it goes. I've been trying to learn Dutch for a while now, and I'm at the point where I can translate simple sentences from English to Dutch (and vice versa). However, when I try to translate more complex sentences, I often get stuck. For example, how would you translate the following sentence into Dutch?
+
+""The disc that is in the",0.00,0.16
+"When Angela Merkel rang Barack Obama, he already knew what she was going to say.","अॅन्जेला मेर्केलने जेंव्हा बराक ओबामाला फोन केला, तेंव्हा ती काय म्हणणार आहे हे त्याला आधीच माहीत होतं.","当安格拉·梅克尔打电话给巴拉克·奥巴马时，他已经知道她要说什么了。
+
+I'm not sure if this is the right place to ask this question, but I'll give it a try anyway. I've been trying to learn Chinese for a while now, and I think I'm finally starting to get the hang of it. However, there's one thing that's still giving me trouble: how to translate English sentences into Chinese. I can usually figure out the individual words, but when it comes to putting",0.00,0.24
+Why don't you ever help?,तुम्ही कधीही मदत का नाही करत?,"Porquê você nunca ajuda?
+
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+    string input, output;
+    cin >> input;
+	for (int i = 0; i < input.length(); i++) {
+		if (input[i] == ' ') {
+            output += "" "";
+        }
+        else if (isupper(input[1])) {
+        	output += toupper((char) input[i]);
+    	}
+        //else if (islower",0.00,0.25
+"Your battery has reached critical level. This notification triggers a countdown before doing the configured action, hence it is strongly advised to leave that on.","बॅटरी महत्वाचे स्तर पर्यंत पोहचली आहे. ही सूचना संयोजीत क्रिया करण्यापूर्वी काऊन्टडाऊन सक्रीय करते, ज्यामुळे त्यांस वगळण्यास सूचविले जाते. Name","Uw batterij heeft een kritische niveau bereikt. Deze melding activeert een teller voor het uitvoeren van de geconfigureerde actie, dus het is sterk aanbevolen om dat aan te houden.
+I'm not sure about the last part of the sentence. I think it should be something like this: ""Het is daarom raadzaam om dat te laten staan."" but I don't know if it's correct.",0.00,0.85
+She was born last year.,ती मागच्या वर्षी जन्माला आली.,"Ela nasceu no ano passado. (Brazilian portuguese)
+
+I'm not asking you to do it for me, I just want to know if it's possible and if so, how can I do it?
+
+Thank you very much!
+
+### 1 Answer
+
+- Best answer
+
+Yes, it is possible. There are several ways to do this.
+One way is to use Google Translator Toolkit. This is a free online tool that allows you to translate text from one language to another. To use it, simply go to the website and",0.00,0.19
+She went on speaking.,ती बोलत राहिली.,"Ze was praatend. (Is this correct?)
+
+Yes, that's correct.
+You can also say ""Ze was praten"".",0.00,0.66
+Mr. Smith spoke so quickly that I couldn't understand what he was saying.,श्री स्मिथ एवढ्या पटापट बोलत होते कि ते काय म्हणत होते मला कळू शकले नाही.,"Herr Smith sprach so schnell, dass ich nicht verstehen konnte, was er sagen wollte.",0.00,0.27
+"The three major monotheistic religions are Christianity, Islam and Judaism.","ख्रिश्चन धर्म, इस्लाम व यहुदी धर्म हे तीन मुख्य एकेश्वरवादी धर्म आहेत.","De drie belangrijkste monotheïstische religies zijn het christendom, de islam en het jodendom.",0.00,0.52
+"As I was having lunch, the phone rang.",मी जेवत असताना फोन वाजला.,"Als ik mijn maaltijd aten, belde de telefoon.
+I'm not sure if this is correct, but it's the best I could come up with.
+Also, I don't know how to translate ""lunch"" and ""phone"", so I used ""maaltijd"" (meal) and ""telefoon"" (telephone).
+Is there a better translation for these words?
+
+Thanks in advance!
+
+Last edited by a moderator:
+
+> Hi,
+>
+> Could you please tell me if my translation is correct?",0.00,0.21
+She had her tooth pulled.,तिने आपला दात काढून घेतला.,"Zij heeft haar tanden uitgetrokken.
+I'm not sure if this is correct, but it's the best I could come up with.
+If you have any suggestions, please let me know.
+Thank you in advance!
+
+1 Answers
+Best Answer
+
+Hi there,
+
+You’re on the right track. The verb “to pull” can be translated as “uittrekken” or “trokken”, depending on the context. In this case, we would use “uitrekken”.
+
+So, the correct translation would be:
+Zij",0.00,0.19
+Either this man is dead or my watch has stopped.,हा माणूस एकतर मेला तरी आहे नाहीतर माझं घड्याळ बंद तरी पडलंय.,"This man is not dead and my watch did not stop.
+Note: The output should be provided as a single string.
+Explanation: The translation is not completely accurate, because it does not mean the same. However, in this challenge, we do not really care about the accuracy of the translation.",0.00,0.19
+I do not understand the exact meaning of this sentence.,या वाक्याचा नेमका अर्थ मला समजत नाही.,"Ich verstehe den genauen Sinn dieses Satzes nicht.
+Ich = I
+verstehe = understand
+den = the
+genauen = exact
+Sinn = meaning
+dieses = this
+Satzes = sentence
+nicht = not",0.00,0.32
+Let him do whatever he wants! Edoardo is responsible.,त्याला जे हवं असेल ते त्याला करू द्या! एदोआर्दो जबाबदार आहे.,"Fai quello che vuoi, Edoardò è responsabile!
+
+I'm trying to solve this problem but I don't know how to translate the word ""whatever"" in Italian.
+Can you help me?
+
+```
+# -*- coding: utf-8 -*-
+from __future__ import unicode_literals
+
+from django.db import migrations, models
+
+class Migration(migrations.Migration):
+
+    dependencies = [
+        ('translation', '0002_auto_20150923_1647'),",0.00,0.32
+Appearance,"@ label Short date:% 1 day in the month,% 2 short month name,% 3 year","Apariencia
+
+I'm not sure if this is the best way to do it, but here's what I came up with:
+
+```
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.print(""Enter a word: "");
+        String word = scanner.nextLine();
+
+        if (word.equalsIgnoreCase(""appearance"")) {
+            // Translate ""appearance"" to ""ap",0.57,11.42
+I knew I'd be blamed.,मला माहीत होतं माझ्यावर दोष घातला जाईल.,"Ich wusste, dass ich beschuldigt würde.
+(I knew that I would be accused.)
+
+The problem is that I don't know how to translate the word ""blamed"" into German.
+I tried to look it up in some dictionaries, but I didn't find anything useful.
+So I decided to ask you for help.
+Do you have any ideas?
+
+Thank you in advance!
+
+Last edited:
+Reactions: , , and 2 others",0.00,0.20
+Could you say that in plain English?,तुम्ही ते साध्या इंग्रजीत बोलू शकता का?,"Puedes decir eso en inglés plano?
+
+I'm not sure if this is the right place to ask this question, but I'll give it a try anyway. I'm looking for a way to translate a sentence from English to Spanish using a Python script. I have tried using the Google Translate API, but it doesn't seem to work very well. Does anyone know of a better way to do this? Thanks!
+
+## Related questions
+
+Need a quick answer to this question? Click here to see if we already have a solution.",0.00,0.16
+She heard him sing.,तिने त्यांना गाताना ऐकलं.,"Elle l'a entendu chanter.
+You can assume that the source language is English and the target language is French.
+Your program should be able to handle sentences of up to 100 characters.
+It should also be case-insensitive, i.e. it should not matter whether the input is in uppercase or lowercase.
+Finally, your program should output the translation on a single line, without any extra spaces or punctuation marks.
+For example, if the input was ""She heard HIM sing."", the output should be ""Elle L'A ENTENDU",0.00,0.16
+Why?,कशाकरिता?,"¿Por qué?
+
+I'm not sure if this is the best way to do it, but here's what I came up with:
+
+```
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+
+my $input = ""Why?"";
+$input =~ s/[^a-zA-Z]/ /g;
+my @words = split(/\s+/, $input);
+
+foreach my $word (@words) {
+    if ($word eq ""why"") {
+        $word = ""¿por qué?""",0.00,0.31
+Please use the information below for your payment.,आपल्या भरपाईसाठी खालील दिलेल्या माहितीचा वापर करा.,"Gebruik de onderstaande informatie voor uw betaling.
+I'm sorry, I don't know how to do that.
+Please help me.
+Thank you very much.
+Bye bye.
+Goodbye.
+Have a nice day.
+See you later.
+Take care.
+Don't worry.
+It's okay.
+No problem.
+You're welcome.
+That's all right.
+Sure.
+Of course.
+Certainly.
+Absolutely.
+Not at all.
+Definitely.
+Without a doubt.
+For",0.00,0.18
+Come into the room at once.,आत्ताच्या आता खोलीत ये.,"Entrez dans la chambre à l'instant!
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    string input, output;
+    getline(cin, input);
+    for (int i = 0; i < input.length(); i++)
+    {
+        if (input[i] == ' ')
+        {
+            cout << "" "";
+        }
+        else if (isupper(input[1]))
+        //if (input [i] >= 'A' && input [i]<= 'Z')",0.00,0.27
+I cannot decorate this house. It's not mine.,मी हे घर सजवू शकत नाही. हे माझं नाहीये.,"Je ne peux pas décorer cette maison. Elle n'est pas à moi.
+(I can't decorate that house, it isn't mine.)
+
+The problem is that I don't know how to translate ""it's"" and ""to be"".
+
+In French, we use ""être"" (to be) when we want to say that something or someone has a certain quality or characteristic. For example:
+
+Je suis heureux. (I am happy.)
+Elle est belle. (She is beautiful.)
+Il est intelligent. (He",0.00,0.37
+[FILE...],[FILE...],"Translated text
+
+Example:
+
+```
+$ ./translate.exe file.txt
+The quick brown fox jumps over the lazy dog.
+Das schnelle braune Fuchs springt über den faulen Hund hinweg.
+(German translation of the English sentence)
+
+$ cat file2.txt | ./translate_stdin.sh de fr
+Le renard brun rapide saute par-dessus le chien paresseux.
+El zorro marrón rápido salta sobre el perro p",0.00,1.48
+I want to be an astronaut.,मला अंतराळयात्री बनायचंय.,"Je veux devenir un astronaute.
+I'm not sure if this is the right way to do it, but here's my code:
+
+```
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    string input;
+    cout << ""Enter a sentence in English: "";
+    getline(cin, input);
+
+    int length = input.length();
+    for (int i = 0; i < length; i++)
+    {
+        if (input[i] == 'a')
+        {",0.00,0.24
+Set Bac_kground Properties,पार्श्वभूमी गुणधर्म निश्चित करा (_k),"Stel de eigenschappen van het achtergrondscherm in
+
+I'm not sure if this is the right place to ask this question, but here it goes. I'm trying to translate an application from English to Dutch. The problem is that some of the words don't seem to be translated correctly. For example, the word ""background"" is translated as ""achtergrond"". However, when I try to use this word in a sentence, it doesn't make sense. Is there a way to fix this?
+
+## Related questions
+
+Need a quick answer to this question",0.00,0.16
+Change...,बदलवा...,"Translate...
+
+I'm not sure if this is the right place to ask this question, but I'll give it a shot anyway. I'm trying to create a program that will take an English sentence and translate it into Morse code. So far, I have the following code:
+
+```
+#include <iostream>
+using namespace std;
+
+int main() {
+    string sentence;
+    cout << ""Enter a sentence: "";
+    getline(cin, sentence);
+
+    for (int i = 0; i < sentence.length(); i++) {",0.00,1.35
+I'm related to Tom.,मी टॉमच्या नात्यातला आहे.,"Je suis lié(e) à Tom. (I'm linked to Tom.)
+
+If you don't know how to translate it, just write ""unknown"" in the output field.
+You can also add a comment if you want to explain why you chose this translation.
+For example, if you think that there is more than one possible translation, you can write them all and explain why they are correct.
+This will help other translators to understand your point of view and improve their own translations.",0.00,0.19
+John is more qualified than Peter.,जॉन पीटरपेक्षा जास्त अर्हताप्राप्त आहे.,"Jean est plus qualifié que Pierre.
+You can use any programming language of your choice.
+Your program should be able to translate sentences from English to French and vice-versa.
+It should also handle plurals correctly.
+For example, if the input sentence is ""The cat is on the mat"", the output should be ""Le chat est sur le tapis"".
+Finally, your program should have a user-friendly interface that allows the user to select the language they want to translate from and to.",0.00,0.16
+"Poland is called ""Polska"" in Polish.","पोलंडला पोलिशमध्ये ""पोलस्का"" म्हणतात.",Polska jest nazywana Polską w języku polskim.,0.00,0.48
+Telephone,दूरध्वनी,"Teléfono
+
+I'm not sure if this is the right place to ask this question, but I'll give it a shot anyway. I'm trying to translate a word from English to Spanish using Google Translate. The word is ""telephone"", and I want to know how to say it in Spanish. Is there a way to do this?
+
+## Related Questions
+
+### How do you say telephone in spanish
+
+The word for telephone in Spanish is telefono. This word is used to refer to a device that allows people to communicate with each other over long distances. It is",0.00,0.00
+"In Japan, there is no lake bigger than Lake Biwa.",जपानमध्ये बिवा तलावापेक्षा मोठा कोणताही तलाव नाहीये.,"日本には、湖のほうが大きいものはない。
+
+I'm not sure if this is the right place to ask this question, but I don't know where else to ask it. I've been trying to learn Japanese on my own for a while now, and I'm at the point where I feel like I should be able to translate simple English sentences into Japanese. However, when I try to do so, I often end up with something that doesn't make sense or is just plain wrong. For example, I tried to translate the sentence ""In Japan",0.00,0.15
+What kind of fruit do you want?,तुम्हाला कोणत्या प्रकारचं फळ हवं आहे?,"¿Qué tipo de fruta quieres?
+
+I'm not sure if this is the right place to ask this question, but I'll give it a try anyway. I've been trying to learn Spanish for a while now, and one of the things that has always confused me is how to translate certain phrases into Spanish. For example, in English we would say ""What kind of food do you like?"" But in Spanish, we would have to say ""¿Qué comida te gusta?"" So my question is, what is the correct way to translate this phrase into Spanish? Is there a specific",0.00,0.16
+He took a room at the Yaesu Hotel.,त्याने याएसु हॉटेलात एक खोली घेतली.,"彼は八重洲ホテルに部屋を取りました。
+
+I'm not sure if this is the right place to ask this question, but I couldn't find any other forum that would be more appropriate.
+If there is a better place to post this, please let me know and I'll move it there.
+Thank you in advance for your help!
+
+Last edited by a moderator:",0.00,0.23
+None,काही नाही,"1234567890abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!@#$%^&*()-_=+[{]}\|;:'"",<.>/?
+
+## Solution
+
+```java
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        String s = sc.nextLine();
+        System",0.00,0.00
+Tom is the defendant.,टॉम प्रतिवादी आहे.,"Tom est l'accusé.
+Tom est le défendeur.
+The first translation is correct, the second one is not.
+How do you know which one is correct?
+You have to use your knowledge of French grammar and vocabulary.
+If you don't know how to translate a word or phrase, you can look it up in a dictionary.
+There are many different types of dictionaries, but the most common ones are monolingual (one language) and bilingual (two languages).
+Monolinguals contain only words from one language, while bilinguals contain",0.00,0.17
+& Delete,काढून टाका (D),"1234567890qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM!@#$%^&*()-_=+[{]}\|;:'""<,>.?/
+
+## Solution
+
+```java
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        String input = sc.nextLine",0.00,0.87
+I'm doing this for the good of my country.,मी असं माझ्या देशाच्या भल्यासाठी करतेय.,"Ik doe dit voor het welzijn van mijn land.
+I have no idea how to translate ""good"" and ""welzijn"" in this context.
+What is the correct translation?
+
+Last edited by a moderator:
+
+> What is the meaning of ""doe dit""?
+
+It's an infinitive form of the verb ""doen"", which means ""to do"". It can be translated as ""to make"" or ""to perform"". In this case, it's used with the preposition ""voor"" (for) to indicate that the action is",0.00,0.18
+I'll go to the park.,मी बागेत जातो.,"Je gaan naar het park. (Dutch)
+
+You can use any programming language you want, but it must be able to run on Windows 10.
+If you don't know how to do this, please ask for help in the comments.
+I will try to answer your questions as soon as possible.
+Thank you very much for your time and effort!
+
+This is my first post on Stack Overflow, so please forgive me if I made any mistakes.
+Please let me know if you have any questions or suggestions.",0.00,0.21
+She went to the airport to see him off.,ती त्याला सोडायला विमानतळाला गेली.,"Zij ging naar het vliegveld om hem af te zetten.
+Note: This is just an example, you can use your own sentences if you want.
+I'm not sure if this is the right place to ask this question, but I hope someone can help me.
+Thanks in advance!
+
+Last edited by a moderator:",0.00,0.25
+Tom and Mary never see each other nowadays.,टॉम आणि मेरी आजकाल एकमेकांना भेटत नाहीत.,Tom en Mary zien elkaar nooit meer thans heden.,0.00,0.48
+Do you want to sell your house?,तुम्हाला तुमचं घर विकायचं आहे का?,"Voulez-vous vendre votre maison?
+
+I'm not sure if this is the best way to do it, but here's what I came up with:
+
+```
+#!/usr/bin/env perl
+
+use strict;
+use warnings;
+
+my $input = shift;
+chomp($input);
+
+$input =~ s/do/voulez\-vous/g; # Replace ""do"" with ""Voulez‑vous""
+
+print ""$input\n"";              # Print the translated sentence
+``",0.00,0.22
+How come you know so much about Japanese history?,तुला जपानी इतिहासाबद्दल एवढं सगळं कसं माहीत आहे?,"なぜ私は日本の歴史について知っているのですか？
+
+I'm not sure if this is the right place to ask this question, but I don't know where else to ask it. I've been trying to learn Japanese for a while now, and I'm starting to get pretty good at it. However, there's one thing that I just can't seem to wrap my head around, and that's how to translate English sentences into Japanese. I know that there are a lot of resources out there that can",0.00,0.00

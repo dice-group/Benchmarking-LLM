@@ -1,0 +1,101 @@
+Source,Reference,Prediction,BLEU,chrF++
+Message edited at %s,စကား လက်ခံရ,<extra_id_0>,0.00,0.00
+Hide main window,ပင်မဝင်းဒိုး ဖွက်ထားပါ,<extra_id_0>  <extra_id_1>  <extra_id_2>  <extra_id_3>  <extra_id_4>  <extra_id_5>  <extra_id_6>  <extra_id_7>  <extra_id_8>  <extra_id_9>  <extra_id_10>  <extra_id_11>  <extra_id_12>  <extra_id_13>  <extra_id_14>  <extra_id_15>  <extra_id_16>  <extra_id_17>  <extra_id_18> t <extra_id_19>  <extra_id_20>  <extra_id_21>  <extra_id_22>  <extra_id_23>  <extra_id_24>  <extra_id_25>  <extra_id_26>  <extra_id_27>  <extra_id_28>  <extra_id_29>  <extra_id_30>  <extra_id_31>  <extra_id_32>  <extra_id_33>  <extra_id_34>  <extra_id_35>  <extra_id_36>  <extra_id_37>  <extra_id_38>  <extra_id_39>  <extra_id_40>  <extra_id_41>  <extra_id_42>  <extra_id_43>  <extra_id_44>  <extra_id_45>  <extra_id_46> latviešu  <extra_id_47>  <extra_id_48>  <extra_id_49>  <extra_id_50>  <extra_id_51>  <extra_id_52>  <extra_id_53> i  <extra_id_54>  <extra_id_55> t ң  <extra_id_56>,0.00,0.00
+/clear: clear all messages from the current conversation,/clear - အခုစကားပြောရာမှ စာကြောင်းများအားလုံး ရှင်းလင်းပါ,<extra_id_0> /clear:,0.00,7.87
+"Last month clashes between indigenous Bodo tribes and Muslim settlers in the Indian State of Assam broke out which led to rioting, killings and mass displacement.",ပြီးခဲ့တဲ့လက ဖြစ်ပွားခဲ့သော် အိန္ဒိယနိုင်ငံ အာသံပြည်နယ်အတွင်းမှ ဒေသခံဘိုဒိုမျိုးနွယ်စုများနှင့် လာရောက်အခြေချနေထိုင်သော မွတ်ဆလင်တို့၏ပဋိပက္ခသည် အဓိကရုဏ်းဖြစ်ခြင်း၊,<extra_id_0> which led to.,0.00,0.00
+Failed to open '%s' for writing: %s,'%s' ကို ဖွင့်ပြီး ရေးသားဖို့ မအောင်မြင်တဲ့ အရာ - %s,<extra_id_0>: %s,0.34,1.29
+Santos knows what challenges women face in this male-dominated industry.,အမျိုးသားများ အုပ်စိုးထားသော ဤ သတင်းလုပ်ငန်းတွင် အမျိုးသမီးများ ကြုံတွေ့ရသော အခက်အခဲများကို ဆန်တို့(စ) သိသည်။,<extra_id_0>. Continue reading,0.00,0.00
+From which families do they come?,သူတို့ ဘယ်မိသားစုကလာတာလဲ။,<extra_id_0>.,0.00,0.00
+Go to the next image of the gallery,ရှေ့ဆုံးပုံ သွားပါ,<extra_id_0> Go to image gallery.,0.00,0.00
+Postal Code:,စာတိုက်အမှတ် -,<extra_id_0> Post Archives,0.00,0.00
+"But aside from the three-finger salute, protesters are also doing read-in protests in public places to dramatize their opposition to the coup.",ထိုင်း​တပ်​မတော်​က မေ​လ(၂​၀)ရက်​နေ့​တွင် ည​မ​ထွက်​ရ​အမိန့်​ကို ကြေညာခဲ့ပြီး နှစ်​ရက်​အကြာ​တွင် အာဏာ​သိမ်း​ခဲ့​သည်။,<extra_id_0> the coup is coming.,0.00,0.00
+libburnia burning suite,libburnia ရိုက်ယူမှုနည်းများ,<extra_id_0> burning,0.00,11.73
+Simulation of (S)VCD burning,အက်ဒီဗီဒီ ရေးယူရန် အစမ်းပြသခြင်း,<extra_id_0>. <extra_id_1> (S)VCD,0.00,0.00
+Extension(s),အမျိုးအစား,<extra_id_0>.,0.00,0.00
+Creating file layout,ဖိုင်နေရာချထားမှုကိုပြုလုပ်,<extra_id_0>,0.00,0.00
+Select Your Avatar Image,မျက်နှာစာပုံ ရွေးချယ်ပါ,<extra_id_0>.,0.00,0.00
+Text Editor,စာသား တည်းဖြတ်ကိရိယာ,<extra_id_0>,0.00,0.00
+Pause length:,ရပ်မှတ် ကြာချိန်:,<extra_id_0>.,0.00,0.00
+Song start:,သီချင်းအစ,<extra_id_0>,0.00,0.00
+Rickshaw as a mean of transportation pulled by a human being has been considered a violation of human rights. So the Commune of Antsirabe launched the “cyclopousse” – a rickshaw pulled by a bike.,"ဒါပေမဲ့​လည်း ""ရိုးရာ"" လန်​ချား​တွေ​က အန်​ဆီ​ရာ​ဘဲ ဒေသ​ခံတော်တော်​များ⁠များ​အတွက် အဓိက​သွား​လာ​ရေး​နည်း​အနေ​နဲ့ ဆက်​ရှိ​နေ​သေး​တာ​ပါ​ပဲ။",<extra_id_0> a human being.,0.00,0.00
+Changes the case of selected text.,ရွေးချယ်ထားသော စာသားကို အကြီးအသေးပြောင်း,<extra_id_0>.,0.00,0.00
+What is your Google ID?,Google အမည် သွင်းပါ,<extra_id_0> isn't,0.00,0.98
+Image from today's protest in Benghazi.,"""စိတ်မကောင်းပါဘူး ခရစ်(စ်)ရယ် ၊","<extra_id_0> Image from Wikipedia, the Free ",0.00,0.00
+_Debug,_D အမှားစစ်,<extra_id_0>,0.00,1.60
+Appending audio tracks to a CD is not advised.,စီဒီသို့သီချင်းဖိုင်များထပ်ထည့်ခြင်းကို မပြုလုပ်စေလိုပါ,<extra_id_0> Audio tracks,0.00,0.00
+File format not recognized,ဖိုင်ပုံစံကိုအသိအမှတ်မပြုနိင်ပါ,<extra_id_0>.,0.00,0.00
+"For a moment, the news about the checkpoint came as a shock.",ယင်းသည် ကျွန်ုပ်၏ ဘ၀ကို ပြီးဆုံးစေခဲ့သောသူတို့၏ အကြွင်းမဲ့ နိဂုံးဟု အနက်ဆောင်ပါသည်။,<extra_id_0> for a ...,0.00,0.00
+"Saving ""%s""",%sကို အစပြုနေတယ်,<extra_id_0>.,0.00,0.00
+Import Snippets,အချက်အလက်အတိုထွာများကို ထည့်သွင်း,<extra_id_0>,0.00,0.00
+Whether to check words typed against the languages you want to check with.,ရိုက်လိုက်သော စာသားများကို သင်စစ်ဆေးစေလိုသော ဘာသာစကားအတိုင်း စစ်ဆေးပေးရန် လိုမလို,<extra_id_0> to check words.,0.00,0.00
+Groups,အဖွဲ့,<extra_id_0>,0.00,0.00
+Format:,အချိုးအစား-,<extra_id_0>,0.00,0.00
+Mer_ge,_G ရောပါ,<extra_id_0>,0.00,2.08
+Unrecognized launch option: %d,စတင်ဆောင်ရွက်ရန်ရွေးချယ်စရာ: %d ကိုအသိအမှတ်မပြု,"<extra_id_0>"" , """,0.00,0.43
+Type,အမျိုးအစား,<extra_id_0>,0.00,0.00
+8 Shocking Quotes from Malaysian Politicians · Global Voices,မလေးရှား နိုင်ငံရေးသမားများ ပြောသည့် လန့်စရာစကား (၈)ခွန်း,<extra_id_0> 8 Shocking Quotes,0.00,0.00
+Simulation of data CD burning,ဒေတာစီဒီရေးယူရန်အစမ်းပြသခြင်း,<extra_id_0>. <extra_id_1> data CD burning,0.00,0.00
+Default,မူရင်းအတိုင်း,"<extra_id_0>/ <extra_id_1> | <extra_id_2>Official Site <extra_id_3>/ <extra_id_4>Official Site <extra_id_5>/ <extra_id_6> Home <extra_id_7> / Featured / <extra_id_8> News <extra_id_9> News <extra_id_10> News <extra_id_11> News <extra_id_12> News & Events - Default - Blog <extra_id_13> News <extra_id_14>/ <extra_id_15>Editorial / <extra_id_16> Miriam <extra_id_17>'s Blog <extra_id_18>/ <extra_id_19>News <extra_id_20>news.com.au – Listing - No <extra_id_21>: <extra_id_22> News <extra_id_23>- <extra_id_24> 0 Comments / No default / <extra_id_25> News <extra_id_26> (no ""article"") - <extra_id_27> News <extra_id_28> News <extra_id_29> News <extra_id_30> News <extra_id_31>’s Blog ” <extra_id_32> News Archives - <extra_id_33> News <extra_id_34>",0.00,0.00
+Loose Routing,အတည်မရှိလမ်းကြောင်း,<extra_id_0>.,0.00,0.00
+Enable Search Highlighting,အရောင်မျဉ်းဖြင့် ရှာနိုင်အောင် ပြုလုပ်,<extra_id_0>. <extra_id_1> Advanced Search,0.00,0.00
+An Instant Messaging client for GNOME,ဂနုမ်းအတွက် စကားပြောဆိုမှု ကလိုင်းယင့်,<extra_id_0>,0.00,0.00
+Select all files,ဖိုင်များအားလုံးကိုရွေးချယ်ပါ,<extra_id_0>,0.00,0.00
+"Traveling across Madagascar through public transportation is still a unique experience. The most affordable way to travel is via the rural taxi, Taxi Brousse.",မာ​ဒ​ဂါ​စကား​တစ်​ခွင် အများ​ပြည်​သူ​သုံး​ယာဉ်​များ​ကို သုံး​၍ ခရီးသွား​ရ​ခြင်း​မှာ ထူးခြား​သည့် အတွေ့​အကြုံ​တစ်​ခု​ဖြစ်​နေ​ပါ​သေး​သည်။,<extra_id_0> the most affordable.,0.00,0.00
+"""%s"" is busy.","""%s"" မအားသေးပါ",<extra_id_0>.,0.00,0.00
+Name,အမည်,<extra_id_0>.,0.00,0.00
+Sets consistent sound levels between tracks,သီချင်းအပုဒ်တွေကြား တူညီမှုရှိတဲ အသံနှုန်းကိုသတ်မှတ်ပါ,<extra_id_0>.,0.00,0.00
+Error while loading the project.,ပရောၐျက်ကိုဖွင့်နေစဉ်အမှားဖြစ်နေသည်,<extra_id_0>.,0.00,0.00
+_Check Spelling...,_C စာလုံးပေါင်းစစ်,<extra_id_0>,0.00,1.04
+offline,လိုင်းပြင်,<extra_id_0>.,0.00,0.00
+Sounds,အသံများ,<extra_id_0>.,0.00,0.00
+Specify file containing saved configuration,သိမ်းဆည်းမှုပုံစံတွင် ပါဝင်သောဖိုင်ကို သတ်မှတ်ပါ,<extra_id_0>.,0.00,0.00
+Advanced,အဆင့်မြင့်,<extra_id_0>/ <extra_id_1>/ <extra_id_2>/ <extra_id_3>/ <extra_id_4>/ <extra_id_5>/ <extra_id_6> / <extra_id_7> / <extra_id_8> / <extra_id_9> / <extra_id_10> / <extra_id_11> / <extra_id_12> / io <extra_id_13> / <extra_id_14> / <extra_id_15> / <extra_id_16> / Home <extra_id_17> / <extra_id_18> / <extra_id_19> - <extra_id_20> e-commerce.com.au <extra_id_21> / The <extra_id_22> / <extra_id_23> / <extra_id_24> / My <extra_id_25> 's blog ' <extra_id_26>  : Home \ Advanced \r  <extra_id_27>  t <extra_id_28>  _ <extra_id_29>  n <extra_id_30>   Product <extra_id_31>  Catalog <extra_id_32>   0== <extra_id_33> ,0.00,0.00
+Error: Client resource %s does not exist.,မှားယွင်းချက် -Clientအရင်းအမြစ် %s မတည်ရှိပါ။,<extra_id_0>.,0.00,1.38
+C_ontact,_O အဆက်အသွယ်,<extra_id_0>,0.00,1.49
+"The cylinders contain sheets of plastic membranes wrapped around a central pipe, and the membranes are stippled with pores less than a hundredth the diameter of a human hair.",စလင်ဒါထဲတွင် အလယ်ဗဟို ပိုက်ကို ရစ်ပတ်ထားသော ပလက်စတစ် အမှေးပါးအလွှာများ အထပ်လိုက်ပါဝင်သည်။ ထိုအမှေးပါးများသည် လူ့ဆံပင်၏ အချင်းထက် အဆတစ်ရာမျှပိုသေးသော အစက်အပြောက်များဖြင့် အပေါက်ဖောက်ထားသည်။,<extra_id_0> the cylinders.,0.00,0.00
+There are unsaved modifications to your %s account.,သင်၏ %s အကောင့်ပေါ်တွင် မသိမ်းဆည်းရသေးသော ပြုပြင်ပြောင်းလဲမှုများ ရှိသည်။,"<extra_id_0>, please contact me.",0.00,0.28
+Climb Speed:,တက်နှုန်း အလျင် -,<extra_id_0>,0.00,0.00
+Egypt: The Tweeting President · Global Voices,တွစ်​တာ​စာ​တို​ပို့​နေ​သော သမ္မတ,<extra_id_0> - Worldnews.,0.00,0.00
+Calculating,ဂဏန်းတွက်စက်,<extra_id_0>.,0.00,0.00
+"""%s"" is busy.","""%s"" မအားသေးပါ",<extra_id_0>.,0.00,0.00
+"File ""%s"" could not be opened (%s)","(%s) မှဖိုင် ""%s"" ကိုဖွင့်မရပါ",<extra_id_0> (%s),2.48,7.02
+"One city and five countries — Colombia, Ecuador, Peru, Indonesia, Papua New Guinea and San Diego, California — have already declared a state of emergency due to the El Niño, while the United Nations has deployed emergency resources to a further 10 countries.",ပါပူဝါနယူးဂီနီ နှင့် အမေရိကန်နိုင်ငံ ကယ်လီဖိုးနီးယားပြည်နယ်ရှိ ဆန်ဒီယာဂိုမြို့တို့တွင် အရေးပေါ်အခြေအနေကို ကြောညာလိုက်ကြပြီဖြစ်ပြီး ကမ္ဘာကုလသမဂ္ဂအနေဖြင့်လည်း နောက်ထက် နိုင်ငံ ၁၀ နိုင်ငံတွင် အရေးပေါ်လုပ်ငန်းစဉ်များကို စီမံဆောင်ရွက်ထားပြီး ဖြစ်သည်။,"<extra_id_0>, the United Nations.",0.00,0.00
+@PinkNinj4: ohai @RedPepperUG remember when u printed names & addresses of 'queers' in 2009?,၂၀၀၆ ခုနှစ် ဩဂုတ်လတွင် ငရုတ်ကောင်းနီမှ ယူဂန်ဒန် လိင်တူချစ်သူဟု ယူဆရသူများ၏ အမည်များကို ထုတ်ဝေဖော်ပြခဲ့သည်။,<extra_id_0> @RedPepperUG,0.00,0.00
+Or maybe Greater Nanyang?,တောင်​ပိုင်း ဟင်​ဒူ​စ​တန်၊,<extra_id_0>.,0.00,0.00
+Extract files from the archive,ဖိုင်ထုပ်ထဲမှဖိုင်တွေကိုထုတ်ယူပါ,<extra_id_0>...,0.00,0.00
+Accept,လက်ခံ,<extra_id_0>. <extra_id_1> Privacy Policy <extra_id_2> Cookies <extra_id_3>Cookies <extra_id_4>Cookies <extra_id_5> Cookies <extra_id_6> Claim <extra_id_7> Blog,0.00,0.00
+It is not interesting for me to work with colleagues here and I do not envision any development.,ဒီကလုပ်ဖော်ကိုင်ဖက်တွေနဲ့ အလုပ်လုပ်ရတာ ဘယ်လိုဖွံ့ဖြိုးတိုးတက်မှုတွေကိုမှ မျှော်မှန်းလို့မရသလို ကျွန်မအတွက် စိတ်ဝင်စားဖို့ မကောင်းတော့ဘူး။,"<extra_id_0>, but it is not.",0.00,0.00
+No silence could be detected,ငြိမ်မှတ်ကိုမတွေ့ရှိပါ,<extra_id_0> No silence,0.00,0.00
+%s / %s,%s / %s,<extra_id_0>s <extra_id_1> / %s,16.82,15.71
+Allow DAO use,DAO အသုံးပြုမှုကိုခွင့်ပြု,<extra_id_0>,0.00,0.00
+"In our days, which have all become similar to each other, death has become the norm and life the exception.",တစ်ရက်နှင့် တစ်ရက် ထပ်တူကျလာသော ကျွန်ုပ်တို့၏ နေ့ရက်များတွင် သေဆုံးခြင်းသည် ဓုဝ တစ်ခု ဖြစ်လာပြီး ရှင်သန်ခြင်းဟာ ချွင်းချက်တစ်ခု ဖြစ်လာသည်။,<extra_id_0> death has become,0.00,0.00
+Want to dedicate 1st tweet to martyrs of #jan25 revolution and brave #syrians...,ပထမဆုံးတွစ်တာစာတိုကို #jan25 (ဇန်၂၅) တော်လှန်ရေးနဲ့ ရဲရင့်တဲ့ #syrians (ဆီးရီးယားလူမျိုးတွေ)အတွက် အထူးပြုချင်တယ်.,<extra_id_0> #jan25 revolution...,1.37,4.84
+"Sure, Samsung might be seen by some as a national champion, but there are many who also see it as the epitome of corporate evil—and not without reason Wrote Robert Koehler in his blog post on a poll result showing South Koreans still support Samsung in its patent legal battle against Apple.",အယ်ပဲ(လ်)နဲ့ ဖြစ်နေတဲ့ မူပိုင်ခွင့်အတွက် တရားရင်ဆိုင်မှုစစ်ပွဲမှာ ဆမ်ဆောင်းကို ထောက်ခံအားပေးသူ တောင်ကိုးရီးယားလူမျိုးတွေရှိနေသေးတယ်ဆိုတာကို ပြတဲ့ စစ်တမ်းတစ်ခုအကြောင်း ရောဘတ် ကိုအယ်ဟလာက သူ့ဘလော့(ဂ်)မှာ ရေးသွားတာပါ။,"<extra_id_0>, Samsung is a national champion.",0.00,0.00
+We have several of the same kind already and recently they are not being useful to us and to the rest of the Asia-Pacific region.,ကျွန်တော်​တို့ ကြိုက်​ကြိုက် မ​ကြိုက်​ကြိုက် ဒါ​က ပြဿနာ​ဖြစ်​စေ​တဲ့ အရာ​ဆို​တာ ထင်ရှား​လွန်း​ပါ​တယ်။,<extra_id_0> region. We have several,0.00,0.00
+Sort by _Name,_N အမည်အရ စီစဉ်ပါ,<extra_id_0>...,0.00,1.11
+Properties,%s ဂုဏ်သတ္တိများ,<extra_id_0> Home <extra_id_1> » <extra_id_2> Properties <extra_id_3> Search <extra_id_4>: <extra_id_5> 1 <extra_id_6> » Properties <extra_id_7> Properties <extra_id_8> Listing <extra_id_9> Properties <extra_id_10> Names <extra_id_11> Properties <extra_id_12> Names <extra_id_13> Properties <extra_id_14> Properties <extra_id_15> Properties <extra_id_16> Properties <extra_id_17> Properties <extra_id_18> Properties <extra_id_19> Properties <extra_id_20> Properties <extra_id_21> Properties <extra_id_22> Properties <extra_id_23> Properties <extra_id_24> Properties <extra_id_25> Properties <extra_id_26> Properties <extra_id_27> s <extra_id_28>. <extra_id_29> Properties <extra_id_30> Properties <extra_id_31> Properties Properties <extra_id_32> Properties <extra_id_33> Properties <extra_id_34> Properties <extra_id_35> Properties <extra_id_36> > Properties <extra_id_37> Properties <extra_id_38> Properties <extra_id_39> Properties <extra_id_40> Properties <extra_id_41> Properties <extra_id_42> Properties <extra_id_43>,0.00,0.08
+"Bagan, which is also a popular tourism destination, has almost 3,000 pagodas and temples. The last time an earthquake destroyed Bagan temples was in 1975.",၈ ပမာဏရှိသော ငလျှင်ကြောင့် ဘုရားစေတီ ပုထိုးပေါင်း ၂၂၈ ပျက်ဆီးဆုံးရှုံးခဲ့ရပြီး လူ ၃ ဦးအသက်ဆုံးရှုံးခဲ့ရတယ်လို့ မြန်မာအာဏာပိုင်များက သတင်းပေးပို့ခဲ့ပါတယ်။,"<extra_id_0>, which is also known",0.00,0.00
+Minimum drive buffer fill ratio (in %%) (see cdrecord manual):,ဒရိုက်ဗ်ကြားခံ ဖြည့်သည့် အနိမ့်ဆုံးအချိုး(in %%) (cdrecordလက်စွဲကြည့်ရန်):,<extra_id_0> (in %),0.00,4.26
+The specified contact is offline,ရွေးထားသော အဆက်အသွယ်မှာ လိုင်းပြင်ပရောက်နေသည်။,<extra_id_0>.,0.00,0.00
+General,အထွေထွေ,<extra_id_0>,0.00,0.00
+Disable syntax highlighting,စာသား၊ စာလုံးများ အရောင်မျဉ်းတားခြင်းကို မပြုလုပ်,<extra_id_0>.,0.00,0.00
+"The pipe is so large I could walk through it standing upright, were it not full of Mediterranean seawater pumped from an intake a mile offshore.",တစ်မိုင်အကွာအဝေး လောက်တွင်ရှိသော မြေထဲပင်လယ်ကမ်းခြေမှ ဆားငန်ရေများနှင့် ပြည့်မနေပါက ထိုပိုက်များသည် အလွန်ကြီးမားသောကြောင့် ကျွန်တော်ပင်အထဲက မတ်တက်ရပ်၍ ကောင်းကောင်းလျှောက်သွားနိုင်သည်။,<extra_id_0>. The pipe is so large,0.00,0.00
+Not a launchable item,ဖွင့်လို့မရသည့်အရာ,<extra_id_0>.,0.00,0.00
+_Edit,_E တည်းဖြတ်,<extra_id_0>,0.00,1.60
+Add files to an archive,ဖိုင်တွဲထဲသို့ဖိုင်များပေါင်းထည့်ပါ,<extra_id_0>,0.00,0.00
+C_ontact,_O အဆက်အသွယ်,<extra_id_0>,0.00,1.49
+_Toolbar,_T တန်ဆာပလာတန်း,<extra_id_0>,0.00,1.23
+Pop up notifications if the chat isn't focused,စကားပြောရာ တစ်ခုတည်း မဟုတ်လျှင် အသိပေးချက်များ ပွင့်ထွက်ပါ,<extra_id_0> other users focusing,0.00,0.00
+Song titles,သီချင်းခေါင်းစဉ်,"<extra_id_0>簋 ᑊ,rl.) ec.{/ 㡢 ráj <extra_id_19>е 参考になین <extra_id_18> <extra_id_18>tiful <extra_id_15> <extra_id_56>,",0.00,0.00
+Offline — %s,လိုင်းပြင်ရောက် — %s,<extra_id_0>s,0.00,0.98
+_Unlock Document,_U ဖိုင်ကို သော့ဖွင့်ရန်,<extra_id_0>,0.00,0.83
+By extension,တိုးချဲ့မှုအရ,<extra_id_0>,0.00,0.00
+Check update,နောက်ဆုံးရ အသစ်ကို စစ်ဆေးပါ,<extra_id_0>  <extra_id_1> min. <extra_id_2> min. <extra_id_3> min.,0.00,0.00
+Background Properties,နောက်ခံဂုဏ်သတ္တိ,<extra_id_0>.,0.00,0.00
+Unable to open URI,URI ကို ဖွင့်လို့မရပါ,<extra_id_0>.,0.00,0.00
+"""%s"" created successfully",ဖိုင်ထုပ်ကိုအောင်မြင်စွာဖန်တီးနိင်ပါပြီ,"<extra_id_0> ""%s",0.00,0.00
+The stored position (in pixels) of the chat window side pane.,စကားပြောဝင်းဒိး ဘေးတန်း၏ သတ်မှတ်ထားသော နေရာ (ပစ်ဇယ်ဖြင့်),<extra_id_0>. The chat window,0.00,0.00
+Start to burn the contents of the selection,ရွေးချယ်သည့်အကြောင်းအရာများကို ဒေတာရိုက်ယူမည်,<extra_id_0>.,0.00,0.00
+The defined Storage resources are:,ဖော်ပြပါ Storage အရင်းအမြစ်များ -သည်,<extra_id_0>,0.00,2.91
+"Select the files you want to restore and click on the ""Restore"" button","မူရင်းတိုင်းပြန်ထားလိုသောဖိုင်များကို ရွေးချယ်၍ ""မူရင်းတိုင်းပြန်ထား"" ခလုတ်ကိုနှိပ်ပါ","<extra_id_0> ""Restore"" button.",0.00,0.47
+"Receiving ""%s"" from %s","""%s"" ကို %s ဆီမှ လက်ခံနေသည်","<extra_id_0>""s""",0.00,3.15

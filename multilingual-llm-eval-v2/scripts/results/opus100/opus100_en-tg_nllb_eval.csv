@@ -1,0 +1,101 @@
+Source,Reference,Prediction,BLEU,chrF++
+Lo! power belongeth wholly to Allah.,Иззат ба тамомӣ аз они Худованд аст.,"Gewiß, Allah gehört die Macht in ihrer Gesamtheit.",0.00,0.51
+They are worse than lost cattle.,"Инҳо ҳамонанди чорпоёнанд, ҳатто гумроҳтар аз онҳоянд.",Jsou horší než ztracený dobytek.,0.00,0.38
+"O you who believe! Enter not houses other than your own, until you have asked permission and greeted those in them, that is better for you, in order that you may remember.","Эй касоне, ки имон овардаед, ба хонае ғайр аз хонаи худ бе он, ки иҷозат талабида ва бар сокинонаш салом карда бошед, надароед. Ин барои шумо беҳтар аст, бошад, ки панд гиред!",اى كسانى كه ايمان آورده ايد، به خانه هايى غير از خانه هاى خود داخل مشويد تا اجازه بگيريد و بر اهل آن سلام كنيد. اين براى شما بهتر است، باشد كه پند گيريد.,0.00,0.12
+"When God replaces one revelation with another, He knows best what to reveal.","Чун ояеро ҷонишини ояи дигар кунем, Худо беҳтар медонад, ки чӣ чиз нозил кунад.","Когда Аллах заменяет один аят другим, то Ему лучше знать, что Он ниспосылает.",0.00,13.21
+Whatever the excuses he may offer.,ҳарчанд ба забон узрҳо оварад.,Wat voor excuses hij ook aanbiedt.,0.00,0.63
+"So for their breaking their compact We cursed them and made their hearts hard, they perverting words from their meanings; and they have forgotten a portion of that they were reminded of; and thou wilt never cease to light upon some act of treachery on their part, except a few of them.","Ва аҳли китоб, ҷуз андаке аз онҳо, чун паймонашонро шикастанд, лаънаташон кардем ва дилҳояшонро сахт гардонидем. Калимотро аз маънии худ тағйир месозанд ва аз он панд, ки ба онҳо дода шуда буд, насиби хеш фаромӯш кардаанд ва ҳамеша аз корҳои хоинонаашон огоҳ мешавӣ.","За то, что они нарушили свой завет, Мы прокляли их и ожесточили их сердца. Они искажают слова со своих мест и забыли часть того, о чем им напоминали.",0.00,12.06
+"Some ladies in the city said, “The governor's wife is trying to seduce her servant. She is deeply in love with him.",Закони шаҳр гуфтанд: «Зани Азиз дар паи комҷӯӣ аз ғуломи худ шудааст ва шефтаи ӯ гашта аст.,Na wanawake wa mjini wakawa wanasema: Mke wa Mheshimiwa anamtamani mtumishi wake.,0.00,0.45
+"So fear Allah, and obey me.",Аз Худо битарсед ва ба ман итоъат кунед!,So fürchtet Allah und gehorcht mir.,0.00,0.00
+"Say to the faithless, if they cease [their belligerence against the Muslims], what is already past shall be forgiven them. But if they resume [their hostilities], then the precedent of the predecessors has already come to pass.","Бо кофирон бигӯй, ки агар даст бардоранд, гуноҳони гузаштаи онҳо бахшида шавад ва агар бозгарданд, донанд, ки бо пешиниён чӣ рафторе шудааст.",به كسانى كه كفر ورزيدند بگو: اگر دست بردارند، آنچه گذشته است برايشان آمرزيده مى شود، و اگر [به جنگ ] بازگردند، سنّت پيشينيان در پيش رفته است.,0.00,0.14
+Modify scheme,Тағири нақша,योजना को संशोधित करें,0.00,0.00
+"Those upon whom the sentence will be pronounced will say: our Lord these are they whom we seduced, we seduced them even as we our selves were seduced.","Онон, ки ҳукм дар бораашон таҳқиқ шуда мегӯянд: «Эй Парвардигори мо, инҳо касоне, ҳастанд, ки мо гумроҳашон кардем. Аз он рӯ гумроҳашон кардем, ки худ гумроҳ будем.","Те, над которыми оправдалось слово, скажут: ""Господи наш! Это - те, которых мы ввели в заблуждение.",0.00,9.18
+"For us are our deeds, and for you are your deeds.",Ӯ Парвардигори мову шумост.,"Bizim yaptıklarımız bize, sizin yaptıklarınız size aittir.",0.00,0.56
+Remove Column,Нобуд кардани як сутун,Ustunni olib tashlash,0.00,0.00
+Those who consume the property of orphans unjustly are actually swallowing fire into their own bellies; soon they will burn in the blazing Flame.,"Онҳо, ки молҳои ятнмонпо ба ситам мехӯранд, шиками хеш пур аз оташ мекунанд ва ба оташе фурузон хоҳанд афтод!","Yetimlerin mallarını haksız yere yiyenler, karınlarına ancak ateş tıkınmış olurlar; onlar çılgın bir ateşe gireceklerdir.",0.00,0.18
+Replace,Ҷойгузин кардан,प्रतिस्थापित करें,0.00,0.00
+"Nor shall it be any offence for you if you desire to engage a wet-nurse for your children, provided you hand over what you have agreed to pay, in a reasonable manner.","Ва ҳар гоҳ бихоҳед касе дигарро ба шир додани фарзандатон гиред, агар музде некӯ бипардозед, гуноҳе нест.","И если вы пожелаете взять кормилицу для ваших детей, то нет на вас греха, если вы заплатите согласно обычаю.",0.00,13.31
+"But had your Lord willed, they would not have done so.","Агар Парвардигорат мехост, чунин намекарданд.","Und hätte dein Herr es gewollt, hätten sie es nicht getan.",0.00,0.79
+They will find everything they had done present. Your Lord does not wrong anyone.,"Он гоҳ амалҳои худро дар муқобили худ биёбанд ва Парвардигори ту ба касе ситам намекунад,","Und sie werden alles, was sie getan haben, vorhanden finden; und dein Herr wird niemandem Unrecht tun.",0.00,0.22
+Say: 'Have you taken with God a covenant? God will not fail in His covenant; or say you things against God of which you know nothing?,"Бигӯ: «Оё бо Худо чунин паймоне бастаед, то ӯ хилофи паймони худ накунад? Ё он ки аз рӯи нодонӣ чунин нисбате ба Худо медиҳед?».","Скажи: ""Неужели вы заключили завет с Аллахом, - ведь Аллах не нарушает Своего завета, - или же вы говорите на Аллаха то, чего не знаете?""",0.00,10.65
+If two among you commit it punish them both.,"Ва он ду танро, ки муртакиби он амал шудаанд, биёзоред.","Und wenn zwei von euch es begehen, dann peinigt sie beide.",0.00,0.72
+Do you not know that God knows all that is in the heavens and the earth?,"Оё надонистаӣ, ки Худо ҳар чиро, ки дар осмонҳову замин аст, медонад?","Разве ты не знаешь, что Аллах знает то, что в небесах и на земле?",0.00,9.73
+“You are taking vengeance on us only because we have believed in the signs of our Lord when they have come to us.” “Our Lord!,"Хашм бар мо мегирӣ, ба; рои оя ки чун нишонаҳои Парвардигорамон бар мо ошкор шуд, ба онҳо имон овардем.","Ты мстишь нам только за то, что мы уверовали в знамения Господа нашего, когда они явились к нам. Господь наш!",0.00,14.97
+"Indeed, it is He who is the Accepting of repentance, the Merciful.","Пас Худо тавбаи ӯро пазируфт, зеро тавбапазир ва меҳрубон аст!","Şüphesiz O, tevbeleri kabul edendir, esirgeyendir.",0.00,0.32
+"Those to whom they call, other than Him, give them no answer.","Онҳо, ки ҷуз Ӯро илтиҷо мекунанд, ҳеҷ посухашон намегӯянд.","А те, к кому они взывают помимо Него, не отвечают им.",0.00,11.71
+All the exalted attributes in the heavens and the earth belong to Him. He is the Majestic and All-wise.,Ӯрост сифати бартарӣ дар осмонҳову замин ва Ӯст ғолибу ҳаким!,"Göklerde ve yerde en yüce örnek O'nundur. O, üstün ve güçlü olandır, hüküm ve hikmet sahibidir.",0.00,0.00
+Corse,Департаменти Крёзfrance. kgm,Κορσική,0.00,0.00
+Description,Тавсиф,Descrizione,0.00,0.00
+print job,Бекор карда шудprint job,मुद्रण कार्य,0.00,0.00
+Close left view,Закрыть левую панель@ action: intoolbar Split view,Chap tomonga yopish,0.00,4.77
+"Say, ‘It is He who created you, and made for you hearing, eyesight, and hearts.","Бигӯ: «Ӯст, ки шуморо офаридааст ва гӯшу чашму дил додааст.","De ki: ""Sizi yaratan, size işitme gücü, gözler ve gönüller veren O'dur.",0.00,0.96
+& Print...,& Чоп кардан...,& Εκτύπωση...,4.10,9.58
+"But if they had said: ""We have heard and obey,"" and, ""hear and regard us,"" it would have been better for them and more appropriate.","Агар мегуфтанд, ки шунидем ва итоъат кардем ва «Унзурно»"", барояшон беҳтару басавобтар буд.","А если бы они сказали: ""Мы слышали и повинуемся"", - то это было бы лучше для них и вернее.",0.00,10.55
+Anon We will requite those who shun Our signs with an evil torment in as much as they were wont to shun them.,"Ба зудӣ касонеро, ки аз оёти Мо рӯйгардон шудаанд, ба сабаби ин рӯйгардониашон ба азобе бад ҷазо хоҳем дод!","Ayetlerimizden yüz çevirenleri, yüz çevirmelerinin karşılığı olarak azabın en kötüsüyle cezalandıracağız.",0.00,0.18
+"The default Killbots game type. Includes a medium size grid, safe teleports, fast enemies and pushable junkheaps.",Name,"A Killbots alapértelmezett játék típusa, közepes méretű hálózattal, biztonságos teleportálással, gyors ellenségekkel és nyomható roncsokkal.",0.00,3.56
+Durrës,usa. kgm,दुर्रेस,0.00,0.00
+"Get out! You are contemptible!""","Берун рав, ки ту аз хоршудагонӣ?»","Çık oradan, çünkü sen iğrenç birisin"".",0.00,0.57
+Do they not observe that they are tested once or twice every year?,"Оё намебинанд, ки дар ҳар сол як ё ду бор мавриди озмоиш воқеъ мешаванд?","Sehen sie denn nicht, daß sie jedes Jahr ein- oder zweimal der Versuchung ausgesetzt werden?",0.00,0.53
+"He knows that you are unable to pray the whole night, so He has turned to you (in mercy).","Ва медонад, ки шумо ҳаргиз ҳисоби онро натавонед дошт. Пас тавбаи шуморо қабул кард.","Er weiß, daß ihr (die Nacht) nicht ausübt, und so hat Er sich euch zugewandt.",0.00,0.48
+_Reload,_Аз нав бор кардан,पुनः लोड करें,0.00,0.00
+"When they made an offering and it was accepted from one of them and was not accepted from the other, the latter said: 'I will surely kill you.'",Аз якешон пазируфта шуд ва аз дигаре пазируфта нашуд. Гуфт: «Туро мекушам».,"Als sie ein Opfer darbrachten und es von einem von ihnen angenommen wurde, aber nicht von dem anderen, da sagte dieser: ""Ich werde dich ganz gewiß töten"".",0.00,0.43
+"They said, ‘We are powerful and possess a great might.",Гуфтанд: Мо қудратмандон ва соҳибони ҷанги сахт ҳастем.,"Они сказали: ""Мы обладаем силой и обладаем великой мощью.",0.00,10.05
+Type,Навъ,Τύπος,0.00,0.00
+Shrink ye at your offering the alms before your whispering!,Оё тарсидед пеш аз наҷво кардан садақа бидиҳед?,Gizli konuşmanızdan önce sadaka vermekten çekiniyor musunuz?,0.00,0.39
+Center horizontally,Муттаҳид кардани ячейкаҳо% 1,Κέντρο οριζόντια,0.00,0.00
+"They say (to themselves): ""If we had had anything to do with this affair, We should not have been in the slaughter here.""","Мегӯянд: «Агар моро ихтиёре буд, ин ҷо кушта намешудем».","Они говорят: ""Если бы у нас было что-нибудь из этого дела, то мы не были бы убиты здесь"".",0.00,12.04
+"Verily, my Lord is surrounding all that you do.","Ва ҳол он ки Парвардигори ман бар ҳар коре, ки мекунед, огоҳ аст!","Воистину, мой Господь объемлет [знанием] то, что вы вершите"".",0.00,10.07
+Turning their backs that they may lead away from the path of God.,"Гарданро ба такаббур ба як сӯ мепечонад, то мардумро аз роҳи Худо гумроҳ созад.",Allah'ın yolundan saptırmak için.,0.00,0.28
+"On the day when the fulfilment thereof cometh, those who were before forgetful thereof will say: The messengers of our Lord did bring the Truth!","Рӯзе, ки натиҷаи аъмол падидор шавад, касоне, ки он рӯзро аз ёд бурда буданд, мегӯянд: «Паёмбарони Парвардигори мо ба хақ омаданд.","В тот день, когда придет его исполнение, скажут те, которые забыли его раньше: ""Посланники Господа нашего приходили с истиной.",0.00,13.73
+For that they have associated with Allah that which He did not send down for a proof.,"Зеро чизеро, ки аз осмон барои он ҳуҷҷате нафиристодааст, шарики Худо гирифтанд.","Dies, weil sie Allah solche beigesellten, für die Er keine Ermächtigung herabgesandt hat.",0.00,0.71
+"Then, let the pilgrims accomplish their acts of cleansing, and let them fulfill their vows, and circumambulate the Ancient House.",Сипас чирк аз худ дур кунанд ва назрҳои худро адо кунанд ва бар он хонаи кӯҳансол тавоф кунанд.,"Потом пусть они очищают себя, выполняют свои обеты и совершают обход вокруг древнего Дома.",0.00,10.10
+Allah! With Him is knowledge of the Hour.,"Худост, ки медонад, ки қиёмат чӣ вақт меояд.",Kıyamet saatini bilmek ancak Allah'a mahsustur.,0.00,0.44
+"No: You are only mortals, of His creation.""",Балки шумо инсонҳое аз ҷумлаи офаридагон ҳастед».,"Hayır, siz de O'nun yarattıklarından birer insansınız.",0.00,0.38
+"Tell them, ""Yes, by my Lord. Most certainly it will happen, and you cannot avert it.""","Бигӯ: «Оре, савганд ба Парвардигорам, ки ҳақ аст ва шуморо қувваи фирор аз он нест!»","Скажи: ""Да, клянусь моим Господом, оно непременно наступит, и вы не сможете отвратить его"".",0.00,12.39
+Hide revoked and disabled keys in key manager.,Рамзкушодан & Кушодан дар Муҳаррир,कुंजी प्रबंधक में निरस्त और अक्षम कुंजियाँ छिपाएँ.,0.00,0.00
+"This is My path, straight, so follow it.",Ва ин аст роҳи рости Ман.,"İşte benim dosdoğru yolum budur, ona uyun.",0.00,0.72
+Message Body,& Дар иттилоот...,Corpo del messaggio,0.00,0.00
+He said: This is my Lord.,Гуфт: «Ин аст Парвардигори ман!»,"Er sagte: ""Das ist mein Herr"".",0.00,0.61
+INR,INR,INR (Ινδονησία),6.75,46.97
+Your emails,rkovacs@ khujand. orgyouth_ opportunities@ tajik. net,رسائل البريد الإلكتروني الخاصة بك,0.00,0.00
+_Chat,_Чат,_चैट करें,0.00,5.21
+Your names,"Роҷер Ковакс, Виктор Ибрагимов, Марина Колючева, Евгения Фатхеева, Акмал Ватаншоев, Абророва Хиромон, Акмал Саломов, Акбар Ватаншоев, Фарход Ахмедов, Эркин Пулатов, Гулшод Довуди, Гулноз Курбанова, Зарина Косымова, Шухрат Лоиқов, Сурайё ҶурахоноваEMAIL OF TRANSLATORS",Numele voastre.,0.00,0.09
+Then is one who was a believer like one who was defiantly disobedient?,"Оё он кас, ки имон оварда, мопанди кассет, ки фисқ меварзад?","Разве тот, кто верует, подобен тому, кто нечестив?",0.00,11.39
+"He said, ""God has chosen him over you, and has given him great knowledge and physique. God grants kingship to whoever He pleases: God is magnanimous and all knowing.""","Гуфт: «Худо ӯро бар шумо баргузидааст ва ба донишу тавони ӯ бияфзудааст ва Худо подшоҳияшро ба хар кӣ хоҳад, диҳад, ки Худо дарбаргиранда ва доност!»","گفت: ""خدا او را بر شما برگزيده و در دانش و نيرويى بيشتر به او عطا كرده است. خدا پادشاهى خود را به هر كس بخواهد مى دهد، و خدا گشايشگر داناست"".",0.00,0.14
+Preparation,Тайёр карданStencils,Προετοιμασία,0.00,0.00
+Such is Allah's command.,Ин ҳукми Худост.,"Bu, Allah'ın emridir.",0.00,1.11
+_Build (%s),Сохтан,_ बिल्ड (% s),0.00,0.00
+Manual,Дастӣ@ item: inmenu Text Completion,Εγχειρίδιο,0.00,0.00
+Your names,"Victor Ibragimov, Roger KovacsEMAIL OF TRANSLATORS",Numele voastre.,0.00,3.87
+"Whoso turns away from the remembrance of his Lord, He will cause him to suffer a grievous chastisement;","Ва ҳар кӣ аз зикри Парвардигораш рӯй гардонад, ӯро ба азобе душвор меандозад,","Kim Rabbinin zikrinden yüz çevirirse, Allah onu gittikçe artan bir azaba uğratır.",0.00,0.25
+"Then will the true promise draw nigh (of fulfilment): then behold! the eyes of the Unbelievers will fixedly stare in horror: ""Ah!","Ва он ваъдаи ростин наздик гардад ва чашмони кофирон ҳамчунон хира монад: «Вой бар мо, мо аз ин ҳол ғофил будем.","И приблизилось обещание истинное, и вот закатятся взоры тех, которые не веровали: ""О, горе мне!",0.00,12.68
+& Text,Сарлавҳаи слайд:,&amp; Мәтін,0.00,0.00
+Your emails,youth_ opportunities@ tajik. net,رسائل البريد الإلكتروني الخاصة بك,0.00,0.00
+"And on the Day of Resurrection, they will disown your worshipping them. And none can inform you (O Muhammad SAW) like Him Who is the AllKnower (of each and everything).",Ва дар рӯзи қиёмат ширк оварданатонро инкор кунанд ва кас ҳамонанди Худои огоҳ хабардорат насозад!,"Und am Tag der Auferstehung werden sie es verleugnen, daß ihr sie angebetet habt; und niemand kann dir Kunde geben wie Der Allwissende.",0.00,0.00
+"And those who believe in the revelations of their Lord,","ва онҳое, ки ба оёти Парвардигорашон имон ме- оваранд",و آنان كه به آيات پروردگارشان ايمان مى آورند،,0.00,0.00
+Attribute Name,& Нигоҳ надоштан,विशेषता नाम,0.00,0.00
+We made (the story of Noah) as evidence of the Truth.,Ва албатта он киштиро нишонае сохтем.,Und Wir machten es zu einem Zeichen.,0.00,0.53
+"They know only the outside appearance of the life of the world (i.e. the matters of their livelihood, like irrigating or sowing or reaping, etc.), and they are heedless of the Hereafter.",Онон ба зоҳири зиндагии дунё огоҳанд ва аз охират бехабаранд.,"Sie kennen nur das Äußere des diesseitigen Lebens, und sie sind dem Jenseits gegenüber achtlos.",0.00,0.29
+They ascribe no thing as partner unto Me.,Маро мепарастанд ва ҳеҷ чизеро бо Ман шарик намекунанд.,Onlar bana hiçbir şeyi ortak koşmazlar.,0.00,0.38
+"There is no secret conference of three but He is their fourth, nor of five but He is their sixth, nor of less than that or more but He is with them wheresoever they may be; and afterward, on the Day of Resurrection, He will inform them of what they did.","Се кас бо ҳам наҷво (роз, сухани махфӣ) кунанд, Худованд чаҳорумини онҳост ва панч кас бошанд, Худованд шашумини онҳост. Ва камтар аз ин, — ҳар ҷо ки бошанд, — ва бештар аз ин.","Не бывает тайной беседы между тремя, чтобы Он не был четвертым; или между пятью, чтобы он не был шестым; или меньше того, или больше того, но Он с ними, где бы они ни были. Потом Он поведает им в день воскресения о том, что они делали.",0.00,12.20
+"Tell them: ""Nothing can befall us except what God decrees.","Бигӯ: «Мусибате ҷуз он чӣ Худо барои мо муқаррар кардааст, ба мо нахоҳад расид.","De ki: ""Allah'ın bizim için yazdığından başkası başımıza gelmez.",0.00,0.52
+_Next,_Навбатӣ,_ Indiki,0.00,2.14
+Back,Пӯсти корт,Înapoi !,0.00,0.00
+& Medium,& МиёнаZoom at high,& Μεσαίο,2.48,1.17
+_Open,Кушодани файл,_खुला हुआ,0.00,0.00
+Select DTEP Directory,Ҷадвалҳои болои:,DTEP निर्देशिका चुनें,0.00,0.00
+& Replace,& Иваз кардан,& प्रतिस्थापित करें,7.25,1.37
+The unjust people have no helper.,Ва ситамкоронро ҳеҷ ёреву мададгоре нест!,En voor de onrechtplegers is er geen helper.,0.00,0.00
+Do you not then hear?,Магар намешунавед?»,Wollt ihr denn nicht hören?,0.00,0.88
+"He throws the veil of night over the day, each seeking the other in rapid succession.",Шабро дар рӯз мепушонад ва рӯз шитобон онро металабад.,"Er läßt die Nacht den Tag überdecken, so daß er einander schnell nacheilt.",0.00,0.34
+"It is only Your test, by which You lead astray whomever You wish and guide whomever You wish.","Ва ин ҷуз имтиҳони Ту нест. Ҳар касро бихоҳӣ, ба он гумроҳ мекунӣ ва ҳар касро бихоҳӣ, ҳидоят.","Bu, senin imtihanından başka bir şey değildir. Dilediğini bununla saptırırsın, dilediğini de onunla hidayete erdirirsin.",0.00,0.81
+Did you have no sense?,Магар ба ақл дарнамеёфтед?,Nu ai avut nici un sens?,0.00,0.75
+Create a new path...,vectors-action,Vytvořit novou cestu...,0.00,10.82
+The duty of the Messenger is only to preach.,Бар паёмбар ғайри расонидани паем вазифае нест.,Dem Gesandten obliegt nur die deutliche Verkündigung.,0.00,0.39
+Default,Стандартӣ@ info,Προεπιλογή,0.00,0.00
+Tools,Рӯйхати нави ба ҳар сӯ фиристонӣ,Εργαλεία,0.00,0.00
+"Surely those who believe, and do deeds of righteousness, there awaits them Gardens of Bliss","Насиби онон, ки имон овардаанд ва корҳои шоиста кардаанд, боғҳои пурнеъмати биҳишт аст.","İman edip hayra ve barışa yönelik işler yapanlara gelince, onlar için nimetlerle donatılmış cennetler vardır.",0.00,0.42
+so that He may pay them their full reward and enhance them out of His bounty.,Зеро Худо мукофоташонро ба тамомӣ медиҳад ва аз фазли худ чизе бар он меафзояд.,Çünkü Allah onlara ecirlerini tam ödeyecek ve lütfundan onlara fazlasını da ihsan edecektir.,0.00,0.24
+View,Намоиш,दृश्य,0.00,0.00
+"It is He who has made you caliphs in the earth and raised some of you in rank above others, so that He might try you in what He has given you.","Ӯст Худое, ки шуморо халифагони замин кард ва баъзеро бар баъзи дигар ба дараҷаҳо бартарӣ дод, то шуморо дар чизе, ки атоятон кардааст, биёзмояд.","Он - Тот, Кто сделал вас преемниками на земле и возвысил одних из вас над другими по степеням, чтобы испытать вас в том, что Он даровал вам.",0.00,13.60
+"Or, Who made the earth a restingplace, and made in it rivers, and raised on it mountains and placed between the two seas a barrier. Is there a god with Allah?","Ё он ки заминро оромгоҳ сохт ва дар он рӯдҳо пайдо кард, кӯҳҳо ва миёни ду даре монеъе қарор дод, Оё бо вуҷуди Оллоҳ худои дигаре ҳаст?","(Onlar mı hayırlı) yoksa yeryüzünü oturmaya elverişli kılan, aralarında nehirler akıtan, oraya sabit dağlar yerleştiren ve iki deniz arasına bir engel koyan mı?",0.00,0.44

@@ -1,0 +1,101 @@
+Source,Reference,Prediction,BLEU,chrF++
+Kenya used to be a British colony.,केनिया ब्रिटिश वसाहत असायची.,Il Kenya era una colonia britannica.,0.00,0.64
+"Tom will go, no matter what Mary says.","टॉम जाईलच, मेरीने काहीही म्हटलं तरीही.","Tom, Mary ne derse desin gidecek.",0.00,1.04
+He likes singing and dancing.,त्यांना गायला व नाचायला आवडतं.,Он любит петь и танцевать.,0.00,0.66
+Time:,वेळ:,Tijd:,0.00,5.95
+I saw him no more.,मी त्यांना त्यानंतर पाहिले नाही.,Je ne l'ai plus revu.,0.00,0.65
+Don't worry about it.,काळजी करू नकोस.,Nu-ţi face griji pentru asta.,0.00,1.08
+My father walks.,माझे बाबा चालतात.,Ο πατέρας μου περπατάει.,0.00,1.03
+This is the first time I've ever opened this door.,हा दरवाजा मी पहिल्यांदा उघडतेय.,Esta es la primera vez que abro esta puerta.,0.00,0.58
+"If the patient is unconscious, the family can make the decision.",जर रुग्ण बेशुद्ध असले तर कुटुंबीय निर्णय घेऊ शकतात.,"Jeśli pacjent jest nieprzytomny, rodzina może podjąć decyzję.",0.00,0.37
+I will arrive on 23rd of May.,मी मे २३ला पोचेन.,Llegaré el 23 de mayo.,0.00,1.13
+New widget published,वेब विजेट शैलीComment,Жаңа виджет жарияланды,0.00,0.00
+A ball hit her right leg.,एक बॉल येऊन तिच्या उजव्या पायाला लागला.,O minge i-a lovit piciorul drept.,0.00,0.52
+I expect him to come.,त्याच्या येण्याची मला अपेक्षा होती.,"Я ожидаю, что он придёт.",0.00,0.58
+This laptop is light.,हा लॅपटॉप हलका आहे.,Questo portatile è leggero.,0.00,0.95
+Morocco,मोरोक्कोName,Μαρόκο,0.00,0.00
+Bergen is known as the city between the seven mountains.,बॅर्गनला सात डोंगरांच्या मधलं शहर असं म्हटलं जातं.,Bergen er kjend som byen mellom dei sju fjella.,0.00,0.39
+"Belgium is called ""Belgique"" in French.","बेल्जियमला फ्रेंचमध्ये ""बेल्जीक"" असं म्हणतात.","Бельгия по-французски называется ""Belgique"".",0.00,1.22
+The gasoline tank was underneath.,पेट्रोलची टाकी खाली होती.,Η δεξαμενή βενζίνης ήταν από κάτω.,0.00,0.71
+Tom is dressed in black today.,टॉमने आज काळे कपडे घातले आहेत.,Tom è vestito di nero oggi.,0.00,0.68
+Performing a suspension job,सस्पेनशन कार्य कार्यान्वीत केलेComment,Esecuzione di un'operazione di sospensione,0.00,1.89
+"As a vegetarian, she doesn't eat meat.","शाकाहारी असल्यामुळे, ती मांस नाही खात.",Als Vegetarierin isst sie kein Fleisch.,0.00,0.50
+Some of the dogs are alive.,काही कुत्रे जिवंत आहेत.,Algunos de los perros están vivos.,0.00,0.76
+Tom wanted to see you.,टॉमला तुम्हाला भेटायचं होतं.,Tom seni görmek istedi.,0.00,0.69
+This country needs a new president.,ह्या देशाला एका नवीन राष्ट्राध्यक्षाची गरज आहे.,Ten kraj potrzebuje nowego prezydenta.,0.00,0.42
+Tom didn't go alone.,टॉम एकटा गेला नाही.,Tom non è andato da solo.,0.00,0.99
+Burn this letter after you finish reading it.,वाचून झाल्यानंतर हे पत्र जाळून टाक.,"Сожги это письмо, когда закончишь его читать.",0.00,0.52
+"Upon arriving at the airport, he made a phonecall to his wife.",विमानतळाला पोचल्यावर त्याने त्याच्या पत्नीला फोन केला.,"Loko a fika erivaleni ra swihaha-mpfhuka, u bele nsati wakwe riqingho.",0.00,0.33
+Close your eyes for three minutes.,तीन मिनिटं डोळे बंद कर.,Κλείσε τα μάτια σου για τρία λεπτά.,0.00,0.79
+Your names,संदिप शेडमाकेEMAIL OF TRANSLATORS,Numele voastre.,0.00,0.62
+Network,संजाळ,Δίκτυο,0.00,0.00
+What a clever student you are!,काय हुशार विद्यार्थी आहेस तू!,Ne zeki bir öğrencisin sen!,0.00,0.68
+You are about to print a diagram with %d pages.,तुम्ही %d पाने असणाऱ्या आकृतीची छपाई करणार आहात.,आप %d पृष्ठों के साथ एक आरेख मुद्रित करने वाले हैं.,2.16,11.44
+"If God did not exist, it would be necessary to invent him.","जर ईश्वर अस्तित्वात नसता, तर त्याचा शोध लावणं गरजेचं असतं.","Se Deus não existisse, seria necessário inventá-lo.",0.00,0.69
+It was her wish to go to Paris.,पॅरिसला जायची इच्छा तिची होती.,Era il suo desiderio andare a Parigi.,0.00,0.62
+She has forgiven him.,तिने त्याला माफ केलं.,Elle lui a pardonné.,0.00,0.94
+The treaty made Texas independent.,त्या कराराने टेक्ससला स्वतंत्र केलं.,O tratado tornou o Texas independente.,0.00,0.52
+"Emptying a project will remove all files already added. All the work will be lost. Note that files will not be deleted from their own location, just no longer listed here.","प्रकल्प पूर्णपणे रिकामे केल्यास आधिपासूनच समावेश केलेले फाइल काढूण टाकले जाईल. सर्व काम नाहीसे होईल. लक्षात ठेवा यादीत न दर्शविलेले फाइलं, त्यांच्या ठिकाणांपासून नष्ट केले जाणार नाही.","किसी परियोजना को खाली करने से पहले से जोड़ी गई सभी फ़ाइलें हटा दी जाएंगी. सारा काम खो जाएगा. ध्यान दें कि फ़ाइलें उनके स्वयं के स्थान से नहीं मिटाई जाएंगी, बस अब यहां सूचीबद्ध नहीं हैं.",0.78,14.72
+I will show you some pictures.,मी तुला काही चित्र दाखवीन.,Je vais vous montrer des photos.,0.00,0.72
+Please only add files with video content,कृपया फक्त व्हिडीओ अंतर्भूत माहिती समाविष्टीत फाइल्स् समावेश करा,कृपया केवल वीडियो सामग्री के साथ फ़ाइलें जोड़ें,2.52,12.46
+Let me talk to Tom.,मला टॉमशी बोलू द्या.,Tom'la konuşmama izin ver.,0.00,0.92
+I met him at Tom's house.,मी त्याला टॉमच्या घरी भेटले.,Onunla Tom'un evinde tanıştım.,0.00,0.68
+The news made her very sad.,त्या बातमीने त्या अतिशय दुःखी झाल्या.,Haber onu çok üzdü.,0.00,0.58
+I'm watching the news.,मी बातम्या बघतोय.,Haberleri izliyorum.,0.00,1.05
+"All languages being equal, English is the most equal of all.","सर्व भाषा समान असून, इंग्रजी त्यांमधून सर्वात जास्त समान आहे.","Ĉiuj lingvoj estas egalaj, la angla estas la plej egala el ĉiuj.",0.00,0.64
+Can you speak German?,तु जर्मन बोलू शकतोस का?,Ты говоришь по-немецки?,0.00,0.86
+Your names,संदिप शेडमाकेEMAIL OF TRANSLATORS,Numele voastre.,0.00,0.62
+Mes,होयTuesday,Μεσόγειος,0.00,0.00
+Advanced Options,प्रगत पर्याय,उन्नत विकल्प,0.00,6.06
+Tom is like his father.,टॉम त्याच्या बाबांसारखा आहे.,Tom è come suo padre.,0.00,0.71
+Ignore,प्रतिमा दुर्लक्ष करा,अनदेखा करें,0.00,5.15
+Tom told Mary what happened.,काय घडलं ते टॉमने मेरीला सांगितलं.,Tom Mary'ye ne olduğunu anlattı.,0.00,0.58
+Do you understand Roman numerals?,तुम्हाला रोमन अंक समजतात का?,Καταλαβαίνεις τους Ρωμαϊκούς αριθμούς;,0.00,0.00
+Japan's most important opponent was China.,जपानचा सर्वात महत्त्वाचा प्रतिद्वंद्वी चीन होता.,L'avversario più importante del Giappone era la Cina.,0.00,0.38
+The French and Indians won the Battle of Fort Duquesne.,फोर्ट डूकेनची लढाई फ्रेंच व इंडियन्स जिंकले.,Francezii şi indienii au câştigat bătălia de la Fort Duquesne.,0.00,0.41
+He goes with his mother to Russia every year.,तो दर वर्षी आपल्या आईबरोबर रशियाला जातो.,"O, annesiyle birlikte her yıl Rusya'ya gider.",0.00,0.48
+She heard him cry.,त्यांनी त्याला रडताना ऐकलं.,"Она слышала, как он плакал.",0.00,0.70
+The dog was hit by a car.,त्या कुत्र्याला एक गाडी ठोकली.,Der Hund wurde von einem Auto angefahren.,0.00,0.60
+Japanese is not used in this country.,या देशात जपानी भाषेचा वापर केला जात नाही.,Il giapponese non è usato in questo paese.,0.00,0.49
+Some people were late.,काही लोकांना उशीर झाला.,Некоторые люди опоздали.,0.00,0.82
+The disc in the drive holds data.,ड्राइव अंतर्गत डिस्क मध्ये डेटा आहे.,Discul din unitate conţine date.,0.00,0.55
+"When Angela Merkel rang Barack Obama, he already knew what she was going to say.","अॅन्जेला मेर्केलने जेंव्हा बराक ओबामाला फोन केला, तेंव्हा ती काय म्हणणार आहे हे त्याला आधीच माहीत होतं.","Когда Ангела Меркель позвонила Бараку Обаме, он уже знал, что она собиралась сказать.",0.00,0.40
+Why don't you ever help?,तुम्ही कधीही मदत का नाही करत?,Neden hiç yardım etmiyorsun?,0.00,0.69
+"Your battery has reached critical level. This notification triggers a countdown before doing the configured action, hence it is strongly advised to leave that on.","बॅटरी महत्वाचे स्तर पर्यंत पोहचली आहे. ही सूचना संयोजीत क्रिया करण्यापूर्वी काऊन्टडाऊन सक्रीय करते, ज्यामुळे त्यांस वगळण्यास सूचविले जाते. Name","Votre batterie a atteint un niveau critique. Cette notification déclenche un compte à rebours avant d'effectuer l'action configurée, il est donc fortement conseillé de la laisser allumée.",0.00,0.89
+She was born last year.,ती मागच्या वर्षी जन्माला आली.,Она родилась в прошлом году.,0.00,0.67
+She went on speaking.,ती बोलत राहिली.,O konuşmaya devam etti.,0.00,1.16
+Mr. Smith spoke so quickly that I couldn't understand what he was saying.,श्री स्मिथ एवढ्या पटापट बोलत होते कि ते काय म्हणत होते मला कळू शकले नाही.,"Мистер Смит говорил так быстро, что я не могла понять, что он говорит.",0.00,0.28
+"The three major monotheistic religions are Christianity, Islam and Judaism.","ख्रिश्चन धर्म, इस्लाम व यहुदी धर्म हे तीन मुख्य एकेश्वरवादी धर्म आहेत.","Οι τρεις κύριες μονοθεϊστικές θρησκείες είναι ο Χριστιανισμός, το Ισλάμ και ο Ιουδαϊσμός.",0.00,0.53
+"As I was having lunch, the phone rang.",मी जेवत असताना फोन वाजला.,Öğle yemeği yerken telefon çaldı.,0.00,0.74
+She had her tooth pulled.,तिने आपला दात काढून घेतला.,Ей вырвали зуб.,0.00,0.83
+Either this man is dead or my watch has stopped.,हा माणूस एकतर मेला तरी आहे नाहीतर माझं घड्याळ बंद तरी पडलंय.,O este hombre está muerto o mi reloj se ha detenido.,0.00,0.35
+I do not understand the exact meaning of this sentence.,या वाक्याचा नेमका अर्थ मला समजत नाही.,Mi ne komprenas la precizan signifon de tiu frazo.,0.00,0.50
+Let him do whatever he wants! Edoardo is responsible.,त्याला जे हवं असेल ते त्याला करू द्या! एदोआर्दो जबाबदार आहे.,"Laat hem doen wat hij wil, Edoardo is verantwoordelijk.",0.00,0.34
+Appearance,"@ label Short date:% 1 day in the month,% 2 short month name,% 3 year",Εμφάνιση,0.00,0.00
+I knew I'd be blamed.,मला माहीत होतं माझ्यावर दोष घातला जाईल.,Suçlanacağımı biliyordum.,0.00,0.53
+Could you say that in plain English?,तुम्ही ते साध्या इंग्रजीत बोलू शकता का?,Poţi să spui asta în limba engleză?,0.00,0.52
+She heard him sing.,तिने त्यांना गाताना ऐकलं.,Elle l'a entendu chanter.,0.00,0.76
+Why?,कशाकरिता?,- Miért? - Nem tudom.,0.00,1.57
+Please use the information below for your payment.,आपल्या भरपाईसाठी खालील दिलेल्या माहितीचा वापर करा.,Veuillez utiliser les informations ci-dessous pour effectuer votre paiement.,0.00,0.34
+Come into the room at once.,आत्ताच्या आता खोलीत ये.,Hemen odaya gel.,0.00,0.89
+I cannot decorate this house. It's not mine.,मी हे घर सजवू शकत नाही. हे माझं नाहीये.,"Je ne peux pas décorer cette maison, elle n'est pas à moi.",0.00,0.49
+[FILE...],[FILE...],[FILE...],100.00,100.00
+I want to be an astronaut.,मला अंतराळयात्री बनायचंय.,Vreau să fiu astronaut.,0.00,0.74
+Set Bac_kground Properties,पार्श्वभूमी गुणधर्म निश्चित करा (_k),Bac_kground गुण सेट करें,0.00,6.83
+Change...,बदलवा...,Zmiana...,0.00,13.42
+I'm related to Tom.,मी टॉमच्या नात्यातला आहे.,Io sono imparentato con Tom.,0.00,0.74
+John is more qualified than Peter.,जॉन पीटरपेक्षा जास्त अर्हताप्राप्त आहे.,Giovanni è più qualificato di Pietro.,0.00,0.48
+"Poland is called ""Polska"" in Polish.","पोलंडला पोलिशमध्ये ""पोलस्का"" म्हणतात.","La Polonia si chiama ""Polska"" in polacco.",0.00,1.46
+Telephone,दूरध्वनी,Telefoon,0.00,0.00
+"In Japan, there is no lake bigger than Lake Biwa.",जपानमध्ये बिवा तलावापेक्षा मोठा कोणताही तलाव नाहीये.,"Japonya'da, Biwa Gölü'nden daha büyük bir göl yoktur.",0.00,0.36
+What kind of fruit do you want?,तुम्हाला कोणत्या प्रकारचं फळ हवं आहे?,Che tipo di frutta vuoi?,0.00,0.56
+He took a room at the Yaesu Hotel.,त्याने याएसु हॉटेलात एक खोली घेतली.,Il a pris une chambre à l'hôtel Yaesu.,0.00,0.55
+None,काही नाही,Κανένας,0.00,0.00
+Tom is the defendant.,टॉम प्रतिवादी आहे.,Tom è l'imputato.,0.00,1.05
+& Delete,काढून टाका (D),&amp; Өшіру,0.00,0.00
+I'm doing this for the good of my country.,मी असं माझ्या देशाच्या भल्यासाठी करतेय.,Bunu ülkemin iyiliği için yapıyorum.,0.00,0.50
+I'll go to the park.,मी बागेत जातो.,Я пойду в парк.,0.00,1.39
+She went to the airport to see him off.,ती त्याला सोडायला विमानतळाला गेली.,Elle est allée à l'aéroport pour le voir partir.,0.00,0.52
+Tom and Mary never see each other nowadays.,टॉम आणि मेरी आजकाल एकमेकांना भेटत नाहीत.,Tom e Mary non si vedono mai al giorno d'oggi.,0.00,0.48
+Do you want to sell your house?,तुम्हाला तुमचं घर विकायचं आहे का?,Вы хотите продать свой дом?,0.00,0.62
+How come you know so much about Japanese history?,तुला जपानी इतिहासाबद्दल एवढं सगळं कसं माहीत आहे?,¿Cómo es que sabes tanto sobre la historia japonesa?,0.00,0.40

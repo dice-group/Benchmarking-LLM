@@ -1,0 +1,101 @@
+Source,Reference,Prediction,BLEU,chrF++
+and,ಹಾಗು,en,0.00,0.00
+Your names,ಶಂಕರ ಪ್ರಸಾದ್ ಎಂ ವಿEMAIL OF TRANSLATORS,Jou name,0.00,0.00
+Name for New Scheme,ಹೊಸ ಪದ್ಧತಿಗೆ ಹೆಸರು,Naam vir Nuwe Skema,0.00,0.00
+Type,ಬಗೆ,Tipe:,0.00,0.00
+Default,ಪೂರ್ವನಿಯೋಜಿತName,पूर्वनिर्धारित,0.00,0.00
+The center of scaling,ಗಾತ್ರ ಬದಲಾವಣೆ ಕೇಂದ್ರ,मापनको केन्द्र,0.00,0.00
+Network,ಜಾಲಬಂಧ,NetwerkComment,0.00,0.00
+Accessibility,ಸುಲಭಲಭ್ಯತೆ (ಅಕ್ಸೆಸಿಬಲಿಟಿ),Unikezelo,0.00,0.00
+Percentage:,ಪ್ರತಿಶತ:,प्रतिशत:,0.00,2.08
+Keep Above Others,ಬೇರೆಯವುಗಳ ಮೇಲಿಡು,Hou Bo- Op Ander,0.00,0.00
+"Your battery has reached critical level. This notification triggers a countdown before doing the configured action, hence it is strongly advised to leave that on.",Name,ថ្ម របស់ អ្នក បាន ដល់ កម្រិត គ្រោះថ្នាក់ & # 160; ។ ការ ជូន ដំណឹង នេះ កេះ ការ រាប់ ថយក្រោយ មុន នឹង ធ្វើ សកម្មភាព ដែល បាន កំណត់ រចនាសម្ព័ន្ធ ដូច្នេះ វា ត្រូវ បាន ផ្ដល់ អនុសាសន៍ យ៉ាង ខ្លាំង ឲ្យ ទុក វា នៅ លើ & #44; ។,0.00,0.00
+Broadcast,ಪ್ರಸರಿಸು,BroadcastName,0.00,0.00
+General,ಸಾಮಾನ್ಯ,AlgemeenComment,0.00,0.00
+New message received,ಹೊಸ ಸಂದೇಶವನ್ನು ಸ್ವೀಕರಿಸಲಾಗಿದೆComment,Nuwe boodskap ontvangComment,0.00,14.77
+"Transcoding ""%s""","""%s"" ಅನ್ನು ಟ್ರಾನ್ಸ್‌ಕೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ","Transcoding ""%s""",2.48,5.56
+Aghi,ಅಘಿName,AghiName,0.00,27.71
+"Should brasero filter hidden files. Set to true, brasero will filter hidden files.",ಅಡಗಿಸಲಾದ ಕಡತಗಳನ್ನು brasero ಸೋಸಬೇಕೆ. true ಗೆ ಹೊಂದಿಸಿದಲ್ಲಿ ಅಡಗಿಸದ ಕಡತಗಳನ್ನು brasero ಸೋಸುತ್ತದೆ.,គួរ តែ ត្រង ឯកសារ ដែល លាក់ ដោយ brasero & # 160; ។ កំណត់ ទៅ ពិត ហើយ brasero នឹង ត្រូ វបាន ពិនិត្យ ឯកសារដែល លាក់ & #44; ។,1.25,10.91
+Your emails,svenkate@ redhat. com,frix@ expertron. co. za juanita. franz@ vr- web. de,0.00,12.73
+Description (Name),ವಿವರ (ಹೆಸರು) @ item: inlistbox Format:,សេចក្ដី ពិពណ៌នា (ឈ្មោះ),0.00,1.09
+Brazil portuguese,ಬ್ರೆಜಿಲಿಯನ್ ಪೋರ್ಚುಗೀಸ್Name,Brazilië portugeseName,0.00,7.20
+Cayman Islands,ಕೇಮ್ಯಾನ್ ಐಲ್ಯಾಂಡುಗಳುName,Cayman EilandeName,0.00,8.03
+Creating file layout,ಕಡತ ವಿನ್ಯಾಸವನ್ನು ರಚಿಸಲಾಗುತ್ತಿದೆ,फाइल सजावट सिर्जना गर्दैछ,0.00,0.00
+Should the full path be shown inside the location bar,ಲಂಬಸಾಲಿನ ಅಗಲ,स्थानपट्टी भित्र पूरा मार्ग देखाउनु पर्दछ,0.00,0.00
+Which type of chart should be displayed.,ಯಾವ ಬಗೆಯ ನಕ್ಷೆಯು ಕಾಣಿಸಿಕೊಳ್ಳಬೇಕು.,Watter tipe van kaart moet wees vertoon.,0.00,0.54
+Language,ಭಾಷೆ,ભાષા,0.00,0.00
+Enabled,ಶಕ್ತಗೊಂಡಿದೆ,& Yenza Iialarms@ info,0.00,0.00
+ruler,ಅಳತೆಗೋಲು,शासक,0.00,0.00
+Those names should be changed and truncated to 64 characters.,ಆ ಹೆಸರುಗಳನ್ನು ಬದಲಾಯಿಸಲಾಗುತ್ತದೆ ಹಾಗು ೬೪ ಅಕ್ಷರಗಳಿಗೆ ನಿರ್ಬಂಧಿಸಲಾಗುತ್ತದೆ.,Ces noms devraient être modifiés et tronqués à 64 caractères.,0.00,0.27
+Remove the sixes,ಆರುಗಳನ್ನು ತೆಗೆದು ಹಾಕು,छविहरू हटाउनुहोस्,0.00,0.00
+Type,ಬಗೆ,Tipe:,0.00,0.00
+Your names,ಉಮೇಶ್ ರುದ್ರಪಟ್ಟಣEMAIL OF TRANSLATORS,Jou name,0.00,0.00
+Length,ಉದ್ದno data,Ұзындық,0.00,0.00
+Other Settings,ಇತರೆ ಸಿದ್ಧತೆಗಳು,Ander Instellings,0.00,0.00
+Get a hint for your next move,ನಿಮ್ಮ ಮುಂದಿನ ನಡೆಗೆ ಸುಳಿವನ್ನು ಪಡೆದುಕೊಳ್ಳಿ,तपाईँको पछिल्लो चालका लागि सङ्केत प्राप्त गर्नुहोस्,0.00,0.00
+& Search,ಹುಡುಕು( S),Soektog,0.00,1.94
+Your emails,svenkate@ redhat. com,frix@ expertron. co. za juanita. franz@ vr- web. de,0.00,12.73
+Advanced,ಪ್ರೌಢ,Gevorderde,0.00,0.00
+Shortcut,ಶಾರ್ಟ್- ಕಟ್,Indlela emfutshane,0.00,0.00
+Custom,ಇಚ್ಛೆಯ (ಕಸ್ಟಮ್) @ item license,Pasmaak,0.00,1.50
+Position on the Z axis,Z ಅಕ್ಷದಲ್ಲಿನ ಸ್ಥಾನ,ទីតាំង លើ អ័ក្ស Z,6.10,1.07
+Your emails,ashok567@ gmail. com; svenkate@ redhat. com,frix@ expertron. co. za juanita. franz@ vr- web. de,0.00,10.30
+Generic,ಸಾಮಾನ್ಯ,जेनेरिक,0.00,0.00
+Properties,ಗುಣಗಳು,Eienskappe...,0.00,0.00
+Data,ದತ್ತ,ડેટા,0.00,0.00
+& Delete,ಅಳಿಸು( D),Uitvee Teks,0.00,0.00
+Effects,ಪರಿಣಾಮಗಳು,បែបផែន,0.00,0.00
+_Move to parent folder,ಮೂಲ ಕಡತಕೋಶಕ್ಕೆ ಜರುಗಿಸು (_M),प्रमूल फोल्डरमा सार्नुहोस्,0.00,0.00
+Replace Location,ನಿಲ್ಲಿಸು@ info,Vervang Ligging,0.00,3.89
+Previous Maintainer,ಪ್ರಸ್ತುತ ಪೋಷಕ,Umlondolozi Wangoku,0.00,0.00
+Your names,ಮನು. ಬಿEMAIL OF TRANSLATORS,Jou name,0.00,0.00
+Thailand,ಥೈಲ್ಯಾಂಡ್Name,થાઇલેન્ડ,0.00,0.00
+Select one song only please.,ಒಂದು ಹಾಡನ್ನು ಮಾತ್ರ ಆಯ್ದುಕೊಳ್ಳಿ.,"Пожалуйста, выберите одну песню.",0.00,0.59
+Your emails,ramaprakash. b@ gmail. com; svenkate@ redhat. com; kamathvasudev@ gmail. com,frix@ expertron. co. za juanita. franz@ vr- web. de,0.00,9.40
+Spring Sunray,ವಸಂತದ ಸೂರ್ಯರಶ್ಮಿName,د پسرلي لمر,0.00,0.00
+Please describe your upload.,ದಯವಿಟ್ಟು ನೀವು ನಕಲೇರಿಸಿದುದರ (upload) ಬಗ್ಗೆ ವಿವರಿಸಿ.,कृपया तपाईँको अनलोड वर्णन गर्नुहोस् ।,0.00,0.00
+Your names,ಶಂಕರ ಪ್ರಸಾದ್‌ ಎಂ. ವಿ. EMAIL OF TRANSLATORS,Jou name,0.00,0.00
+Video Player,ದೃಷ್ಯಾಂಶ (ವಿಡಿಯೋ) ನಿರೂಪಕName,Umdlali we VideoName,0.00,7.14
+_List of slices that are to be created:,ರಚಿಸಬೇಕಿರುವ ಚೂರುಗಳ ಪಟ್ಟಿ (_L):,सिर्जना गरिनु पर्ने स्लाइसहरूको सूची:,0.00,0.59
+User:,ಬಳಕೆದಾರ( r):,Umsebenzisi:,0.00,1.49
+The profile was changed,ವ್ಯಕ್ತಿವೈಶಿಷ್ಟ್ಯ ವನ್ನು (ಪ್ರೊಫೈಲ್) ಬದಲಾಯಿಸಲಾಯಿತುName,प्रोफाइल परिवर्तन गरियो,0.00,0.00
+Release,ಆವೃತ್ತಿ:,Vrylaat,0.00,0.00
+Location:,ತಾಣ( o):,Indawo ekuyo:,0.00,4.17
+Use anti-aliasing for fonts,ಅಕ್ಷರಶೈಲಿಗಳಿಗೆ ಆಂಟಿ- ಅಲಿಯಾಸಿಂಗ್ ಅನ್ನು ಬಳಸಿ,Gebruik anti- aliasering vir skriftipes,0.00,0.45
+MiB,MiB,mb,0.00,0.00
+Tools,ಉಪಕರಣಗಳು,Құралдар,0.00,0.00
+View,ನೋಟ,Imboniselo,0.00,0.00
+Delete,ಅಳಿಸಿ ಹಾಕು( e),Cima Incwadi eneenkcukacha,0.00,1.16
+& File,ಕಡತ( F),& Ifayile,0.00,0.00
+Swedish Krona,ಸ್ವೀಡಿಶ್ ಕ್ರೋನಾName,Sweedse KronaName,0.00,10.08
+Name,ಹೆಸರು,Naam:,0.00,0.00
+Language,ಭಾಷೆ,ભાષા,0.00,0.00
+Device,ರೋಪಣಾ (ಮೌಂಟ್) ಸ್ಥಾನ,IceboComment,0.00,0.00
+& File,ಕಡತ( F),& Ifayile,0.00,0.00
+Western European,ಪಾಶ್ಚಾತ್ಯ ಯೂರೋಪಿಯನ್@ item Text character set,Батыс Еуропа,0.00,0.00
+Your names,ಮನು. ಬಿEMAIL OF TRANSLATORS,Jou name,0.00,0.00
+Remember view properties for each folder,ತಾಣಪಟ್ಟಿಯಲ್ಲಿ ಸಂಪೂರ್ಣ ತಾಣವನ್ನು ತೋರಿಸು@ option: check Startup Settings,प्रत्येक फोल्डरका लागि दृश्य गुण सम्झनुहोस्,0.00,0.00
+Next,ಮುಂದಿನ,Volgende,0.00,0.00
+Select the game type to play,ಆಡಲು ಆಟದ ಬಗೆಯನ್ನು ಆರಿಸಿ,ជ្រើស ប្រភេទ ល្បែង ដែល ត្រូវ លេង,0.00,0.00
+Color,ಬಣ್ಣ,Kleur,0.00,0.00
+Rename Item,ಅಂಶದ ಹೆಸರನ್ನು ಬದಲಾಯಿಸು@ title: window,वस्तु पुन: नामकरण गर्नुहोस्,0.00,0.53
+The maximum depth drawn in the chart from the root,ಚಾರ್ಟಿನಲ್ಲಿ ಮೂಲದಿಂದ ಎಳೆಯಲಾದ ಗರಿಷ್ಟ ಆಳ,ជម្រៅ អតិបរមា ដែល បាន គូរ ក្នុង គំនូសតាង ពី root,0.00,0.00
+Install Theme File...,ಪರಿಸರವಿನ್ಯಾಸದ ಕಡತವನ್ನು ಅನುಸ್ಥಾಪಿಸು...,Installeer Tema Lêer...,0.00,3.17
+Column Number,ಲಂಬ ಸಂಖ್ಯೆ,Kolom Nommer,0.00,0.00
+_Selection,ಆಯ್ಕೆ(_S),चयन,0.00,0.00
+Filter,ಶೋಧಿಸುNAME OF TRANSLATORS,តម្រង,0.00,0.00
+Danish,ಡ್ಯಾನಿಷ್Name,DeensName,0.00,16.19
+Mail-URL,ಅಂಚೆ- URLDescription,Iposi- URLDescription,6.75,74.58
+Open a project,ಒಂದು ಪರಿಯೋಜನೆಯನ್ನು ತೆರೆಯಿರಿ,परियोजना खोल्नुहोस्,0.00,0.00
+Change...,ಬದಲಾಯಿಸು( g)...,Tshintsha...,0.00,7.76
+Open,ತೆರೆ,Vula,0.00,0.00
+Method,ರೀತಿ,Indlela yokwenza,0.00,0.00
+No hint available.,ಯಾವುದೆ ಸುಳಿವು ಲಭ್ಯವಿರುವುದಿಲ್ಲ.,Geen leidraad beskikbaar.,0.00,0.62
+Rename the selected file,ಆಯ್ಕೆ ಮಾಡಲಾದ ಕಡತದ ಹೆಸರನ್ನು ಬದಲಾಯಿಸಿ,चयन गरिएको फाइल पुन: नामकरण गर्नुहोस्,0.00,0.00
+Close,ಮುಚ್ಚು,Maak toeQAccel,0.00,0.00
+Folders,ಕಡತಕೋಶಗಳು,Gidse,0.00,0.00
+Your names,ಅಶೋಕ್ ಕುಮಾರ್ ಎ.; ಶಂಕರ್ ಪ್ರಸಾದ್EMAIL OF TRANSLATORS,Jou name,0.00,0.00
+_View,ನೋಟ (_V),view-action,0.00,0.00
+Install card themes…,ಎಲೆಗಳ ವಿನ್ಯಾಸಗಳನ್ನು ಅನುಸ್ಥಾಪಿಸಿ…,Installeer kaart temas...,0.00,0.00
+document email,ದಸ್ತಾವೇಜಿನ ಇಮೈಲ್,कागजात इमेल,0.00,0.00
+Recording audio tracks on a rewritable disc is not advised.,ಆಡಿಯೊ ಟ್ರಾಕ್‌ಗಳನ್ನು ಒಂದು ಮರಳಿನರೆಯಬಹುದಾದ ಡಿಸ್ಕನಲ್ಲಿ ರೆಕಾರ್ಡು ಮಾಡುವುದು ಸೂಕ್ತವಲ್ಲ.,ការ ថត បទ អូឌីយ៉ូ នៅ លើ ថាស ដែល អាច សរសេរ ឡើង វិញ មិន ត្រូវ បាន ផ្ដល់ អនុសាសន៍ ទេ & # 160; ។,0.00,0.00

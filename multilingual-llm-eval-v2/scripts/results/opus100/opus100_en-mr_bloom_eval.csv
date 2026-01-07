@@ -1,0 +1,1534 @@
+Source,Reference,Prediction,BLEU,chrF++
+Kenya used to be a British colony.,केनिया ब्रिटिश वसाहत असायची.,"Kenya is now a member state of the United Nations.
+
+A:
+
+I think you can do it in two steps. First, translate the whole sentence into English. Then, translate each word separately and put them back into the original sentence.
+For example, if you want to translate this sentence into English:
+
+Kenya was once part of the British Empire.
+
+you can first translate it into English like this:
+
+Kenya used to belong to the British empire.
+
+Then, you can translate each individual word one by one:
+
+Kenya
+used to
+belong
+to
+the
+British
+empire
+
+Finally, put these words back into your original sentence:",0.00,0.14
+"Tom will go, no matter what Mary says.","टॉम जाईलच, मेरीने काहीही म्हटलं तरीही.","No matter what Tom says, Mary will go.
+
+A:
+
+JavaScript (ES6), 56 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>`${c} ${b}`).join("" "")
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.split(
+    /\s+/
+  ).map(
+    c =>
+      `${c} ""${b}`
+    ).join(
+      "" ""
+    )
+  )",0.00,0.53
+He likes singing and dancing.,त्यांना गायला व नाचायला आवडतं.,"He likes to sing and dance.
+
+A:
+
+JavaScript (ES6), 28 bytes
+s=>s.split(/\s+/).map(t=>t.toLowerCase().replace(/^\s+|\s+$/g,""""))
+
+Try it online!
+
+A:
+
+Python 2, 32 bytes
+lambda s:''.join(filter(lambda x:x.startswith(' '), s.split()))
+
+Try it here!
+Explanation:
+The lambda function takes a string as input and returns an empty string. The filter function is used to remove all words that do not start with a space. The join function then concatenates the remaining words",0.00,0.17
+Time:,वेळ:,"The time is now
+
+I have tried to do it by myself, but I am not able to get the correct result. Can anyone help me with this?
+Thanks in advance.
+
+A:
+
+The problem is that you need to translate the word ""now"" and not the word ""time"". You can try something like this:
+import java.util.Scanner;
+
+public class Main {
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.println(""Enter the sentence:"");
+        String sentence = scanner.nextLine();
+
+        String[] words = sentence.",0.00,0.29
+I saw him no more.,मी त्यांना त्यानंतर पाहिले नाही.,"I didn't see him anymore.
+
+A:
+
+Python 2.7
+import re
+
+def translate(sentence):
+    m = re.match(r'I saw (\S+) no more', sentence)
+    if m:
+        return m.group(1)
+    else:
+        return sentence
+
+print translate('I saw John no more.')
+# prints 'I didn't see John anymore.'",0.00,0.26
+Don't worry about it.,काळजी करू नकोस.,"Don't be worried about it.
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split("" "").map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(/\s+/);
+  b = b.trim();
+  return a.map((c, i) => c + ' ' + b);
+}
+
+The idea is to split the input string on whitespace and then map each element of the resulting array to the concatenation of that element",0.00,0.24
+My father walks.,माझे बाबा चालतात.,"My father is walking.
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>`${c} is ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split("" "");
+  b = b.trim();
+  return a.map(str => `${str} is ${b}`);
+};",0.00,0.34
+This is the first time I've ever opened this door.,हा दरवाजा मी पहिल्यांदा उघडतेय.,"This is my first time to open this door.
+
+A:
+
+Python 2.7
+import re
+
+def translate(s):
+    m = re.match(r'\b(\w+)\b', s)
+    if m:
+        return m.group(1)
+    else:
+        return s
+
+print translate(""This is the""), translate(""first""), ""ever"", ""opening"", ""this""), \
+    ""door.""",0.00,0.27
+"If the patient is unconscious, the family can make the decision.",जर रुग्ण बेशुद्ध असले तर कुटुंबीय निर्णय घेऊ शकतात.,"The family can decide to take the patient to the hospital.
+
+A:
+
+I think you need to use the word ""can"" instead of ""may"" in the second sentence. It should be something like this:
+
+The family can determine whether or not the patient needs to go to the
+  hospital.
+
+If you want to say that the family has the right to make this decision, then you could say:
+
+Family members have the right (or authority) to make decisions for the
+  patient.",0.00,0.16
+I will arrive on 23rd of May.,मी मे २३ला पोचेन.,"I am going to arrive on 22nd of May.
+
+A:
+
+JavaScript (ES6), 56 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>`${c} ${b}`).join("" "")
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.split(
+    /\s+/
+  ).map(
+    c =>
+      `
+        ${c}
+        ${b}
+      `
+  ).join(
+    "" ""
+  )
+}
+
+The idea is to split the input string into an array of words, and then map each word to a new string that concatenates",0.00,0.25
+New widget published,वेब विजेट शैलीComment,"A new widget has been published
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation
+f = (a, b) =>
+  a.split(
+    /\s+/
+  ).map((c) =>
+    `
+      ${c}
+      ${b}
+    `
+  )
+)",0.00,2.47
+A ball hit her right leg.,एक बॉल येऊन तिच्या उजव्या पायाला लागला.,"Her right leg was hit by a ball.
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.split(
+    /\s+/
+  ).map(
+    c =>
+      `
+        ${c}
+        ${b}
+      `
+  )
+console.log(f(""a ball hit me"", ""her right leg""))
+
+A:
+
+Python 2, 33 bytes
+lambda a,b:''.join([str(i) for i",0.00,0.22
+I expect him to come.,त्याच्या येण्याची मला अपेक्षा होती.,"He expects me to come.
+
+A:
+
+JavaScript (ES6), 56 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>`${c} ${b}`).join("" "")
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map(str => `${str}${b}`)
+}",0.00,0.26
+This laptop is light.,हा लॅपटॉप हलका आहे.,"It is very light.
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split("" "").map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(/\s+/);
+  b = b.trim();
+  return a.map((c, i) => c + ' ' + b);
+}
+
+The idea is to split the input string on whitespace and then map each element of the resulting array with a function that concatenates the current",0.00,0.23
+Morocco,मोरोक्कोName,"Moroccan
+
+A:
+
+JavaScript (ES6), 57 bytes
+f=(a,b)=>a.split("" "").map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(/\s+/);
+  b = b.trim();
+  return a.map((c, i) => c + ' ' + b);
+}
+
+The idea is to split the input string on whitespace and then map each element of the resulting array to the concatenation of that element and the",0.00,1.00
+Bergen is known as the city between the seven mountains.,बॅर्गनला सात डोंगरांच्या मधलं शहर असं म्हटलं जातं.,"Mr. Bergen is famous for being located between the Seven Mountains.
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(/\s+/);
+  b = b.trim();
+  return a.map((c, i) => c + ' ' + b);
+}",0.00,0.21
+"Belgium is called ""Belgique"" in French.","बेल्जियमला फ्रेंचमध्ये ""बेल्जीक"" असं म्हणतात.","Belgium is known as ""Belgium"" in English.
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.replace(/\bBelgium\b/g,b)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.replace(
+    /belgium/g,
+    b
+  );
+  return a;
+};",0.00,0.76
+The gasoline tank was underneath.,पेट्रोलची टाकी खाली होती.,"The fuel tank was under the car.
+
+A:
+
+I think you can do it in two steps. First, find the word that is closest to the end of the sentence (in this case, ""under"") and replace it with ""was"". Then, remove the last word from the sentence and put it at the beginning. This will give you something like this:
+
+The gasoline tanks were underneath the car.",0.00,0.23
+Tom is dressed in black today.,टॉमने आज काळे कपडे घातले आहेत.,"Tom is wearing black today.
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>`${c} is ${b} today`)
+
+Try it online!
+Explanation
+f = (a, b) =>
+  a.split(
+    /\s+/
+  ).map(
+    c =>
+      `
+        ${c} is
+        ${b}
+      `
+  )
+console.log(f(""Tom"", ""black""))",0.00,0.28
+Performing a suspension job,सस्पेनशन कार्य कार्यान्वीत केलेComment,"A suspension job is being performed
+
+A:
+
+I think you can do it in O(n^2) time, where n is the number of words in the sentence. The idea is to build a trie for each word, and then traverse the trie from the root node to the leaf node that corresponds to the word we want to translate. For example, let's say we have the following trie structure:
+root
+  /  \
+word1 word2
+
+Now, when we need to translate the word ""job"", we will traverse the tree starting at the root until we reach the node corresponding to ""job"":",0.00,1.68
+"As a vegetarian, she doesn't eat meat.","शाकाहारी असल्यामुळे, ती मांस नाही खात.","She is not a vegetarian.
+
+A:
+
+JavaScript (ES6), 57 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>`${c} ${b}`).join("" "")
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.replace(/\s+/g, ' ');
+  return a
+    .split(' ')
+    .map(word => `${word} ${b}${word}`)
+    .join('');
+};",0.00,0.48
+Some of the dogs are alive.,काही कुत्रे जिवंत आहेत.,"Some of them are alive.
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>`Some of the ${c} are alive.`).join("" "")
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.replace(/\s+/g, ' ');
+  return a
+    .split(' ')
+    .map(word => `Some of ${word} are alive.  `)
+    .join('\n');
+};",0.00,0.27
+Tom wanted to see you.,टॉमला तुम्हाला भेटायचं होतं.,"Tom would like to meet you.
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation
+f = (a, b) =>
+  a.split(
+    /\s+/
+  ).map(
+    c =>
+      `
+        ${c}
+        ${b}
+      `
+  )
+)",0.00,0.33
+This country needs a new president.,ह्या देशाला एका नवीन राष्ट्राध्यक्षाची गरज आहे.,"Mr. President, this country needs you.
+
+A:
+
+JavaScript (ES6), 56 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>`${c} ${b}`).join("""")
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.split(
+    "" ""
+  ).map(
+    (c, i) =>
+      `${c} ""${b}`
+    ).join()
+  );
+
+The function takes two arguments, a and b. The first argument is an array of words separated by spaces. The second argument is the string to be",0.00,0.18
+Tom didn't go alone.,टॉम एकटा गेला नाही.,"Tom did not go alone.
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>`${c} ${b}`).join("" "")
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.split(
+    /\s+/
+  ).map(
+    c =>
+      `${c} ""${b}`
+    ).join(
+      "" ""
+    )
+  );
+
+The idea is to split the input string into an array of words, and then map each word to a concatenation of the current word and the translated version of the",0.00,0.23
+Burn this letter after you finish reading it.,वाचून झाल्यानंतर हे पत्र जाळून टाक.,"After you burn this letter, you can read it again.
+
+A:
+
+JavaScript (ES6), 28 bytes
+a=>a.split(/\s+/).map(b=>b.replace(/^\s+|\s+$/g,"""")).join("" "")
+
+Try it online!
+
+A:
+
+Python 2, 32 bytes
+lambda s:''.join(s.split()).replace(' ','')
+
+Explanation:
+lambda s:s.split().map(str.replace).join('')",0.00,0.22
+"Upon arriving at the airport, he made a phonecall to his wife.",विमानतळाला पोचल्यावर त्याने त्याच्या पत्नीला फोन केला.,"He called his wife upon arriving in the airport.
+
+A:
+
+I think this is what you want:
+import re
+
+def translate(sentence):
+    return re.sub(r'(?<!\w)\W', '', sentence)
+
+print(translate('Upon arriving...'))",0.00,0.23
+Close your eyes for three minutes.,तीन मिनिटं डोळे बंद कर.,"Close your eyes and think about something that makes you happy.
+
+A:
+
+Python 2.7.9 (default, Nov  6 2015, 11:58:56) 
+[GCC 4.8.2] on linux2
+Type ""help"", ""copyright"", ""warning"" or ""license"" for more information.
+>>> import nltk
+>>> from nltk.corpus import stopwords
+>>> stopwords.words('english')
+['a', 'an', 'and', 'are', 'the', 'to', 'a', 'but', 'because', 'cannot', 'did', '",0.00,0.21
+Your names,संदिप शेडमाकेEMAIL OF TRANSLATORS,"John Doe and Jane Doe
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split("" "").map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(/\s+/);
+  b = b.trim();
+  return a.map((c, i) => c + "" "" + b);
+}
+
+The idea is to split the input string by spaces, then map each element of the array to a new string with the",0.00,1.30
+Network,संजाळ,"Network
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(/\s+/);
+  b = b.trim();
+  return a.map((c, i) => c + "" "" + b);
+}
+
+The idea is to split the input string on whitespace and then map each element of the array to a new string with the first element concatenated with the",0.00,0.00
+What a clever student you are!,काय हुशार विद्यार्थी आहेस तू!,"You are a smart student.
+
+A:
+
+I think this is what you're looking for:
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println(""Enter a sentence:"");
+
+        String sentence = scanner.nextLine();
+        String[] words = sentence.split(""\\s+""); // split on whitespace
+
+        for (int i = 0; i < words.length; i++) {
+            if (words[i].equals(""you"")) {
+                words[i] = ""you are"";
+            }",0.00,0.00
+You are about to print a diagram with %d pages.,तुम्ही %d पाने असणाऱ्या आकृतीची छपाई करणार आहात.,"There are %d pages in the diagram.
+
+A:
+
+JavaScript (ES6), 57 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>`${c} ${b}`).join("" "")
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.replace(/\s+/g, ' ');
+  b = b.trim();
+  return `${a}${b}`;
+}",0.80,0.95
+"If God did not exist, it would be necessary to invent him.","जर ईश्वर अस्तित्वात नसता, तर त्याचा शोध लावणं गरजेचं असतं.","If God didn't exist, he would have to be invented.
+
+A:
+
+JavaScript (ES6), 56 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>b.replace(new RegExp(""^""+c,""g""),""""))
+
+Try it online!
+Explanation
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map(x => b.replace(
+    new RegExp(`^${x}`, 'g'),
+    ''
+  ));
+}
+
+The idea",0.00,0.37
+It was her wish to go to Paris.,पॅरिसला जायची इच्छा तिची होती.,"He wanted to go with her to Paris.
+
+A:
+
+I think you can do it in two steps. First, translate the first part of the sentence (""It was her..."") and then translate the second part (""...to Paris."")
+The first part is translated as follows:
+
+She wanted to visit Paris.
+
+The second part would be something like this:
+
+He wanted to travel with her.
+
+So your translation would be:
+
+Il voulait voyager avec elle.
+
+If you want to make it more concise, you could say:
+
+Elle voulait visiter Paris et il voulait la faire voyager avec lui.",0.00,0.16
+She has forgiven him.,तिने त्याला माफ केलं.,"He has been forgiven by her.
+
+A:
+
+Python 2.7
+import re
+
+def translate(sentence):
+    m = re.match('(\w+) has (\w+) (\w+).*', sentence)
+    if m:
+        return m.group(1) + ' has ' + m.groups()[2] + ' ' + \
+            m. groups()[3] + '.'
+    else:
+        return sentence
+
+print translate('I have forgiven you.')
+
+Output
+He has been pardoned by me.",0.00,0.26
+The treaty made Texas independent.,त्या कराराने टेक्ससला स्वतंत्र केलं.,"Mr. President, Texas has become an independent country.
+
+A:
+
+I think you can do this with a simple regex:
+import re
+
+text = ""The treaty made TXT independent.""
+result = re.sub(r""\bTXT\b"", ""MR"", text)
+print(result)
+
+This will replace all occurrences of TXT with MR in the input string. If you want to replace only the first occurrence, you can add a negative lookbehind (\B) around TXT:
+re.sub(
+    r""\B(?<!TXT)TXT"",
+    ""MR"",
+    text
+)
+
+The (?<!",0.00,0.17
+"Emptying a project will remove all files already added. All the work will be lost. Note that files will not be deleted from their own location, just no longer listed here.","प्रकल्प पूर्णपणे रिकामे केल्यास आधिपासूनच समावेश केलेले फाइल काढूण टाकले जाईल. सर्व काम नाहीसे होईल. लक्षात ठेवा यादीत न दर्शविलेले फाइलं, त्यांच्या ठिकाणांपासून नष्ट केले जाणार नाही.","A project is emptied by removing all its files. The work done in this project will be gone forever. Files will not disappear from their original location, but they will no longer be listed here.
+
+A:
+
+JavaScript (ES6), 50 bytes
+f=(a,b)=>a.split(/\s+/).filter(c=>!b.includes(c)).join("" "")
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.split(
+    /\s+/
+  ).filter((c) => !b.indexOf(c))
+  .join(' ');
+
+The",0.00,0.35
+I will show you some pictures.,मी तुला काही चित्र दाखवीन.,"You will see some pictures.
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  const result = [];
+  for (let i = 0; i < a.length; i++) {
+    result.push(a[i] + "" "" + b);
+  }
+  return result.join("""");
+}",0.00,0.28
+Please only add files with video content,कृपया फक्त व्हिडीओ अंतर्भूत माहिती समाविष्टीत फाइल्स् समावेश करा,"Only add files that contain video content
+
+A:
+
+Python 2.7.6 (default, Nov  6 2015, 11:02:56) 
+[GCC 4.8.2] on linux2
+Type ""help"", ""copyright"", ""warning"" or ""license"" for more information.
+>>> import re
+>>> s = ""Please only add videos to the repository.""
+>>> m = re.search(r'Please only add (.*) to the repo.', s)
+>>> print m.group(1)
+videos",0.00,0.00
+Let me talk to Tom.,मला टॉमशी बोलू द्या.,"I want to talk to you.
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>`I want to ${c} you.`).join(' ')
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split("" "");
+  b = b.trim();
+  return a.map((c) => `I am going to ${b} you!`);
+}",0.00,0.30
+I met him at Tom's house.,मी त्याला टॉमच्या घरी भेटले.,"I met Mr. Tom at his house.
+
+A:
+
+I think you can do it in two steps:
+1) Translate the first part of the sentence (""I met him"") into English, and then translate the second part (""at his house"") from English into German.
+2) Join the two translated sentences together with a coordinating conjunction (e.g. ""und"" or ""oder"").
+For example:
+
+Ich habe ihn am Tom's Haus gesehen.
+
+would be translated as follows:
+
+ Ich habe einen Mann mit dem Namen Tom gefunden, der am meinem Haus war.
+  Ich habe den Mann",0.00,0.17
+The news made her very sad.,त्या बातमीने त्या अतिशय दुःखी झाल्या.,"She was very sad because of the news.
+
+A:
+
+I think you can do it in two steps. First, translate the first part of the sentence (""because of the news"") and then translate the second part (""she was very sadded"").
+The first part should be translated like this:
+
+La noticia la hizo muy triste.
+
+The second part should be:
+
+Ella estaba muy triste por la noticia.
+
+If you want to keep the original order of the words, you have to change ""she was"" to ""ella estaba"".",0.00,0.17
+I'm watching the news.,मी बातम्या बघतोय.,"I'm watching the newscast.
+
+A:
+
+JavaScript (ES6), 28 bytes
+s=>s.split(/\s+/).map(t=>t.toLowerCase().replace(/^\s+|\s+$/g,"""")).join("" "")
+
+Try it online!",0.00,0.43
+"All languages being equal, English is the most equal of all.","सर्व भाषा समान असून, इंग्रजी त्यांमधून सर्वात जास्त समान आहे.","English is more equal than any other language.
+
+A:
+
+JavaScript (ES6), 56 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>`${c} is ${b?""more equal"":""less equal""} to ${c}.`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim();
+  b = b ? "" more equal"" : "" less equal""
+  return `${a} is ${b} to ${a}.`
+}",0.00,0.37
+Can you speak German?,तु जर्मन बोलू शकतोस का?,"Ich kann Deutsch sprechen.
+
+A:
+
+Python 2.7
+import sys, re
+
+def main():
+    if len(sys.argv) != 2:
+        print >> sys.stderr, ""Usage: %s <language>"" % sys.argv[0]
+        exit(1)
+
+    lang = sys.argv[1]
+
+    with open(""en.txt"", ""r"") as f:
+        lines = f.readlines()
+
+    for line in lines:
+        m = re.match(r""\b(\w+)\b"", line)
+        if not m:
+            continue
+
+        words = m.group(1).split("" "")
+
+        for word in",0.00,0.00
+Your names,संदिप शेडमाकेEMAIL OF TRANSLATORS,"John Doe and Jane Doe
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split("" "").map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(/\s+/);
+  b = b.trim();
+  return a.map((c, i) => c + "" "" + b);
+}
+
+The idea is to split the input string by spaces, then map each element of the array to a new string with the",0.00,1.30
+Mes,होयTuesday,"Mr
+
+A:
+
+JavaScript (ES6), 56 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>{c=(i%2==0)?b:a;if(c.charAt(0)==""M"")return c.slice(1);else return c;}})
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.split(
+    "" ""
+  ).map(
+    (c, i) => {
+      c = (i % 2 === 0) ? b : a;
+      if (c.substring(0, 1) === ""M"")",0.00,2.20
+Advanced Options,प्रगत पर्याय,"The advanced options allow you to change the font size, color, and alignment of the text in your document.",0.00,0.00
+Tom is like his father.,टॉम त्याच्या बाबांसारखा आहे.,"Tom is similar to his father.
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map(c=>`${c} is ${b} like`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map(x => `${x} is ""${b} like""`);
+}",0.00,0.28
+Ignore,प्रतिमा दुर्लक्ष करा,"Mr
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.split(
+    /\s+/
+  ).map(
+    c =>
+      `
+        ${c}
+        ${b}
+      `
+  )
+)",0.00,0.00
+Tom told Mary what happened.,काय घडलं ते टॉमने मेरीला सांगितलं.,"Tom said to Mary that something happened.
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.split(
+    "" ""
+  ).map(
+    c =>
+      `${c} ""${b}`
+  )
+)",0.00,0.30
+Do you understand Roman numerals?,तुम्हाला रोमन अंक समजतात का?,"Yes, I do.
+
+A:
+
+JavaScript (ES6), 28 bytes
+Takes input from STDIN and outputs it to STDOUT.
+n=>n.toString().split('').reduce((a,b)=>a.concat(`${b} `),'')
+
+Try it online!",0.00,0.00
+Japan's most important opponent was China.,जपानचा सर्वात महत्त्वाचा प्रतिद्वंद्वी चीन होता.,"The most important enemy of Japan is China.
+
+A:
+
+I think you can do it in two steps. First, you need to split the sentence into two parts:
+
+The most important
+enemy of Japan
+is China.
+
+Then, you have to translate each part separately. For example, if you want to translate the first part, you can use:
+
+日本の最も重要な敵は中国です。
+
+If you wanted to translate both parts together, you could use something like this:
+
+日本における最重要な敌は中国である。
+
+However, I don't think this is the best way to do it.",0.00,0.15
+The French and Indians won the Battle of Fort Duquesne.,फोर्ट डूकेनची लढाई फ्रेंच व इंडियन्स जिंकले.,"The French and Indian soldiers won the battle of fort duquesne.
+
+A:
+
+I think you can do it in O(n) time, where n is the number of words in the sentence. You need to build a trie for each word, and then traverse the trie from the root node to the leaf node that corresponds to the target word. For example, if the input sentence is ""the French and indian soldiers won"", then the output should be ""the french and indian soldier won"".
+Here is my implementation:
+#include <iostream>
+#include <string>
+#include <vector>
+#include <map>
+#include <fstream>
+using",0.00,0.14
+He goes with his mother to Russia every year.,तो दर वर्षी आपल्या आईबरोबर रशियाला जातो.,"['His', 'mother', 'to', 'Russia', 'every']",0.00,0.00
+She heard him cry.,त्यांनी त्याला रडताना ऐकलं.,"He was crying loudly.
+
+A:
+
+I think you can do it in two steps. First, translate the whole sentence into English. Then, translate each word of the original sentence into Mr. You can use Google Translate for this step.
+For example, if you want to translate the sentence ""He was crying"" into Mr., you can first translate it into English as follows:
+
+He was crying.
+
+Then, you can translate each individual word of that sentence using Google Translate:
+
+cry -> cry
+loudly -> loud",0.00,0.17
+The dog was hit by a car.,त्या कुत्र्याला एक गाडी ठोकली.,"The dog got hit by the car.
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(/\s+/);
+  b = b.trim();
+  return a.map((c, i) => c + ' ' + b);
+}
+
+The idea is to split the input string on whitespace and then map each element of the resulting array to the concatenation of",0.00,0.21
+Japanese is not used in this country.,या देशात जपानी भाषेचा वापर केला जात नाही.,"This country does not use Japanese.
+
+A:
+
+I think you can do it like this:
+#include <iostream>
+#include <string>
+#include <sstream>
+
+using namespace std;
+
+int main()
+{
+    string input;
+    cin >> input;
+
+    stringstream ss(input);
+    string line;
+    while (getline(ss, line))
+    {
+        if (line.find(""Japanese"") != string::npos)
+        {
+            cout << ""This country uses Japanese."" << endl;
+        }
+        else
+        {
+            break;
+        }
+    }
+
+    return 0;
+}",0.00,0.18
+Some people were late.,काही लोकांना उशीर झाला.,"They were late.
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>`${c} ${b}`).join("" "")
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.split(
+    /\s+/
+  ).map(
+    c =>
+      `${c} ""${b}`
+    ).join(
+      "" ""
+    )
+  );
+
+The idea is to split the input string into an array of words, and then map each word to a concatenation of the current word and the translated version of the next word",0.00,0.22
+The disc in the drive holds data.,ड्राइव अंतर्गत डिस्क मध्ये डेटा आहे.,"['The', 'disc', 'holds', 'some', 'data', 'in']
+['this', 'drive', 'a', 'disk', 'on']",0.00,0.00
+"When Angela Merkel rang Barack Obama, he already knew what she was going to say.","अॅन्जेला मेर्केलने जेंव्हा बराक ओबामाला फोन केला, तेंव्हा ती काय म्हणणार आहे हे त्याला आधीच माहीत होतं.","Angela Merkel called Barack Obama and told him that she would like to talk to him about something important.
+
+A:
+
+I think you can do it in OCaml. Here is my code:
+let rec translate s =
+  match s with
+  | ""When Angela Merkel"" -> ""When Chancellor Merkel""
+  | ""called Barack Obama"" -> ""Called President Obama""
+  | ""told him that"" -> ""Told the President that""
+  | _ -> """"
+  end
+
+main = printfn ""%A"" translate ""Hello world!""",0.00,0.12
+Why don't you ever help?,तुम्ही कधीही मदत का नाही करत?,"Why do you never help?
+
+A:
+
+I think this is what you want:
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println(""Enter a sentence"");
+
+        String sentence = scanner.nextLine();
+
+        String[] words = sentence.split(""\\s+""); // split on whitespace
+
+        for (int i = 0; i < words.length; i++) {
+            if (words[i].equals(""Why"")) {
+                words[i] = ""Why not"";
+            }",0.00,0.18
+"Your battery has reached critical level. This notification triggers a countdown before doing the configured action, hence it is strongly advised to leave that on.","बॅटरी महत्वाचे स्तर पर्यंत पोहचली आहे. ही सूचना संयोजीत क्रिया करण्यापूर्वी काऊन्टडाऊन सक्रीय करते, ज्यामुळे त्यांस वगळण्यास सूचविले जाते. Name","The battery of your device has reached its critical level and this notification will trigger a count down before performing the configured actions, so it is highly recommended to leave it on.
+
+A:
+
+I think you can do it like this:
+<?xml version=""1.0"" encoding=""utf-8""?>
+<LinearLayout xmlns:android=""http://schemas.android.com/apk/res/android""
+    android:layout_width=""fill_parent""
+    android:layout_height=""fill_parent""
+    android:orientation=""vertical"" >
+
+    <TextView
+        android:id=""@+id/textView1""
+        android:layout_width=""wrap_content""
+        android:layout_height=""wrap_content""
+        android:text=""TextView"" />
+
+    <ProgressBar
+        android:id=""@+id/progressBar1""
+        style=""?android:attr/progressBarStyleLarge""
+        android:layout_width=""200dp""
+        android:layout_height=""50dp""
+        android:indeterminate=""false""
+        android:max=""100""
+        android:progress=""",0.00,0.48
+She was born last year.,ती मागच्या वर्षी जन्माला आली.,"she was born this year.
+
+A:
+
+I think you can do it like this:
+import java.util.Scanner;
+
+public class Main {
+
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+        System.out.println(""Please enter a sentence"");
+
+        String sentence = input.nextLine();
+
+        String[] words = sentence.split(""\\s+""); // Split the sentence into words
+
+        for (int i = 0; i < words.length; i++) {
+            if (words[i].equals(""last year"")) {
+                words[i] = ""this",0.00,0.18
+She went on speaking.,ती बोलत राहिली.,"She went on talking.
+
+A:
+
+I think you can do it in two steps. First, translate each word of the input sentence into its corresponding word in the target language. Then, join the translated words together to form a complete sentence. For example, if the input is ""She goes on speaking"", then the output should be ""She talks on going"".
+Here is my solution:
+import nltk
+from nltk.tokenize import word_tokenize
+
+input_sentence = ""She went on speaking""
+target_language = ""mr""
+
+sentences = [word_tokenize(s) for s in input_sentence",0.00,0.17
+Mr. Smith spoke so quickly that I couldn't understand what he was saying.,श्री स्मिथ एवढ्या पटापट बोलत होते कि ते काय म्हणत होते मला कळू शकले नाही.,"He spoke so fast that I could not understand him.
+
+A:
+
+I think you can do it in two steps:
+1) First, split the input sentence into words (using nltk.tokenize.word_tokenize)
+2) Then, for each word, check if there is a corresponding word in the target language. If yes, replace the original word with the translated one.
+Here is an example:
+import nltk
+from nltk import word_tokenize
+
+input_sentence = ""Mr. Smith""
+target_language = ""mr""
+
+result = []
+for word in word_tokenizer(input_sentance):
+    if",0.00,0.13
+"The three major monotheistic religions are Christianity, Islam and Judaism.","ख्रिश्चन धर्म, इस्लाम व यहुदी धर्म हे तीन मुख्य एकेश्वरवादी धर्म आहेत.","Christianity is the religion of Jesus Christ.
+Judaism is the ancient religion of the Jews.
+Islam is the modern religion of Muslims.
+
+A:
+
+JavaScript (ES6), 56 bytes
+Takes input as an array of words separated by commas.
+a=>a.map(w=>`${w} is ${w.toLowerCase()}`).join(', ')
+
+Try it online!
+Explanation:
+a=>
+  a.map((w)=>
+    w.toLowerCase().split(/\s*,\s*/).map((x)=>
+      `${x} is ${x}`
+    )
+  )
+ .join(",0.00,0.30
+"As I was having lunch, the phone rang.",मी जेवत असताना फोन वाजला.,"The phone rang as I had lunch.
+
+A:
+
+I think this is what you want:
+import java.util.Scanner;
+
+public class Main {
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println(""Enter a sentence:"");
+
+        String sentence = scanner.nextLine();
+
+        String[] words = sentence.split(""\\s+""); // split on whitespace
+
+        for (int i = 0; i < words.length; i++) {
+            if (words[i].equals(""As"")) {
+                words[i] = ""As I was",0.00,0.19
+She had her tooth pulled.,तिने आपला दात काढून घेतला.,"['She', 'had', 'hers', 'tooth', 'pulled.']
+['Her', 'toes', 'cut.']",0.00,0.57
+Either this man is dead or my watch has stopped.,हा माणूस एकतर मेला तरी आहे नाहीतर माझं घड्याळ बंद तरी पडलंय.,"Either he is dead and my watch is stopped, or he is not dead and his watch is not stopped.
+
+A:
+
+JavaScript (ES6), 57 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>{for(var d=0;d<c.length;d++)if(c[d]==b)return c.slice(0,d+1)}).join("" "")
+
+Try it online!
+Explanation
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();",0.00,0.18
+I do not understand the exact meaning of this sentence.,या वाक्याचा नेमका अर्थ मला समजत नाही.,"I am not sure what you mean by this sentence.
+
+A:
+
+I don't think there is a single correct answer to this question, because it depends on the context. For example, if you want to say that you don't understand something, you can use ""I don't know"" or ""I don't understand"". But if you just want to indicate that you have no idea what someone is talking about, you could say ""I don't get it"".",0.00,0.19
+Let him do whatever he wants! Edoardo is responsible.,त्याला जे हवं असेल ते त्याला करू द्या! एदोआर्दो जबाबदार आहे.,"Edoardo should not be allowed to do what he wants!
+
+A:
+
+JavaScript (ES6), 53 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>b.replace(new RegExp(""^""+c,""g""),""""))
+
+Try it online!
+Explanation
+f = (a, b) => {
+  a = a.trim()
+  b = b.trim()
+
+  // split on whitespace
+  const words = a
+    .split(' ')
+    .map(word => word.trim())
+
+  // replace all occurrences of `word` with empty string
+  return b.replace",0.00,0.33
+Appearance,"@ label Short date:% 1 day in the month,% 2 short month name,% 3 year","Personality
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split("" "").map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.split(
+    "" ""
+  ).map((c) =>
+    `
+      ${c}
+      ${b}
+    `
+  )
+)",0.00,10.88
+I knew I'd be blamed.,मला माहीत होतं माझ्यावर दोष घातला जाईल.,"I'll be blamed.
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>`I knew I’d be blamed for ${c}.`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map((s, i) => `I knew I' d be blamed  for ${s}.`);
+}
+
+The idea is to split the input string on spaces, and then",0.00,0.21
+Could you say that in plain English?,तुम्ही ते साध्या इंग्रजीत बोलू शकता का?,"Would you be so kind as to say it in simple Chinese?
+
+A:
+
+I think this is what you're looking for:
+import java.util.Scanner;
+
+public class Main {
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println(""Please enter your name: "");
+
+        String name = scanner.nextLine();
+
+        System.err.print(name + "", please translate the following sentence into Chinese."");
+    }
+}",0.00,0.18
+She heard him sing.,तिने त्यांना गाताना ऐकलं.,"He sang to her.
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(/\s+/).map((c,i)=>`${b} ${c}`).join("" "")
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.split(
+    /\s+/
+  ).map ((c, i) =>
+    `${ b} ${ c }`
+  ).join ("" ""
+  )",0.00,0.32
+Why?,कशाकरिता?,"Why do you want to know why?
+
+A:
+
+I think this is what you're looking for:
+#include <iostream>
+#include <string>
+#include <sstream>
+
+using namespace std;
+
+int main()
+{
+    string input;
+    cin >> input;
+
+    stringstream ss(input);
+    string line;
+    while (getline(ss, line))
+    {
+        cout << line << endl;
+    }
+
+    return 0;
+}",0.00,0.30
+Please use the information below for your payment.,आपल्या भरपाईसाठी खालील दिलेल्या माहितीचा वापर करा.,"['Please', 'use', 'the', 'information",0.00,0.00
+Come into the room at once.,आत्ताच्या आता खोलीत ये.,"Go to the room immediately.
+
+A:
+
+JavaScript (ES6), 56 bytes
+f=(a,b)=>a.split(/\s+/).map((c,i)=>`${c} ${b}`).join("" "")
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.split(
+    /\s+/
+  ).map ((c, i) =>
+    `${c} ""${b}`
+  ).join ("" ""
+  );",0.00,0.32
+I cannot decorate this house. It's not mine.,मी हे घर सजवू शकत नाही. हे माझं नाहीये.,"I'm not allowed to decorate my house. It is not mine.
+
+A:
+
+I think you can do it in O(n) time, where n is the number of words in the sentence.
+The idea is to build a trie for each word in the input sentence. The root of the trie will be the word itself, and the children will be all possible prefixes of the word. For example, if the word is ""house"", then the root will be ""ho"", and there will be two children, ""hou"" and ""hoo"".
+Now, when you encounter a word that doesn't have a tr",0.00,0.33
+[FILE...],[FILE...],"[file...]
+
+A:
+
+Python 2.7.6 (default, Nov  6 2014, 11:58:56) 
+[GCC 4.8.2] on linux2
+Type ""help"", ""copyright"", ""and license"" for more information.
+>>> import sys
+>>> from translate.misc.multistring import multistring
+>>> s = multistring(sys.stdin.read())
+>>> print(s)
+[FILE ...]
+>>>",0.00,12.31
+I want to be an astronaut.,मला अंतराळयात्री बनायचंय.,"I would like to become an astronomer.
+
+A:
+
+JavaScript (ES6), 56 bytes
+f=(a,b)=>a.split("" "").map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(/\s+/);
+  b = b.trim();
+  return a.map((c, i) => c + ' ' + b);
+}",0.00,0.29
+Set Bac_kground Properties,पार्श्वभूमी गुणधर्म निश्चित करा (_k),"set background properties
+
+A:
+
+I think you can do it like this:
+public static void main(String[] args) throws IOException {
+    BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+    String line;
+    while ((line = br.readLine()) != null) {
+        String[] parts = line.split("" "");
+        System.out.println(parts[0] + "" "" + parts[1]);
+    }
+}",0.00,0.60
+Change...,बदलवा...,"Change...
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>b.replace(new RegExp(c,""g""),i))
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map(c => b.replace(
+    new RegExp(`${c}`, 'g'),
+    `${i}`
+  ));
+}",0.00,2.02
+I'm related to Tom.,मी टॉमच्या नात्यातला आहे.,"I am related to him.
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>`${c} is related to ${b}`)
+
+Try it online!
+Explanation
+f = (a, b) =>
+  a.split(
+    /\s+/
+  ).map((c) => `${c}  is related  to  ${b}  `
+  )
+
+The idea is to split the input string into an array of words, and then map each word to a new string that contains the word and the name of the person it's related to.",0.00,0.21
+John is more qualified than Peter.,जॉन पीटरपेक्षा जास्त अर्हताप्राप्त आहे.,"Peter is less qualified than John.
+
+A:
+
+JavaScript (ES6), 57 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>`${c} ${b}`).join(' ')
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split("" "");
+  b = b.trim();
+  return a.map((c, i) => `${c}${b}`);
+}",0.00,0.24
+"Poland is called ""Polska"" in Polish.","पोलंडला पोलिशमध्ये ""पोलस्का"" म्हणतात.","""Poland is called 'Polska' in Polish.""
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>`${c} is called ${b} in ${c}.`)
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.split(
+    /\s+/
+  ).map(
+    c =>
+      `${c}  is called   ${b}  in   ${c}.  `
+  )
+console.log(f('Poland', 'Polska'))",0.00,0.68
+Telephone,दूरध्वनी,"The telephone is ringing
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map((c, i) => `${c}${b}`);
+}",0.00,0.00
+"In Japan, there is no lake bigger than Lake Biwa.",जपानमध्ये बिवा तलावापेक्षा मोठा कोणताही तलाव नाहीये.,"There is no river bigger than the Yangtze River in China.
+
+A:
+
+Python 2.7
+import sys
+from string import maketrans
+
+def translate(s):
+    return s.translate(maketrans('', ''))
+
+if len(sys.argv) != 2:
+    print >> sys.stderr, ""Usage: %s <text>"" % sys.argv[0]
+    sys.exit(1)
+
+text = sys.argv[1]
+translated = translate(text)
+print translated
+
+Python 3.x
+import unicodedata
+from urllib.parse import quote_plus
+from bs4 import BeautifulSoup",0.00,0.15
+What kind of fruit do you want?,तुम्हाला कोणत्या प्रकारचं फळ हवं आहे?,"Apple, banana, orange, pear, grape, kiwi, pineapple, strawberry, melon, watermelon, mango, papaya, guava, tangerine, lemon, lime, chili, ginger, garlic, onion, carrot, celery, broccoli, cabbage, cauliflower, lettuce, spinach, radish, cucumber, tomato, eggplant, pumpkin, avocado, peanut, almond, cashew, pistachio, walnut, hazelnut, macadamia nut, pecan nut, coconut, pist",0.00,0.00
+He took a room at the Yaesu Hotel.,त्याने याएसु हॉटेलात एक खोली घेतली.,"He stayed at the Yasu Hotel.
+
+A:
+
+Python 2.7
+import re
+
+def translate(s):
+    m = re.match(r'\b(\w+)\b', s)
+    if m:
+        return m.group(1)
+    else:
+        return s
+
+print translate('He took a hotel room at Yaesu.')
+
+Output
+He stayed at Yasu",0.00,0.28
+None,काही नाही,"None
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(/\s+/).map((c,i)=>`${c} ${b}`)
+
+Try it online!
+Explanation
+f = (a, b) => {
+  a = a.replace(/\s+/g, ' ');
+  return a.split().map(c => `${c}${b}`);
+}",0.00,0.00
+Tom is the defendant.,टॉम प्रतिवादी आहे.,"The defendant is Tom.
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>`${c} is ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.split(
+    /\s+/
+  ).map((c) => `
+      ${c} is
+      ${b}
+    `
+  )
+)",0.00,0.38
+& Delete,काढून टाका (D),"& Delete
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.replace(/&/g,b)
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.replace(
+    /&/g,
+    b
+  );
+
+This replaces all occurrences of & in a with b.",0.00,1.28
+I'm doing this for the good of my country.,मी असं माझ्या देशाच्या भल्यासाठी करतेय.,"I am doing this to help my country.
+
+A:
+
+JavaScript (ES6), 56 bytes
+f=(a,b)=>a.split(/\s+/).map((c,i)=>`I am ${c} because ${b}`).join(' ')
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.split(
+    /\s+/
+  ).map(
+    (c, i) =>
+      'I am ' + c + ' because ' + b
+  );",0.00,0.25
+I'll go to the park.,मी बागेत जातो.,"I'll go to Mr. Park.
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(/\s+/);
+  b = b.trim();
+  return a.map((c, i) => c + ' ' + b);
+}",0.00,0.37
+She went to the airport to see him off.,ती त्याला सोडायला विमानतळाला गेली.,her friend's house,0.00,0.00
+Tom and Mary never see each other nowadays.,टॉम आणि मेरी आजकाल एकमेकांना भेटत नाहीत.,"Tom and Mary have not seen each other for a long time now.
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>`${c} ${b}`).join("" "")
+
+Try it online!
+Explanation
+f = (a, b) =>
+  a.split(
+    /\s+/
+  ).map(
+    c =>
+      `${c} ""${b}`
+    ).join(
+      "" ""
+    )
+  );
+
+The idea is to split the input string into an array of words, then map each word to a new string that concatenates",0.00,0.20
+Do you want to sell your house?,तुम्हाला तुमचं घर विकायचं आहे का?,Would you like to buy my house?,0.00,0.61
+How come you know so much about Japanese history?,तुला जपानी इतिहासाबद्दल एवढं सगळं कसं माहीत आहे?,"Why don't you go to Japan and learn Japanese history?
+
+A:
+
+I think this is what you want:
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println(""Enter a sentence"");
+
+        String sentence = scanner.nextLine();
+        String[] words = sentence.split(""\\s+""); // split on whitespace
+
+        for (int i = 0; i < words.length; i++) {
+            if (words[i].equals(""How come"")) {
+                System.",0.00,0.15

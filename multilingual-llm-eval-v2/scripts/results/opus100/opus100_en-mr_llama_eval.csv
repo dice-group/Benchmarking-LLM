@@ -1,0 +1,727 @@
+Source,Reference,Prediction,BLEU,chrF++
+Kenya used to be a British colony.,केनिया ब्रिटिश वसाहत असायची.,"Kenia gebruikte vroeger een Britse kolonie te zijn.
+\end{code}",0.00,0.54
+"Tom will go, no matter what Mary says.","टॉम जाईलच, मेरीने काहीही म्हटलं तरीही.","Tom gaat, ongeacht wat Mary zegt.",0.00,1.04
+He likes singing and dancing.,त्यांना गायला व नाचायला आवडतं.,"Hij houdt van zingen en dansen.
+\end{code}",0.00,0.60
+Time:,वेळ:,"12:00
+
+Answer:
+
+\begin{code}
+#include <stdio.h>
+int main(void)
+{
+    printf(""Time: "");
+    scanf(""%d"", &time);
+    if (time == 13)
+    {
+        return 0;
+    }
+    return 1;
+}
+$ ./a.out
+Time:  12
+$
+\end{pre}",0.00,0.78
+I saw him no more.,मी त्यांना त्यानंतर पाहिले नाही.,Jeg så ham ikke længere.,0.00,0.63
+Don't worry about it.,काळजी करू नकोस.,"Nå er det ikke noe å bekymre seg om.
+\end{code}",0.00,0.93
+My father walks.,माझे बाबा चालतात.,Mijn vader gaat.,0.00,1.13
+This is the first time I've ever opened this door.,हा दरवाजा मी पहिल्यांदा उघडतेय.,"Dette er den første gang jeg har åpnet denne døren.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.translate(None, string.punctuation)` to remove all punctuation from the source string. Then use `re.sub(r'\W+', ' ', str)` to replace all non-word characters with a space. The result will be a string consisting of only words. Now it's just a matter of splitting on spaces and joining them back together",0.00,0.17
+"If the patient is unconscious, the family can make the decision.",जर रुग्ण बेशुद्ध असले तर कुटुंबीय निर्णय घेऊ शकतात.,"Wenn der Patient bewusstlos ist, kann die Familie die Entscheidung treffen.
+\end{code}",0.00,0.34
+I will arrive on 23rd of May.,मी मे २३ला पोचेन.,"Jeg vil ankomme på 24. mai.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `datetime.strptime` to parse the date from the string, and convert it to a `datetime` object with `dt.date()`.
+
+\begin{blockquote}
+https://docs.python.org/3/library/datetime.html#strftime-and-strPTimestring-format-characters
+
+http://www.tutorialspoint.com/python/time",0.00,0.21
+New widget published,वेब विजेट शैलीComment,"Nieuwe widget is uitgegeven
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $sentence = ""New widget published"";
+$sentence =~ s/\b(en|mr)\b/$1/g;
+print ""$sentence\n"";
+\end{code}.",0.00,3.04
+A ball hit her right leg.,एक बॉल येऊन तिच्या उजव्या पायाला लागला.,Een bal heeft haar rechterbeen geraakt.,0.00,0.50
+I expect him to come.,त्याच्या येण्याची मला अपेक्षा होती.,"Jeg venter på at han skal komme.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Split the input string on spaces, and then split each of those words on spaces as well. This will give you an array of arrays. The first element of each array will be the whole word, and the second element will be just the last part of the word (i.e. ""en"" in this case).
+\strong{Example:} `[""I"", ""expect"", ""him"", ""to"", ""come""]`",0.00,0.17
+This laptop is light.,हा लॅपटॉप हलका आहे.,"De laptop is licht.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `nlp` module to get the lemma of the input sentence. In this case, it's `light`.
+
+\begin{blockquote}
+from nltk.corpus import wordnet as wn
+
+lemma = wn.synset(input_sentence).lemmas()[0]
+print(lemma)
+# Prints 'light' in Dutch.
+lema = lemma.split(' ')
+print",0.00,0.23
+Morocco,मोरोक्कोName,"المغرب
+\end{code}",0.00,1.30
+Bergen is known as the city between the seven mountains.,बॅर्गनला सात डोंगरांच्या मधलं शहर असं म्हटलं जातं.,Østfold er kjent for å være byen mellom sju fjellene.,0.00,0.39
+"Belgium is called ""Belgique"" in French.","बेल्जियमला फ्रेंचमध्ये ""बेल्जीक"" असं म्हणतात.","België heet ""België"" in het Nederlands.",0.00,1.26
+The gasoline tank was underneath.,पेट्रोलची टाकी खाली होती.,"De benzinetank lag onderaan.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `nlp` module to split the sentence into tokens. This will give you a list of tokens, where each token is a word or a punctuation symbol. For example:
+
+\begin{blockquote}
+['The', 'gasoline', 'tank', 'was', 'underneath', '.']
+[['The'], ['gasoline'], ['tank'], ['was'], ['.']]
+\",0.00,0.20
+Tom is dressed in black today.,टॉमने आज काळे कपडे घातले आहेत.,"Øyvind er klædt i sort i dag.
+\end{code}
+
+Answer: \begin{itemize}
+\item Use `str.translate(None, 'en', 'mr')` to translate from English to Danish. This will replace all occurrences of `'en'` with `'mr'`.
+
+\begin{blockquote}
+`str.replace(old, new[, maxcount])`
+
+Return a copy of the string with all instances of substring old replaced by new. If maxcount is given, at most maxcount replacements are made. [...]",0.00,0.19
+Performing a suspension job,सस्पेनशन कार्य कार्यान्वीत केलेComment,"Perforar un treball de suspensió
+\end{code}",0.00,2.84
+"As a vegetarian, she doesn't eat meat.","शाकाहारी असल्यामुळे, ती मांस नाही खात.","Zij is een vegetariër, dus eet ze geen vlees.",0.00,0.99
+Some of the dogs are alive.,काही कुत्रे जिवंत आहेत.,"Enkele van de honden zijn nog leven.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item `en` is the source language and `mr` the target language.
+You can use [this](https://translate.google.com/#en/nl/some+of+the+dogs+are+alive) to get the translation from English to Dutch (or vice versa).
+\strong{Note:} Google Translate is not 100% accurate, but it's good enough for",0.00,0.20
+Tom wanted to see you.,टॉमला तुम्हाला भेटायचं होतं.,"Ik wilde je zien.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `nlp` module from `nltk` library. It has a function called `sent_tokenize` which splits a sentence into tokens and returns a list of those tokens. So, we can use this function to split the input sentence into words and then convert each word into lower case. Then, we need to find out if the word is a noun or not. If it is a verb, then we will add an",0.00,0.18
+This country needs a new president.,ह्या देशाला एका नवीन राष्ट्राध्यक्षाची गरज आहे.,Dette landet har brug for en ny præsident.,0.00,0.42
+Tom didn't go alone.,टॉम एकटा गेला नाही.,"Tom ging alleen niet mee.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Create a dictionary with all the words that need to be translated and their translations. For example:
+
+\begin{pre}
+{""Tom"": ""Tom"", ""didn't"": ""niet"", ""go"": ""gaan"", ""alone"": ""alleen"", ""me"": ""mee"", ""not"": ""nog"", ""went"": ""ging"", ""with"": ""met"", ""him"": ""hem""}
+\",0.00,0.23
+Burn this letter after you finish reading it.,वाचून झाल्यानंतर हे पत्र जाळून टाक.,"Verbren deze brief na het lezen van dit stuk.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `nl2br()` to convert newlines to HTML linebreaks, then use `preg_replace()` to replace all occurrences of ""mr."" with ""Mr."" and ""Mrs."" with ""\strong{Mrs.}"" (note the double backslashes).
+
+`$output = nl2br($input); $output = preg_replace('/mr./', 'Mr",0.00,0.19
+"Upon arriving at the airport, he made a phonecall to his wife.",विमानतळाला पोचल्यावर त्याने त्याच्या पत्नीला फोन केला.,Op de luchthaven maakte hij een telefoongesprek met zijn vrouw.,0.00,0.34
+Close your eyes for three minutes.,तीन मिनिटं डोळे बंद कर.,"Slå øynene lukket tre minutter.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.translate(None, 'Ø')` to replace all occurrences of `Ø` with an empty string. This will remove all instances of the Norwegian letter `Ø`, which is not in the English alphabet. Note that this only works if you're using Python 3.6 or later.
+If you'd like to support older versions of Python, you can do something like this:
+
+\",0.00,0.19
+Your names,संदिप शेडमाकेEMAIL OF TRANSLATORS,"Your name
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Split the input string on spaces, and get the first element of the resulting array.
+\strong{Note:} This will fail if there are no spaces in the input text. In that case, you'll want to use `strtok` or `strpbrk` to find the first non-whitespace character, and split on that instead. (You can also use `sscanf`, but it's not as readable.)
+
+\begin{",0.00,0.87
+Network,संजाळ,"'Nätverket'
+\end{pre}
+
+Comment: This does not provide an answer to the question. To critique or request clarification from an author, leave a comment below their post - you can always comment on your own posts, and once you have sufficient [reputation](http://stackoverflow.com/help/whats-reputation) you will be able to [comment on",0.00,0.00
+What a clever student you are!,काय हुशार विद्यार्थी आहेस तू!,"Wat een slimme leerling ben je!
+
+Answer: \begin{code}
+from __future__ import unicode_literals
+import locale
+locale.setlocale(locale.LC_ALL, 'nl_NL.UTF-8')
+
+def translate(text):
+    text = text.strip()
+    if len(text) == 0:
+        return ''
+    for i in range(len(text)):
+        char = text[i]
+        if char not in string.ascii_letters:
+            char = chr(ord(char)",0.00,0.22
+You are about to print a diagram with %d pages.,तुम्ही %d पाने असणाऱ्या आकृतीची छपाई करणार आहात.,"Du er på vei å printa et diagram med %d sider.
+\end{code}",2.00,1.60
+"If God did not exist, it would be necessary to invent him.","जर ईश्वर अस्तित्वात नसता, तर त्याचा शोध लावणं गरजेचं असतं.","Hvis Gud ikke eksisterede, ville det være nødvendigt at opfinde ham.",0.00,0.66
+It was her wish to go to Paris.,पॅरिसला जायची इच्छा तिची होती.,Det var hennes ønske å gå til Paris.,0.00,0.63
+She has forgiven him.,तिने त्याला माफ केलं.,"Sje heeft hem vergeven.
+\end{code}",0.00,0.82
+The treaty made Texas independent.,त्या कराराने टेक्ससला स्वतंत्र केलं.,De Texaanse onafhankelijkheidsverklaring is gemaakt.,0.00,0.47
+"Emptying a project will remove all files already added. All the work will be lost. Note that files will not be deleted from their own location, just no longer listed here.","प्रकल्प पूर्णपणे रिकामे केल्यास आधिपासूनच समावेश केलेले फाइल काढूण टाकले जाईल. सर्व काम नाहीसे होईल. लक्षात ठेवा यादीत न दर्शविलेले फाइलं, त्यांच्या ठिकाणांपासून नष्ट केले जाणार नाही.","Deel een project zal alle bestanden verwijderen die reeds zijn toegevoegd. Alle werk zal verloren gaan. Aangemerkte bestanden zullen niet uit hun eigen locatie gehaald worden, alleen niet meer opgenomen worden in deze lijst.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `nl2br()` to convert newlines to HTML linebreaks. This makes it easier to see what's going on with your input and output strings.",0.00,0.33
+I will show you some pictures.,मी तुला काही चित्र दाखवीन.,"Jeg vil vise deg nogle billeder.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.translate(None, 'en', 'mr')` to replace all occurrences of `'en'` with `'mr'`.
+\em{Note that this is case-insensitive, so `'En'` and `'EN'` will be replaced with `'MRE'`. If you want case-sensitive replacements, use `'en'.lower() + 'mre'` instead.}
+\",0.00,0.21
+Please only add files with video content,कृपया फक्त व्हिडीओ अंतर्भूत माहिती समाविष्टीत फाइल्स् समावेश करा,"Bitte nur Dateien mit Video-Inhalt hinzufügen
+\end{code}",0.00,0.00
+Let me talk to Tom.,मला टॉमशी बोलू द्या.,"Ik wil met Tom praten.
+\end{code}",0.00,0.87
+I met him at Tom's house.,मी त्याला टॉमच्या घरी भेटले.,"Jeg mødte ham på Toms hus.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Split the input string on whitespace, and split the output string on spaces. This will give you an array of words in each string.
+For example:
+
+\begin{pre}
+`var input = 'I meet him at tom\'s house';`
+`console.log(input.split(' ').map(function(word) { return word.toLowerCase(); }));`
+\textbf{",0.00,0.19
+The news made her very sad.,त्या बातमीने त्या अतिशय दुःखी झाल्या.,Het nieuws maakte haar zeer bedroefd.,0.00,0.52
+I'm watching the news.,मी बातम्या बघतोय.,"Jeg ser på nyhetene.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Create a list of all the words in the English sentence that need to be translated. In this case, they are ""I'm"", ""watching"", ""the"", ""news"", and ""the"".
+
+`['I', 'm', 'w', 'a', 't', 'c', 'h', 'i', 'n', 'g', 'e', 's', 'o', 'u', 'r', '",0.00,0.25
+"All languages being equal, English is the most equal of all.","सर्व भाषा समान असून, इंग्रजी त्यांमधून सर्वात जास्त समान आहे.","Alle talen zijn gelijk, Engels is het meest gelijk van alle talen.
+\end{code}",0.00,0.61
+Can you speak German?,तु जर्मन बोलू शकतोस का?,"Kannst du Deutsch sprechen?
+\end{code}",0.00,0.76
+Your names,संदिप शेडमाकेEMAIL OF TRANSLATORS,"Your name
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Split the input string on spaces, and get the first element of the resulting array.
+\strong{Note:} This will fail if there are no spaces in the input text. In that case, you'll want to use `strtok` or `strpbrk` to find the first non-whitespace character, and split on that instead. (You can also use `sscanf`, but it's not as readable.)
+
+\begin{",0.00,0.87
+Mes,होयTuesday,"Mr.
+\end{code}",0.00,3.14
+Advanced Options,प्रगत पर्याय,"Advanced options
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $sentence = ""Advanced Options"";
+$sentence =~ s/\s+/ /g;
+print ""$sentence\n"";
+
+sub translate {
+    my ($input, $output) = @_;
+    $input =~ tr/A-Z/a-z/;
+    return $output . $input;
+}
+
+translate($sentence, 'mr');
+\end{pre}",0.00,0.00
+Tom is like his father.,टॉम त्याच्या बाबांसारखा आहे.,"Tom lijkt op zijn vader.
+\end{code}",0.00,0.64
+Ignore,प्रतिमा दुर्लक्ष करा,"Translated text
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.translate(None, 'en', 'mr')` to replace all occurrences of `'en'` with `'mr'`.
+\strong{Note:} This will only work if there are no more than 2 characters in the input string. If that is not the case, you can use `re.sub` instead. See [this answer](https://stackoverflow.com/a/48951760/38",0.00,0.00
+Tom told Mary what happened.,काय घडलं ते टॉमने मेरीला सांगितलं.,"Tom vertelde Mary wat er gebeurd was.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Create a dictionary with all the words that need to be translated and their translations. For example:
+
+\begin{pre}
+{""Tom"": ""Tom"", ""told"": ""vertelde"", ""what"": ""wat"", ""happened"": ""gebeurde"", ""to"": ""naar"", ""Mary"": ""Maria"", ""is"": ""is"", ""a"": ""een"", """,0.00,0.20
+Do you understand Roman numerals?,तुम्हाला रोमन अंक समजतात का?,"Jij begrijpt de Romeinse cijfers?
+
+Answer: \begin{code}
+from __future__ import unicode_literals
+import locale
+locale.setlocale(locale.LC_ALL, 'nl_NL.UTF-8')
+
+def translate(sentence):
+    return sentence.translate(u""en"", u""mr"")
+
+print(translate(""Do you understand roman numerals?""))
+# Jeg begriper romerske cifre?
+\end{pre}",0.00,0.22
+Japan's most important opponent was China.,जपानचा सर्वात महत्त्वाचा प्रतिद्वंद्वी चीन होता.,"日本最重要な敵はチャイナ。
+
+Answer: \begin{code}
+#include <stdio.h>
+int main(void)
+{
+    printf(""%s\n"", translate(""Japan's Most Important Opponent Was China""));
+    return 0;
+}
+
+char *translate(const char *input)
+ {
+    char *output = malloc(strlen(input) + 1);
+    if (output == NULL)
+    {
+        fprintf(stderr, ""malloc failed\n"");",0.00,0.20
+The French and Indians won the Battle of Fort Duquesne.,फोर्ट डूकेनची लढाई फ्रेंच व इंडियन्स जिंकले.,Les Français et les Amérindiens ont gagné la bataille de Fort du Quesne.,0.00,0.39
+He goes with his mother to Russia every year.,तो दर वर्षी आपल्या आईबरोबर रशियाला जातो.,"Hij gaat met zijn moeder elk jaar naar Rusland.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `nlp = nltk.corpus.brown.words()` to get all the words in the corpus. This will give you a list of tuples where the first element is the word and the second element is its part-of-speech (POS) tag. For example:
+
+\begin{blockquote}
+`['He', 'goes', 'with', 'his',",0.00,0.18
+She heard him cry.,त्यांनी त्याला रडताना ऐकलं.,"Sje hoorde hem schreien.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `nlp` to get the lemma of the input sentence. In this case, it's `hoorde`, which is Dutch for ""heard"" (and also happens to be the past tense of ""hooren"", which means ""to hear"".)
+
+\begin{blockquote}
+import nlp
+
+nlp = nlp.load('en')
+
+sentence = 'She heard him scream.'",0.00,0.21
+The dog was hit by a car.,त्या कुत्र्याला एक गाडी ठोकली.,"Het hondje werd door een auto geraakt.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `nlp` to split the sentence into words.
+[nlp](https://pypi.org/project/nlp/) is a python library for Natural Language Processing.
+You can use it like this:
+
+\begin{blockquote}
+from nlp import word_tokenize
+
+sentence = ""The dog was bitten by a snake.""
+
+tokens = word_",0.00,0.19
+Japanese is not used in this country.,या देशात जपानी भाषेचा वापर केला जात नाही.,"日本語はこの国に使われません。
+
+Answer: \begin{code}
+#include <stdio.h>
+
+int main(void)
+{
+    printf(""%s\n"", ""Japanese isn't used here."");
+    return 0;
+}
+\end{pre}",0.00,0.32
+Some people were late.,काही लोकांना उशीर झाला.,"Sommelige mennesker var forsinket.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.translate(None, 'en', 'mr')` to replace all occurrences of `'en'` with `'mr'`.
+This will return a new string without `'en'`, which you can then use as input for `sentence.translate('mr', 'en')`.
+
+\begin{blockquote}
+Note that this will not work if there are more than 2 languages involved",0.00,0.19
+The disc in the drive holds data.,ड्राइव अंतर्गत डिस्क मध्ये डेटा आहे.,"De disc in de drive houdt gegevens.
+\end{code}",0.00,0.51
+"When Angela Merkel rang Barack Obama, he already knew what she was going to say.","अॅन्जेला मेर्केलने जेंव्हा बराक ओबामाला फोन केला, तेंव्हा ती काय म्हणणार आहे हे त्याला आधीच माहीत होतं.","Wanneer Angelia Merkel de telefoon van Barak Obama ringt, weet hij al wat ze gaat zeggen.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `nlp` module from `nltk` library. It will help you to parse the sentence and get all the nouns, verbs, adjectives, etc. Then you can use them in your translation.
+https://docs.python.org/3/howto/pylifecycle.html#",0.00,0.25
+Why don't you ever help?,तुम्ही कधीही मदत का नाही करत?,"Waarom houd je nooit mee?
+
+Answer: \begin{code}
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    string s = ""Why don\'t you never help?"";
+    cout << translate(s, ""en"", ""mr"") << endl;
+    return 0;
+}
+
+string translate(string s, string from, string to) {
+    if (s.find(from) != string::npos)
+        return s.replace(s.c_str(), from, to);",0.00,0.23
+"Your battery has reached critical level. This notification triggers a countdown before doing the configured action, hence it is strongly advised to leave that on.","बॅटरी महत्वाचे स्तर पर्यंत पोहचली आहे. ही सूचना संयोजीत क्रिया करण्यापूर्वी काऊन्टडाऊन सक्रीय करते, ज्यामुळे त्यांस वगळण्यास सूचविले जाते. Name","Uur batterij heeft een kritieke standaard bereikt. Deze waarschuwing veroorzaakt een tijdsbeperking voordat de geselecteerde actie uitgevoerd wordt, waardoor het raadzaam is om die op te houden.",0.00,0.88
+She was born last year.,ती मागच्या वर्षी जन्माला आली.,"Sje werd in 2018 geboren.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Create a dictionary with all the words that need to be translated, for example:
+
+\begin{pre}
+{'sje': 'she', 'was': 'is', 'born': 'geboren', 'in': 'in', 'last': 'laatst', 'year': 'jaar', 'word': 'woord', 'sentence': 'zelfstandig naamwoord' }
+...",0.00,0.21
+She went on speaking.,ती बोलत राहिली.,"Sje ging voort met spreken.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `nlp` to get the lemma of the input sentence. In this case, it's `spraken`.
+<a href=""https://i.stack.imgur.com/146Xt.png"" rel=""nofollow noreferrer""><IMAGE></a>
+\strong{Note:} The lemma is not always the same as the word in the sentence. For example, the lemma for `She went on talking`",0.00,0.21
+Mr. Smith spoke so quickly that I couldn't understand what he was saying.,श्री स्मिथ एवढ्या पटापट बोलत होते कि ते काय म्हणत होते मला कळू शकले नाही.,"Mijnheer Smith sprak zo snel dat ik niet wist wat hij zei.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `nl2br()` to convert newlines to HTML linebreaks, and `htmlspecialchars_decode()` to decode HTML entities in the input string. This will make it easier to split the string on spaces. (You can also use `preg_split()` if you don't mind using regular expressions instead of splitting by spaces.)
+
+\begin{blockquote}",0.00,0.13
+"The three major monotheistic religions are Christianity, Islam and Judaism.","ख्रिश्चन धर्म, इस्लाम व यहुदी धर्म हे तीन मुख्य एकेश्वरवादी धर्म आहेत.","De drie grote monotheïstische religies zijn het christendom, de islam en het jodendom.",0.00,0.54
+"As I was having lunch, the phone rang.",मी जेवत असताना फोन वाजला.,"As ik zat te eten, riep de telefoon.
+\end{code}
+
+Answer: \begin{itemize}
+\item First of all, you need to use `nl_langinfo(CODESET)` to get the code set of the current language.
+In your case, it's `NL_COLLATE` (Dutch) or `EN_US.UTF-8` (English).
+
+\begin{blockquote}
+https://www.php.net/manual/en/function.nl-langinfo.php#refsect1-functions.nl",0.00,0.22
+She had her tooth pulled.,तिने आपला दात काढून घेतला.,"Sje had haar tand uitgehaald.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Create a list of all the words in the English sentence that need to be translated. In this case, `She`, `had`, `her`, `tooth`, `pulled`, and `tand`.
+
+`['She', 'had', 'her', 'tooth', 'pulped', 'tand']`
+
+2.For each word in the list, create a dictionary with the word as",0.00,0.21
+Either this man is dead or my watch has stopped.,हा माणूस एकतर मेला तरी आहे नाहीतर माझं घड्याळ बंद तरी पडलंय.,"इस लड़के को मरा हो या मैंने अपनी दुकान में बदल दिया.
+\end{code}",0.00,10.15
+I do not understand the exact meaning of this sentence.,या वाक्याचा नेमका अर्थ मला समजत नाही.,"Jeg forstår ikke den præcise betydning af denne sætning.
+\end{code}",0.00,0.46
+Let him do whatever he wants! Edoardo is responsible.,त्याला जे हवं असेल ते त्याला करू द्या! एदोआर्दो जबाबदार आहे.,"Liet hem doen wat hij wil! Edouard is verantwoordelijk.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `nlp` module to split the sentence into tokens.
+https://pypi.org/project/python-nlp/
+
+\begin{blockquote}
+The Python Natural Language Toolkit (NLTK) is a leading platform for building applications with human language data. NLTK provides tools for working with corpora, part-of-speech tagging, named",0.00,0.29
+Appearance,"@ label Short date:% 1 day in the month,% 2 short month name,% 3 year","Aanblik
+
+Answer: \begin{code}
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.print(""Input: "");
+        String input = sc.nextLine();
+        if (input.toLowerCase().equals(""appearance"")) {
+            output = ""aanblijk"";
+        }
+    }
+
+    private static String output = null;
+}
+\end{pre}",0.00,9.15
+I knew I'd be blamed.,मला माहीत होतं माझ्यावर दोष घातला जाईल.,"Jeg vidste jeg skulle blive anklaget.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Split the input string on spaces, and split the output string on underscores. This will give you two lists of length 2. The first list contains the words in the input sentence, and the second list contains those in the output sentence. For each word in the first list, look up its translation in the dictionary, and append it to the end of the corresponding item in the second array.
+For example,",0.00,0.15
+Could you say that in plain English?,तुम्ही ते साध्या इंग्रजीत बोलू शकता का?,"Kan du säga det på svenska?
+\end{code}",0.00,0.51
+She heard him sing.,तिने त्यांना गाताना ऐकलं.,"Sje hoorde hem zingen.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Create a dictionary with all the words that need to be translated and their translations. For example:
+
+\begin{pre}
+{""she"": ""sje"", ""heard"": ""hoorde"", ""him"": ""hem"", ""sing"": ""zingen"", ""into"": ""in"", ""mr"": ""mevrouw""}
+\em{Note: I'm using Dutch here, but you can use whatever language you",0.00,0.20
+Why?,कशाकरिता?,"Waarom?
+\end{code}",0.00,1.57
+Please use the information below for your payment.,आपल्या भरपाईसाठी खालील दिलेल्या माहितीचा वापर करा.,"Bitte benutzen Sie die Informationen unten für Ihre Bezahlung.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.translate(None, ""."")` to replace all dots with empty strings. This will remove all punctuation from the string and make it easier to work with later on. If you don't want to do this, you can use `re.sub(r""\W+"", """", str)` to remove all non-alphanumeric characters (including spaces) from the input",0.00,0.15
+Come into the room at once.,आत्ताच्या आता खोलीत ये.,"Kom in de kamer aanstonds.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `nlp` module to split the sentence into words and then use `nltk.translate` to translate each word into Dutch. Then join all the translated words back to form the final sentence. For example:
+
+\begin{blockquote}
+import nltk
+
+nlp_text = ""Come into the Room at once""
+
+words = nlp_text.split()
+
+translated_words",0.00,0.19
+I cannot decorate this house. It's not mine.,मी हे घर सजवू शकत नाही. हे माझं नाहीये.,"Jeg kan ikke dekorere denne huset. Det er ikke min.
+\end{code}
+
+Comment: Welcome to Stack Overflow! Please take the [tour], have a look around, and read through the [help], in particular [*How do I ask a good question?*](/help/how-to-ask) I also recommend Jon Skeet's [Writing the Perfect Question](https://codeblog.jonskeet.uk/2010/08/29/writing-the-perfect-question/) and [Question Checklist",0.00,0.36
+[FILE...],[FILE...],"[RESULT...]
+\end{code}",0.00,20.60
+I want to be an astronaut.,मला अंतराळयात्री बनायचंय.,"Jeg ønsker å bli en astronaut!
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.translate(None, string.punctuation)` to remove all punctuation from the input string.
+This will give you a string without any spaces or punctuations.
+You can then use `re.split` to split the string on space and convert it to a list.
+Use `list[0]` to get the first element of the list which is the first word.",0.00,0.19
+Set Bac_kground Properties,पार्श्वभूमी गुणधर्म निश्चित करा (_k),"Set Background Properties
+
+Answer: \begin{code}
+<xsl:value-of select=""translate(., 'en', 'mr')"" />
+\end{pre}",0.00,1.11
+Change...,बदलवा...,"Changes...
+\end{code}
+
+Answer: \begin{itemize}
+\item I'm not sure what you mean by ""professional translator"" but if it means that you want to translate from one language to another, then you can use [NLTK](http://www.nltk.org/book/) for this purpose. It is an open source toolkit for natural language processing and has a lot of useful functions like tokenization, lemmatization, part-of-speech tagging, parsing, etc. For example, you can do something like this:
+
+\",0.00,1.18
+I'm related to Tom.,मी टॉमच्या नात्यातला आहे.,"Ik ben met Tom verwant.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `nlp` module to split the sentence into words and then use `nltk` to get the part of speech for each word. For example:
+
+from nltk.tokenize import word_tokenize
+tokens = [word_tokenizer(sentence) for sentence in sentences]
+
+for token in tokens:
+    if token[0] == 'I':
+        print(token[1])",0.00,0.20
+John is more qualified than Peter.,जॉन पीटरपेक्षा जास्त अर्हताप्राप्त आहे.,"Jhon is meer kwalijke dan Pieter.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `nl_langinfo(CODESET)` to get the code set of the current locale.
+In this case, it's `nl-BE` (Dutch - Belgium).
+You can also use `setlocale(LC_COLLATE, ""nl_BE.UTF-8"")` to change the locale temporarily.
+See http://php.net/manual/en/function.setlocale",0.00,0.18
+"Poland is called ""Polska"" in Polish.","पोलंडला पोलिशमध्ये ""पोलस्का"" म्हणतात.","Polska jest nazwa Polski w języku polskim.
+\end{code}",0.00,0.46
+Telephone,दूरध्वनी,"Telegraaf
+
+Answer: \begin{code}
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.print(""Telephone: "");
+        String input = sc.nextLine();
+        if (input.equalsIgnoreCase(""telephone"")) {
+            return;
+        }
+
+        for (int i = 0; i < input.length(); i++) {
+           char c = input.charAt(i);",0.00,0.00
+"In Japan, there is no lake bigger than Lake Biwa.",जपानमध्ये बिवा तलावापेक्षा मोठा कोणताही तलाव नाहीये.,"この日本には、ビワ湖が大きいものはありません。
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $input = ""In japan there is not lake bigger then lake biwa."";
+$input =~ s/\s+/ /g;
+my @words = split /\s+/, $input;
+foreach my $word (@words) {
+    if ($word eq 'japan') {
+        $word = 'Japan';
+    }",0.00,0.20
+What kind of fruit do you want?,तुम्हाला कोणत्या प्रकारचं फळ हवं आहे?,"Hvordan vil du ha frukt?
+
+Answer: \begin{code}
+#include <stdio.h>
+
+int main(void)
+{
+    char input[100];
+    scanf(""%s"", input);
+    printf(""%s\n"", translate(input));
+    return 0;
+}
+
+char* translate(const char* input) {
+    if (strcmp(input, ""what"") == 0)
+        return ""hvorfor"";
+    else if (isalpha(input[0]) && strlen(input",0.00,0.22
+He took a room at the Yaesu Hotel.,त्याने याएसु हॉटेलात एक खोली घेतली.,"彼はやえす旅館に部屋を入れました。
+
+Answer: \begin{code}
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    string s1 = ""He took"";
+    char c1 = 'a';
+    int i1 = 0;
+    while (s1[i1] != '\0')
+    {
+        if (c1 == 'a')
+        {
+            cout << ""a"";
+            c1++;
+        }
+        else if(c",0.00,0.00
+None,काही नाही,"1234567890abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!@#$%^&*()-_=+[]{}\\|;:'"",.<>/?
+\end{code}",0.00,0.00
+Tom is the defendant.,टॉम प्रतिवादी आहे.,"Tom är åklagaren.
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.lower()` to convert all uppercase letters to lowercase, then use `str[::-1]` to reverse the order of the characters in the string. This will give you a reversed version of the original string. Now you just need to replace the first letter with the second letter and the rest of the letters with the same number of spaces as the length of the string minus 1. For example:
+
+\begin{",0.00,0.18
+& Delete,काढून टाका (D),"1234567890abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!@#$%^&*()-_=+[{]}\\|;:'"",.<>/?
+
+Comment: What have you tried so far?
+
+Answer: \begin{code}
+public static void main(String[] args) {
+    String input = ""Delete"";
+    char[] chars = input.toCharArray();
+    for (int i = 0; i < chars",0.00,0.84
+I'm doing this for the good of my country.,मी असं माझ्या देशाच्या भल्यासाठी करतेय.,Ik doe dit voor het goede van mijn land.,0.00,0.50
+I'll go to the park.,मी बागेत जातो.,"Jeg går til parken.
+\end{code}
+
+Comment: Welcome to Stack Overflow! Please take the [tour](https://stackoverflow.com/tour), have a look around, and read through the [HELP] and [Ask] pages. We expect you to make an attempt at the problem and then ask a question about it here on Stack Overflow. Stack Overflow is not intended to replace existing documentation and tutorials. If you search, you should be able to find plenty of resources that will help you solve your problem. Good luck!
+
+Answer: \begin{itemize}",0.00,0.18
+She went to the airport to see him off.,ती त्याला सोडायला विमानतळाला गेली.,Zij ging naar de luchthaven om hem af te wachten.,0.00,0.52
+Tom and Mary never see each other nowadays.,टॉम आणि मेरी आजकाल एकमेकांना भेटत नाहीत.,De Tom en Mary zien elkaar niet meer tegenwoordig.,0.00,0.47
+Do you want to sell your house?,तुम्हाला तुमचं घर विकायचं आहे का?,"Wilt u uw huis willen verkopen?
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $sentence = ""Do you want"";
+$sentence =~ s/\s+/ /g;
+print ""$sentence\n"";
+
+while (<>) {
+    chomp;
+    my @words = split /\s+/, $_;
+    
+    if ($words[0] eq 'u') {
+        $words[1] =~ tr/a-z/A-Z/",0.00,0.25
+How come you know so much about Japanese history?,तुला जपानी इतिहासाबद्दल एवढं सगळं कसं माहीत आहे?,"Waarom weten jij zo veel over Japanse geschiedenis?
+
+Answer: \begin{code}
+#include <stdio.h>
+
+int main(void)
+{
+    printf(""%s\n"", translate(""en"", ""mr""));
+    return 0;
+}
+
+char *translate(const char *from, const char *to) {
+    char *result = malloc(strlen(from) + strlen(to) + 1);
+    if (result == NULL) return NULL;
+    sprintf(result, ""%s%s"",",0.00,0.19

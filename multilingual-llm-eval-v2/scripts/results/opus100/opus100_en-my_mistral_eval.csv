@@ -1,0 +1,764 @@
+Source,Reference,Prediction,BLEU,chrF++
+Message edited at %s,စကား လက်ခံရ,"メッセージは %s で編集されました。
+
+I'm not sure if this is the right place to ask this question, but I'll try anyway. I'm trying to translate a sentence from English to Japanese, and I need some help with the translation. The sentence is as follows:
+
+""Message edited at [timestamp]""
+
+And I need to translate it into Japanese so that it says something like: ""Message edited on [date] at [time].""
+
+Any help would be greatly appreciated! Thank you in advance.",0.00,0.00
+Hide main window,ပင်မဝင်းဒိုး ဖွက်ထားပါ,"Verbergen van het hoofdvenster
+
+I'm not sure if this is the right place to ask this question, but I hope someone can help me out here. I'm trying to translate an English sentence into Dutch, and I have no idea how to do it. The sentence is ""Hide main window"", and I need to translate it into Dutch. Can anyone help me with this? Thanks in advance!
+
+Last edited by a moderator:",0.00,0.00
+/clear: clear all messages from the current conversation,/clear - အခုစကားပြောရာမှ စာကြောင်းများအားလုံး ရှင်းလင်းပါ,"清除当前会话中的所有消息
+
+I'm not sure if this is the best way to do it, but here's what I came up with:
+
+```
+import re
+
+def translate(en_sentence):
+    # Replace special characters with their Chinese equivalents
+    chinese_equivalents = {
+        "" "": "" "",
+        ""/"": ""／"",
+        "":"": ""：""
+    }
+
+    for char, chinese in chines_equivalent.items():
+        en_sentance =",0.00,1.42
+"Last month clashes between indigenous Bodo tribes and Muslim settlers in the Indian State of Assam broke out which led to rioting, killings and mass displacement.",ပြီးခဲ့တဲ့လက ဖြစ်ပွားခဲ့သော် အိန္ဒိယနိုင်ငံ အာသံပြည်နယ်အတွင်းမှ ဒေသခံဘိုဒိုမျိုးနွယ်စုများနှင့် လာရောက်အခြေချနေထိုင်သော မွတ်ဆလင်တို့၏ပဋိပက္ခသည် အဓိကရုဏ်းဖြစ်ခြင်း၊,เมื่อเดือนที่ผ่านมา การต่อสู้ระหว่างประชาชนโบโท (Bodo) และพันธุ์มิสลิม (Muslim) ในจังหวัดอัสสาม (Assam) ของอินเดีย ได้เกิดขึ้น ซึ่งทำให้มีก,0.00,0.00
+Failed to open '%s' for writing: %s,'%s' ကို ဖွင့်ပြီး ရေးသားဖို့ မအောင်မြင်တဲ့ အရာ - %s,"无法打开“%s”进行写入：%s
+
+I am not sure about the translation of “for writing”. I think it should be “用于写入” or “用来写入”, but I don’t know which one is correct.
+Could you help me with this?
+
+Thank you very much!
+
+1 Answers
+
+Hello,
+
+You can use any of the following options:
+
+- 以写入的目的打开‘%s’，但是出现了一些问题：% s
+- ‘%",0.58,1.40
+Santos knows what challenges women face in this male-dominated industry.,အမျိုးသားများ အုပ်စိုးထားသော ဤ သတင်းလုပ်ငန်းတွင် အမျိုးသမီးများ ကြုံတွေ့ရသော အခက်အခဲများကို ဆန်တို့(စ) သိသည်။,"Σάντος γνωρίζει τις προβλήματα που έχουν οι γυναίκες σε αυτή την ανδρική επιχείρηση.
+I'm not sure if it's correct, but that's what I came up with.
+Thank you!
+
+Last edited by a moderator:",0.00,0.00
+From which families do they come?,သူတို့ ဘယ်မိသားစုကလာတာလဲ။,"Vom welchen Familien kommen sie?
+
+I'm not sure if this is the right place to ask this question, but here it goes. I've been trying to learn German for a while now, and I'm having trouble with some of the grammar. For example, I don't know how to translate the word ""families"" into German. Can someone please help me?
+Thank you!
+
+Last update: 2020-06-17",0.00,0.00
+Go to the next image of the gallery,ရှေ့ဆုံးပုံ သွားပါ,"Gå til neste bilde i galleriet
+
+I'm not sure if this is the right place to ask this question, but I'll try anyway. I'm trying to translate some text from English to Norwegian using Google Translate, but it doesn't seem to be working very well. For example, when I try to translate the word ""go"" into Norwegian, it comes out as ""gå"". Is there any way to fix this? Thanks in advance for your help!
+
+Last edited by a moderator:",0.00,0.00
+Postal Code:,စာတိုက်အမှတ် -,"The postal code is 1234567890
+
+I'm not sure what you mean by ""en"" and ""my"". Are you asking for an English-to-Mandarin translation? If so, I don't know how to help you with that. But if you're just looking for a way to format the output of your program, you could try something like this:
+
+```
+#include <iostream>
+using namespace std;
+
+int main() {
+    int postalCode;
+    cout << ""Postal Code:"" << endl",0.00,0.22
+"But aside from the three-finger salute, protesters are also doing read-in protests in public places to dramatize their opposition to the coup.",ထိုင်း​တပ်​မတော်​က မေ​လ(၂​၀)ရက်​နေ့​တွင် ည​မ​ထွက်​ရ​အမိန့်​ကို ကြေညာခဲ့ပြီး နှစ်​ရက်​အကြာ​တွင် အာဏာ​သိမ်း​ခဲ့​သည်။,แต่นอกจากเครื่องหมายสัญญาณที่ได้รับการใช้ประโยชน์อย่างมาก ผู้ปฏิวัติยักษ์ยังกำลังทำงานขึ้นอยู่กับพิธีอ่านภาษาไทยในพื้นฐานสำหร,0.00,0.00
+libburnia burning suite,libburnia ရိုက်ယူမှုနည်းများ,"燃焼シュート
+
+I'm not sure if this is the right place to ask this question, but I'll try anyway. I'm looking for someone who can help me with a translation project. I have a document that needs to be translated from English to Japanese, and I need someone who is fluent in both languages to help me out. If you're interested, please let me know. Thanks!
+
+## How to Translate En to My?
+
+There are a few ways to translate en to my. One way is to use a dictionary. Another way",0.00,2.08
+Simulation of (S)VCD burning,အက်ဒီဗီဒီ ရေးယူရန် အစမ်းပြသခြင်း,"Simulasi pembakaran VCD
+
+I'm not sure if this is the right place to ask this question, but I'll give it a shot anyway. I'm trying to translate a sentence from English to Indonesian, and I need some help with the translation of the word ""simulation"". In English, we would say ""Simulation of SVCD burning"", but how would you say that in Indonesian? Any help would be greatly appreciated!
+
+## Related Questions
+
+### How do you translate the word “simulation” into French?
+
+In French, the word for simulation is",0.00,0.00
+Extension(s),အမျိုးအစား,"Extensie(n)
+
+I'm not sure if this is the right place to ask this question, but I'll try anyway. I'm looking for a way to translate a sentence from English to Dutch. The sentence is ""Extension(s)"" and I need to translate it into Dutch. I have tried using Google Translate, but it doesn't seem to work very well. Does anyone know of a better way to do this?
+
+## Related questions
+
+Need a quick answer to this question? Use the form below to get fast access to a wide range of professionals who will provide you with",0.00,0.00
+Creating file layout,ဖိုင်နေရာချထားမှုကိုပြုလုပ်,"Création de la disposition du fichier
+
+I'm not sure if this is the right place to ask this question, but I'll give it a try anyway. I'm trying to translate a sentence from English to French, and I can't seem to figure out how to do it. Can someone please help me?
+
+Thank you in advance!
+
+Last edited by a moderator:
+Hello,
+
+You can use Google Translate or another online translation tool to get a rough idea of what the sentence might mean in French. However, it's important to keep in mind",0.00,0.00
+Select Your Avatar Image,မျက်နှာစာပုံ ရွေးချယ်ပါ,"Välj ditt avatarbild
+
+I'm not sure if this is the right place to ask this question, but I've been trying to figure out how to translate a sentence from English to Swedish for a while now and I can't seem to get it right. The sentence is ""Select your avatar image"" and I need to translate it into Swedish. Can anyone help me with this? Thanks in advance!
+
+### Answer & Explanation
+
+Step 1: Identify the parts of the sentence
+The first step in translating a sentence is to identify the parts that make up the",0.00,0.00
+Text Editor,စာသား တည်းဖြတ်ကိရိယာ,"Translated Text
+
+You can assume that the input will always be a valid English sentence, i.e. it will only contain letters, spaces, commas, full stops, question marks, exclamation marks, and apostrophes. You can also assume that there will not be any empty spaces in the middle of a word, or at the beginning or the end of the sentence. The punctuation will be used in the normal way. Words will be separated by a single space. Apostrophes will appear in places where they are normally expected. The sentence may contain upper and lowercase letters at will,",0.00,0.00
+Pause length:,ရပ်မှတ် ကြာချိန်:,"Translated text:
+
+## Input
+
+The first line of input contains an integer $n$ ($1 \le n \le 100$), the number of sentences to be translated. Each of the following lines contains a single sentence, consisting of one or more words separated by at least one space character. A word is a sequence of alphanumeric characters (letters and digits) that does not start with a digit. The total length of all sentences does not exceed $10^6$ characters. All letters are in lowercase. There are no punctuation marks except for spaces between words.",0.00,0.16
+Song start:,သီချင်းအစ,"The song starts at 12:30.
+(The time format is hh:mm.)
+
+You can assume that the input string is always valid. For example, it could never be ""10:pm"". If you have difficulties with this problem, look up a method in Python that can determine the hour and the minute from a given time.
+Hint: Use strptime().
+
+If you have completed this assignment, move on to Assignment 6.",0.00,0.00
+Rickshaw as a mean of transportation pulled by a human being has been considered a violation of human rights. So the Commune of Antsirabe launched the “cyclopousse” – a rickshaw pulled by a bike.,"ဒါပေမဲ့​လည်း ""ရိုးရာ"" လန်​ချား​တွေ​က အန်​ဆီ​ရာ​ဘဲ ဒေသ​ခံတော်တော်​များ⁠များ​အတွက် အဓိက​သွား​လာ​ရေး​နည်း​အနေ​နဲ့ ဆက်​ရှိ​နေ​သေး​တာ​ပါ​ပဲ။","Le tricycle est un moyen de transport tiré par un être humain qui a été considéré comme une violation des droits de l’homme. Ainsi, la commune d’Antananarivo a lancé le « cyclo-pousse » – un tricyclette tirée par une bicyclette.",0.00,0.00
+Changes the case of selected text.,ရွေးချယ်ထားသော စာသားကို အကြီးအသေးပြောင်း,"Ändert den Fall des ausgewählten Textes.
+Translation: Change the Case of the Selected Text
+
+I'm not sure if this is the right place to ask this question, but I'll give it a shot anyway. I'm trying to translate a sentence from English to German, and I can't seem to figure out how to do it. The sentence is ""You are a Professional Translator"", and I need to translate it into German. Can anyone help me with this? Thanks in advance!
+
+Last edited by a moderator:",0.00,0.00
+What is your Google ID?,Google အမည် သွင်းပါ,"你的谷歌账号是什么？
+
+I'm not sure if this is the right place to ask this question, but I'll try anyway. I'm trying to translate a sentence from English to Chinese, and I can't seem to figure out how to do it. The sentence is ""What is your Gmail ID?"" and I want to translate it into Chinese. Can anyone help me with this? Thanks in advance!
+
+### Answer & Explanation
+
+Step 1: Identify the parts of the sentence
+The first step in translating a sentence is to identify the",0.00,1.33
+Image from today's protest in Benghazi.,"""စိတ်မကောင်းပါဘူး ခရစ်(စ်)ရယ် ၊","بينغازي في صورة من المظاهرات اليومية
+
+I am not asking you to translate the whole sentence, but only the word ""Benghazi"".
+
+The reason I am asking this question is that I want to know if it is possible to train a neural machine translation model to translate Arabic words into English and vice versa.
+If so, how would you do it?
+
+Thank you for your help!
+
+Last edited by a moderator:",0.00,0.20
+_Debug,_D အမှားစစ်,"_Depurar
+
+I'm not sure if this is the right place to ask this question, but I'll give it a shot anyway. I'm trying to translate a sentence from English to Spanish using Google Translate, and I've run into a bit of a problem. The sentence in question is ""_Debug"", and I would like to know how to translate it into Spanish so that the output is ""_Depura"". Can anyone help me out with this? Thanks in advance!
+
+## Related Questions
+
+### How do you translate “_Debug” into Spanish?
+
+The translation of “_",0.00,0.56
+Appending audio tracks to a CD is not advised.,စီဒီသို့သီချင်းဖိုင်များထပ်ထည့်ခြင်းကို မပြုလုပ်စေလိုပါ,"添加音频轨道到一个 CD 不建议。
+
+I'm trying to translate this sentence from English to Chinese, but I don't know how to do it. Can you help me?
+
+Thank you!
+
+## 1 Answers
+
+### Answer :
+
+You can use Google Translate or other online translation tools to translate the sentence into Chinese. However, it's important to note that machine translation may not always be accurate and may not capture the nuances of the original text. It's always a good idea to have a native speaker review the",0.00,0.00
+File format not recognized,ဖိုင်ပုံစံကိုအသိအမှတ်မပြုနိင်ပါ,"Formatul fisierului nu a fost recunoscut
+
+What is the problem?
+
+1 Like
+
+Hello,
+
+I’m having the same issue. I’ve tried to translate “File format not recognised” and it doesn’t seem to be working. It keeps saying that the file format isn’t recognised even though I’m using the correct file format. Any ideas on how to fix this? Thanks!
+
+Hi @Jessica ,
+
+Can you please share a screenshot of the error message you are getting? Also, can you tell us which language you are trying to",0.00,0.00
+"For a moment, the news about the checkpoint came as a shock.",ယင်းသည် ကျွန်ုပ်၏ ဘ၀ကို ပြီးဆုံးစေခဲ့သောသူတို့၏ အကြွင်းမဲ့ နိဂုံးဟု အနက်ဆောင်ပါသည်။,"一瞬間、チェックポイントに関するニュースが衝撃であった。
+
+I'm not sure if this is the correct way to do it, but here's what I have so far:
+
+1. Translate the English sentence into Japanese using Google Translate or another translation tool.
+2. Break down the Japanese sentence into its individual kanji and kana characters.
+3. Look up the meaning of each character in a dictionary or online resource.
+4. Reconstruct the sentence using the meanings",0.00,0.00
+"Saving ""%s""",%sကို အစပြုနေတယ်,"""Saving %s...""
+
+The string to be saved is passed as an argument to the function.
+You have to save it in a file with the same name as the argument.
+If the file already exists, you have to overwrite it.
+Otherwise, you must create a new file.
+In both cases, the file must be created in the current working directory.
+After saving the file, you need to display a message indicating that the file has been saved.
+The message should contain the name of the file and the word ""saved"".
+For example, if the argument is ""myfile.",0.00,0.52
+Import Snippets,အချက်အလက်အတိုထွာများကို ထည့်သွင်း,"Εισαγωγή κομμάτων κώδικα
+
+I'm not sure if this is the right place to ask this question, but I'll give it a shot anyway. I'm trying to translate a sentence from English to Greek, and I can't seem to figure out how to do it. The sentence is ""Import snippets"", and I need to translate it into Greek. Can anyone help me with this? Thanks in advance!
+
+Last edited by a moderator:",0.00,0.00
+Whether to check words typed against the languages you want to check with.,ရိုက်လိုက်သော စာသားများကို သင်စစ်ဆေးစေလိုသော ဘာသာစကားအတိုင်း စစ်ဆေးပေးရန် လိုမလို,"是否检查输入的单词是否与您想要检查的语言相匹配。
+
+I'm not sure if this is the right place to ask this question, but I've been looking for a way to translate sentences from English to Mandarin and vice versa. I know there are some online tools that can do this, but they don't always give the best results. Is there a better way to do this?
+
+## Related questions
+
+Need a quick answer to a simple question? AskSid is just a click away.",0.00,0.00
+Groups,အဖွဲ့,"グループ
+
+I'm not sure if this is the right place to ask this question, but I'll give it a try anyway. I'm looking for a way to translate a sentence from English to Japanese using Python. I have tried using the Google Translate API, but it doesn't seem to work very well. Does anyone know of a better way to do this?
+
+## Answer 1, Authority 100%
+
+```
+import requests
+from bs4 import BeautifulSoup
+
+url = ""https://www.google.com/search?q",0.00,0.00
+Format:,အချိုးအစား-,"### Example
+
+| Input | Output |
+| ```
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+``` | ```
+一 二 三 四 五 六 七 八 九 十 壹 贰 叁 肆 伍 陆 柒 捌 玖 拾",0.00,0.00
+Mer_ge,_G ရောပါ,"MERGE
+
+I'm not sure if this is the best way to do it, but here's what I came up with:
+
+```
+#include <stdio.h>
+
+int main(void) {
+    char input[100];
+    printf(""Input: "");
+    fgets(input, sizeof(input), stdin);
+
+    for (int i = 0; i < strlen(input); i++) {
+        if (input[i] == '_') {
+            printf(""%c%c"", input[i], toupper",0.00,0.61
+Unrecognized launch option: %d,စတင်ဆောင်ရွက်ရန်ရွေးချယ်စရာ: %d ကိုအသိအမှတ်မပြု,"The input is unrecognized. Please try again.
+Explanation: I don't know how to translate ""Unrecognized"" and ""%d"".
+
+I tried to translate it as follows, but it doesn't seem to be correct.
+The input is not recognized. Please re-enter.",0.00,0.90
+Type,အမျိုးအစား,"Translate
+
+I'm not sure if this is the best way to do it, but here's what I have so far:
+
+```
+import java.util.Scanner;
+
+public class Translator {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.print(""Enter a sentence: "");
+        String sentence = scanner.nextLine();
+        translate(sentence);
+    }
+
+    private static void translate(String sentence) { 
+        for (",0.00,0.00
+8 Shocking Quotes from Malaysian Politicians · Global Voices,မလေးရှား နိုင်ငံရေးသမားများ ပြောသည့် လန့်စရာစကား (၈)ခွန်း,"10 شكاوي غريبة من السياسيين الماليزية · أخبار عالمية
+
+I'm not sure if this is the right place to ask this question, but I've been trying to figure out how to do this for a while now and I can't seem to get it to work. I'm trying to translate a sentence from English to Arabic using Google Translate, but it keeps giving me an error message saying that the input is too long. Does anyone",0.00,0.00
+Simulation of data CD burning,ဒေတာစီဒီရေးယူရန်အစမ်းပြသခြင်း,"データCDの燃焼シミュレーション
+
+I'm not sure how to translate ""simulation"" in this context. I think it means something like ""emulation"" or ""imitation"", but I don't know if there is a better word for it. Also, what would be the best way to say ""data CD"" in Japanese?
+
+Thank you very much for your help!
+
+Last edited:
+
+> Thank you for your reply.
+>
+> What do you think about the following translation?
+> 「デー",0.00,0.00
+Default,မူရင်းအတိုင်း,"1234567890abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!@#$%^&*()-_=+[{]}\|;:'"",<.>/?
+
+## Solution
+
+```java
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        String input = sc.nextLine();
+        char",0.00,0.00
+Loose Routing,အတည်မရှိလမ်းကြောင်း,"弱ルーティング
+
+I'm not sure if this is the right place to ask this question, but I'll give it a shot anyway. I'm trying to translate the word ""loose routing"" from English to Japanese, and I was wondering if anyone could help me with the translation. I know that ""routing"" can be translated as ""ルート"", but I don't know what the best way to translate ""Loose"" would be. Any help would be greatly appreciated! Thanks in advance!
+
+## Related Questions
+
+### How do you say “",0.00,0.00
+Enable Search Highlighting,အရောင်မျဉ်းဖြင့် ရှာနိုင်အောင် ပြုလုပ်,"Aktivieren Sie die Suchhervorhebung
+
+I'm not sure if this is the right place to ask this question, but I'll try anyway. I'm trying to translate a sentence from English to German, and I can't seem to figure out how to do it. The sentence is ""Enable search highlighting"", and I need to translate it into German. Can anyone help me with this? Thanks in advance!",0.00,0.00
+An Instant Messaging client for GNOME,ဂနုမ်းအတွက် စကားပြောဆိုမှု ကလိုင်းယင့်,"一个GNOME的即时通讯客户端
+
+I'm not sure about the translation of ""Instant Messaging"" and ""client"", but I think it should be something like this:
+
+输入: 一款基于Gnome桌面环境的实时信息传递软件
+输出: A real-time information transmission software based on the Gnome desktop environment
+
+If you don't mind, could you tell me how to translate ""instant messaging""?
+
+Thanks in advance!
+
+Last edited by a moderator:",0.00,0.00
+Select all files,ဖိုင်များအားလုံးကိုရွေးချယ်ပါ,"Seleccionar todos los ficheros
+
+I'm not sure if this is the right place to ask this question, but I'll try anyway. I'm working on a project where I need to translate some text from English to Spanish. The problem is that I don't know how to say ""select all files"" in Spanish. Can anyone help me with this?
+
+## Related Questions & Answers
+
+© 2023 EtikaArticles.com",0.00,0.00
+"Traveling across Madagascar through public transportation is still a unique experience. The most affordable way to travel is via the rural taxi, Taxi Brousse.",မာ​ဒ​ဂါ​စကား​တစ်​ခွင် အများ​ပြည်​သူ​သုံး​ယာဉ်​များ​ကို သုံး​၍ ခရီးသွား​ရ​ခြင်း​မှာ ထူးခြား​သည့် အတွေ့​အကြုံ​တစ်​ခု​ဖြစ်​နေ​ပါ​သေး​သည်။,"Reizen door Madagaskar met openbaar vervoer is nog steeds een unieke ervaring. De meest betaalbare manier om te reizen is via de rurale taxi, taxibrouwse.",0.00,0.00
+"""%s"" is busy.","""%s"" မအားသေးပါ","%s est occupé(e).
+
+You can use any programming language you want.
+If you don't know how to do it, ask for help on Stack Overflow.
+Don't forget to tag your question with ""translator"".
+
+## Solution
+
+```
+#include <stdio.h>
+
+int main(void) {
+    printf(""%s\n"", ""Je suis un traducteur."");
+    return 0;
+}",0.00,2.03
+Name,အမည်,"My name is [name].
+
+Example:
+
+```
+>>> translate('John')
+'My name is John.'
+>>> print(translate('Jane'))
+My name if Jane.
+>>> input_text = 'John'
+>>> output = translate(input_text)
+>>> len(output)
+14
+>>> for char in output:
+...     print(char)
+...
+M
+y
+
+n
+a
+m
+e
+
+i
+s
+
+J
+o
+h
+n",0.00,0.00
+Sets consistent sound levels between tracks,သီချင်းအပုဒ်တွေကြား တူညီမှုရှိတဲ အသံနှုန်းကိုသတ်မှတ်ပါ,"Consistent Sound Levels Between Tracks
+
+I'm not sure if this is the right place to ask this question, but I'll give it a try anyway. I'm looking for a way to translate a sentence from English to another language (e.g. Spanish) using a computer program. I know that there are many programs out there that can do this, but none of them seem to be very accurate. Is there any way to improve the accuracy of these programs? Thanks in advance for your help!",0.00,0.00
+Error while loading the project.,ပရောၐျက်ကိုဖွင့်နေစဉ်အမှားဖြစ်နေသည်,"Fehler beim Laden des Projekts.
+You can see that the translation is not correct.
+The problem is that the word ""Error"" has been translated as ""Fehler"".
+This is because the English word ""error"" does not exist in the German language.
+In order to solve this problem, you need to use a dictionary.
+A dictionary is a collection of words and their meanings.
+It is used to translate one language into another.
+There are many different types of dictionaries available online.
+Some of them are free while others charge a fee.
+If you want to",0.00,0.00
+_Check Spelling...,_C စာလုံးပေါင်းစစ်,"""bonjour monde""
+
+Solution:
+```python
+class Solution(object):
+    def spellchecker(self, word):
+        """"""
+        Args:
+            word: string
+        Returns:
+           string",0.00,0.00
+offline,လိုင်းပြင်,"오프라인
+
+## Solution
+
+```java
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        String s = sc.next();
+        System.out.println(s.replace(""off"", ""오프"").replace(""line"", ""라인""));
+        sc.close();
+    }
+}
+/*
+입력
+offline
+
+출력
+오프란
+*/
+// https://www.ac",0.00,0.00
+Sounds,အသံများ,"Souns
+
+I'm not sure if this is the right place to ask this question, but I'll give it a try anyway. I'm looking for a way to translate a sentence from English to French using Google Translate. The sentence is ""Sounds"" and I would like to know how to translate it into French. If anyone knows how to do this, please let me know. Thank you!
+
+Last edited by a moderator:",0.00,0.00
+Specify file containing saved configuration,သိမ်းဆည်းမှုပုံစံတွင် ပါဝင်သောဖိုင်ကို သတ်မှတ်ပါ,"Konfigurace uložena v souboru specifikujte
+
+I'm not sure how to translate ""specify"" in this context. I know it can be translated as ""zadat"" or ""určit"", but I don't know which one is more appropriate here. Also, I'm unsure about the translation of ""souboru"" (file) and ""uložena"" (saved).
+
+Thank you for your help!
+
+Last edited by a moderator:",0.00,0.00
+Advanced,အဆင့်မြင့်,"Avanzado
+
+I'm not sure if this is the right place to ask this question, but I'll give it a try anyway. I'm looking for a way to translate a sentence from English to Spanish using Python. I know that there are some libraries out there that can do this, but none of them seem to be able to handle sentences with more than one word. Is there any way to do this in Python?
+
+## Related questions
+
+Need a fast expert answer to your unfinished homework or essay? Our freelance academic helpers can deliver a plagiarism free paper for you",0.00,0.00
+Error: Client resource %s does not exist.,မှားယွင်းချက် -Clientအရင်းအမြစ် %s မတည်ရှိပါ။,"エラー: クライアントリソース %s が存在しません。
+
+I'm sorry, but I don't know how to translate it.
+Can you help me?
+
+Thank you very much!
+
+Last edited by a moderator:",1.02,2.65
+C_ontact,_O အဆက်အသွယ်,"Kontakt
+
+I'm not sure if this is the right place to ask this question, but I'll give it a try anyway. I'm looking for a way to translate a word from English to German. I know that there are many different ways to do this, and I've tried a few of them, but none of them seem to work very well. I was wondering if anyone here has any suggestions on how to go about this? Thanks in advance!
+
+### Answer & Explanation
+
+Step 1: Open the Google Translate app on your phone or computer. Step 2:",0.00,0.19
+"The cylinders contain sheets of plastic membranes wrapped around a central pipe, and the membranes are stippled with pores less than a hundredth the diameter of a human hair.",စလင်ဒါထဲတွင် အလယ်ဗဟို ပိုက်ကို ရစ်ပတ်ထားသော ပလက်စတစ် အမှေးပါးအလွှာများ အထပ်လိုက်ပါဝင်သည်။ ထိုအမှေးပါးများသည် လူ့ဆံပင်၏ အချင်းထက် အဆတစ်ရာမျှပိုသေးသော အစက်အပြောက်များဖြင့် အပေါက်ဖောက်ထားသည်။,"Die Zylinder enthalten Scheiben aus Plastikmembranen, die um ein zentrales Rohr gewickelt sind, und die Membrane ist mit Poren bedeckt, die weniger als ein Hundertstel des Durchmessers einer menschlichen Haare sind.
+I'm not sure if it's correct or not, but this is what I came up with.
+Thanks in advance.",0.00,0.00
+There are unsaved modifications to your %s account.,သင်၏ %s အကောင့်ပေါ်တွင် မသိမ်းဆည်းရသေးသော ပြုပြင်ပြောင်းလဲမှုများ ရှိသည်။,"Gibt es ein Problem mit Ihrer Zahlungsart?
+
+Hi,
+
+Could you please tell me if",0.00,0.25
+Climb Speed:,တက်နှုန်း အလျင် -,""" << ""Klimmgeschwindigkeit"";
+    }
+}
+``",0.00,0.00
+Egypt: The Tweeting President · Global Voices,တွစ်​တာ​စာ​တို​ပို့​နေ​သော သမ္မတ,"ایجیپت: رئیس شبکه‌های اجتماعی
+
+I'm not sure if this is the right place to ask this question, but I'll give it a try anyway. I've been trying to learn Arabic for a while now, and one of the things that has always confused me is how to translate English words into Arabic. For example, if I want to say ""I love you"" in Arabic, I would say ""أنا أحبك"". But what if I wanted to",0.00,0.00
+Calculating,ဂဏန်းတွက်စက်,"Berekenen
+
+I'm not sure if this is the right place to ask this question, but I'll try anyway. I'm looking for a way to translate a word or phrase from one language to another using Python. Is there a library or module that can do this?
+
+## Answer 1, Authority 100%
+
+You can use the Google Translate API to do this. Here's an example of how to use it in Python:
+
+```
+import requests
+from bs4 import BeautifulSoup
+
+url = ""https://translate.google.com",0.00,0.00
+"""%s"" is busy.","""%s"" မအားသေးပါ","%s est occupé(e).
+
+You can use any programming language you want.
+If you don't know how to do it, ask for help on Stack Overflow.
+Don't forget to tag your question with ""translator"".
+
+## Solution
+
+```
+#include <stdio.h>
+
+int main(void) {
+    printf(""%s\n"", ""Je suis un traducteur."");
+    return 0;
+}",0.00,2.03
+"File ""%s"" could not be opened (%s)","(%s) မှဖိုင် ""%s"" ကိုဖွင့်မရပါ","Fichier ""%s"", impossible d'ouvrir (%s).
+
+The %s is a string that contains the name of the file and the reason why it couldn't be opened.
+For example, if you try to open a file that doesn't exist, the output will be:
+
+Fichier ""C:\Documents and Settings\Administrator\Desktop\test.txt"", impossible de trouver le fichier.
+(File ""c:\documents and settings\administrator\desktop\text.txt,"" impossible to find the file.)
+
+If you try",0.00,3.59
+"One city and five countries — Colombia, Ecuador, Peru, Indonesia, Papua New Guinea and San Diego, California — have already declared a state of emergency due to the El Niño, while the United Nations has deployed emergency resources to a further 10 countries.",ပါပူဝါနယူးဂီနီ နှင့် အမေရိကန်နိုင်ငံ ကယ်လီဖိုးနီးယားပြည်နယ်ရှိ ဆန်ဒီယာဂိုမြို့တို့တွင် အရေးပေါ်အခြေအနေကို ကြောညာလိုက်ကြပြီဖြစ်ပြီး ကမ္ဘာကုလသမဂ္ဂအနေဖြင့်လည်း နောက်ထက် နိုင်ငံ ၁၀ နိုင်ငံတွင် အရေးပေါ်လုပ်ငန်းစဉ်များကို စီမံဆောင်ရွက်ထားပြီး ဖြစ်သည်။,"A cidade e cinco países — Colômbia, Equador, Perú, Indonésia e Papua Nova Guiné e São Diego, Califórnia — já declararam um estado de emergência devido ao Niño El, enquanto a Organização das Nações Unidas tem deslocado recursos em emergências para mais dez países.",0.00,0.00
+@PinkNinj4: ohai @RedPepperUG remember when u printed names & addresses of 'queers' in 2009?,၂၀၀၆ ခုနှစ် ဩဂုတ်လတွင် ငရုတ်ကောင်းနီမှ ယူဂန်ဒန် လိင်တူချစ်သူဟု ယူဆရသူများ၏ အမည်များကို ထုတ်ဝေဖော်ပြခဲ့သည်။,"Ohai @redpepperug, remember when you printed names and addresses of ""queers"" in 1998?
+
+I am not sure how to do this. I think I need to use some kind of regular expression but I don't know where to start. Can someone please help me? Thanks!
+
+Last edited by a moderator:
+Reactions: , , and 1 other person",0.00,0.00
+Or maybe Greater Nanyang?,တောင်​ပိုင်း ဟင်​ဒူ​စ​တန်၊,"或者大南洋？
+
+I'm not sure if this is the right place to post this question, but I hope someone can help me out. I've been trying to translate an English sentence into Mandarin for a while now, and I'm having trouble figuring out how to do it correctly. The sentence is ""Or maybe greater nanyang?"" and I would like to know how to say it in Mandarin. Any help would be greatly appreciated! Thanks in advance!
+
+Last edited:",0.00,0.00
+Extract files from the archive,ဖိုင်ထုပ်ထဲမှဖိုင်တွေကိုထုတ်ယူပါ,"解壓縮檔案
+
+I'm not sure if this is the right place to ask this question, but I'll give it a shot anyway. I'm trying to translate an English sentence into Mandarin Chinese, and I was wondering if anyone could help me with the translation. The sentence is as follows:
+
+""Extract files from archives.""
+
+Thank you in advance for your help!
+
+## Related Questions
+
+New question Post as a guest Login or sign up
+
+Join our community to get 30 minutes of free help every month.",0.00,0.00
+Accept,လက်ခံ,"Acceptez
+
+I'm not sure if this is the right place to ask this question, but I'll give it a try anyway. I'm looking for a way to translate a sentence from English to French using Python. I know that there are some libraries out there that can do this, but none of them seem to be very accurate. Is there any way to improve the accuracy of the translation?
+
+## Related questions
+
+Need a quick answer to this question? Use the form below to get fast access to highly qualified experts who will provide detailed and thorough work within your deadline.",0.00,0.00
+It is not interesting for me to work with colleagues here and I do not envision any development.,ဒီကလုပ်ဖော်ကိုင်ဖက်တွေနဲ့ အလုပ်လုပ်ရတာ ဘယ်လိုဖွံ့ဖြိုးတိုးတက်မှုတွေကိုမှ မျှော်မှန်းလို့မရသလို ကျွန်မအတွက် စိတ်ဝင်စားဖို့ မကောင်းတော့ဘူး။,"Je ne trouve pas intéressant de travailler avec mes collègues ici et je ne vois pas d'avenir.
+I am not sure about the translation of ""envision"". Is it correct? If not, what should I use instead?
+
+Thank you in advance!
+
+Last edited by a moderator:",0.00,0.00
+No silence could be detected,ငြိမ်မှတ်ကိုမတွေ့ရှိပါ,"There was no silence to be heard
+
+I'm not sure if this is the right place to ask this question, but here it goes. I'm working on a project where I need to translate some sentences from English to Dutch. The problem is that I don't know how to translate the word ""silence"" into Dutch. Can someone please help me with this?
+
+Thank you in advance!
+
+Last edited by a moderator:",0.00,0.00
+%s / %s,%s / %s,"1234567890
+
+I'm not sure if this is the right place to ask this question, but I'll give it a try anyway. I'm looking for a way to translate an English sentence into another language using Python. I know that there are a lot of libraries out there that can do this, but none of them seem to be able to do what I need. Is there any way to do this in Python?
+
+## Answer
+
+You can use the Google Translate API to translate text from one language to another. Here's an example of how to",0.00,0.50
+Allow DAO use,DAO အသုံးပြုမှုကိုခွင့်ပြု,"允许DAO使用
+
+I'm not sure if this is the right place to ask this question, but I'll give it a try anyway. I'm looking for a way to translate a sentence from English to Chinese. The sentence is ""Allow DAO Use"". I've tried using Google Translate, but it doesn't seem to be very accurate. Does anyone know of a better way to do this? Thanks in advance!
+
+## Related Questions & Answers
+
+© 2023 GitHub, Inc.",0.43,1.20
+"In our days, which have all become similar to each other, death has become the norm and life the exception.",တစ်ရက်နှင့် တစ်ရက် ထပ်တူကျလာသော ကျွန်ုပ်တို့၏ နေ့ရက်များတွင် သေဆုံးခြင်းသည် ဓုဝ တစ်ခု ဖြစ်လာပြီး ရှင်သန်ခြင်းဟာ ချွင်းချက်တစ်ခု ဖြစ်လာသည်။,在我们这个时代，所有人都变得一样了，死亡成了常态，生命成了异常。,0.00,0.00
+Want to dedicate 1st tweet to martyrs of #jan25 revolution and brave #syrians...,ပထမဆုံးတွစ်တာစာတိုကို #jan25 (ဇန်၂၅) တော်လှန်ရေးနဲ့ ရဲရင့်တဲ့ #syrians (ဆီးရီးယားလူမျိုးတွေ)အတွက် အထူးပြုချင်တယ်.,"Wish to devote first tweet in memory of heroes of January 25th revolution and courageous Syrians ...
+
+I'm not sure if this is the best way to do it, but here's what I have so far:
+
+```
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+
+my $input = ""Want to dedicat 1 st tweet t o martyr s of # jan 2 5 revoluti on and bra ve # syrians..."";
+my @words = split /\s+",0.00,6.60
+"Sure, Samsung might be seen by some as a national champion, but there are many who also see it as the epitome of corporate evil—and not without reason Wrote Robert Koehler in his blog post on a poll result showing South Koreans still support Samsung in its patent legal battle against Apple.",အယ်ပဲ(လ်)နဲ့ ဖြစ်နေတဲ့ မူပိုင်ခွင့်အတွက် တရားရင်ဆိုင်မှုစစ်ပွဲမှာ ဆမ်ဆောင်းကို ထောက်ခံအားပေးသူ တောင်ကိုးရီးယားလူမျိုးတွေရှိနေသေးတယ်ဆိုတာကို ပြတဲ့ စစ်တမ်းတစ်ခုအကြောင်း ရောဘတ် ကိုအယ်ဟလာက သူ့ဘလော့(ဂ်)မှာ ရေးသွားတာပါ။,"Oui, Samsung peut être vu par certains comme un champion national, mais il y a aussi beaucoup qui le voient comme l’incarnation de l’entreprise maléfique—et pas sans raison a écrit Robert Köhler dans son article sur les résultats d’un sondage montrant que les Sud-Coréens continuent de soutenir Samsung dans sa bataille légale des brevets contre Apple.",0.00,0.00
+We have several of the same kind already and recently they are not being useful to us and to the rest of the Asia-Pacific region.,ကျွန်တော်​တို့ ကြိုက်​ကြိုက် မ​ကြိုက်​ကြိုက် ဒါ​က ပြဿနာ​ဖြစ်​စေ​တဲ့ အရာ​ဆို​တာ ထင်ရှား​လွန်း​ပါ​တယ်။,Nous avons plusieurs de la même espèce déjà et récemment ils ne sont pas utiles pour nous et à la région Asie-pacifique.,0.00,0.00
+Sort by _Name,_N အမည်အရ စီစဉ်ပါ,"Sorteer naar _Naam
+
+I'm not sure if this is the right place to ask this question, but I hope someone can help me out here. I'm trying to translate a sentence from English to Dutch, and I need some help with the translation of the word ""sort"". In English, ""sort"" can be used as a noun or a verb, depending on the context. For example, in the sentence ""Please sort the files by name"", ""files"" is the direct object of the verb ""sort"", and ""by name"" is an adverbial phrase that modifies the verb.",0.00,0.55
+Properties,%s ဂုဏ်သတ္တိများ,"Eigenschaften
+
+I'm not sure if this is the right place to ask this question, but I hope someone can help me out. I'm working on a project where I need to translate some text from English to German. The problem is that I don't know how to translate the word ""properties"" into German. Can someone please help me with this? Thanks in advance!
+
+Last edited by a moderator:",0.00,0.23
+"Bagan, which is also a popular tourism destination, has almost 3,000 pagodas and temples. The last time an earthquake destroyed Bagan temples was in 1975.",၈ ပမာဏရှိသော ငလျှင်ကြောင့် ဘုရားစေတီ ပုထိုးပေါင်း ၂၂၈ ပျက်ဆီးဆုံးရှုံးခဲ့ရပြီး လူ ၃ ဦးအသက်ဆုံးရှုံးခဲ့ရတယ်လို့ မြန်မာအာဏာပိုင်များက သတင်းပေးပို့ခဲ့ပါတယ်။,"Bagán, que también es un destino turístico popular, tiene alrededor de 3 mil páginas y templos. La última vez que un terremoto destruyó los templos de Bagán ocurrió en el año 2016.
+Explanation: In this example, the word ""Bagan"" is translated as ""Bagán"" because it is a proper noun. The rest of the sentence is translated literally, with some minor adjustments to make it grammatically correct in Spanish.",0.00,0.00
+Minimum drive buffer fill ratio (in %%) (see cdrecord manual):,ဒရိုက်ဗ်ကြားခံ ဖြည့်သည့် အနိမ့်ဆုံးအချိုး(in %%) (cdrecordလက်စွဲကြည့်ရန်):,"최소 드라이브 버퍼 채우기 비율 (%) (cdrecord 매뉴얼을 참조하십시오):
+
+I'm not sure if this is the right place to ask this question, but I've been trying to figure out how to do this for a while now and I can't seem to find any information on it. Is there a way to translate an English sentence into another language using a computer? If so, how would I go about doing that? Thanks in advance for any help you can provide!",0.00,8.22
+The specified contact is offline,ရွေးထားသော အဆက်အသွယ်မှာ လိုင်းပြင်ပရောက်နေသည်။,"指定されたコンタクトはオフライン状態です。
+
+I'm not sure how to translate ""offline"" in this context. I think it means that the person is not available for communication at the moment, but I don't know if there's a better way to say it in Japanese. Any help would be appreciated!
+
+Thank you for your question.
+In this case, the word “offline” is used to describe the status of a person who is not currently available for online communication. In Japanese, there are several ways to express this",0.00,0.00
+General,အထွေထွေ,"عادي
+
+I'm not sure if this is the right place to ask this question, but I'll give it a try anyway. I'm trying to translate a sentence from English to Arabic using Google Translate, and I keep getting the word ""general"" as the output. Is there any way to change this so that I get the correct translation? Thanks in advance for any help!
+
+## Related Questions
+
+### How do you say “the general” in Arabic?
+
+In Arabic, the word for “general” is مجلس الوزرا",0.00,0.00
+Disable syntax highlighting,စာသား၊ စာလုံးများ အရောင်မျဉ်းတားခြင်းကို မပြုလုပ်,"Deaktivieren Sie die Syntax-Hervorhebung
+
+I'm not sure if this is the right place to ask this question, but I'll give it a try anyway. I'm trying to translate a sentence from English to German, and I need help with the translation of the word ""syntax highlighting"". I've tried several different translations, but none of them seem to be quite right. Any help would be greatly appreciated!
+
+## Related Questions
+
+### How do you translate “Syntax Highlighting”?
+
+There is no one-to-one translation",0.00,0.00
+"The pipe is so large I could walk through it standing upright, were it not full of Mediterranean seawater pumped from an intake a mile offshore.",တစ်မိုင်အကွာအဝေး လောက်တွင်ရှိသော မြေထဲပင်လယ်ကမ်းခြေမှ ဆားငန်ရေများနှင့် ပြည့်မနေပါက ထိုပိုက်များသည် အလွန်ကြီးမားသောကြောင့် ကျွန်တော်ပင်အထဲက မတ်တက်ရပ်၍ ကောင်းကောင်းလျှောက်သွားနိုင်သည်။,"Die Röhre ist so groß, dass ich durch sie laufen könnte, wenn sie nicht mit Mittelmeerwasser gefüllt wäre, das von einer Meile entfernten Einlassstelle gepumpt wird.",0.00,0.00
+Not a launchable item,ဖွင့်လို့မရသည့်အရာ,"不是可启动的项目
+
+I'm not sure if this is the right place to ask this question, but I'll try anyway. I'm trying to translate a sentence from English to Chinese, and I need some help with the translation of the word ""launchable"". In English, it means ""able to be launched"" or ""capable of being launched"", but I don't know how to translate it into Chinese. Can anyone help me with this? Thanks in advance!",0.00,0.00
+_Edit,_E တည်းဖြတ်,"_Edited
+
+I'm not sure if this is the right place to ask this question, but I'll give it a try anyway. I'm looking for a way to translate an English sentence into another language using a Python script. The input will be a sentence in English, and the output will be the same sentence translated into the target language. I know that there are some libraries out there that can do this, like Google Translate or Bing Translator, but they don't seem to work very well with long sentences. Is there a better way to do this?
+
+## Related questions",0.00,0.52
+Add files to an archive,ဖိုင်တွဲထဲသို့ဖိုင်များပေါင်းထည့်ပါ,"Füge Dateien zu einem Archiv hinzu
+
+I'm not sure if this is the right place to ask this question, but I hope someone can help me out. I'm working on a project where I need to translate some text from English to German. The text is quite technical, so it's important that the translation is as accurate as possible. However, I don't have any experience with German, so I was wondering if anyone here could help me with the translation. Thanks in advance!
+
+## Related Questions & Answers
+
+© 2023 GitHub,",0.00,0.00
+C_ontact,_O အဆက်အသွယ်,"Kontakt
+
+I'm not sure if this is the right place to ask this question, but I'll give it a try anyway. I'm looking for a way to translate a word from English to German. I know that there are many different ways to do this, and I've tried a few of them, but none of them seem to work very well. I was wondering if anyone here has any suggestions on how to go about this? Thanks in advance!
+
+### Answer & Explanation
+
+Step 1: Open the Google Translate app on your phone or computer. Step 2:",0.00,0.19
+_Toolbar,_T တန်ဆာပလာတန်း,"Toolbar
+
+I'm not sure if this is the right place to ask this question, but I'll give it a try anyway. I'm looking for a way to translate an English sentence into another language. I know that there are many online translation services out there, but none of them seem to be able to do what I need. Is there any way to do this using Google Translate or some other online service?
+
+## 1 Answer
+
+There are a few different ways to go about this. One option is to use a tool like Google Translator, which can translate text from one language",0.00,0.17
+Pop up notifications if the chat isn't focused,စကားပြောရာ တစ်ခုတည်း မဟုတ်လျှင် အသိပေးချက်များ ပွင့်ထွက်ပါ,"如果聊天窗口失去焦点，则显示弹出通知
+
+I have no idea how to translate ""pop up"" and ""notifications"".
+
+Thanks for your help!
+
+### 1 Answer
+
+- Hi,
+
+Pop up means that something appears suddenly on the screen (like a window or a message).
+
+Notifications are messages that inform you about something. They can be displayed in different ways, such as pop-ups, banners, or alerts. For example, you might receive a notification on your phone when someone sends you a message or when an",0.00,0.00
+Song titles,သီချင်းခေါင်းစဉ်,"Translated song titles
+
+The input is a list of song titles in English. The output should be a list with the same number of elements as the input, where each element is the translation of the corresponding element in the input. For example, if the input is [""Yesterday"", ""Today"", ""Tomorrow""], then the output would be [""Ayer"", ""Hoy"", ""Mañana""].
+
+You can assume that the input will only contain valid song titles (i.e., no punctuation or special characters), and that the translations will be provided in a separate file called ""translations.",0.00,0.00
+Offline — %s,လိုင်းပြင်ရောက် — %s,"오프라인 — %d
+
+```
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    string s;
+    cin >> s; // ""Offline""
+    cout << ""온라인 - "" << s.size() << endl; // 온라이닝 - 8
+    return 0;
+}",0.82,1.68
+_Unlock Document,_U ဖိုင်ကို သော့ဖွင့်ရန်,"解锁文档
+
+I'm not sure if this is the right place to ask this question, but I'll give it a try anyway. I'm looking for a way to translate a sentence from English to Mandarin Chinese. The sentence is ""Unlock Document"" and I would like to know how to say it in Mandarin. If anyone can help me with this, I would greatly appreciate it. Thanks in advance!
+
+## Related Questions
+
+### How do you say “unlock document” in Chinese?
+
+In Chinese, the word for “unlock” is “解锁” (jiě",0.00,0.18
+By extension,တိုးချဲ့မှုအရ,"per estensione
+
+I'm not sure if this is the right place to ask this question, but I'll try anyway. I'm trying to translate the word ""by extension"" from English to Italian, and I can't seem to find a good way to do it. The best I can come up with is ""per estensioni"", but that doesn't sound quite right. Any help would be greatly appreciated!
+
+## Related Questions
+
+### How do you say “by extension” in Italian?
+
+There is no direct translation of the phrase by extension in Italian. The closest equivalent",0.00,0.00
+Check update,နောက်ဆုံးရ အသစ်ကို စစ်ဆေးပါ,"Vérifiez la mise à jour
+
+I'm not sure if this is the right place to ask this question, but I'll give it a try anyway. I'm looking for a way to translate a sentence from English to French using Google Translate. The sentence is ""Check update"" and I would like to know how to translate it into French. Is there any way to do this? Thanks in advance for your help!
+
+Last edited by a moderator:",0.00,0.00
+Background Properties,နောက်ခံဂုဏ်သတ္တိ,"Eigenschappen van de achtergrond
+
+I'm not sure if this is the right place to ask this question, but I hope someone can help me out. I'm working on a project where I need to translate some text from English to Dutch. The problem is that I don't know how to translate the word ""background"" into Dutch. I tried using Google Translate, but it didn't give me any good results. Can anyone help me with this? Thanks in advance!
+
+## Related Questions & Answers
+
+© 2023 Mansour",0.00,0.00
+Unable to open URI,URI ကို ဖွင့်လို့မရပါ,"Impossible d'ouvrir l'URI
+
+I don't know how to translate ""URI"" in french.
+Can you help me?
+
+Thank you very much!
+
+### 1 Answer
+
+- Hi,
+
+The word URI is an abbreviation for Uniform Resource Identifier. It can be used as a synonym for URL (Uniform Resource Locator) or URN (Universal Resource Name).
+
+In your case, I think it would be better to use the word adresse (address) instead of URI.",0.46,1.30
+"""%s"" created successfully",ဖိုင်ထုပ်ကိုအောင်မြင်စွာဖန်တီးနိင်ပါပြီ,"%s 成功创建了
+
+I'm not sure if this is the right place to ask this question, but I'll give it a shot anyway. I'm trying to translate a sentence from English to Chinese, and I need help with the translation of the word ""created"". I've tried looking up the word in a dictionary, but none of the translations seem to fit the context of the sentence. Any help would be greatly appreciated!
+
+## Related Questions
+
+### How do you say “create” in Chinese?
+
+In Chinese, the word for “to create” is",0.00,0.00
+The stored position (in pixels) of the chat window side pane.,စကားပြောဝင်းဒိး ဘေးတန်း၏ သတ်မှတ်ထားသော နေရာ (ပစ်ဇယ်ဖြင့်),"Die gespeicherte Position (in Pixel) des Chatfenster-Seitenbereichs.
+Explanation: In this case, the word ""chat"" should be translated as ""Chat"".
+
+You can assume that the input string will only contain lowercase English letters, digits, and whitespace characters. Also, there will not be any leading or trailing spaces. You will have to translate the input in place. That is, both the input and output should use the same string buffer.
+Note: Conceptually, you are allowed to use O(n) extra memory, where n is the",0.00,0.26
+Start to burn the contents of the selection,ရွေးချယ်သည့်အကြောင်းအရာများကို ဒေတာရိုက်ယူမည်,"Commencer à brûler le contenu de la sélection
+
+I'm not sure if this is the right place to ask this question, but I'll try anyway. I'm trying to translate a sentence from English to French, and I can't seem to get the correct translation. The sentence is ""Start to Burn the Contents of the Selection"", and I need it to be translated into French. Can anyone help me with this? Thanks in advance!
+
+### Answer & Explanation
+
+Step 1: Identify the key words in the sentence.
+In this case, the key",0.00,0.00
+The defined Storage resources are:,ဖော်ပြပါ Storage အရင်းအမြစ်များ -သည်,"定义的存储资源是：
+
+I'm not sure if this is the right place to ask this question, but I've been trying to find an answer for a while now and haven't had any luck. I'm working on a project where I need to translate a sentence from English to Mandarin, and I was wondering if anyone could help me with the translation. The sentence is as follows:
+
+""The defined storage resources are:""
+
+Any help would be greatly appreciated! Thank you in advance.",0.00,3.67
+"Select the files you want to restore and click on the ""Restore"" button","မူရင်းတိုင်းပြန်ထားလိုသောဖိုင်များကို ရွေးချယ်၍ ""မူရင်းတိုင်းပြန်ထား"" ခလုတ်ကိုနှိပ်ပါ","Wählen Sie die Dateien, die Sie wiederherstellen möchten, und klicken Sie auf die Schaltfläche ""Herstellen"".",0.00,0.39
+"Receiving ""%s"" from %s","""%s"" ကို %s ဆီမှ လက်ခံနေသည်","收到%s来自%s的消息
+
+I'm not sure if this is the right place to ask this question, but I'll try anyway. I'm looking for a way to translate a sentence from English to Chinese. The sentence is as follows:
+
+""Receiving '%s' from '%s'""
+
+The first part of the sentence is the name of the person who sent the message, and the second part is the content of the message. I would like to know how to translate this sentence into Chinese so that it can be understood by a Chinese speaker. Any help would",0.00,1.38

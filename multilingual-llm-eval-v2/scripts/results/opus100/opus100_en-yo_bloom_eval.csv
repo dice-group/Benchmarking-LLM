@@ -1,0 +1,1550 @@
+Source,Reference,Prediction,BLEU,chrF++
+Mozilla (HTML),Mozilla (HTML),"Firefox (HTML)
+
+A:
+
+JavaScript (ES6), 28 bytes
+a=>a.toLowerCase().split("" "").map(b=>b.toUpperCase())
+
+Try it online!
+Explanation:
+a => a.toLowerCase() splits the string on spaces, and then maps each element of the array to its upper case version.
+If you don't want to use ES6, you can do this:
+a = ""Mozilla"";
+var b = a.split(' ');
+for (var i = 0; i < b.length; i++) {
+    b[i] = b[i].toUpperCase();
+}
+console",0.47,10.63
+Workspace Switcher Preferences,Àwọn ìkúndùǹ Ìjánu-ìsún Ààyè-iṣẹ́,""");
+        System.out.println(sentences);
+    }
+}",0.00,3.69
+Set,Dí,"A set is a collection of objects that can be
+  compared for equality. The elements of a set are called its
+  members, and the number of members is called the cardinality of
+  the set.
+
+A:
+
+I think this is what you are looking for:
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.println(""Enter a sentence in English"");
+
+        String sentence = sc.nextLine();
+        String[] words = sentence.split(""\\s+""); // split by",0.00,0.40
+Background color,Àwọ̀ ẹ̀yìn,"Foreground color
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map((c, i) => `${c}${b}`);
+}",0.00,1.89
+Invalid desktop file ID,ID fáìlì ojú-iṣẹ́ àìfẹsẹmúlẹ̀,"The specified desktop file does not exist or is invalid.
+
+A:
+
+I think you can do it like this:
+import java.io.*;
+import javax.swing.JOptionPane;
+
+public class Main {
+    public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        String line;
+        while ((line = br.readLine()) != null) {
+            String[] parts = line.split("" "");
+            if (parts.length != 2) {
+                JOptionPane.showMessageDialog(null, ""Invalid input"");
+                continue;
+            }",0.00,2.92
+Edit Menus,Ṣàyẹ̀wò Àwọn Àtòjọ-ẹ̀yàn,"Edit Menu
+
+A:
+
+JavaScript (ES6), 28 bytes
+s=>s.split(/\s+/).map(t=>t.toLowerCase().replace(/^\s+|\s+$/g,"""")).join("" "")
+
+Try it online!",0.00,4.68
+Fonts,Àwọn àyọkà ìsàlẹ̀-ilà,"Font
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map((c, i) => `${c}${b}`);
+}",0.00,4.40
+_Show passwords,_Fi àmì-àṣírí hàn,"Show passwords
+
+A:
+
+JavaScript (ES6)
+function showPasswords(passwords) {
+  return passwords.map(password => password.toLowerCase());
+}
+
+console.log(showPasswords(
+  ['password', 'password1', 'passw0rd']
+));",0.00,3.14
+_Password:,_Àmì-àṣírí:,"_Passwort:
+
+A:
+
+Python 2.7.6 (default, Nov  6 2014, 11:58:56) 
+[GCC 4.8.2] on linux2
+Type ""help"", ""copyright"", ""warning"" or ""license"" for more information.
+>>> import string
+>>> s = string.ascii_lowercase + string.digits
+>>> p = ''.join(random.choice(s) for _ in range(10))
+>>> print p
+passwort
+>>> print string.translate(p, s)
+_Passwort:",0.00,2.38
+Specifies the number of milliseconds delay after the pointer enters the panel area before the panel is automatically re-shown. This key is only relevant if the auto_hide key is true.,Ń sọ ní pàtó oye ìdádúró ọ̀kẹ́-ìṣísẹ̀ lẹ́yìn tí atọ́ka náà ti wọ agbègbè náà kí pánẹ́ẹ̀lì tó dá farahàn. Ìgbà tí bọ́tìnì ìpamọ́_aládàáṣe bá jẹ́ òótọ́ nìkan ni bọ́tìnì yìí wúlò.,"Specifies how long the panel should be hidden before it is shown again. This value is in milliseconds. The default value is 0, which means that the panel will not be hidden at all. If you want to hide the panel immediately, set this value to a very small value (e.g., 100).",0.00,10.70
+Click to view your appointments and tasks,Tẹ̀ láti wo àwọn àdéhùn-ìpàdé àti àwọn iṣẹ́ rẹ,"Clik para ver tus citas y tareas
+
+A:
+
+I think you can do something like this:
+import java.util.Scanner;
+
+public class Main {
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println(""Input: "");
+
+        String input = scanner.nextLine();
+        String[] words = input.split(""\\s+""); // split on whitespace
+
+        for (int i = 0; i < words.length; i++) {
+            if (words[i].equals(""Click"")) {
+                words[i] = ""Cl",0.00,5.02
+Switch between open windows using buttons,Sún láàrin àwọn fèrèsé ṣíṣí nípa lílo àwọn bọ́tìnì,"Open windows with buttons
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(/\s+/);
+  b = b.trim();
+  return a.map((c, i) => `${c}${b}`);
+}",0.00,8.94
+Epiphany Web Browser,Awáròyìn Wẹ́ẹ̀bù Epiphany,"My favorite web browser
+
+A:
+
+JavaScript (Node.js)
+var express = require('express');
+var router = express.Router();
+
+router.get('/', function(req, res) {
+  res.sendFile(__dirname + '/index.html'); 
+});
+
+module.exports = router;
+
+index.html
+<!DOCTYPE html>
+<html lang=""en"">
+  <head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <meta http-equiv=""X-UA-Compatible"" content=""ie=edge"">
+    <title>Document</title>
+  </head>",0.00,3.40
+Personal settings,Àwọn ààtò àti àwọn ìkúndùn aládàáni,"My personal settings
+
+A:
+
+JavaScript (ES6), 28 bytes
+s=>s.split(/\s+/).map(t=>t.toLowerCase().replace(/^\s+|\s+$/g,""""))
+
+Try it online!
+
+A:
+
+Python 2, 32 bytes
+lambda s:''.join(x.lower() for x in s.split())",0.00,7.47
+_Edit,À̀yẹ̀wò,"Edit
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(""_"").map((c,i)=>b.replace(new RegExp(c,""g""),i))
+
+Try it online!
+Explanation
+f = (a, b) => {
+  a = a.trim().split('_');
+  b = b.trim();
+  for (let i = 0; i < a.length; i++) {
+    let c = a[i];
+    if (c.length === 1) {
+      c = '0' + c;
+    }
+    b = new RegExp(",0.00,1.24
+_Copy Address,_Ṣẹ̀dà Àdírẹ̀sì,"Copy address
+
+A:
+
+JavaScript (ES6), 28 bytes
+s=>s.split(/\s+/).map((x,i)=>`${i} ${x}`).join(' ')
+
+Try it online!
+
+A:
+
+Python 2, 32 bytes
+lambda s:''.join([str(i) for i in range(len(s)) if s[i]!=' '])
+
+Explanation:
+The idea is to split the string on spaces, and then iterate over the resulting list of indices. For each index, we check whether the character at that index is not a space. If it is, we",0.00,2.08
+MENU_FILE,FÁÌLÌ_ÀTÒJỌ-Ẹ̀YÀN,"Menu file
+
+A:
+
+I think you can do it like this:
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(int argc, char *argv[])
+{
+    if (argc != 2)
+    {
+        printf(""Usage: %s <filename>\n"", argv[0]);
+        return 1;
+    }
+
+    FILE *fp = fopen(argv[1], ""r"");
+    if (!fp)
+    {
+       printf(""Unable to open %s\n"", argv[1]);
+       return 2;
+    }
+    char line[1024];
+    while (fgets(line, sizeof(line), fp))
+    {
+        if (strcmp(line",0.00,1.06
+"If true, the ""Known Applications"" listing in the ""Run Application"" dialog is made available. Whether or not the listing is expanded when the dialog is shown is controlled by the show_program_list key.","Tó bá jẹ́ òótọ́, ""Àwọn Ìṣàmúlò-ètò Mímọ̀"" tía tòjọ nínú onísọ̀rọ̀gbèsì ""Rọ́ọ̀nù Ìsàmúlò-ètò""wà nílẹ̀. Bóyá a fẹ ìṣàtòjọ náà tàbí a kò fẹ̀ẹ́, nígbà tí onísọ̀rọ̀gbèsì náà bá ti farahàn bọ́tìnì àtòjọ_àtòjọ-ètò_ìfihàn ló ń darí rẹ̀.","If true, then the list of known applications will be displayed in the run application dialog.
+If false, then it will not be displayed.
+The value of this property can be changed at any time by calling SetShowProgramList(value) on the RunApplicationDialog object.
+This property has no default value.
+
+A:
+
+I don't think you need to do anything special here. You just need to set the ShowProgramList property of the Rundll32.exe object to your desired value.",0.00,10.11
+_Pause per frame:,_Ìdẹsẹ̀dúró fún férémù kọ̀ọ̀kan:,"Pause per frame
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(/\s+/).map((c,i)=>`${c} ${b}`)
+
+Try it online!
+Explanation
+f = (a, b) => {
+  a = a.replace(/\s+/g, ' ');
+  return a
+    .split(' ')
+    .map(c => c + ' ' + b);
+};",0.00,4.71
+Show _only the current workspace,Fi ààyè-iṣẹ́ lọ́wọ́lọ́wọ́ nìkan hàn,"Show only the current work space
+
+A:
+
+I think you can do it like this:
+import java.util.Scanner;
+
+public class Main {
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println(""Enter a sentence"");
+
+        String sentence = scanner.nextLine();
+
+        String[] words = sentence.split(""\\s+""); // split on whitespace
+
+        for (int i = 0; i < words.length; i++) {
+            if (words[i].contains(""_"")) {
+                words[i] = words[i].replaceAll(",0.00,3.02
+Go to most visited,Lọ sí ojú-ìwé tókàn tí a óò bẹ̀ wò,"I went to the most visited
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map(c=>`I went to ${c}`).join(' ')
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(/\s+/);
+  b = b.trim();
+  return a.map(x => `I went to: ${x}`)
+}",0.72,6.13
+_Detach Tab,_Yọ Táàbù,"Detach Tab
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(b).join(""\t"")
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim();
+  b = b.replace(/\t/g, "" "");
+  return a.split().join(b);
+}
+
+The function takes two arguments, a and b. The first argument is the string to split on, and the second argument is what to replace the tab characters with. It then returns the result of splitting the string",0.00,1.35
+Use Internet time,Lo àkókò Ítánẹ́ẹ̀tì,"Use your own time
+
+A:
+
+JavaScript (ES6), 28 bytes
+s=>s.split("" "").map(t=>t.toLowerCase()===""time""?t:""use internet time"")
+
+Try it online!
+
+A:
+
+Python 2, 32 bytes
+lambda s: s.split().filter(t.lower()==""time"").join(""use ""+t)
+
+Explanation:
+>>> s = 'Use Internet time'
+>>> import re
+>>> re.findall(r'\btime\b', s)
+['time']
+>>> print(re.sub(r'time', 'use '+",0.00,2.75
+_Tabs,_À̀wọn táàbù,"_Tabs
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.replace(/\t/g,b)
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.replace(
+    /\t/g,
+    b
+  );",0.00,3.45
+Web pages,Àwọn ojú-ìwé wẹ́ẹ̀bù,"English sentences
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>b.replace(new RegExp(c,""g""),`${i} ${c}`))
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.split(
+    "" ""
+  ).map(
+    (c, i) =>
+      b.replace(
+        new RegExp(
+          c,
+          ""g""
+        ),
+        `
+          ${i}
+          ${c}
+        `
+      )
+  )
+console.log(f('Web pages', 'English sentences'))",0.00,1.94
+%l:%M %p,Dí,"Hello, world!
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(""%"").map((c,i)=>`${c} ${b[i]}`)
+
+Try it online!
+Explanation
+f = (a, b) => {
+  a = a.replace(/%/g, """");
+  b = b.replace(
+    /%/g,
+    `${a.charAt(0)} ${a.slice(1)}`
+  );
+  return b.join("" "");
+};",0.00,0.77
+Custom Application Launcher,Aṣàfilọ́lẹ̀ Ìṣàmúlò-ètò Àkànṣe,"My custom application launcher
+
+A:
+
+I think you can do it like this:
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println(""Enter your input"");
+
+        String input = scanner.nextLine();
+        if (input.equals(""Custom Application Launcher"")) {
+            System.setProperty(""java.home"", ""C:/Program Files/Java/jdk1.8.0_181/jre/bin/javaw.exe"");
+
+            System.",0.00,3.52
+Temporary Files,Àwọn Fáìlì Ìgbà Díẹ̀,"Temp files
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.split(
+    /\s+/
+  ).map(
+    c =>
+      `${c} ""${b}`
+  )
+console.log(f(""Temporary Files"", ""Temp files""))
+
+A:
+
+Python 2, 32 bytes
+lambda a,b:''.join([str(i)+' '+str(j)for i in a for j in",0.00,2.88
+could not get information about output %d,"position"", ""size"", and ""maximum",Input: 5,0.00,2.80
+Cut the selection,Gé ẹ̀yàn náà,"Delete the selection
+
+A:
+
+JavaScript (ES6), 28 bytes
+s=>s.split(/\s+/).map(t=>t.replace(/^\s+|\s+$/g,"""")).join("" "")
+
+Try it online!
+
+A:
+
+Python 2, 32 bytes
+lambda s:''.join(filter(lambda x:x.startswith(' '),s))
+
+Try it here!
+Explanation:
+The lambda function takes a string as an argument and returns a new string with all the spaces removed from the beginning and end of the string. The filter function is used to remove all the empty strings from the resulting string",0.00,1.67
+Personal settings,Àwọn ààtò àti àwọn ìkúndùn aládàáni,"My personal settings
+
+A:
+
+JavaScript (ES6), 28 bytes
+s=>s.split(/\s+/).map(t=>t.toLowerCase().replace(/^\s+|\s+$/g,""""))
+
+Try it online!
+
+A:
+
+Python 2, 32 bytes
+lambda s:''.join(x.lower() for x in s.split())",0.00,7.47
+Clear Recent Documents,Pa Àwọn Àkọsílẹ̀ Àìpẹ̀ Rẹ́,"CLEAR RECENT DOCUMENTS
+
+A:
+
+Python 2.7.6 (default, Nov  6 2015, 11:58:56) 
+[GCC 4.8.2] on linux2
+Type ""help"", ""copyright"", ""warning"" or ""license"" for more information.
+>>> import sys
+>>> sys.version_info
+sys.version('2.7', '6.0', 'final')
+>>> print('Clear Recent Documents'.translate('en-US', 'yo'))
+_clear_recent_documents",0.00,2.78
+Cut the selection,Gé ẹ̀yàn náà,"Delete the selection
+
+A:
+
+JavaScript (ES6), 28 bytes
+s=>s.split(/\s+/).map(t=>t.replace(/^\s+|\s+$/g,"""")).join("" "")
+
+Try it online!
+
+A:
+
+Python 2, 32 bytes
+lambda s:''.join(filter(lambda x:x.startswith(' '),s))
+
+Try it here!
+Explanation:
+The lambda function takes a string as an argument and returns a new string with all the spaces removed from the beginning and end of the string. The filter function is used to remove all the empty strings from the resulting string",0.00,1.67
+Move windows to current workspace when unminimized,Gbé àwọn fèrèsé lọ sí ààyè-iṣẹ́ lọ́wọ́lọ́wọ́ tí a kò bá fẹ̀ẹ́lójú mọ́,"Move window to current work space when un-minimized
+
+A:
+
+I think this is what you are looking for:
+import java.awt.*;
+import javax.swing.*;
+
+public class Main {
+    public static void main(String[] args) {
+        JFrame frame = new JFrame();
+        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        JPanel panel = new JPanel();
+
+        JLabel label = new JLabel(""Input:"");
+
+        JTextField input = new JTextField(20); 
+        input.setEditable(false); 
+
+        JButton button = new JButton(""Translate!"");",0.00,5.26
+System configuration and monitoring,Ìṣàmójútó àti àtòpọ̀ ètò kọ̀ǹpútà,"Configuration and monitoring of the system
+
+A:
+
+I don't know if this is what you're looking for, but you could try something like this:
+<?xml version=""1.0"" encoding=""utf-8""?>
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3c.org/1999/xhtml"">
+<head>
+<meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"" />
+<title>Untitled Document</title>
+<link rel=""stylesheet"" type=""text/css"" href=""style.css"" media=""screen"" />
+</head>
+<body>
+<div id=""wrapper"">
+    <div id=""header"">",0.00,3.40
+XX Large,Ńlá Púpọ̀,"XX LARGE
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map((c, i) => `${c}${b}`);
+}",0.00,1.97
+_Never accept,_Kò gbà rárá,"Never accept
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(""_"").map(c=>b.split`_${c}`).filter(d=>d.length>1)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split('_');
+  b = b.trim();
+  return a.map(x => b.split `_${x}` ).filter(y => y.length > 1);
+}
+
+The idea is to split the input string into an array",0.00,2.87
+Window List Content,Àkóónú Àtòjọ Fèrèsé,"The content of the window list
+
+A:
+
+JavaScript (ES6), 28 bytes
+s=>s.split(/\s+/g).map(t=>t.replace(/^\s+|\s+$/g,""""))
+
+Try it online!
+
+A:
+
+Python 2, 32 bytes
+lambda s:''.join(filter(lambda x:x.startswith(' '), s.split()))
+
+Try it here!
+Explanation:
+The lambda function takes a string as an argument and returns a new string with all the words that start with a space removed. This is done by splitting the string on spaces and filtering out all words that do not",0.00,2.89
+Choose an application...,Rọ́ọ̀nù Ìṣàmúlò-ètò...,"Choose an application that is easy to use and has a good user interface.
+
+A:
+
+I think you can do something like this:
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+        System.out.println(""Please choose an application..."");
+
+        while (input.hasNextLine()) {
+            String line = input.nextLine();
+            String[] words = line.split(""\\s+"");
+
+            for (int i = 0; i < words.length; i++) {
+                if (words[i]",0.00,3.03
+Profile directory to use in the private instance,Atọ́nà àkójọpọ̀-ìròyìn tí a óó lò nínú àpẹẹrẹ aládàáni,"The profile directory to be used in the new private instance
+
+A:
+
+I don't know if this is what you are looking for, but here is an example of how I would do it:
+import java.io.File;
+import org.apache.commons.lang3.StringUtils;
+
+public class Main {
+
+    public static void main(String[] args) throws Exception {
+        File dir = new File(""src/main/resources"");
+        String path = StringUtils.substringBeforeLast(dir.getAbsolutePath(), ""/"");
+
+        System.out.println(path);
+    }
+}",0.00,5.51
+_Next Tab,_Táàbù Tókàn,"Next Tab
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split("" "");
+  b = b.trim();
+  return a.map((c, i) => `${c}${b}`);
+}",0.00,3.54
+Appointments,Àwọn Àdéhùn-ìpàdé,"I have appointments
+
+A:
+
+JavaScript (ES6), 28 bytes
+s=>s.split(/\s+/).map(t=>t.toLowerCase().replace(/^\s+|\s+$/g,"""")).join("" "")
+
+Try it online!",0.00,3.77
+Mozilla (HTML),Mozilla (HTML),"Firefox (HTML)
+
+A:
+
+JavaScript (ES6), 28 bytes
+a=>a.toLowerCase().split("" "").map(b=>b.toUpperCase())
+
+Try it online!
+Explanation:
+a => a.toLowerCase() splits the string on spaces, and then maps each element of the array to its upper case version.
+If you don't want to use ES6, you can do this:
+a = ""Mozilla"";
+var b = a.split(' ');
+for (var i = 0; i < b.length; i++) {
+    b[i] = b[i].toUpperCase();
+}
+console",0.47,10.63
+Test applet utility,Yẹ ohun-èlò ápúlẹ́ẹ̀tì wò,"This is a test applet
+
+A:
+
+I don't know if this is what you are looking for, but here is an idea:
+import java.awt.*;
+import javax.swing.*;
+
+public class Main {
+    public static void main(String[] args) {
+        JFrame frame = new JFrame(""Test"");
+        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+
+        JPanel panel = new JPanel();
+        panel.setLayout(new GridLayout(1, 1));
+
+        JLabel label = new JLabel(""This is a ""); // or whatever text you want
+        label.setFont(",0.00,3.09
+The GNOME Panel,Pánẹ́ẹ̀lì GNOME,"The Gnome Panel
+
+A:
+
+I don't know if this is what you are looking for, but here is a solution that I came up with:
+import re
+
+def translate(text):
+    text = text.replace("" "", ""_"")
+    text = re.sub(""[^a-zA-Z0-9_]"", """", text)
+    return text
+
+print translate(""The GNOME Panel"")
+
+This will give you:
+The_GNOME_Panel",0.61,5.71
+System configuration and monitoring,Ìṣàmójútó àti àtòpọ̀ ètò kọ̀ǹpútà,"Configuration and monitoring of the system
+
+A:
+
+I don't know if this is what you're looking for, but you could try something like this:
+<?xml version=""1.0"" encoding=""utf-8""?>
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3c.org/1999/xhtml"">
+<head>
+<meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"" />
+<title>Untitled Document</title>
+<link rel=""stylesheet"" type=""text/css"" href=""style.css"" media=""screen"" />
+</head>
+<body>
+<div id=""wrapper"">
+    <div id=""header"">",0.00,3.40
+Languages,Àwọn èdè,"Languages
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split("","").map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.split(
+    "",""
+  ).map(
+    c =>
+      `${c} ""${b}`
+  )
+)",0.00,2.33
+Korean (_EUC-KR),Korean (_EUC-KR),"Japanese (_JIS-JP)
+
+A:
+
+I think you can do it in two steps. First, you need to translate each word of the input sentence into its corresponding Japanese word. For example, if the input is ""한국어"" (Korean) and the output is ""日本語"" (Japanese), then you have to translate the first word as ""한글"" (Hangul), the second word as ""Japanese"", and so on.
+The second step is to combine all the translated words into a single sentence. In your case, this would be something like this:
+input = ""韩国语""",0.00,4.85
+frames,àwọn férémù,"frames
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation
+f = (a, b) => {
+  a = a.replace(/\s+/g, ' ');
+  return a
+    .split(' ')
+    .map(word => `${word} ${b}`);
+};
+
+The idea is to split the input string on spaces, and then map each word to a new string that concatenates the original word with the translated word.",0.00,2.61
+List of locations,Àtòjọ àwọn ìṣàmúlò-ètò àìmọ̀,"A list of locations
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.filter((l)=>b.indexOf(l)==-1)
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.filter ((l) =>
+    b.indexOf (l) == -1
+  );
+
+This function takes two arguments, a and b, and returns a new array that contains only those elements of a that do not appear in b.",0.00,4.64
+Personal settings,Àwọn ààtò àti àwọn ìkúndùn aládàáni,"My personal settings
+
+A:
+
+JavaScript (ES6), 28 bytes
+s=>s.split(/\s+/).map(t=>t.toLowerCase().replace(/^\s+|\s+$/g,""""))
+
+Try it online!
+
+A:
+
+Python 2, 32 bytes
+lambda s:''.join(x.lower() for x in s.split())",0.00,7.47
+Go to the address entered in the address entry,Lọ sí àdírẹ̀sì tí a tẹ̀ wọlé nínú àmúwọlé àdírẹ̀sì,"Enter the address you want to go to
+
+A:
+
+JavaScript (ES6), 28 bytes
+s=>s.split(/\s+/).map(x=>x+' ').join(' ')
+
+Try it online!
+
+A:
+
+Python 2, 32 bytes
+lambda s:''.join([str(i) for i in s.split() if i.isdigit()])
+
+Explanation:
+The idea is to split the string on whitespace, and then iterate over the resulting list of numbers. If the number is a digit, we append it to the result. Otherwise, we just add a space to the end",0.45,5.48
+_Export Bookmarks…,Gbé Àwọn Àmì-ìwé Jáde,"导出书签…
+
+A:
+
+I think you can do it like this:
+import java.io.*;
+import javax.swing.JOptionPane;
+
+public class Main {
+    public static void main(String[] args) throws IOException {
+        BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
+        String line;
+        while ((line = reader.readLine()) != null) {
+            if (line.startsWith(""_"")) {
+                System.out.println(line.substring(1));
+            }
+        }
+    }
+}",0.00,2.88
+User Password,Á̀mì-àṣírí Òǹlò,"Hello World
+
+A:
+
+JavaScript (ES6)
+function translate(str) {
+  return str.toLowerCase().split(' ').map(word => word.charAt(0).toUpperCase() + word.slice(1)).join('');
+}
+
+console.log(translate('User Password'));",0.00,3.65
+Show the title column,Kọ́lọ̀mù àkọ́lé nìkan ni kí o fihàn,"The title column is shown
+
+A:
+
+JavaScript (ES6), 28 bytes
+s=>s.split(/\s+/).map(t=>t.toLowerCase()).join(' ')
+
+Try it online!
+
+A:
+
+Python 2, 32 bytes
+lambda s: s.split().map(lambda x: x.lower()).join()
+
+Try it here!
+Explanation:
+s = ""Show the title colunm""
+s.replace("" "","""").split()
+for i in range(0,len(s)):
+    s[i] = s[i].lower()
+s = s.join()
+
+A:
+
+Jelly,",0.00,4.20
+_Work Offline,_Ṣiṣẹ́ Láìsí Lórí Wáyà,"Work Offline
+
+A:
+
+JavaScript (ES6), 28 bytes
+s=>s.split(/\s+/).map(t=>t.toLowerCase()).join(' ')
+
+Try it online!
+
+A:
+
+Python 2, 32 bytes
+lambda s: s.split().map(lambda x: x.lower()).join()
+
+Try it here!
+Explanation:
+s = input()
+s = s.strip().split()
+for i in range(len(s)):
+    s[i] = s[i].lower()
+return s.join()
+
+A:
+
+Jelly, 6 bytes
+1n0i
+
+Try it on ideone.",0.00,3.14
+Loc_k To Panel,_Lọ́ọ̀kì Sí Pánẹ́ẹ̀lì,"Loc_k to Panel
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map(c => c + ' ' + b);
+}",0.00,4.15
+Abort pending downloads?,Dènà àwọn àgbéwọlé tó kù díẹ̀?,"Cancel pending downloads?
+
+A:
+
+Python 2.7
+import sys, re
+
+def translate(input):
+    output = """"
+    for line in input.split(""\n""):
+        if len(line) > 0:
+            output += line + ""\n""
+    return output
+
+if len(sys.argv) != 2:
+    print ""Usage: %s <file>"" % sys.argv[0]
+    sys.exit(1)
+
+input = sys.argv[1]
+with open(input, ""r"") as f:
+    lines = f.readlines()
+output = translate(""\n"".join(lines))
+
+print output",0.00,3.91
+"If true, the workspaces in the workspace switcher will display the names of the workspaces. Otherwise they will display the windows on the workspace. This setting only works when the window manager is Metacity.","Tó bá jẹ́ òótọ́, àwọn ààyè-iṣẹ́ nínú ì̀jánu-ìsún ààyè-iṣẹ́ yóò ṣàfihàn àwọn orúkọ àwọnààyè-iṣẹ́. Láì jẹ́ bẹ́ẹ̀ wọn yóò ṣàfihàn àwọn fèrèsé lórí ààyè-iṣẹ́ náà.","If true, it displays the name of the workspace; otherwise, it shows the title of the window.
+
+A:
+
+I think you can do this with a shell script:
+#!/bin/bash
+
+if [ ""$1"" = ""true"" ]; then
+    echo ""Workspace Name""
+else
+    echo ""Title of Window""
+fi",0.00,7.32
+Directory not Writable,Atọ́nà Tí kò Ṣeé Kọ,"The directory is not writable
+
+A:
+
+I think you can do it like this:
+#include <iostream>
+#include <string>
+#include <sstream>
+#include <fstream>
+
+using namespace std;
+
+int main()
+{
+    string line;
+    ifstream infile(""input.txt"");
+    if (infile.is_open())
+    {
+        while (getline(infile, line))
+        {
+            stringstream ss;
+            ss << line << endl;
+            ofstream outfile(""output.txt"", ios_base::app);
+            outfile << ss.str();
+        }
+    }
+    else
+    {
+        cout << """,0.00,2.20
+_Tabs,_À̀wọn táàbù,"_Tabs
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.replace(/\t/g,b)
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.replace(
+    /\t/g,
+    b
+  );",0.00,3.45
+Create new file in the given directory,Ṣẹ̀dá fáìlì tuntun nínú atọ́nà náà,"Create a new file with the given name in the current directory
+
+A:
+
+Python 2, 103 bytes
+lambda s:open(s,'w').close()
+
+Try it online!
+
+A:
+
+JavaScript (ES6), 102 bytes
+f=(a,b)=>{for(var c=a.split(/[\/\\]/),d=c.length,e=0;e<d;e++)if(c[e]==b)return f(c.slice(0,e+1),c[c.length-e])}
+
+Try it here!
+Explanation:
+f = (a, b) => {",0.00,6.07
+%l:%M:%S %p,%l:%M:%S %p,"Hello, world!
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("":"").map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.split(
+    "":""
+  ).map(
+    c =>
+      `${
+        c
+      } ${
+        b
+      }`
+  )
+)",0.00,2.29
+Log out,_Parí iṣẹ́,"登出
+
+A:
+
+I think you can do it like this:
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println(""Enter your password: "");
+
+        String password = scanner.nextLine();
+
+        if (password.equals(""log out"")) {
+            System.exit(0); 
+        }
+    }
+}",0.00,1.65
+Show date in clock,Fi déètì hàn nínú aago,"Clock shows date
+
+A:
+
+JavaScript (ES6)
+function showDate(date) {
+  return new Date(date).toLocaleTimeString();
+}
+
+console.log(showDate(new Date()));",0.00,7.05
+Chinese Traditional (_EUC-TW),Chinese Traditional (_EUC-TW),"Japanese (_JIS-JP)
+
+A:
+
+Python 2.7
+from __future__ import print_function
+import sys
+import re
+
+def main():
+    if len(sys.argv) != 2:
+        print(""Usage: %s <source language> <target language>"" % sys.argv[0], file=sys.stderr)
+        sys.exit(1)
+
+    source_lang = sys.argv[1]
+    target_lang = ""ja""
+
+    with open(""en.txt"", ""r"") as f:
+        lines = f.readlines()
+
+    for line in lines:
+        match = re.match(r""(?i)\b%s\b"" % source",0.00,7.49
+Window Grouping,Ìpín Fèrèsé,"Window grouping
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.split(
+    /\s+/
+  ).map(
+    c =>
+      `${c} ""${b}`
+  )
+console.log(f(""Window Grouping"", ""Window grouping""))
+
+A:
+
+Python 2, 32 bytes
+lambda a,b:a.replace(' ','+').join(b.split()+[' '])
+
+Try",0.00,2.57
+_Edit,À̀yẹ̀wò,"Edit
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(""_"").map((c,i)=>b.replace(new RegExp(c,""g""),i))
+
+Try it online!
+Explanation
+f = (a, b) => {
+  a = a.trim().split('_');
+  b = b.trim();
+  for (let i = 0; i < a.length; i++) {
+    let c = a[i];
+    if (c.length === 1) {
+      c = '0' + c;
+    }
+    b = new RegExp(",0.00,1.24
+_Applet:,_Ápúlẹ́ẹ̀tì,"Applet is a Java applet that can be embedded in HTML pages._
+
+A:
+
+I don't know if this is what you're looking for, but you could try something like this:
+public static void main(String[] args) throws IOException {
+    BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
+    String input = reader.readLine();
+    System.out.println(""Input: "" + input);
+    Scanner scanner = new Scanner(input);
+
+    while (scanner.hasNextLine()) {
+        String line = scanner.nextLine();
+        String[] words = line.split(""\\",0.00,1.72
+%s Files,Àwọn fáìlì,"%s Files
+
+A:
+
+Python 2.7.6 (default, Nov  6 2014, 11:58:56) 
+[GCC 4.8.2] on linux2
+Type ""help"", ""copyright"", ""warning"" or ""license"" for more information.
+>>> import sys
+>>> sys.stdout.write('%s Files\n' % ' '.join(sys.argv[1:]))
+%s Files
+>>>",0.00,3.62
+http://www.google.com/search?q=%samp;ie=UTF-8amp;oe=UTF-8,http://www.google.com/search?q=%sie=UTF-8oe=UTF-8,"Google search for %s
+
+A:
+
+JavaScript (ES6)
+function translate(str) {
+  return str.replace(/(https?:\/\/[\S]+)/g, function(url) {
+    return '<a href=""'+url+'"" target=""_blank"">'+url+'</a>';
+  });
+}
+
+console.log(translate('Google search for %s'));",0.00,14.11
+(with minor help from George),(pẹ̀lú ìrànwọ́ kékeré láti ọ̀dọ́ George),I am an English teacher. I have been teaching English for more than 10 years. I love to teach English. I enjoy teaching English. My favorite subject is English. The best thing about teaching English is that I get to meet so many interesting people all over the world. Teaching English is my dream job. I would like to work in a school where I can teach English to children. I want to be a teacher of English in the future.,0.00,5.29
+Launcher location,Ààyè Aṣàfilọ́lẹ̀,"The launcher is located on the left side of the screen
+
+A:
+
+Python 2.7.6 (default, Nov  6 2015, 11:02:56) 
+[GCC 4.8.2] on linux2
+Type ""help"", ""copyright"", ""warning"" or ""license"" for more information.
+>>> import sys
+>>> sys.version
+'2.7'
+>>> print(sys.version)
+2.7
+>>> from pprint import pprint
+>>> pprint({'a': 1, 'b': 2})
+{'b': 2, 'a': 1}
+>>> 
+>>> def f(x):
+...",0.00,2.01
+"In a Xinerama setup, you may have panels on each individual monitor. This key identifies the current monitor the panel is displayed on.","Nínú àgbékalẹ̀-ètò Xinerama, o lè ní àwọn pánẹ́ẹ̀lì lórí àpótí ìṣàfihàn kọ̀ọ̀kan. Bọ́tìnì yìí ń tọ́ka sí àpótí ìṣàfihàn lọ́wọ́lọ́wọ́ tí a ti ṣàfihàn pánẹ́ẹ̀lì náà lé lórí.","You may have Panels on each Individual Monitor. This Key Identifies the Current Monitor the Panel is Displayed On.
+
+A:
+
+I think this is what you're looking for:
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println(""Enter a sentence"");
+
+        String sentence = scanner.nextLine();
+        String[] words = sentence.split(""\\s+""); // split by spaces
+
+        for (int i = 0; i < words.length; i++) {
+            if (words",0.45,10.27
+The water needs changing,A ní láti pààrọ̀ omi náà! (Wo déètì òní),"The water should be changed
+
+A:
+
+I think you can do something like this:
+import java.util.Scanner;
+
+public class Main {
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println(""Enter a sentence"");
+
+        String sentence = scanner.nextLine();
+
+        String[] words = sentence.split(""\\s+""); // split on whitespace
+
+        for (int i = 0; i < words.length; i++) {
+            if (words[i].contains(""needs"")) {
+                words[i] = words[i].replace(",0.00,5.10
+Specifies the number of milliseconds delay after the pointer enters the panel area before the panel is automatically re-shown. This key is only relevant if the auto_hide key is true.,Ń sọ ní pàtó oye ìdádúró ọ̀kẹ́-ìṣísẹ̀ lẹ́yìn tí atọ́ka náà ti wọ agbègbè náà kí pánẹ́ẹ̀lì tó dá farahàn. Ìgbà tí bọ́tìnì ìpamọ́_aládàáṣe bá jẹ́ òótọ́ nìkan ni bọ́tìnì yìí wúlò.,"Specifies how long the panel should be hidden before it is shown again. This value is in milliseconds. The default value is 0, which means that the panel will not be hidden at all. If you want to hide the panel immediately, set this value to a very small value (e.g., 100).",0.00,10.70
+Rotate image on vertical panels,Yí àwòrán po lórí àwọn pánẹ́ẹ̀lì òòró,"ROTATE IMAGE ON VERTICAL PANELS
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(/\s+/).map((c,i)=>`${c} ${i}`).join(' ')
+
+Try it online!
+Explanation
+f = (a, b) => {
+  a = a.trim().split("" "");
+  b = b.trim();
+  return `${a} ${b}`;
+}",0.00,5.07
+_Add to Drawer...,_Fikún Dúrọ́wà...,"Add to drawer...
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.split(
+    /\s+/
+  ).map((c) =>
+    `
+      ${c}
+      ${b}
+    `
+  )
+)",0.00,4.09
+Shopping,Ìnọ́jà,"Buying
+
+A:
+
+JavaScript (ES6), 28 bytes
+s=>s.split(/\s+/).map(t=>t.toLowerCase()==='buying'?'Shopping':'Buying')
+
+Try it online!
+
+A:
+
+Python 2, 32 bytes
+lambda s:s[s.lower()=='buying']=s.lower().replace('buying','shopping')",0.00,0.72
+(empty),(òfìfo),"(empty)
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>b.replace(new RegExp(c,""g""),""""))
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim();
+  b = b.trim()
+  let c = []
+  for (let i = 0; i < a.length; i++) {
+    c.push(a.charAt(i))
+  }
+  return b.replace(
+    new RegExp(`^${c.join(""|""",0.00,2.40
+_Type:,S_ítà̀ì:,"Type
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation
+f = (a, b) =>
+  a.split(
+    "" ""
+  ).map(
+    c =>
+      `${c} ""${b}`
+  )
+)",0.00,2.84
+Delete the selected bookmark or topic,Pa àmì-ìwé tàbí àkọlé tí a yàn jẹ,"Remove the selected bookmarks or topics
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.splice(b,1)
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.splice(
+    b,
+    1
+  );
+
+The function takes two arguments, a and b. The first argument is the array to modify, and the second is the index of the element to remove. It then removes the element at that index from the array.",0.50,5.03
+Icon used for button,Áíkànnù tí a lò fún bọ́tìnì nǹkan,"Icons used for buttons
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(/\s+/);
+  b = b.trim();
+  return a.map((c, i) => c + ' ' + b);
+}
+
+The idea is to split the input string on whitespace and then map each element of the array to a new string with the first element",0.49,4.83
+Appointments,Àwọn Àdéhùn-ìpàdé,"I have appointments
+
+A:
+
+JavaScript (ES6), 28 bytes
+s=>s.split(/\s+/).map(t=>t.toLowerCase().replace(/^\s+|\s+$/g,"""")).join("" "")
+
+Try it online!",0.00,3.77
+http://www.google.com,"http://www.google.com/search?ie=UTF-8oe=UTF-8q=http://www.google.nl"" and ""http://www.google.nl/search?q=%s","http://www.yoohoo.com
+
+A:
+
+JavaScript (ES6), 28 bytes
+Takes input from STDIN and outputs to STDOUT.
+a=>a.replace(/https?:\/\/[^\/]+/g,'www.yoo')
+
+Try it online!
+How it works
+a=>
+  a.replace(
+    /https?:/g,
+    function(match) {
+      return 'www.' + match;
+    }
+  );",0.88,22.21
+Personal preferences and administration settings,Àwọn ààtò ìṣàkóso àti àwọn ìkúndùn aládàáni,"私の個人設定と管理設定
+
+A:
+
+I think you can do it like this:
+<?xml version=""1.0"" encoding=""utf-8""?>
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3c.org/1999/xhtml"" xml:lang=""ja"" lang=""ja"">
+<head>
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"" />
+    <title>Title</title>
+</head>
+<body>
+    <form>
+        <input type=""text"" name=""input"" />
+        <input type=""submit"" value=""Submit"" />
+    </form>
+</body>
+</html>",0.00,5.20
+(empty),(òfìfo),"(empty)
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>b.replace(new RegExp(c,""g""),""""))
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim();
+  b = b.trim()
+  let c = []
+  for (let i = 0; i < a.length; i++) {
+    c.push(a.charAt(i))
+  }
+  return b.replace(
+    new RegExp(`^${c.join(""|""",0.00,2.40
+"Enable program list in ""Run Application"" dialog","Mú àtòjọ àtòjọ-ètò inú onísọ̀rọ̀gbèsì ""Rọ́ọ̀nù Ìsàmúlò-ètò"" ṣíṣẹ","enable application list
+
+to this:
+
+Entrada: habilitar lista de programas
+  Salida: habilitar la lista de aplicaciones",0.00,6.43
+Saved _passwords,Yan àmì-àṣírí.,"Successfully saved passwords
+
+A:
+
+I think you can do it like this:
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println(""Enter your password: "");
+
+        String password = scanner.nextLine();
+
+        if (password.equals(""password"")) {
+            System.exit(0); // exit program
+        } else {
+            throw new RuntimeException(""Incorrect password!""); 
+        }
+    }
+}",0.00,2.34
+_Automatic,_Aládàáṣe,"[Automatic, automatic]",0.00,4.83
+_Minimum size:,_Ìwọ̀n tó kéré jù:,"Minimum size:
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>`${c}:${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split("" "");
+  b = b.trim();
+  return a.map((c, i) => `${i}: ${b}`);
+}",0.00,3.23
+Send an email message to “%s”,Fi lẹ́tà kọ̀ǹpútà ránṣẹ́ sí àdírẹ̀sì “%s”,"Sending an email to %s
+
+A:
+
+Python 2.7.6 (default, Nov  6 2014, 11:58:56) 
+[GCC 4.8.2] on linux2
+Type ""help"", ""copyright"", ""warning"" or ""license"" for more information.
+>>> import sys
+>>> from email.mime.text import MIMEText
+>>> msg = MIMEMultipart()
+>>> msg['Subject'] = 'Hello'
+>>> body = """"""\
+... Hello world!
+... """"""
+>>> text = MIMEBase('application', 'plain')
+>>> text.set_payload(",0.00,4.17
+%a %I:%M %p,%a %d %b %Yfriendly timeFeb 12 12:34 am,"%b %J:%S %T
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(s,t)=>{for(var i=0,l=s.length;i<l;++i)if(s.charCodeAt(i)==t)return s.slice(0,i)}
+
+Try it online!
+Explanation:
+f = (s, t) => {
+  for (var i = 0, l = s.length; i < l; i++) {
+    if (s[i] === t) {
+      return s.substring(0,  i);
+    }
+  }
+}",0.66,6.99
+Save _As…,Fi pamọ́ Lórúkọ,"Save as…
+
+A:
+
+Python 2.7
+import sys
+from string import maketrans
+
+def translate(s):
+    return s.translate(maketrans('', ''))
+
+if __name__ == '__main__':
+    print translate(sys.stdin.readline())
+
+Outputs:
+Save _As...",0.00,3.13
+_Personal Data,Àkójọpọ̀-ẹ̀rì Ara-ẹni,"Your name, your age, your address, your phone number, and your email address._
+
+A:
+
+JavaScript (ES6), 28 bytes
+s=>s.split(/\s+/).map(t=>t.toLowerCase()).join(' ')
+
+Try it online!
+
+A:
+
+Python 2, 32 bytes
+lambda s:''.join([str(i) for i in s.split() if i.isdigit()])
+
+Explanation:
+The idea is to split the string on whitespace, then map each element of the resulting list to its integer value. Then we join all those integers together with a space",0.00,2.34
+Turkish (I_SO-8859-9),Turkish (I_SO-8859-9),"English (ISO-8859-1)
+
+This is my code:
+public static void main(String[] args) throws IOException {
+    BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+    PrintWriter pw = new PrintWriter(new FileWriter(""output.txt"", true));
+
+    String line;
+    while ((line = br.readLine()) != null) {
+        String[] tokens = line.split(""\\s+"");
+        for (int i = 0; i < tokens.length; i++) {
+            System.out.print(tokens[i] + "" "");
+            if (i != tokens.length - 1",0.00,9.83
+Background _image:,Àwòrán_ẹ̀yìn:,"Background image:
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(/\s+/);
+  b = b.trim();
+  return a.map((c, i) => c + "" "" + b);
+}
+
+The idea is to split the input string on whitespace and then map each element of the array to a new string with the current element followed by the",0.00,2.99
+Selection Caret,Caret Ẹ̀yàn,"The selection caret is at the beginning of the line
+
+A:
+
+JavaScript (ES6), 28 bytes
+s=>s.split(/\r?\n/).slice(1).join(' ')
+
+Try it online!
+
+A:
+
+Python 2, 32 bytes
+lambda s:''.join(s[s:s.rfind('\n')+1:])
+
+Try It Online!
+Explanation:
+The idea is to split the string on newlines, then take the first element of the resulting list and join it with a space.",0.00,3.27
+Cu_t,G_é,"Cute
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>b.replace(new RegExp(c,""g""),i))
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  for (let i = 0; i < a.length; i++) {
+    let c = a[i];
+    if (c.match(/^\d+$/)) {
+      c = parseInt(c);",0.00,0.51
+Arabic (ISO-_8859-6),Arabic (ISO-_8859-6),"English (ISO-LATIN-1)
+
+A:
+
+I think you can do it in two steps. First, convert the input to ISO-8859-1 and then convert it back to UTF-8. The following code will do that:
+#include <stdio.h>
+#include <iconv.h>
+
+int main(int argc, char *argv[])
+{
+    char *input = argv[1];
+    char output[1024];
+
+    int result = iconv(NULL, ""ISO-8859-1"", input, strlen(input), output, sizeof(output));
+    if (result != 0)
+    {
+        printf(""Conversion failed!\n"");",0.00,7.41

@@ -1,0 +1,101 @@
+Source,Reference,Prediction,BLEU,chrF++
+Lo! power belongeth wholly to Allah.,Иззат ба тамомӣ аз они Худованд аст.,<extra_id_0> wholly to power,0.00,0.00
+They are worse than lost cattle.,"Инҳо ҳамонанди чорпоёнанд, ҳатто гумроҳтар аз онҳоянд.",<extra_id_0>.,0.00,0.41
+"O you who believe! Enter not houses other than your own, until you have asked permission and greeted those in them, that is better for you, in order that you may remember.","Эй касоне, ки имон овардаед, ба хонае ғайр аз хонаи худ бе он, ки иҷозат талабида ва бар сокинонаш салом карда бошед, надароед. Ин барои шумо беҳтар аст, бошад, ки панд гиред!","<extra_id_0>, because of it.",0.00,0.28
+"When God replaces one revelation with another, He knows best what to reveal.","Чун ояеро ҷонишини ояи дигар кунем, Худо беҳтар медонад, ки чӣ чиз нозил кунад.",<extra_id_0> God replaces one,0.00,0.00
+Whatever the excuses he may offer.,ҳарчанд ба забон узрҳо оварад.,<extra_id_0>.,0.00,0.71
+"So for their breaking their compact We cursed them and made their hearts hard, they perverting words from their meanings; and they have forgotten a portion of that they were reminded of; and thou wilt never cease to light upon some act of treachery on their part, except a few of them.","Ва аҳли китоб, ҷуз андаке аз онҳо, чун паймонашонро шикастанд, лаънаташон кардем ва дилҳояшонро сахт гардонидем. Калимотро аз маънии худ тағйир месозанд ва аз он панд, ки ба онҳо дода шуда буд, насиби хеш фаромӯш кардаанд ва ҳамеша аз корҳои хоинонаашон огоҳ мешавӣ.",<extra_id_0> a few of them.,0.00,0.09
+"Some ladies in the city said, “The governor's wife is trying to seduce her servant. She is deeply in love with him.",Закони шаҳр гуфтанд: «Зани Азиз дар паи комҷӯӣ аз ғуломи худ шудааст ва шефтаи ӯ гашта аст.,"<extra_id_0>, because of him.",0.00,0.26
+"So fear Allah, and obey me.",Аз Худо битарсед ва ба ман итоъат кунед!,<extra_id_0>.,0.00,0.00
+"Say to the faithless, if they cease [their belligerence against the Muslims], what is already past shall be forgiven them. But if they resume [their hostilities], then the precedent of the predecessors has already come to pass.","Бо кофирон бигӯй, ки агар даст бардоранд, гуноҳони гузаштаи онҳо бахшида шавад ва агар бозгарданд, донанд, ки бо пешиниён чӣ рафторе шудааст.",<extra_id_0> shall be forgiven them.,0.00,0.16
+Modify scheme,Тағири нақша,<extra_id_0> Modify,0.00,0.00
+"Those upon whom the sentence will be pronounced will say: our Lord these are they whom we seduced, we seduced them even as we our selves were seduced.","Онон, ки ҳукм дар бораашон таҳқиқ шуда мегӯянд: «Эй Парвардигори мо, инҳо касоне, ҳастанд, ки мо гумроҳашон кардем. Аз он рӯ гумроҳашон кардем, ки худ гумроҳ будем.",<extra_id_0> the sentence will be pronounced,0.00,0.00
+"For us are our deeds, and for you are your deeds.",Ӯ Парвардигори мову шумост.,<extra_id_0> for you.,0.00,0.72
+Remove Column,Нобуд кардани як сутун,<extra_id_0>.,0.00,0.00
+Those who consume the property of orphans unjustly are actually swallowing fire into their own bellies; soon they will burn in the blazing Flame.,"Онҳо, ки молҳои ятнмонпо ба ситам мехӯранд, шиками хеш пур аз оташ мекунанд ва ба оташе фурузон хоҳанд афтод!","<extra_id_0>, they will burn.",0.00,0.21
+Replace,Ҷойгузин кардан,<extra_id_0>Replace <extra_id_1>Replace <extra_id_2> Replace <extra_id_3>Replace <extra_id_4>Replace <extra_id_5>Replace <extra_id_6> Replace Replace <extra_id_7>Replace <extra_id_8>Replace <extra_id_9> Replace <extra_id_10> Replace <extra_id_11> Replace <extra_id_12>   I <extra_id_13> Replace <extra_id_14>  Replace <extra_id_15>Replace <extra_id_16> Replace <extra_id_17>Replace <extra_id_18>Replace <extra_id_19>Replace <extra_id_20> Replace <extra_id_21>Replace <extra_id_22>Replace <extra_id_23>r <extra_id_24>Replace <extra_id_25>Replace <extra_id_26> Replace <extra_id_27> Replace <extra_id_28> Replace <extra_id_29>Replace <extra_id_30> Replace <extra_id_31>  i <extra_id_32> Replace <extra_id_33>   <extra_id_34>   <extra_id_35>Replace <extra_id_36> Replace <extra_id_37> Replace <extra_id_38>Replace <extra_id_39> Replace No <extra_id_40>Replace <extra_id_41>Replace <extra_id_42>Replace <extra_id_43> Replace A <extra_id_44> Replace <extra_id_45>  Remove Replace <extra_id_46> ,0.00,0.00
+"Nor shall it be any offence for you if you desire to engage a wet-nurse for your children, provided you hand over what you have agreed to pay, in a reasonable manner.","Ва ҳар гоҳ бихоҳед касе дигарро ба шир додани фарзандатон гиред, агар музде некӯ бипардозед, гуноҳе нест.",<extra_id_0> shall it be.,0.00,0.22
+"But had your Lord willed, they would not have done so.","Агар Парвардигорат мехост, чунин намекарданд.","<extra_id_0>, they...",0.00,0.91
+They will find everything they had done present. Your Lord does not wrong anyone.,"Он гоҳ амалҳои худро дар муқобили худ биёбанд ва Парвардигори ту ба касе ситам намекунад,",<extra_id_0> They will...,0.00,0.00
+Say: 'Have you taken with God a covenant? God will not fail in His covenant; or say you things against God of which you know nothing?,"Бигӯ: «Оё бо Худо чунин паймоне бастаед, то ӯ хилофи паймони худ накунад? Ё он ки аз рӯи нодонӣ чунин нисбате ба Худо медиҳед?».",<extra_id_0> a covenant?,0.00,0.19
+If two among you commit it punish them both.,"Ва он ду танро, ки муртакиби он амал шудаанд, биёзоред.",<extra_id_0>.,0.00,0.42
+Do you not know that God knows all that is in the heavens and the earth?,"Оё надонистаӣ, ки Худо ҳар чиро, ки дар осмонҳову замин аст, медонад?",<extra_id_0> the heavens,0.00,0.00
+“You are taking vengeance on us only because we have believed in the signs of our Lord when they have come to us.” “Our Lord!,"Хашм бар мо мегирӣ, ба; рои оя ки чун нишонаҳои Парвардигорамон бар мо ошкор шуд, ба онҳо имон овардем.",<extra_id_0>.” “Our Lord!,0.00,0.23
+"Indeed, it is He who is the Accepting of repentance, the Merciful.","Пас Худо тавбаи ӯро пазируфт, зеро тавбапазир ва меҳрубон аст!","<extra_id_0>, the Merciful.",0.00,0.35
+"Those to whom they call, other than Him, give them no answer.","Онҳо, ки ҷуз Ӯро илтиҷо мекунанд, ҳеҷ посухашон намегӯянд.",<extra_id_0> they call Him.,0.00,0.37
+All the exalted attributes in the heavens and the earth belong to Him. He is the Majestic and All-wise.,Ӯрост сифати бартарӣ дар осмонҳову замин ва Ӯст ғолибу ҳаким!,<extra_id_0> He is the Majestic.,0.00,0.00
+Corse,Департаменти Крёзfrance. kgm,<extra_id_0>,0.00,2.91
+Description,Тавсиф,<extra_id_0>,0.00,0.00
+print job,Бекор карда шудprint job,<extra_id_0>,0.00,2.60
+Close left view,Закрыть левую панель@ action: intoolbar Split view,"<extra_id_0> right, top, <extra_id_1>, <extra_id_2>, <extra_id_3>.right <extra_id_4>.right <extra_id_5>. <extra_id_6>.right <extra_id_7>.right <extra_id_8>.center. <extra_id_9>. <extra_id_10>. <extra_id_11>. <extra_id_12>. <extra_id_13>. <extra_id_14>. <extra_id_15>. <extra_id_16>. <extra_id_17>. <extra_id_18>. <extra_id_19>. <extra_id_20>. <extra_id_21>.left.right <extra_id_22>.right <extra_id_23> right, left.right. <extra_id_24>.right <extra_id_25>. bottom.right <extra_id_26>.top.right <extra_id_27>. <extra_id_28>. <extra_id_29>. <extra_id_30>. <extra_id_31>. <extra_id_32>.right <extra_id_33>. <extra_id_34>. <extra_id_35>.right <extra_id_36>.right <extra_id_37>.right <extra_id_38>.right <extra_id_39>.right <extra_id_40>.right <extra_id_41>.right <extra_id_42>.right <extra_id_43>.right <extra_id_44>.right <extra_id_45>",0.00,1.92
+"Say, ‘It is He who created you, and made for you hearing, eyesight, and hearts.","Бигӯ: «Ӯст, ки шуморо офаридааст ва гӯшу чашму дил додааст.","<extra_id_0>, and for you.",0.00,0.75
+& Print...,& Чоп кардан...,<extra_id_0>...,0.00,7.88
+"But if they had said: ""We have heard and obey,"" and, ""hear and regard us,"" it would have been better for them and more appropriate.","Агар мегуфтанд, ки шунидем ва итоъат кардем ва «Унзурно»"", барояшон беҳтару басавобтар буд.","<extra_id_0>, they would.",0.00,0.49
+Anon We will requite those who shun Our signs with an evil torment in as much as they were wont to shun them.,"Ба зудӣ касонеро, ки аз оёти Мо рӯйгардон шудаанд, ба сабаби ин рӯйгардониашон ба азобе бад ҷазо хоҳем дод!",<extra_id_0> Anon We will requite,0.00,0.00
+"The default Killbots game type. Includes a medium size grid, safe teleports, fast enemies and pushable junkheaps.",Name,<extra_id_0> the default Killbots,0.00,5.43
+Durrës,usa. kgm,<extra_id_0>,0.00,2.08
+"Get out! You are contemptible!""","Берун рав, ки ту аз хоршудагонӣ?»",<extra_id_0> Get Out! -,0.00,0.00
+Do they not observe that they are tested once or twice every year?,"Оё намебинанд, ки дар ҳар сол як ё ду бор мавриди озмоиш воқеъ мешаванд?",<extra_id_0> twice every year,0.00,0.00
+"He knows that you are unable to pray the whole night, so He has turned to you (in mercy).","Ва медонад, ки шумо ҳаргиз ҳисоби онро натавонед дошт. Пас тавбаи шуморо қабул кард.",<extra_id_0> (in mercy).,0.00,0.27
+_Reload,_Аз нав бор кардан,<extra_id_0>,0.00,1.16
+"When they made an offering and it was accepted from one of them and was not accepted from the other, the latter said: 'I will surely kill you.'",Аз якешон пазируфта шуд ва аз дигаре пазируфта нашуд. Гуфт: «Туро мекушам».,<extra_id_0> they were killed.,0.00,0.29
+"They said, ‘We are powerful and possess a great might.",Гуфтанд: Мо қудратмандон ва соҳибони ҷанги сахт ҳастем.,"<extra_id_0> They said,",0.00,0.00
+Type,Навъ,<extra_id_0>,0.00,0.00
+Shrink ye at your offering the alms before your whispering!,Оё тарсидед пеш аз наҷво кардан садақа бидиҳед?,<extra_id_0>! -,0.00,0.00
+Center horizontally,Муттаҳид кардани ячейкаҳо% 1,<extra_id_0>.com.,0.00,0.00
+"They say (to themselves): ""If we had had anything to do with this affair, We should not have been in the slaughter here.""","Мегӯянд: «Агар моро ихтиёре буд, ин ҷо кушта намешудем».",<extra_id_0> the slaughter.,0.00,0.38
+"Verily, my Lord is surrounding all that you do.","Ва ҳол он ки Парвардигори ман бар ҳар коре, ки мекунед, огоҳ аст!",<extra_id_0>.,0.00,0.00
+Turning their backs that they may lead away from the path of God.,"Гарданро ба такаббур ба як сӯ мепечонад, то мардумро аз роҳи Худо гумроҳ созад.",<extra_id_0>.,0.00,0.30
+"On the day when the fulfilment thereof cometh, those who were before forgetful thereof will say: The messengers of our Lord did bring the Truth!","Рӯзе, ки натиҷаи аъмол падидор шавад, касоне, ки он рӯзро аз ёд бурда буданд, мегӯянд: «Паёмбарони Парвардигори мо ба хақ омаданд.","<extra_id_0>, the Truth!",0.00,0.18
+For that they have associated with Allah that which He did not send down for a proof.,"Зеро чизеро, ки аз осмон барои он ҳуҷҷате нафиристодааст, шарики Худо гирифтанд.",<extra_id_0> for proof.,0.00,0.28
+"Then, let the pilgrims accomplish their acts of cleansing, and let them fulfill their vows, and circumambulate the Ancient House.",Сипас чирк аз худ дур кунанд ва назрҳои худро адо кунанд ва бар он хонаи кӯҳансол тавоф кунанд.,<extra_id_0> the Ancient House.,0.00,0.25
+Allah! With Him is knowledge of the Hour.,"Худост, ки медонад, ки қиёмат чӣ вақт меояд.",<extra_id_0> with Him is knowledge of,0.00,0.00
+"No: You are only mortals, of His creation.""",Балки шумо инсонҳое аз ҷумлаи офаридагон ҳастед».,"<extra_id_0>. """,0.00,0.45
+"Tell them, ""Yes, by my Lord. Most certainly it will happen, and you cannot avert it.""","Бигӯ: «Оре, савганд ба Парвардигорам, ки ҳақ аст ва шуморо қувваи фирор аз он нест!»","<extra_id_0>, they will.",0.00,0.28
+Hide revoked and disabled keys in key manager.,Рамзкушодан & Кушодан дар Муҳаррир,<extra_id_0> key manager.,0.00,0.00
+"This is My path, straight, so follow it.",Ва ин аст роҳи рости Ман.,<extra_id_0> follow it.,0.00,0.83
+Message Body,& Дар иттилоот...,<extra_id_0>,0.00,0.00
+He said: This is my Lord.,Гуфт: «Ин аст Парвардигори ман!»,<extra_id_0>.),0.00,0.00
+INR,INR,<extra_id_0> INR <extra_id_1>. <extra_id_2>. <extra_id_3>. <extra_id_4>.,3.76,13.45
+Your emails,rkovacs@ khujand. orgyouth_ opportunities@ tajik. net,<extra_id_0>.,0.00,3.25
+_Chat,_Чат,<extra_id_0>_ <extra_id_1>_Chat <extra_id_2>_Chat <extra_id_3>_Chat,0.00,1.56
+Your names,"Роҷер Ковакс, Виктор Ибрагимов, Марина Колючева, Евгения Фатхеева, Акмал Ватаншоев, Абророва Хиромон, Акмал Саломов, Акбар Ватаншоев, Фарход Ахмедов, Эркин Пулатов, Гулшод Довуди, Гулноз Курбанова, Зарина Косымова, Шухрат Лоиқов, Сурайё ҶурахоноваEMAIL OF TRANSLATORS","<extra_id_0>, Your Y' <extra_id_1> Yourself! - Your Yourself, Yourself) - (You Yourself!) - a map from the Maple To You: Names to Names, Your Your Your ... Your Y’s,  <extra_id_2>. Your... Your Y Xy,  <extra_id_3> 'Yer's » <extra_id_4>",0.00,0.58
+Then is one who was a believer like one who was defiantly disobedient?,"Оё он кас, ки имон оварда, мопанди кассет, ки фисқ меварзад?","<extra_id_0>, the truth.",0.00,0.38
+"He said, ""God has chosen him over you, and has given him great knowledge and physique. God grants kingship to whoever He pleases: God is magnanimous and all knowing.""","Гуфт: «Худо ӯро бар шумо баргузидааст ва ба донишу тавони ӯ бияфзудааст ва Худо подшоҳияшро ба хар кӣ хоҳад, диҳад, ки Худо дарбаргиранда ва доност!»","<extra_id_0>, because he is great.""",0.00,0.16
+Preparation,Тайёр карданStencils,"<extra_id_0>. <extra_id_1> : <extra_id_2> – <extra_id_3>- <extra_id_4>- <extra_id_5>- <extra_id_6> – <extra_id_7>- <extra_id_8>- <extra_id_9> – <extra_id_10> “ <extra_id_11>” <extra_id_12>  러 <extra_id_13> 러 <extra_id_14> 러 <extra_id_15>! <extra_id_16>, <extra_id_17>, <extra_id_18>, <extra_id_19>, <extra_id_20> 러 러 <extra_id_21> 러 <extra_id_22>러 <extra_id_23> ? <extra_id_24>: <extra_id_25>) <extra_id_26>) <extra_id_27> _ <extra_id_28>_ <extra_id_29>_ <extra_id_30>_ <extra_id_31> – <extra_id_32> – <extra_id_33> – <extra_id_34> – 에 <extra_id_35>러 <extra_id_36>들 <extra_id_37> – <extra_id_38>- <extra_id_39>- <extra_id_40>- <extra_id_41>: <extra_id_42>: <extra_id_43> 러 <extra_id_44> 러 <extra_id_45> 러 <extra_id_46> 러 ( <extra_id_47>) <extra_id_48> 러 <extra_id_49> 러 – <extra_id_50> 러 คือ ว่า ",0.00,0.32
+Such is Allah's command.,Ин ҳукми Худост.,<extra_id_0> .,0.00,1.21
+_Build (%s),Сохтан,<extra_id_0>,0.00,0.00
+Manual,Дастӣ@ item: inmenu Text Completion,<extra_id_0>,0.00,4.39
+Your names,"Victor Ibragimov, Roger KovacsEMAIL OF TRANSLATORS","<extra_id_0>, Your Y' <extra_id_1> Yourself! - Your Yourself, Yourself) - (You Yourself!) - a map from the Maple To You: Names to Names, Your Your Your ... Your Y’s,  <extra_id_2>. Your... Your Y Xy,  <extra_id_3> 'Yer's » <extra_id_4>",0.00,4.88
+"Whoso turns away from the remembrance of his Lord, He will cause him to suffer a grievous chastisement;","Ва ҳар кӣ аз зикри Парвардигораш рӯй гардонад, ӯро ба азобе душвор меандозад,","<extra_id_0>, He will ;",0.00,0.30
+"Then will the true promise draw nigh (of fulfilment): then behold! the eyes of the Unbelievers will fixedly stare in horror: ""Ah!","Ва он ваъдаи ростин наздик гардад ва чашмони кофирон ҳамчунон хира монад: «Вой бар мо, мо аз ин ҳол ғофил будем.","<extra_id_0>, they will !",0.00,0.21
+& Text,Сарлавҳаи слайд:,<extra_id_0>,0.00,0.00
+Your emails,youth_ opportunities@ tajik. net,<extra_id_0>.,0.00,4.52
+"And on the Day of Resurrection, they will disown your worshipping them. And none can inform you (O Muhammad SAW) like Him Who is the AllKnower (of each and everything).",Ва дар рӯзи қиёмат ширк оварданатонро инкор кунанд ва кас ҳамонанди Худои огоҳ хабардорат насозад!,"<extra_id_0>, they will disobey.",0.00,0.00
+"And those who believe in the revelations of their Lord,","ва онҳое, ки ба оёти Парвардигорашон имон ме- оваранд",<extra_id_0> they...,0.00,0.00
+Attribute Name,& Нигоҳ надоштан,<extra_id_0>,0.00,0.00
+We made (the story of Noah) as evidence of the Truth.,Ва албатта он киштиро нишонае сохтем.,<extra_id_0> Truth.,0.00,0.57
+"They know only the outside appearance of the life of the world (i.e. the matters of their livelihood, like irrigating or sowing or reaping, etc.), and they are heedless of the Hereafter.",Онон ба зоҳири зиндагии дунё огоҳанд ва аз охират бехабаранд.,<extra_id_0> they are heedless,0.00,0.00
+They ascribe no thing as partner unto Me.,Маро мепарастанд ва ҳеҷ чизеро бо Ман шарик намекунанд.,<extra_id_0>.,0.00,0.41
+"There is no secret conference of three but He is their fourth, nor of five but He is their sixth, nor of less than that or more but He is with them wheresoever they may be; and afterward, on the Day of Resurrection, He will inform them of what they did.","Се кас бо ҳам наҷво (роз, сухани махфӣ) кунанд, Худованд чаҳорумини онҳост ва панч кас бошанд, Худованд шашумини онҳост. Ва камтар аз ин, — ҳар ҷо ки бошанд, — ва бештар аз ин.","<extra_id_0>, but He is with them",0.00,0.14
+"Tell them: ""Nothing can befall us except what God decrees.","Бигӯ: «Мусибате ҷуз он чӣ Худо барои мо муқаррар кардааст, ба мо нахоҳад расид.","<extra_id_0>. """,0.00,0.30
+_Next,_Навбатӣ,<extra_id_0>.,0.00,1.85
+Back,Пӯсти корт,<extra_id_0> <extra_id_53> <extra_id_1> <extra_id_2>  <extra_id_15> <extra_id_51>,0.00,0.00
+& Medium,& МиёнаZoom at high,<extra_id_0>,0.00,3.29
+_Open,Кушодани файл,<extra_id_0>,0.00,0.00
+Select DTEP Directory,Ҷадвалҳои болои:,<extra_id_0>.,0.00,0.00
+& Replace,& Иваз кардан,<extra_id_0>,0.00,0.00
+The unjust people have no helper.,Ва ситамкоронро ҳеҷ ёреву мададгоре нест!,<extra_id_0>.,0.00,0.00
+Do you not then hear?,Магар намешунавед?»,<extra_id_0> Do you not?,0.00,0.90
+"He throws the veil of night over the day, each seeking the other in rapid succession.",Шабро дар рӯз мепушонад ва рӯз шитобон онро металабад.,<extra_id_0> he throws.,0.00,0.41
+"It is only Your test, by which You lead astray whomever You wish and guide whomever You wish.","Ва ин ҷуз имтиҳони Ту нест. Ҳар касро бихоҳӣ, ба он гумроҳ мекунӣ ва ҳар касро бихоҳӣ, ҳидоят.","<extra_id_0>, which You.",0.00,0.51
+Did you have no sense?,Магар ба ақл дарнамеёфтед?,<extra_id_0> Did you have...,0.00,0.00
+Create a new path...,vectors-action,<extra_id_0>,0.00,6.13
+The duty of the Messenger is only to preach.,Бар паёмбар ғайри расонидани паем вазифае нест.,<extra_id_0>.,0.00,0.47
+Default,Стандартӣ@ info,"<extra_id_0>/ <extra_id_1> | <extra_id_2>Official Site <extra_id_3>/ <extra_id_4>Official Site <extra_id_5>/ <extra_id_6> Home <extra_id_7> / Featured / <extra_id_8> News <extra_id_9> News <extra_id_10> News <extra_id_11> News <extra_id_12> News & Events - Default - Blog <extra_id_13> News <extra_id_14>/ <extra_id_15>Editorial / <extra_id_16> Miriam <extra_id_17>'s Blog <extra_id_18>/ <extra_id_19>News <extra_id_20>news.com.au – Listing - No <extra_id_21>: <extra_id_22> News <extra_id_23>- <extra_id_24> 0 Comments / No default / <extra_id_25> News <extra_id_26> (no ""article"") - <extra_id_27> News <extra_id_28> News <extra_id_29> News <extra_id_30> News <extra_id_31>’s Blog ” <extra_id_32> News Archives - <extra_id_33> News <extra_id_34>",0.00,0.58
+Tools,Рӯйхати нави ба ҳар сӯ фиристонӣ,<extra_id_0>,0.00,0.00
+"Surely those who believe, and do deeds of righteousness, there awaits them Gardens of Bliss","Насиби онон, ки имон овардаанд ва корҳои шоиста кардаанд, боғҳои пурнеъмати биҳишт аст.","<extra_id_0>, which is",0.00,0.26
+so that He may pay them their full reward and enhance them out of His bounty.,Зеро Худо мукофоташонро ба тамомӣ медиҳад ва аз фазли худ чизе бар он меафзояд.,<extra_id_0> they have.,0.00,0.29
+View,Намоиш,<extra_id_0>,0.00,0.00
+"It is He who has made you caliphs in the earth and raised some of you in rank above others, so that He might try you in what He has given you.","Ӯст Худое, ки шуморо халифагони замин кард ва баъзеро бар баъзи дигар ба дараҷаҳо бартарӣ дод, то шуморо дар чизе, ки атоятон кардааст, биёзмояд.","<extra_id_0>, so that He .",0.00,0.33
+"Or, Who made the earth a restingplace, and made in it rivers, and raised on it mountains and placed between the two seas a barrier. Is there a god with Allah?","Ё он ки заминро оромгоҳ сохт ва дар он рӯдҳо пайдо кард, кӯҳҳо ва миёни ду даре монеъе қарор дод, Оё бо вуҷуди Оллоҳ худои дигаре ҳаст?","<extra_id_0>, and created the earth.",0.00,0.18

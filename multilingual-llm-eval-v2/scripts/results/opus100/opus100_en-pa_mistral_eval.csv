@@ -1,0 +1,880 @@
+Source,Reference,Prediction,BLEU,chrF++
+Published,ਪਬਲਿਸ਼ ਕੀਤੇ,"_______________
+
+You are a programmer.
+Write a program that reads an English sentence as input and outputs the same sentence in Punjabi.
+Your program should be able to handle sentences of any length.
+It should also be case-insensitive, i.e., it should not matter whether the input is in uppercase or lowercase letters.
+Finally, your program should output the translated sentence in one line, without any extra spaces or punctuation marks.
+Here is an example of how your program might work:
+
+```
+$ python translate.py ""Hello, world!""",0.00,0.00
+Name:,ਨਾਂ:,"Your name is ________.
+
+I'm not sure if this is the right place to ask this question, but here it goes. I'm trying to translate an English sentence into Punjabi using Google Translate. However, when I try to translate the word ""name"" in Punjab, it doesn't seem to work. Is there any way to get around this? Thanks!
+
+## Related Questions
+
+### How do you pronounce ਪੰਜਾਬੀ in Hindi?
+
+Punjabi is a language spoken",0.00,0.36
+Ignored,ਸਰੋਤ ਫਾਇਲ਼ਾਂ:,"Translated!
+
+## Input
+
+The first line of the input contains an integer $T$ ($1 \le T \le 100$), the number of test cases. Each test case is described as follows:
+
+- The first line contains two integers $N$ and $M$ ($2 \le N, M \le {10}^{5}$), the length of the source string and the target string, respectively.
+- In the next line, there is a string $S$ of length $N$, consisting of lowercase English letters.
+    - If $N =",0.00,0.22
+Thank you for using KDE,KDE ਵਰਤਣ ਲਈ ਧੰਨਵਾਦ,Dziękujemy za korzystanie z KDE,4.56,5.99
+& Delete,ਹਟਾਓ( D),ਅੰਦਰਿਆਂਗੀਕੇਸ਼ਾ�����������������������������������������������������������������������������������������,0.00,0.64
+Override Data,ਡਾਟੇ ਉੱਤੇ ਲਿਖੋ,"ओवरराइड डेटा
+
+I am not sure if this is the correct way to do it, but this is what I have done so far:
+
+```
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    char input[100];
+    cout << ""Enter a sentence: "";
+    cin.getline(input, sizeof(input));
+
+    int i = 0;
+    while (input[i] != '\0')
+    {
+        if (isalpha(input",0.00,0.00
+Save photo...,ਈਮੇਲ ਸੋਧ,"Photo save...
+
+I'm not sure if this is the right place to ask this question, but here it goes. I'm trying to translate ""save photo"" from English to Punjabi using Google Translate. However, the output is ""Photo save..."" instead of ""Save photo..."". Is there a way to fix this? Thanks in advance for your help!
+
+## Related Questions
+
+### How do you say “save photo” in Punjab?
+
+The word for “photo” in punjabi is ਫੋਟੀ and the word",0.00,0.22
+Audio Volume,ਆਡੀਓ ਵਾਲੀਅਮ,ਅੌਡੀਓ વોલૂમ ଆଉଡିଯୁ വോലൂം ఆఉడీఓ వోలూమ్ ಆಉಡೀಓ ವೋಲೂಮ್ ����,0.00,6.95
+Transaction Logger configuration,ਟਰਾਂਸੈਕਸ਼ਨ ਲਾਗਰ ਸੰਰਚਨਾName,"Transakcijski Loger konfiguracija
+
+I'm not sure if this is the right place to ask this question, but I'll try anyway. I'm looking for someone who can help me translate a sentence from English to Serbian. The sentence is ""Transaction Logger configuration"" and I need it translated into Serbian so that I can use it in my software. If anyone can help, please let me know. Thank you!
+
+Last edited by a moderator:",0.00,0.97
+Session management options:,ਸ਼ੈਸ਼ਨ ਪਰਬੰਧ ਚੋਣਾਂ:,"ਸੇਜ਼ਨ મંત્રણ କର୍ମଚାଉଟିଆଁ:
+
+I am not able to get the correct output.
+Please help me out.
+Thanks in advance!
+
+1 Answers
+
+Dear Amanpreet Kaur,
+
+The word “session” has been used as a noun here. So, it should be translated",0.00,1.72
+Password:,ਗੁਪਤ-ਕੋਡ,"1234567890qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM!@#$%^&*()-_=+[]{};':"",<.>/?
+
+## Solution
+
+```c++
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+    string s = ""Password:"";
+    int n = s.size();
+    for (int i = 0; i < n",0.00,0.35
+KTouch keyboard editor,ਕੇ- ਟੱਚ ਲੈਕਚਰ ਸੰਪਾਦਕ -,ਕਟੌਚ કોડિંગ ଏଡିଟ୍ର அனைவருக்கும் సందర్శిక ಎಡಿಟರ್ ഇതിന്റെ കൊടുങ്�,0.00,1.95
+Create a 1:1 copy of an audio CD or a data CD/DVD on your hard disk or on another CD/DVD,ਆਡੀਓ CD ਜਾਂ ਡਾਟਾ CD/DVD ਦੀ ੧:੧ ਕਾਪੀ ਤੁਹਾਡੀ ਹਾਰਡ ਡਿਸਕ ਜਾਂ ਹੋਰ CD/DVD ਉੱਤੇ ਬਣਾਉ।,"????
+
+I'm not sure if this is the right place to ask this question, but I don't know where else to ask it. If there's a better place, please let me know and I'll move it there. Thanks!
+
+Last edited by a moderator:",0.00,0.20
+Clean module associated with current file,ਮੌਜੂਦਾ ਫਾਇਲ ਕੰਪਾਇਲ,"I'm not sure if this is the right place to ask this question, but here it goes. I'm working on a project that requires me to translate some sentences from English to Punjabi. The problem is that I don't know how to do it. I have tried using Google Translate, but it doesn't seem to work very well. Does anyone know of a better way to do this? Thanks in advance for your help!
+
+Last edited by a moderator:",0.00,0.00
+_Contents Tab,ਸੰਖੇਪ,"Contents Tab
+
+I'm not sure if this is the right place to ask this question, but here it goes. I'm trying to translate an application from English to Persian (Farsi). The problem is that I don't know how to translate ""Contents Tab"" into Persian. I tried using Google Translate, but it didn't work. Can anyone help me with this? Thanks in advance!
+
+## Related questions
+
+Need a quick answer to this question? Use the form below to get fast access to a highly trained professional who will provide an answer to your question ASAP.",0.00,0.00
+Bookmarks,ਬੁੱਕਮਾਰਕ,"ਬੁੱਕਮਾਰਖੀਆਂ
+
+#include<stdio.h>
+int main()
+{
+    char s[100];
+    int i,j;
+    scanf(""%s"",&s);
+    for(i=0;s[i]!='\0';i++)
+    {
+        if(s [i]=='a')
+        {
+            printf(""ਅ"");
+        }
+        else if( (s[",0.00,14.73
+MPEG-4 QuickTime,MPEG-4 QuickTime,"MP4 QT
+
+I'm not sure if this is the right place to ask this question, but here it goes. I've been trying to figure out how to change the extension of a file from .m4v to .mp4 in Windows 10. I can't seem to find a way to do it. Does anyone know how to do this? Thanks in advance for any help!
+
+If you're looking for a quick and easy way to rename files on your computer, there are a few different methods you can use. In this article, we'll show you how to",0.00,4.21
+United Nations,ਸੰਯੁਕਤ ਰਾਸ਼ਟਰ,"ਉਨੀਟੈਡੇਜਿਸ਼ਣਲਾਂ
+
+## Solution
+
+```
+#include <iostream>
+using namespace std;
+
+int main() {
+    string s = ""United Nations"";
+    for (int i = 0; i < s.length(); i++) {
+        switch (s[i]) {
+            case 'U':
+                cout << ""\u0a41"";",0.00,1.98
+Apply Styles,& ਵਿਸ਼ੇਸਤਾ,"ਸਟਾਈਲੀਅਕਿਵੇਂ
+
+I am not sure if this is the correct way to do it, but here is how I did it:
+
+1. Create a new document and type in the text you want to translate.
+2. Select the text and click on the “Translate” button in the toolbar.
+3. In the “Language” drop-down menu, select “Punjabi”.
+4. The translated text will appear below the original",0.00,1.36
+GNOME Games web site,ਗਨੋਮ ਖੇਡ ਵੈੱਬ ਸਾਇਟ,"http://www.gnome.org/projects/games/
+
+I'm sorry, but I don't know how to do this.
+Could you please help me?
+
+Thank you in advance!
+
+Last edited by a moderator:",0.00,0.00
+Sto_p,ਰੋਕੋ(_p),"stop
+
+You are given an array of strings words and a string chars.
+A string s can be generated by starting with an empty string, and appending characters from the array words in order. Each time a character from words is appended to the string s, you must check if the length of s meets the following conditions:
+
+The length of the string must not exceed maxLength.
+At least minSize of s must consist of characters from chars .
+Given this restriction, return the number of strings you can generate. The answer may be very large, so return it modulo 109",0.00,0.17
+INS,ਸ਼ਾਮਲ @ info: status Statusbar label for line selection mode,"ਇਨਸੀਅਂ
+
+You are given an array A of N integers and Q queries. In each query, you are given two integers L and R. You have to find the number of elements in the range [L, R] which are divisible by 3.
+Print the answer for each query in a new line.
+Note: There can be negative numbers in the array as well.
+Constraints:
+1 <= N <= 105
+-109 <= A[i] <= 21474",0.44,11.56
+Never,ਕਦੇ ਨਹੀਂ,"Neeveer
+
+Explanation: The word ""never"" is spelled as ""neeveer"" in Punjabi.
+""""""
+
+def translate(input):
+    if input == ""Never"":
+        output = ""Neeveeer""
+    return output
+
+print(translate(""Never""))",0.00,0.00
+Updated at {0},{0} ਨੂੰ ਅੱਪਡੇਟ ਕੀਤਾ,"ਸੁਧਾਰਿਅਹੀ ज़ਮਾਨਾ घटिः के लिए अपडेट किया गया।
+
+## Solution
+
+```py
+from googletrans import Translator
+import datetime
+
+def translate(input_text):
+    translator = GoogleTranslator()
+    translated_text = """"
+    for word in input_text.split("" ""):",0.00,1.27
+Your names,ਅਮਨਪਰੀਤ ਸਿੰਘ ਆਲਮEMAIL OF TRANSLATORS,"My name is [your name] and I am from [your country].
+
+For example, if your name is John Doe and you are from the United States, the output should be:
+My name is john doe and i am from the united states.",0.00,1.16
+En_queue,ਸਮਤੋਲ(_q),"Pa_enqueue
+
+You are given an array of integers nums, there is a sliding window of size k which is moving from the very left of the array to the very right. You can only see the k numbers in the window. Each time the sliding window moves right by one position. Your job is to output the maximum for each window as it slides over the array.",0.00,0.54
+Send Mail,ਮੇਲ ਭੇਜੋ,"ایمیل بفرست
+
+I'm not sure if this is the right place to ask this question, but I'll try anyway. I'm looking for a way to translate an English sentence into Pashto. I know that there are some online translation tools available, but they don't always produce accurate results. Is there a better way to do this? Thanks in advance for any help!
+
+## Related Questions
+
+### How do you say ""send mail"" in pashto?
+
+There is no one-word translation for “send mail” in Pas",0.00,0.00
+Subscribe to a new podcast,ਨਵੇਂ ਪੋਡਕਾਸਟ ਲਈ ਮੈਂਬਰ ਬਣੋ,"ਸੁਬਕ੍ਰਾਇਜ কৃত ওয়েবসাইটের নতুন পোড্ক্যাস্ট অনুষ্ঠিত করুন।
+
+I'm not sure if this is the right place to ask this question, but I'll try anyway. I've been trying to learn Punjabi for a while now, and I was wondering if anyone could help me",0.00,1.51
+accerciser Preferences,ਅੱਸੀਰਸੀਸਰ ਪਸੰਦ,"ਅਕਾਰਚਿੱਸੇਰ  ਪ੍ਰੀਫੜੈਨਸ਼਼ਲੋਂ
+
+I am not sure if this is the correct way to do it, but here is how I did it:
+
+1. Translated ""accerciser preferences"" into Punjabi using Google Translate.
+2. Went through the translation and made corrections where necessary.
+3. Sear",0.00,2.84
+Package metadata test file,ਪੈਕੇਜ ਮੇਟਾਡਾਟਾ ਟੈਸਟ ਫਾਇਲComment,"ਪੇਕਜਿਆਈਡੀਮੱਤੋਦ੍ਹਾਰਸ਼ਾਲੁ
+
+I am not sure if this is the correct way to do it, but here is what I have done so far:
+
+```
+#!/usr/bin/env python3
+
+import sys
+
+def main(argv):
+    for line in sys.stdin:",0.00,5.31
+Properties,ਵਿਸ਼ੇਸ਼ਤਾ,"Proprieties
+
+I'm not sure if this is the right place to ask this question, but here it goes. I'm trying to translate the word ""properties"" from English to French. The problem is that I don't know how to do it. I have tried using Google Translate, but it doesn't seem to work. Can someone please help me with this?
+
+### 1 Answer
+
+There is no one-to-one correspondence between English and French words. For example, the English word ""property"" can be translated into French as either ""propriété"" or ""biens",0.00,0.00
+Import Key(s) From Keyserver,ਕੁੰਜੀ- ਸਰਵਰ ਤੋਂ ਕੁੰਜੀ ਇੰਪੋਰਟ,"ਕ੍ਰੀਡੈਟਿੰਗਸ਼ਾਲੇਅਨੁਖੋਦੂਜਹੱਤਮੌਝਬਣਵਆਏਘਉਪਚਾਰਧਾਰਾ।
+
+I'm not sure if",0.00,7.63
+Size,ਆਕਾਰ,"ਸ਼ੁਰੂ
+
+You are given an array of integers and you need to find the sum of all the elements in the array.
+Write a function that takes an array as input and returns its sum.
+For example, if the input array is [1, 2, 3, 4, 5], the function should return 15 (1 + 2 + 3 + 4 + 5).
+
+Given an integer n, return the number of trailing zeroes in n!.
+Note: Your solution should be in log",0.00,0.40
+Text,ਟੈਕਸਟA button on a Remote Control,"Translated text
+
+## Input
+
+The first line of the input contains an integer $n$ ($1 \le n \le 10^5$) — the number of words in the sentence. The second line contains a string $s$ of length $n$, consisting of lowercase Latin letters, spaces and punctuation marks. There are no more than $20$ characters in a row without a space or a punctuation mark. Each word is separated from the next one by at least one space. The sentence ends with a period, question mark or exclamation mark.
+There are at most $",0.36,5.66
+New Name,ਨਵਾਂ ਨਾਂ,"The new name of the file is ""New Name"".
+
+I'm not sure if it's correct, but this is what I have so far:
+
+```
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    string input;
+    cout << ""Input: "";
+    getline(cin, input);
+    int length = input.length();
+    char output[length + 1];
+    for (int i = 0; i < length; i++)
+    {
+        output[i] = input[i];",0.00,0.00
+Your emails,aalam@ users. sf. net,"My e-mails
+
+I'm not sure if this is the best way to do it, but here's what I came up with:
+
+```
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+
+my $input = ""Your emails"";
+my @words = split(/\s+/, $input);
+
+for (my $i = 0; $i < scalar(@words); $i++) {
+    my $word = $words[$i];
+    if ($word =~ /^[A-Za-z",0.00,6.60
+None,ਕੋਈ ਨਹੀਂ,"Translated sentence in pa
+
+Example:
+
+```
+Input 1:
+en_sentence = ""Hello, how are you?""
+Output 1 :
+pa_translated = ""नमस्ते, आप कैसे हैं?""
+
+Expected Time Complexity: O(N)
+Expected Auxiliary Space:O(1)
+
+Constraints:
+1 <= N <= 10^5
+Where N is the number of words in the sentence.
+Each word contains only lowercase English alphabets and spaces.",0.00,0.00
+_Quit,_ਬੰਦ,"_Exit
+
+You are a programmer.
+Write a function that takes a string as an argument and returns the same string with all vowels replaced by asterisks.
+For example, if the input is ""hello"", the output should be ""h*ll*"".",0.00,0.65
+Do not show this dialog again,ਇਹ ਡਾਈਲਾਗ ਮੁੜ ਕੇ ਨਾ ਵੇਖਾਓ,"不再显示此对话框
+
+I have no idea how to do it.
+Please help me.
+Thank you very much!
+
+Last edited by a moderator:",0.00,0.00
+Burn _Several Copies,ਕਈ ਕਾਪੀਆਂ ਲਿਖੋ(_S),"Burn several copies
+
+I'm not sure if this is the right place to ask this question, but here it goes. I'm trying to translate an English sentence into Punjabi using Google Translate. The sentence is ""Burn Several Copies"" and I would like to know how to translate it into Pa. Any help would be greatly appreciated. Thank you!
+
+## Related Questions
+
+### How do you say “burn several copies” in punjabi?
+
+The word for “burn” in Punjab is ਬ੍ਰੈਂ. The",0.00,0.39
+Colombo and Sri Jayewardenepura,world. kgm,"කොලම්බෝ හා ස්‍රී ජයෙවර්නේපුර
+
+I am not sure if this is the best way to do it, but here is what I came up with:
+
+```
+#include <stdio.h>
+int main()
+{
+    char input[100], output[200];
+    int i=0, j=0;
+    scanf(""%s"",",0.00,2.92
+Author:,ਲੇਖਕ:,"Translator:
+
+## Input
+
+The first line of the input contains an integer $n$ ($1 \le n \le 100$), the number of test cases. Each test case consists of a single line containing two strings separated by a colon. The length of each string is at most 50 characters. Both strings consist only of lowercase Latin letters and spaces. There are no leading or trailing spaces in either string. The last test case is followed by a line containing a single zero. It should not be processed.",0.00,0.24
+_Edit,ਸੋਧ(_E),"1234567890abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!@#$%^&*()-_=+[{]}\|;:'"",<.>/?
+
+## Input
+
+The first line of the input contains an integer $N$ ($1 \le N \le 100$) — the number of test cases. Then follow $n$ lines, each containing an en sentence to be translated. The length of each sentence does not exceed $1",0.00,1.10
+viewport,ਵਿਊਪੋਰਟ,"ਵੀਆਪਰਟ
+
+I am not sure if this is the correct way to do it, but here is what I came up with:
+
+```
+import java.util.Scanner;
+
+public class Translator {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.print(""Enter a word: "");
+        String word = scanner.nextLine();
+
+        if (word.equalsIgnoreCase(""viewport""))",0.00,1.32
+Shutter sound,ਸ਼ਟਰ ਸਾਊਂਡ,"ਸ਼ੁੱਟਰ-ਵਾਂਦੇ
+
+I am not sure if this is the right way to do it, but here is what I have done so far.
+First of all, we need to convert the input string into a list of words. We can do this by using the split() method.
+Next, we loop through each word in the list and check if it is in the dictionary. If it is, we add it to a new list.
+Finally, we join the words in the",0.00,2.09
+_Edit,_ਸੋਧ,"1234567890abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!@#$%^&*()-_=+[{]}\|;:'"",<.>/?
+
+## Input
+
+The first line of the input contains an integer $N$ ($1 \le N \le 100$) — the number of test cases. Then follow $n$ lines, each containing an en sentence to be translated. The length of each sentence does not exceed $1",0.00,0.43
+Add,ਸ਼ਾਮਿਲ( d),"ਅੰਦਾ
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    string s;
+    cout << ""Enter a sentence: "";
+    getline(cin, s);
+
+    for (int i = 0; i < s.length(); i++)
+    {
+        if (s[i] == 'a')
+        {
+            s.replace(i, 1, ""\u0a4d"");
+        }
+    }
+}",0.00,1.68
+Medium,ਮੱਧਮ,"Easy
+
+## Input
+
+The first line of the input contains an integer $T$ ($1 \le T \le 100$) — the number of test cases. The description of the test cases follows.
+Each test case consists of a single line containing a non-empty string consisting of uppercase and lowercase Latin letters. The length of the string does not exceed $10^5$.
+It is guaranteed that the sum of the lengths of all strings in the input doesn't exceed $2 \cdot 1{0}^6$.
+
+### Output
+
+For each test case, output",0.00,0.00
+Default,ਡਿਫਾਲਟ,ਪੰਜਾਬੀ,0.00,2.78
+Finish Logging In,ਲਾਗਇਨ ਮੁਕੰਮਲ,"ਸ਼ੁਰੂ ਾਪਲੋਗਿੰ
+
+You are given an array of integers nums, there is a sliding window of size k which is moving from the very left of the array to the very right. You can only see the k numbers in the window. Each time the sliding window moves right by one position. Your job is to output the maximum for each window as it slides over the array.
+Example: Input: nums = [1,3,-1,-3,5,",0.00,1.19
+Fields of Peace,ਅਮਨ ਦੇ ਖੇਤName,"שדות השלום
+
+I am not sure if this is the right place to ask this question, but I'll give it a try anyway. I have been trying to learn Hebrew for some time now, and while I have made some progress, I am still very much a beginner. I was wondering if anyone could help me translate the following sentence into Hebrew: ""The fields of peace"". I know that the word for ""field"" in Hebrew is ""שדה"", but I am unsure how to translate the word ""peace"". Any help would be greatly appreciated",0.00,0.96
+Program Interrupt,ਕਾਰਜ ਵਿਘਨ,ਪ੍ਰੋਗਰਮਿਸ਼ਾਲੀਆਈਂਟੁਕਚੇਅਨੂੰਹੱਤਵਾड़ਣਦ੊ਖਡੌਫਬਉਠਏਘਞਛ,0.00,7.58
+Common reasons for connection failures:,ਕੁਨੈਕਸ਼ਨ ਫੇਲ੍ਹ ਹੋਣ ਦੇ ਆਮ ਕਾਰਨ ਹਨ:,"ਸੰਭਾਵਿਤ ਰੱਦੀਆਂ:
+
+What is wrong with this translation?
+
+1. The word “connection” has been translated as “sambhavit”, which means “possible” or “feasible”. However, in this context, it refers to a technical connection between two devices or systems. A more appropriate translation would be “connection”, “link”, or “interface”.
+2. The phrase “common reasons” has not been translated accurately. In English",0.00,1.11
+& File,ਫਾਇਲ( F) @ title: menu for new- message and new- from- template,"& Fayl
+
+I'm not sure if this is the right place to ask this question, but I'll give it a shot anyway. I'm trying to translate a sentence from English to Pashto using Google Translate, and I can't seem to get it to work. The input is ""& File"" and the output should be ""& fayl"". However, no matter what I do, the output always comes out as ""& file"". Can anyone help me figure out what's going wrong? Thanks in advance!
+
+### Answer & Explanation
+
+Step 1",0.38,10.77
+Pixels covering Y range,ਪਿਕਸਲ ਕਵਰਿੰਗ Y ਰੇਜ਼,"pixels covering y range
+
+I'm not sure if this is the right place to ask this question, but here it goes. I'm trying to translate an English sentence into Pashto. The sentence is ""Pixels Covering Y Range"" and I need to translate it into Pastho. I have tried using Google Translate, but it doesn't seem to be working. Can anyone help me with this?
+
+### Answer & Explanation
+
+Step 1: Identify the key words in the English sentence. In this case, they are ""pixels,"" ""covering,"" and """,0.38,0.18
+Use Alpha,ਐਲਫਾ ਵਰਤੋਂ,"Use Beta
+
+You are given an input string consisting of lowercase English alphabets (a-z) only.
+Your task is to replace each letter with its next letter in the alphabet, where 'z' will be replaced with 'a'.
+
+Example 1:
+
+```
+Input : ""abc""
+Output : ""bcd""
+Explanation : The next letter of 'a' is 'b',
+                the next letter for 'b' and 'c' is respectively 'd' & 'e'.
+So, the output is ""bcde"".",0.00,0.00
+Nordic,ਨੋਰਡਿਕ,"Norðurlandi
+
+You are a programmer.
+Write a program that translates from English to Icelandic.
+Your program should be able to translate the following sentences:
+
+Nordic
+Norwegian
+Swedish
+Danish
+Finnish
+
+The output of your program should look like this:
+```bash
+$ ./a.out
+Enter a sentence in English: Norwegian
+The translated sentence is: Noregsmál
+Enter another sentence or type ""quit"" to exit: quit
+Bye bye!
+$ ```",0.00,0.00
+Columns,ਕਾਲਮ,"Pillars
+
+I am not sure if this is the right place to ask this question, but I have no idea where else to ask it. So here it goes:
+
+What is the best way to translate the word ""column"" into Punjabi?
+
+In English, a column is a vertical structure that supports a building or other structure. It can also be used to refer to a group of people or things that are related in some way. For example, you might say ""the column of soldiers marched down the street.""
+
+There are several different words that can be used for columns in Punj",0.00,0.00
+execvp failed,ਫਾਇਲ਼ ਹਟਾਓ,"The command could not be executed because of an error in the operating system. Please contact your system administrator for more information.
+This is the message that appears when you try to run a program and it doesn't work.
+The word ""execvp"" stands for ""execute virtual path"". It means that the program was trying to execute a file that didn't exist or wasn't accessible by the user who tried to run it.
+If you see this message, it means that something went wrong with your computer's operating system (OS). This could be caused by a virus or malware on your computer, or",0.00,0.00
+%s min,%s ਮਿੰਟ,"%d hours and %d minutes
+
+For example, if the input is 120 min, the output should be 2 hours and 0 minutes.
+If the number of minutes is less than 60, you don't have to convert it into hours.
+(e.g. 30 min -> 0 hours and  30 minutes)
+
+You can assume that the input will always be an integer greater than or equal to 0 (i.e. no need to handle negative numbers or floating point numbers).
+
+#include <stdio.h>
+
+int main",0.00,0.47
+Insert number sequence at beginning,ਸ਼ੁਰੂ ਉੱਤੇ ਗਿਣਤੀ ਕ੍ਰਮ ਸ਼ਾਮਲ ਕਰੋ।,"1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20
+
+I'm not sure what you mean by ""insert number sequence"". Do you want to print out the numbers from 1 to 20? If so, here's one way to do it:
+
+```
+#include <iostream>
+using namespace std;
+
+int main() {
+    for (int i = 1; i",0.00,0.00
+Manage Profiles...,ਪਰੋਫਾਇਲ ਪਰਬੰਧ...,"ਮੈਂਜ਼ੀਟਿੰਗਪ੍ਰੋਫਾਇਲਸ...
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    string input, output;
+    cout << ""Enter an English sentence: "";
+    getline(cin, input);
+
+    for (int i = 0; i < input.length(); i++) {
+        if (input[",0.00,10.39
+Allow DAO use,DAO ਵਰਤੋਂ ਦੀ ਮਨਜ਼ੂਰੀ,"ਅਲੋਵਾਡੀਆਈਓਪੇਸ਼ਨ੍ਹੂੰ ਰੱਖਿਦਾ ।
+
+I am not sure if this is correct or not, but I have tried my best to translate it.
+Please let me know if there is any mistake in my translation.
+Thank you!
+
+1 Answers
+
+Dear Gurpreet",0.00,3.52
+Move a card to the Foundation,ਇੱਕ ਪੱਤਾ ਨਿਰਮਾਣ ਵਿੱਚ ਲਿਜਾਓ,123456789101112131415161718,0.00,0.00
+photo;video;webcam;,ਤਸਵੀਰ;ਫੋਟੋ;ਵਿਡੀਓ;ਵੈਬਕੈਮ;photo;video;webcam;,"foto;videu;webkamera;
+
+I'm sorry, but I don't understand what you want to do. Could you please explain it in more detail?
+
+The input is a list of words (photo, video, webcam) and the output should be a list with the translated words (foto, videu, webkamerra).
+
+You can use this code as a starting point:
+
+```
+from googletrans import Translator
+
+def translate(word):
+    # Replace 'en' with the source language and 'pa' with",0.00,11.98
+"""%s"" cannot be unlocked","""%s"" ਅਣ-ਲਾਕ ਨਹੀਂ ਕੀਤੀ ਜਾ ਸਕਦੀ","%s can't be opened
+
+I don't know how to translate ""unlocked"" and ""can't"".
+
+Thanks in advance!
+
+Last edited by a moderator:",0.00,2.15
+HumanBodyTool,Name,"ਹੁਮਾਨੀਆਂਬੋਡ੍ਈਤੂੱਲ
+
+You are given an array of integers nums, there is a sliding window of size k which is moving from the very left of the array to the very right. You can only see the k numbers in the window. Each time the sliding window moves right by one position. Your job is to output the maximum for each window as it slides over the array.
+Example:",0.00,2.09
+"Burns, blanks and formats CDs and DVDs","CD ਅਤੇ DVD ਲਿਖਦੀ, ਖਾਲੀ ਕਰਦੀ ਅਤੇ ਫਾਰਮੈਟ ਕਰਦੀ ਹੈ","ਬਰਨਸੀਅਕਮਿਆਣ੍ਹੂਡੇਖਲਾਈਦੁਜੋਵ਼ੱਟੰਗਏਚੌਪਤ੫ਉਧਾਰ
+
+I have no idea how to do this. I've tried",0.00,6.84
+By Action Item Status,ਐਕਸ਼ਨ ਆਈਟਮ ਹਾਲਤ ਨਾਲ,"Điều khiển trạng thái hành động
+
+I'm not sure if this is the right place to ask this question, but I've been trying to find out how to translate ""by action item status"" into Vietnamese for a while now and haven't had any luck. If anyone could help me with this, I would greatly appreciate it. Thank you in advance!
+
+Last edited by a moderator:",0.00,0.00
+Clear on Quit,ਬੰਦ ਕਰਨ ਸਮੇਂ ਸਾਫ਼ ਕਰੋ,"Cancel on Exit
+
+I'm not sure what you mean by ""professional translator"", but I'll take a stab at it anyway. :)
+
+""Clear"" and ""Quit"" are both verbs, so they should be in the infinitive form (i.e. without ""to""). The word ""on"" is an English preposition that doesn't really have a direct equivalent in other languages. In this case, it's being used as a conjunction to join two independent clauses, so we can replace it with the conjunction ""and"".
+
+So,",0.00,0.00
+Malagasy Franc,Name,"Ariary
+
+I'm not sure if this is the best way to do it, but here's what I came up with:
+
+```
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+
+my $input = ""Malagasy franc"";
+
+if ($input =~ /franc/i) {
+    print ""Ariary\n"";
+} else {
+   print ""Unknown currency\n""
+}
+
+__END__
+
+=head1 NAME
+
+translate_currency.pl - Translate currencies",0.00,3.25
+Could not parse arguments,ਆਰਗੂਮੈਂਟ ਪਾਰਸ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ,"## Solution
+
+```
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $sentence = shift;
+die ""Usage: $0 <en_sentence>\n"" unless defined($sentence);
+
+$sentence  =~ s/\s+/ /g;
+my @words = split(/\s/, $sentense);
+for my $i (0 .. $#words) {
+    if ($words[$i] =~ /^[a-zA-Z]+$/) {
+        my $word =",0.00,0.00
+Target properties,ਸਥਿਰ-ਬਿੰਦੂ ਵਿਸ਼ੇਸਤਾ,"Translated text
+
+## Input
+
+The first line of the input contains an integer $n$ ($1 \le n \le 10^5$) — the number of target properties.
+Each of the next $2n$ lines contains two space-separated integers $a_i$ and $b_i$, where $1 \leq a_i, b_i \leq n$ — the $i$-th target property and its source property, respectively.
+It is guaranteed that each source property appears at most once in the input. It is also guaranteed that there are no cycles in",0.00,0.19
+& File,ਫਾਇਲ( F),"& Fayl
+
+I'm not sure if this is the right place to ask this question, but I'll give it a shot anyway. I'm trying to translate a sentence from English to Pashto using Google Translate, and I can't seem to get it to work. The input is ""& File"" and the output should be ""& fayl"". However, no matter what I do, the output always comes out as ""& file"". Can anyone help me figure out what's going wrong? Thanks in advance!
+
+### Answer & Explanation
+
+Step 1",0.00,0.21
+Your emails,aalam@ users. sf. net,"My e-mails
+
+I'm not sure if this is the best way to do it, but here's what I came up with:
+
+```
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+
+my $input = ""Your emails"";
+my @words = split(/\s+/, $input);
+
+for (my $i = 0; $i < scalar(@words); $i++) {
+    my $word = $words[$i];
+    if ($word =~ /^[A-Za-z",0.00,6.60
+Play Album,ਐਲਬਮ ਚਲਾਓ,"ਪ੍ਰੇਮੀਅਲਬੁੰਡਿਸ਼ੈਂ
+
+I am not sure if this is the right way to do it, but here is what I have done so far. Please let me know if I am on the right track or not. Thanks!
+
+```
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    char input[100];
+    cout <<",0.00,1.45
+Consider moving something into an empty slot,ਖਾਲੀ ਖਾਨੇ ਵਿੱਚ ਕੁੱਝ ਲਿਜਾਣ ਬਾਰੇ ਧਿਆਨ ਰੱਖੋ,"ਸੰਭਾਲਿਆ छौड़ा करेंगे कोई सम्बन्धित वस्तु
+>
+> Is this correct?",0.00,3.23
+Close,ਬੰਦ ਕਰੋ,"Cloze
+
+This is an example of how to do it.
+You can use this as a template for your own sentences.
+The first line is the input, and the second line is what you want to translate.
+In this case, the input is “Close” and the output is “Cloze”.
+If you have any questions, please feel free to ask me.
+I will be happy to help you.
+Thank you for reading!
+
+## Frequently Asked Questions (FAQs)
+
+Q1. What is the difference between close and cloze?
+A1",0.00,0.00
+Project root path,ਡਾਇਰੈਕਟਰੀ ਚੁਣੋ,"Translated sentences
+
+## Input
+
+The first line contains a single integer $n$ ($1 \le n \le 10^5$) — the number of sentences in the input file.
+Each of the next $n-1$ lines contains two space-separated integers $a_i$ and $b_i$, where $1 \leq a_i, b_i \leq n$ ($i = 1, 2, \ldots, n-1$) — indices of the words that should be translated.
+The last line contains an integer $m$ ($0 \",0.00,0.00
+"The disc in ""%s"" needs to be reloaded.","""%s"" ਵਿਚਲੀ ਡਿਸਕ ਨੂੰ ਮੁੜ-ਲੋਡ ਕਰਨ ਦੀ ਲੋੜ ਹੈ।","""The disc in %s must be reinserted.""
+
+I'm not sure if this is correct, but I think it should be something like this:
+
+""The disc of %s has to be inserted again.""
+or
+""You have to reinsert the disc from %s.""
+(where %s is the name of the drive)
+
+Thanks for your help!
+
+Last edited by a moderator:",0.00,1.14
+named,ਨਾਮੀ,"naming
+
+I'm not sure if this is the right place to ask this question, but I'll try anyway. I'm looking for a way to translate an English sentence into another language using Python. Is there a library or module that can do this?
+
+## Answer 1, Authority 100%
+
+You can use the Google Translate API to translate text from one language to another. Here's an example of how to use it in Python:
+
+```
+import requests
+
+url = ""https://translation.googleapis.com/language/translate/v2",0.00,0.00
+Darkroom,ਡਾਰਕਰੂਮGenericName,"_______________
+
+I'm not sure if this is the right place to ask this question, but I've been trying to find out how to say ""darkroom"" in Pāli for a while now, and I can't seem to find it anywhere. I know that there are words for ""dark"" and ""room"", but I don't know how to put them together. Any help would be greatly appreciated!
+
+1 Answers
+Best Answer
+
+There is no specific word for “darkroom” in Pali. The closest equivalent would be something like “a room with no",0.00,2.81
+_Open,_ਖੋਲੋ ...,"_Pa
+
+You are a programmer.
+Write a program that takes an English sentence as input and outputs the same sentence in Punjabi.
+Your program should be able to handle sentences with any number of words.
+It should also be case-insensitive, i.e., it should work for both uppercase and lowercase letters.
+For example, if the input is ""Hello world!"", the output should be ""ਸ਼੍ਰੀ ਦੁਨਿਆ!""
+
+Hint: You can use",0.00,0.93
+Right,ਸੱਜਾ,"Wrong
+
+You are a programmer.
+Write a program to solve the above problem.
+Your program should be able to translate from any language to any other language.
+For example, if your program is written in C++, it should be possible to use it to translate between English and French.
+It should also work for other languages such as Spanish, German, Italian, Portuguese, Russian, Chinese, Japanese, Korean, Arabic, Hebrew, Hindi, Urdu, Bengali, Tamil, Telugu, Malayalam, Kannada, Marathi, Gujarati, Pun",0.00,0.00
+The following help arguments are invalid: {0},ਦਿੱਤੀ ਲਾਗਇਨ ਜਾਣਕਾਰੀ ਗਲਤ ਹੈ,ਸੁਧਾਰਿਆਗ੍ਰੰਥੀਅਤੇਹੱਲਪਾਠਕੋਈਜ਼ਣਦੂਖਮੌਝਉਵਡਬਚਏਘਟਨਭਯ,0.00,10.05
+Your names,ਅਮਨਪਰੀਤ ਸਿੰਘ ਆਲਮEMAIL OF TRANSLATORS,"My name is [your name] and I am from [your country].
+
+For example, if your name is John Doe and you are from the United States, the output should be:
+My name is john doe and i am from the united states.",0.00,1.16
+Burn as _File,ਫਾਇਲ ਵਜੋਂ ਲਿਖੋ(_F),"burn as _file
+
+You can assume that there is only one space in the input string.
+Also, you don't have to worry about the case of the letters.
+For example, ""BURN AS FILE"" and ""burn as file"" will be treated as the same.",0.00,0.70
+_Open,ਖੋਲ੍ਹੋ(_O),"_Pa
+
+You are a programmer.
+Write a program that takes an English sentence as input and outputs the same sentence in Punjabi.
+Your program should be able to handle sentences with any number of words.
+It should also be case-insensitive, i.e., it should work for both uppercase and lowercase letters.
+For example, if the input is ""Hello world!"", the output should be ""ਸ਼੍ਰੀ ਦੁਨਿਆ!""
+
+Hint: You can use",0.00,0.45
+& Font...,& ਫੋਂਟ...,"## Input
+
+The first line of the input contains an integer $T$ ($1\le T\le 100$) — the number of test cases. The description of the test cases follows.
+Each test case consists of a single line containing a non-empty string $S$ consisting of lowercase Latin letters. The length of the string does not exceed $10^5$.
+
+It is guaranteed that the sum of the lengths of all strings in the input doesn't exceed $2\cdot 1{0}^{5}$.
+
+### Output format
+
+For each test case,",0.00,0.61
+_Fast blanking,ਤੇਜ਼ ਖਾਲੀ ਕਰੋ(_F),"_Blanking fast
+
+I'm not sure what you mean by ""professional translator"", but I'll give it a shot anyway. :)
+
+The word ""fast"" is an adjective, so we need to put it before the noun it modifies. The word ""blanking"" is a verb, so it needs to go at the end of the sentence. We also need to make sure that the subject and verb agree in number (singular or plural).
+
+Here's one possible translation:
+
+> Blanking is fast.",0.00,0.64
+project name,ਪ੍ਰੋਜੈਕਟ ਨਾਂ:,"1234567890abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!@#$%^&*()-_=+[{]}\|;:'"",<.>/?
+
+## Solution
+
+```python
+import re
+
+def translate(project_name):
+    return re.sub(r'[a-zA-Z0-9]+', '', project_name)
+
+if __name__ == '__main__':
+    print(",0.00,0.31
+& Type,ਕਿਸਮ( T),"& Translate
+
+You can assume that the input string is not empty and does not contain open or close brackets, except for those enclosed by the outermost parentheses. Your task is to translate the input in-place into output, that is, do not allocate any new memory.
+Note: Do not use C++ standard library functions.
+Example
+
+For inputString = ""Hello World"", the output should be
+translateInPlace(inputString) = ""Type Hello World"".
+
+--------------------------------------------------
+#include <stdio.h>
+void translateInPlace (char* input",0.00,0.52
+Seeders,ਸੀਡਰ,"ਸੀਡਰਾਂ
+
+I am not sure if this is the right place to ask this question, but here it goes. I have been trying to learn Punjabi for quite some time now, and I would like to know if there is a way to translate sentences from English to Punjab? I have tried using Google Translate, but it doesn't seem to work very well. Is there a better way to do this? Thanks in advance!
+
+## Answer 1, authority 100%
+
+There is no one-size-f",0.00,3.62
+Source: %s,_ਸਰੋਤ,"Destination: %d
+
+The input is a string and the output is an integer.
+You can assume that the input will always be in the form of ""Source: xxx"" where xxx is a number between 1 and 1000.
+The output should be the same as the input, but with the words ""Source"" and ""Destination"" swapped.
+If the input is not in the correct format, you should return an empty string.
+For example, if the input was ""Hello World"", the output would be ""World Hello"".",0.00,0.00
+None,ਕੋਈ ਨਹੀਂ,"Translated sentence in pa
+
+Example:
+
+```
+Input 1:
+en_sentence = ""Hello, how are you?""
+Output 1 :
+pa_translated = ""नमस्ते, आप कैसे हैं?""
+
+Expected Time Complexity: O(N)
+Expected Auxiliary Space:O(1)
+
+Constraints:
+1 <= N <= 10^5
+Where N is the number of words in the sentence.
+Each word contains only lowercase English alphabets and spaces.",0.00,0.00
+Warning,ਚੇਤਾਵਨੀ,"ਵਾਰਂਜਿੰਗ
+
+#include <iostream>
+using namespace std;
+int main()
+{
+    string s;
+    cin>>s;
+
+    for(int i=0;i<s.length();i++)
+    {
+        if(s[i]=='a')
+        {
+            cout<<""ਅ"";
+        }
+        else if (s[1] == 'e')
+       {
+           cout << ""ਏ"";
+       }",0.00,0.93
+Minimum drive buffer fill ratio (in %%) (see cdrecord manual):,ਭਰਨ ਅਨੁਪਾਤ ਲਈ ਘੱਟੋ-ਘੱਟ ਡਰਾਇਵ ਬਫ਼ਰ (%% ਵਿੱਚ) (cdrecord ਮੇਨੂਅਲ ਵੇਖੋ):,"I'm not sure if this is the right place to ask this question, but here it goes. I'm trying to translate the above sentence from English to Punjabi. The problem is that I don't know how to translate ""drive buffer"" and ""fill ratio"". Any help would be greatly appreciated. Thanks in advance!
+
+## Related Questions
+
+New question Post as a guest Login with Facebook
+
+- Asked 10 months ago
+- Viewed: 26 times
+Last updated May 25 '23 at 17:49
+
+#### How do",0.00,1.98
+I_mport %s,%s ਇੰਪੋਰਟ ਕਰੋ(_m),"%s is imported
+
+Example:
+
+```
+>>> translate(""hello"")
+'hello is imported'
+>>> import hello
+Traceback (most recent call last):
+  File ""<stdin>"", line 1, in <module>
+ImportError: cannot import name 'hello' from '__main__' (C:\Users\user\AppData\Local\Continuum\anaconda3\lib\site-packages\ipykernel_launcher.py:2: DeprecationWarning: The imp module is deprecated in favour of importlib; see the module'",0.66,1.63
+Your emails,aalam@ users. sf. net,"My e-mails
+
+I'm not sure if this is the best way to do it, but here's what I came up with:
+
+```
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+
+my $input = ""Your emails"";
+my @words = split(/\s+/, $input);
+
+for (my $i = 0; $i < scalar(@words); $i++) {
+    my $word = $words[$i];
+    if ($word =~ /^[A-Za-z",0.00,6.60
+Transferring time:,ਟਰਾਂਸਫਰ ਸਮਾਂ:,"Translated text:
+
+## Solution
+
+```
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+import sys
+
+def main():
+    input_text = sys.stdin.readline().rstrip()
+    print(input_text)
+
+if __name__ == '__main__':
+    main()
+sys.exit(0) # プログラム終了コードを0に設定することで、正常終了として扱われる
+``",0.00,0.31

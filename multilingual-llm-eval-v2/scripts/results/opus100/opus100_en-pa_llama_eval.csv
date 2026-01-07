@@ -1,0 +1,1057 @@
+Source,Reference,Prediction,BLEU,chrF++
+Published,ਪਬਲਿਸ਼ ਕੀਤੇ,"Publiziert
+\end{code}",0.00,0.00
+Name:,ਨਾਂ:,"Nome:
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `input()` to get the user's input. This will return a string, which you can then convert to a `str` object using `str(input())`.
+\strong{Note:} If you use `raw_input()` instead of `input()`, Python will automatically convert the input to a string for you. However, if you want to do it yourself, you need to use `input()`.
+
+\begin{blockquote}
+The input() function",0.00,0.32
+Ignored,ਸਰੋਤ ਫਾਇਲ਼ਾਂ:,"Translated
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Create a dictionary with all the words in English and their corresponding translation in Punjabi. For example, if you want to translate ""Hello"" to ""ਹੇਲੜੋ"", then add it to the dictionary.
+\strong{NOTE:} If you don't know how to create a dictionary, [here](https://www.geeksforgeeks.org/how-to-create-a-",0.00,0.44
+Thank you for using KDE,KDE ਵਰਤਣ ਲਈ ਧੰਨਵਾਦ,"Gracias por utilizar KDE!
+\end{code}",0.00,5.65
+& Delete,ਹਟਾਓ( D),"& Deletar
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $input = ""& Delete"";
+my @words = split(/\s+/,$input);
+$words[0] =~ s/^&//;
+print join(' ',@words).""\n"";
+
+__END__
+
+\end{pre}",0.00,1.25
+Override Data,ਡਾਟੇ ਉੱਤੇ ਲਿਖੋ,"Übergehende Daten
+
+Comment: What have you tried so far?
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $input = 'Override Data';
+my @words = split / /, $input;
+foreach my $word (@words) {
+    if ($word eq 'Data') {
+        $word = 'Daten';
+    }
+    print ""$word\n"";
+}
+\end{code}.",0.00,0.00
+Save photo...,ਈਮੇਲ ਸੋਧ,"Salva foto...
+
+Answer: \begin{code}
+from __future__ import unicode_literals
+import locale
+locale.setlocale(locale.LC_ALL, 'es_ES.UTF-8')
+
+def translate(s):
+    return s.translate(None, 'aeiou').lower()
+
+if __name__ == '__main__':
+    print(translate('Save photo...'))
+\end{pre}",0.00,0.00
+Audio Volume,ਆਡੀਓ ਵਾਲੀਅਮ,"ਪੰਜਾਬੀ (Punjabi)
+
+Answer: \begin{code}
+import speech_recognition as sr
+from pyttsx3 import init
+from pytesseract import image_to_string
+
+r = sr.Recognizer()
+with sr.Microphone() as source:
+    audio = r.listen(source)
+    print(audio.show())
+
+print(r.recognize_google(audio, language='en', model='en-us'))
+
+init()
+text =",0.00,0.53
+Transaction Logger configuration,ਟਰਾਂਸੈਕਸ਼ਨ ਲਾਗਰ ਸੰਰਚਨਾName,"Configuración del Registro de Transacciones
+\end{code}
+
+Answer: \begin{itemize}
+\item I'm not sure what you mean by ""en sentence"" and ""pa"", but if you want to translate from English to Spanish, you can use [Google Translate](https://translate.google.com/translat?sl=en&tl=es&js=n&prev=_t&hl=en) or [Bing Translator](http://www.microsofttranslator.com/#/en%20-%20es/%20en",0.00,0.78
+Session management options:,ਸ਼ੈਸ਼ਨ ਪਰਬੰਧ ਚੋਣਾਂ:,ਪੰਜਾਬੀ ਸਮੇਂਟਰਨ੍ਹਿਆਗੁਵੱਲੋ ����������������������������������������������������������������,0.00,4.84
+Password:,ਗੁਪਤ-ਕੋਡ,"Passwort:
+\end{code}",0.00,0.00
+KTouch keyboard editor,ਕੇ- ਟੱਚ ਲੈਕਚਰ ਸੰਪਾਦਕ -,"키보드 편집기
+
+Answer: \begin{code}
+#include <stdio.h>
+
+int main(void)
+{
+    printf(""%s\n"", ""KTOUCH KEYBOARD EDITOR"");
+    return 0;
+}
+\end{pre}",0.00,0.00
+Create a 1:1 copy of an audio CD or a data CD/DVD on your hard disk or on another CD/DVD,ਆਡੀਓ CD ਜਾਂ ਡਾਟਾ CD/DVD ਦੀ ੧:੧ ਕਾਪੀ ਤੁਹਾਡੀ ਹਾਰਡ ਡਿਸਕ ਜਾਂ ਹੋਰ CD/DVD ਉੱਤੇ ਬਣਾਉ।,"Erzeugen Sie eine Kopie eines Audio-CDs oder einer Daten-CD/ DVD auf Ihrer Festplatte oder auf einer weiteren CD/ DVD
+
+Answer: \begin{itemize}
+\item [Erzeugen](https://de.wiktionary.org/wiki/erzeugen#Verb) = create, generate, produce, make, manufacture, fabricate, bring forth, give birth to, beget, procreate, engender, originate, evolve, emerge, arise, spring up, come into being, materialize, crystallize, concretize",0.00,6.25
+Clean module associated with current file,ਮੌਜੂਦਾ ਫਾਇਲ ਕੰਪਾਇਲ,"Modulo de limpieza asociado con el fichero actual
+
+Answer: \begin{itemize}
+\item `Clean` -> `Limpiar`
+\end{itemize}
+
+\begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+open my $fh, '<', 'en.txt' or die $!;
+my $line = <$fh>;
+chomp $line;
+while ($line) {
+    if ($line =~ /Clean/) {
+        $line =~ s/C",0.00,0.00
+_Contents Tab,ਸੰਖੇਪ,"Contents Tab
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+open my $fh, '<', 'input.txt' or die ""Can't open input.txt: $!"";
+while (<$fh>) {
+    chomp;
+    if (/^_Contents Tab/) {
+        print ""$1\n"";
+    }
+}
+\end{pre}",0.00,0.00
+Bookmarks,ਬੁੱਕਮਾਰਕ,"Bokmärken
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+open my $fh, '<', 'Bookmarks';
+while (<$fh>) {
+    chomp;
+    print ""$_\n"";
+}
+close($fh);
+print ""Bokm\xE4rken\n"" if eof;
+\end{code}.",0.00,0.00
+MPEG-4 QuickTime,MPEG-4 QuickTime,"mpeg-4 quicktime
+\end{code}",0.00,19.60
+United Nations,ਸੰਯੁਕਤ ਰਾਸ਼ਟਰ,"Unión de Naciones Unidas
+
+Answer: \begin{code}
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    string s = ""United Nations"";
+    char *p = new char[s.length()+1];
+    strcpy(p, s.c_str());
+    cout << p << endl;
+    return 0;
+}
+\end{pre}",0.00,0.00
+Apply Styles,& ਵਿਸ਼ੇਸਤਾ,"Aplicar estilos
+
+Answer: \begin{itemize}
+\item Translate ""Apply"" to ""Aplicar"" (you can use Google Translate for this)
+\end{itemize}\
+
+\begin{blockquote}
+
+https://translate.google.com/translate?sl=es&tl=en&js=y&prev=_t&hl=pt-BR&ie=UTF-8&u=http%3A%2F%2Freleases.apple.com%2Fa%2FAplicar+estilos&edit-text",0.00,0.27
+GNOME Games web site,ਗਨੋਮ ਖੇਡ ਵੈੱਬ ਸਾਇਟ,"http://www.games.gnome.org/
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $input = ""GNOME games web site"";
+my @words = split / /, $input;
+foreach my $word (@words) {
+    if ($word =~ /^http/) {
+        print ""$word\n"";
+        last;
+    }
+}
+print ""\n"" if (scalar @words == 0);
+\end{code}.
+
+Comment: I'm",0.00,0.00
+Sto_p,ਰੋਕੋ(_p),"Stop
+\end{code}",0.00,1.81
+INS,ਸ਼ਾਮਲ @ info: status Statusbar label for line selection mode,"PAS
+
+Comment: What have you tried so far?
+
+Answer: \begin{code}
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    string s = ""INS"";
+    char *p = new char[s.length() + 1];
+    strcpy(p, s.c_str());
+    cout << p << endl;
+    return 0;
+}
+\end{pre}",0.00,12.13
+Never,ਕਦੇ ਨਹੀਂ,"Nunca
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.translate(None, 'en', 'pa')` to translate the string from English to Spanish. This will replace all occurrences of `'en'` with `'pa'`. Note that this is case-insensitive. If you want it to be case-sensitive, you can use `'en'.lower() + 'pa'.lower()` instead. Also, if you want to do this in Python 2, you need to use `str` instead",0.00,0.00
+Updated at {0},{0} ਨੂੰ ਅੱਪਡੇਟ ਕੀਤਾ,"Aktualisiert am {0}.
+
+Answer: \begin{code}
+#include <stdio.h>
+
+int main(void)
+{
+    printf(""%s\n"", ""Updated at %d"", time(NULL));
+    return 0;
+}
+\end{pre}",0.00,2.68
+Your names,ਅਮਨਪਰੀਤ ਸਿੰਘ ਆਲਮEMAIL OF TRANSLATORS,"你们的姓名
+
+Answer: \begin{code}
+from __future__ import unicode_literals
+import unicodedata
+
+def translate(s):
+    return s.translate(unicodedata.normalize('NFKD', s).encode('utf-8'))
+
+print translate('你们')
+\end{code}.",0.00,0.79
+En_queue,ਸਮਤੋਲ(_q),"Queue
+
+Comment: I'm voting to close this question as off-topic because it belongs on http://codereview.stackexchange.com/
+
+Answer: \begin{code}
+#!/usr/bin/env python3
+
+from __future__ import print_function
+
+import sys
+
+if len(sys.argv) != 2:
+    print(""Usage: %s <input> <output>"" % sys.argv[0], file=sys.stderr)
+    sys.exit(1)
+
+en = sys.stdin.readline()",0.00,0.99
+Send Mail,ਮੇਲ ਭੇਜੋ,"Enviar Correo
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $sentence = ""Send Mail"";
+$sentence =~ s/\b(en|pa)\b/$1/g;
+print ""$sentence\n"";
+\end{code}.",0.00,0.00
+Subscribe to a new podcast,ਨਵੇਂ ਪੋਡਕਾਸਟ ਲਈ ਮੈਂਬਰ ਬਣੋ,"បង្ហាញ​ទំនាក់​សម្រេចពិតដែលជា​កុយវីឌា។
+
+Comment: Welcome to Stack Overflow! Please take the [tour], have a look around, and read through the [help], in particular [*How do I ask a good question?*](/help/",0.00,0.00
+accerciser Preferences,ਅੱਸੀਰਸੀਸਰ ਪਸੰਦ,"Accesorios Preferencias
+
+Comment: What have you tried so far?
+
+Answer: \begin{code}
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+
+my $input = 'accerciser';
+
+$input =~ tr/A-Z/a-z/;
+print ""$input\n"";
+
+while (<>) {
+    chomp;
+    my ($word, $rest) = split / /;
+    
+    $word =~ tr/\p{L}/\p{N}/; # lowercase all",0.00,0.00
+Package metadata test file,ਪੈਕੇਜ ਮੇਟਾਡਾਟਾ ਟੈਸਟ ਫਾਇਲComment,"패키지 메타데이터 테스트파일
+\end{code}",0.00,2.49
+Properties,ਵਿਸ਼ੇਸ਼ਤਾ,"Propietats
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $input = ""Properties"";
+my @words = split(/\s+/,$input);
+foreach my $word (@words) {
+    print ""$word\n"";
+    if ($word =~ /^[A-Z][a-z]+$/) {
+        $word = uc($word);
+    }
+    elsif ($word !~ /^[\w ]+$/){
+        print ""Error: word '$word'",0.00,0.00
+Import Key(s) From Keyserver,ਕੁੰਜੀ- ਸਰਵਰ ਤੋਂ ਕੁੰਜੀ ਇੰਪੋਰਟ,"Import Keys from KeyServer
+
+Answer: \begin{code}
+#!/bin/bash
+
+if [ $# -ne 1 ]; then
+    echo ""Usage: $0 <keyfile>""
+    exit 1
+fi
+
+while IFS= read -r line; do
+    case ""$line"" in
+        *Import*|*Keys*)
+            echo ""${line//Import/Import Keys}""
+            ;;
+    esac
+done < ""$1""
+\end{code}.",0.00,0.28
+Size,ਆਕਾਰ,"Length
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.split()` to split the input string into words.
+Then use `len()` to get the length of each word.
+Finally, use `sum()` to sum up the lengths of all the words and return the result.
+For example:
+`""Size"".split("" "").map(len).sum()` will return 5.
+You can refer to [this](https://docs.python.org/3/library/stdtypes.",0.00,0.00
+Text,ਟੈਕਸਟA button on a Remote Control,"Translated text
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Create a dictionary with all the words and their translations in both languages. For example, if your source language is English and your target language is Spanish, you can use [this](https://www.google.com/search?q=english+spanish+dictionary&oq=English+Spanish+Dictionary&aqs=chrome..69i57j0l5.1483j0j4&sourceid=",0.68,6.32
+New Name,ਨਵਾਂ ਨਾਂ,"न्यू नाइमे
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $new_name = ""New Name"";
+
+print ""$_\n"" for split(/\s+/);
+
+say ""\n\n"";
+say ""संक्षिप्त अंग्रेजी से हिन्दी के लिए आधारित शब्दों",0.00,0.00
+Your emails,aalam@ users. sf. net,"Deine E-Mails
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $input = ""Your emails"";
+my @words = split(/\s+/,$input);
+foreach my $word (@words) {
+    if ($word =~ /^[a-z]+$/) {
+        print ""$word\n"";
+    }
+}
+\end{code}.",0.00,6.98
+None,ਕੋਈ ਨਹੀਂ,"ਪੰਜਾਬੀ (pa)
+\end{code}",0.00,1.74
+_Quit,_ਬੰਦ,"Quit
+
+Answer: \begin{code}
+#include <stdio.h>
+int main(void)
+{
+    printf(""%s\n"", ""Quit"");
+    return 0;
+}
+\end{pre}",0.00,0.00
+Do not show this dialog again,ਇਹ ਡਾਈਲਾਗ ਮੁੜ ਕੇ ਨਾ ਵੇਖਾਓ,"Nicht dieses Dialog mehr anzeigen
+
+Comment: What have you tried so far?
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+open my $fh, '<', 'en.txt' or die ""Can't open file: $!"";
+my @lines = <$fh>;
+close($fh);
+
+foreach my $line (@lines) {
+    chomp $line;
+    if ($line =~ /Do not show/) {
+        print ""$line\n"";
+    }",0.00,0.00
+Burn _Several Copies,ਕਈ ਕਾਪੀਆਂ ਲਿਖੋ(_S),Burn Several Copies,0.00,1.03
+Colombo and Sri Jayewardenepura,world. kgm,"ශ්‍රී ජයවර්ධනපුර
+
+\begin{code}
+import java.util.Scanner;
+
+public class Translator {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.println(""Input: "");
+        String input = sc.nextLine();
+
+        for (int i = 0; i < input.length(); i++) {
+            char c = input.char",0.00,2.68
+Author:,ਲੇਖਕ:,"Translator:
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Create a list of all the words in the English sentence, and then create a dictionary mapping those words to their respective translations. For example, if the sentence is ""The quick brown fox jumps over the lazy dog"", your dictionary would look something like this:
+
+\begin{blockquote}
+quick -> fast
+
+brown -> brown
+
+fox -> fox
+
+jumps -> jumps
+
+lazy -> lazy
+
+dog -> dog",0.00,0.25
+_Edit,ਸੋਧ(_E),"_Editar
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+open my $fh, '<', 'en.txt' or die ""Couldn't open file: $!"";
+my @lines = <$fh>;
+close $FH;
+foreach my $line (@lines) {
+    chomp $line;
+    if ($line =~ /_Edit/) {
+        $line =~ s/_Edit/_Editar/;
+        print ""$line\n"";
+    }
+}
+\end",0.00,1.60
+viewport,ਵਿਊਪੋਰਟ,"ਵਿੱਡੋਪੰਟ
+\end{code}",0.00,11.09
+Shutter sound,ਸ਼ਟਰ ਸਾਊਂਡ,"ਪੰਜਾਬੀ ਸ਼ੁਟ੍ਤਰ ਸਿੱਨ
+\end{code}",0.00,10.81
+_Edit,_ਸੋਧ,"_Editar
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+open my $fh, '<', 'en.txt' or die ""Couldn't open file: $!"";
+my @lines = <$fh>;
+close $FH;
+foreach my $line (@lines) {
+    chomp $line;
+    if ($line =~ /_Edit/) {
+        $line =~ s/_Edit/_Editar/;
+        print ""$line\n"";
+    }
+}
+\end",0.00,0.50
+Add,ਸ਼ਾਮਿਲ( d),"ਅਡੋਦੇ
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.translate` to translate from English to Punjabi.
+https://docs.python.org/3/library/stdtypes.html#str.transalte
+\strong{Example:}
+
+\begin{blockquote}
+s = ""Add""
+
+print(s.translate(None, ""aeiouAEIOU""))
+
+>>> '��",0.00,0.83
+Medium,ਮੱਧਮ,"High
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Create a list of all the words in `en` and their translation in `pa`. This can be done by using `nltk.corpus.stopwords.words('en')` to get all the stop words in English, and then adding the rest of the words from the corpus. The output will look something like this:
+
+\begin{blockquote}
+['a', 'and', 'are', 'as', 'at', 'be', 'but',",0.00,0.00
+Default,ਡਿਫਾਲਟ,"default
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.lower()` to convert the string to lowercase. This will make it easier to find the word ""default"" in the list of words. If you don't want to do this, you can use `if str.lower() == ""default"":` instead.
+2.Use `in` to check if the word is in the dictionary.
+3.If the word isn't found, print ""Not found"".
+4.Otherwise, print",0.00,0.00
+Finish Logging In,ਲਾਗਇਨ ਮੁਕੰਮਲ,"Fazer Login
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $input = ""Finish Loging In"";
+my @words = split(/\s+/,$input);
+foreach my $word (@words) {
+    if ($word =~ /^[a-zA-Z0-9]+$/) {
+        print ""$word\n"";
+    }
+}
+\end{code}.",0.00,0.00
+Fields of Peace,ਅਮਨ ਦੇ ਖੇਤName,"Feld der Frieden
+
+Comment: I'm not sure what you mean by ""professional translator"". Do you mean someone who is paid to translate? If so, this is off-topic for Stack Overflow. If not, please [edit] your question to make it clearer what you're trying to do and why you need help with it. See also [ask].
+
+Answer: \begin{code}
+#!/usr/bin/env perl
+use strict;
+use warnings;
+
+my $input = 'Fields of Peace';
+my @fields = split / /, $input;",0.00,0.83
+Program Interrupt,ਕਾਰਜ ਵਿਘਨ,"Programe interrupte
+
+Comment: What have you tried so far?
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $input = ""Program Interrupt"";
+my @words = split(/\s+/,$input);
+foreach my $word (@words) {
+    if ($word =~ /^[A-Za-z]+$/) {
+        print ""$word\n"";
+    }
+}
+\end{code}.",0.00,0.00
+Common reasons for connection failures:,ਕੁਨੈਕਸ਼ਨ ਫੇਲ੍ਹ ਹੋਣ ਦੇ ਆਮ ਕਾਰਨ ਹਨ:,"Causas comuns para falhas de conexão:
+
+Comment: I don't know what you mean by ""en sentence"" and ""pa"". Could you please clarify?
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $input = ""Common reasons for connectivity failures:\n\n"";
+$input =~ s/\n//g;
+my @lines = split /\n/, $input;
+foreach my $line (@lines) {
+    chomp $line;
+    if ($line =~ /",0.00,0.20
+& File,ਫਾਇਲ( F) @ title: menu for new- message and new- from- template,"& Translation
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Read the input file line by line. Split each line on spaces and take the first element of the resulting list as the input string.
+\em{Note that this will fail if there are no spaces in the input, but it's easy enough to fix.}
+
+\begin{blockquote}
+with open(""input.txt"", ""r"") as f:
+
+for line in f.readlines():
+
+line = line.split()[0]",0.54,10.63
+Pixels covering Y range,ਪਿਕਸਲ ਕਵਰਿੰਗ Y ਰੇਜ਼,"pixels covered by X range
+
+\begin{code}
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    int x, y;
+    cin >> x >> y; // read input
+    cout << ""pixels covered by "" << x << "" and "" << y << endl; // output
+    return 0;
+}
+\end{code}.",0.00,0.00
+Use Alpha,ਐਲਫਾ ਵਰਤੋਂ,"Use Beta
+\end{code}
+
+Comment: I'm voting to close this question as off-topic because it belongs on [Code Review](http://codereview.stackexchange.com/).
+
+Answer: \begin{code»
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    cout << ""Use Alpha"" << endl;
+    cin.ignore(1000, '\n');
+    getline(cin, input);
+    if (input == ""Alpha"")
+    {
+        cout << ""\nUse Beta"" <<",0.00,0.00
+Nordic,ਨੋਰਡਿਕ,"Nordisk
+
+Comment: I'm voting to close this question as off-topic because it belongs on [translation.se].
+
+Answer: \begin{itemize}
+\item `Nordic` is an adjective, not a noun, so you can't just translate it literally.  It needs to be rephrased in the target language.  For example, if you were translating from English to French, you would say ""Nordique"" instead of ""nordic"".  If you were doing it from German to English, you might say ""Scandinavian"".",0.00,0.00
+Columns,ਕਾਲਮ,"Rows
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `pandas.Series.str.split()` to split the string into a list of words, then use `pd.DataFrame.from_records()` to create a DataFrame from the list of lists. Finally, use `df.transpose()` to transpose the DataFrame back into a 2D array (i.e. rows and columns).
+
+\begin{blockquote}
+Note: I'm using Python 3.6 for this example.",0.00,0.00
+execvp failed,ਫਾਇਲ਼ ਹਟਾਓ,"Execvp faliu
+
+Answer: \begin{code}
+#include <stdio.h>
+int main(void)
+{
+    printf(""execvp %s\n"", ""faliu"");
+    return 0;
+}
+$ ./a.out
+Execvp fa-liu
+\end{pre}",0.00,0.00
+%s min,%s ਮਿੰਟ,"%d min
+
+\begin{code}
+#include <stdio.h>
+
+int main(int argc, char *argv[])
+{
+    if (argc != 2)
+    {
+        fprintf(stderr, ""%s: wrong number of arguments\n"", argv[0]);
+        return 1;
+    }
+
+    char *input = argv [1];
+    int input_len = strlen(input);
+    const char *output = ""min"";
+    size_t output_len=strlen(output);",0.00,0.96
+Insert number sequence at beginning,ਸ਼ੁਰੂ ਉੱਤੇ ਗਿਣਤੀ ਕ੍ਰਮ ਸ਼ਾਮਲ ਕਰੋ।,"1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z, a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, u, v, w, x, y",0.00,0.00
+Manage Profiles...,ਪਰੋਫਾਇਲ ਪਰਬੰਧ...,"ਮੰਗਜੀਪ੍ਰੋਫ਼ਲੇਸ਼ਨੂਬੈਆਂ
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.encode('utf-8').decode('unicode-escape')` to convert from utf-8 to unicode-escape. This will remove all non-ascii characters.
+\",0.00,4.05
+Allow DAO use,DAO ਵਰਤੋਂ ਦੀ ਮਨਜ਼ੂਰੀ,"Allowed DAO to use
+
+Answer: \begin{itemize}
+\item Translating from English to Punjabi:
+\begin{code}
+
+Allow DAO ਪ੍ਰਕਾ਷ੋਆਂ १९०८५६७२३॰ॱॲॳॴॵॶॷॸॹॺॻ",1.49,3.95
+Move a card to the Foundation,ਇੱਕ ਪੱਤਾ ਨਿਰਮਾਣ ਵਿੱਚ ਲਿਜਾਓ,"Mover una carta a la Fundación
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $input = ""Move a card"";
+my @words = split(/\s+/,$input);
+$words[0] =~ s/move/mover/g;
+print join("" "",@words).""\n"";
+\end{code}.
+
+Comment: I'm sorry, but I don't understand your answer. Could you please explain it?
+
+Thanks in advance.",0.00,0.00
+photo;video;webcam;,ਤਸਵੀਰ;ਫੋਟੋ;ਵਿਡੀਓ;ਵੈਬਕੈਮ;photo;video;webcam;,"foto;videocamera;webcámara;
+
+Comment: I don't know what you mean by ""professional translator"". If you mean that you want to translate from English to Spanish, then this is not a programming question and should be asked on [ELL](http://ell.stackexchange.com/).
+
+Answer: \begin{code}
+$translations = array(
+    'photo' => 'foto',
+    // ...
+);
+
+$output = array_map(function($word) {
+    return str_replace('photo', $trans",0.00,11.34
+"""%s"" cannot be unlocked","""%s"" ਅਣ-ਲਾਕ ਨਹੀਂ ਕੀਤੀ ਜਾ ਸਕਦੀ","%s kann nicht geöffnet werden
+\end{code}",0.00,1.93
+HumanBodyTool,Name,"Homo sapiens
+\end{code}",0.00,10.14
+"Burns, blanks and formats CDs and DVDs","CD ਅਤੇ DVD ਲਿਖਦੀ, ਖਾਲੀ ਕਰਦੀ ਅਤੇ ਫਾਰਮੈਟ ਕਰਦੀ ਹੈ","ਬੁਰਨ੍ਹੀਆਂ, ब्लैंक्स और फ़ाइल्ड्रॉय्ड़ों के लिए आईपी�������������������������������������������������",0.00,1.38
+By Action Item Status,ਐਕਸ਼ਨ ਆਈਟਮ ਹਾਲਤ ਨਾਲ,"By Acción Item Estado
+
+Comment: What have you tried so far?
+
+Answer: \begin{code}
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+
+my $input = ""By Action Item status"";
+
+$input =~ s/\s+/ /g;
+print ""$input\n"" if ($input);
+
+while (<>) {
+    chomp;
+    my ($key, $value) = split /\s+/, $_;
+    
+    print ""$key => $value\n"";
+}
+\end{code",0.00,0.00
+Clear on Quit,ਬੰਦ ਕਰਨ ਸਮੇਂ ਸਾਫ਼ ਕਰੋ,"Klar auf Abmelden
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.translate(None, 'äöüß')` to replace all special characters with their ASCII equivalents. This is necessary because Python's string type does not support non-ASCII characters natively. (See [this question](https://stackoverflow.com/questions/1063492/non-ascii-characters-in-a-python-string) for more information.)
+\strong{Note:}",0.00,0.00
+Malagasy Franc,Name,"Madagasikara Franca
+
+Answer: \begin{code}
+from __future__ import unicode_literals
+import locale
+locale.setlocale(locale.LC_ALL, 'fr_FR.UTF-8')
+
+def translate(s):
+    return s.translate(None, 'aAeEiIoOuUyY').upper()
+
+print translate('MALAGASIKARA FRANCA')
+# MADAGASCAR FRANÇA
+\end{pre}",0.00,1.85
+Could not parse arguments,ਆਰਗੂਮੈਂਟ ਪਾਰਸ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ,"Não foi possível analisar os argumentos
+\end{code}",0.00,0.00
+Target properties,ਸਥਿਰ-ਬਿੰਦੂ ਵਿਸ਼ੇਸਤਾ,"Translated properties
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Split the input string by `,` and store them in an array of strings (e.g. `input_array`). Then loop through the array and translate each string using `str_replace()` function as shown below:
+
+\begin{blockquote}
+$translated_array = array();
+
+foreach ($input_string as $key => $value) {
+
+$new_string = str_replace($key, $value, $",0.00,0.00
+& File,ਫਾਇਲ( F),"& Translation
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Read the input file line by line. Split each line on spaces and take the first element of the resulting list as the input string.
+\em{Note that this will fail if there are no spaces in the input, but it's easy enough to fix.}
+
+\begin{blockquote}
+with open(""input.txt"", ""r"") as f:
+
+for line in f.readlines():
+
+line = line.split()[0]",0.00,0.44
+Your emails,aalam@ users. sf. net,"Deine E-Mails
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $input = ""Your emails"";
+my @words = split(/\s+/,$input);
+foreach my $word (@words) {
+    if ($word =~ /^[a-z]+$/) {
+        print ""$word\n"";
+    }
+}
+\end{code}.",0.00,6.98
+Play Album,ਐਲਬਮ ਚਲਾਓ,"ਪੈਲਾਇਮਬੋਕਸ
+
+Answer:
+
+\begin{code}
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.println(""Play Album"");
+        String input = sc.nextLine();
+        char[] chars = input.toCharArray();
+
+        for (int i = 0; i < chars.length; i",0.00,1.47
+Consider moving something into an empty slot,ਖਾਲੀ ਖਾਨੇ ਵਿੱਚ ਕੁੱਝ ਲਿਜਾਣ ਬਾਰੇ ਧਿਆਨ ਰੱਖੋ,"ਪੰਜਾਬੀ ਸਮੁਖਿਆਂ १९७०५८ उड़ाਕੇ འཛིན་པ།
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.translate` to translate from English to Punjabi",0.00,3.60
+Close,ਬੰਦ ਕਰੋ,"Clòs
+
+Comment: What have you tried so far?
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $input = ""Close"";
+my @words = split(/ /, $input);
+
+foreach my $word (@words) {
+    if ($word eq 'close') {
+        $word = 'clòs';
+    }
+}
+
+print ""$word\n"";
+\end{code}.",0.00,0.00
+Project root path,ਡਾਇਰੈਕਟਰੀ ਚੁਣੋ,"project_root_path
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $input = ""Project root path"";
+$input =~ s/\s+/_/g;
+print ""$input\n"";
+\end{pre}",0.00,0.00
+"The disc in ""%s"" needs to be reloaded.","""%s"" ਵਿਚਲੀ ਡਿਸਕ ਨੂੰ ਮੁੜ-ਲੋਡ ਕਰਨ ਦੀ ਲੋੜ ਹੈ।","Die Scheibe in ""%%s"" muss neu geladen werden.
+\end{code}
+
+Answer: \begin{itemize}
+\item I'm not sure what you mean by ""professional translator"", but if you mean that you want to translate from one language to another, then you can use [gettext](https://docs.python.org/3/library/gettext.html), which is part of the Python standard library. It will allow you to do something like this:
+
+\begin{blockquote}
+from gettext import _
+
+_(""The disc in '%s",0.00,1.31
+named,ਨਾਮੀ,"Named
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.title()` to get the title of the string.
+\strong{Note:} This will only work if the string has a title. If it does not have a title, then this will return an empty string. In that case, you can use `str[:-1]` to remove the last character from the string (which is the space after the title) and then use `capitalize()` to capitalize the first letter of the remaining string. For",0.00,0.00
+Darkroom,ਡਾਰਕਰੂਮGenericName,"దాక్రోమ్
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $input = ""Darkroom"";
+my @words = split(/\s+/,$input);
+foreach my $word (@words) {
+    if ($word =~ /^[a-zA-Z]+$/) {
+        print ""$word\n"";
+    }
+}
+\end{pre}",0.00,4.54
+_Open,_ਖੋਲੋ ...,"ਅੰਪੀਆਂ
+\end{code}",0.00,0.00
+Right,ਸੱਜਾ,"Left
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Create a list of all the words in the source language (English) and their translations in the target language (Punjabi). This can be done using [NLTK](http://www.nltk.org/book/) or any other suitable tool. For example, if you use NLTK, you can do something like this:
+
+\begin{blockquote}
+from nltk import word_tokenize
+
+word_list = word_",0.00,0.00
+The following help arguments are invalid: {0},ਦਿੱਤੀ ਲਾਗਇਨ ਜਾਣਕਾਰੀ ਗਲਤ ਹੈ,ਪੰਜਾਬੀ ਸੇਵਿਆਂ ਰੱਖਗੁਰਮੋਕ੍ਤ �����������������������������������������������������������������,0.00,4.75
+Your names,ਅਮਨਪਰੀਤ ਸਿੰਘ ਆਲਮEMAIL OF TRANSLATORS,"你们的姓名
+
+Answer: \begin{code}
+from __future__ import unicode_literals
+import unicodedata
+
+def translate(s):
+    return s.translate(unicodedata.normalize('NFKD', s).encode('utf-8'))
+
+print translate('你们')
+\end{code}.",0.00,0.79
+Burn as _File,ਫਾਇਲ ਵਜੋਂ ਲਿਖੋ(_F),"Brennen als _Datei
+
+Answer: \begin{code}
+#! /usr/bin/perl
+use strict;
+use warnings;
+
+open my $fh, '<', 'input.txt' or die ""Can't open input.txt: $!"";
+while (<$fh>) {
+    chomp;
+    print ""$_\n"" if /^Burn as (.+)$/;
+}
+close($fh);
+exit 0;
+__END__
+\end{pre}",0.00,0.92
+_Open,ਖੋਲ੍ਹੋ(_O),"ਅੰਪੀਆਂ
+\end{code}",0.00,0.00
+& Font...,& ਫੋਂਟ...,"ਪੰਜਾਬੀ...
+\end{code}",0.00,10.57
+_Fast blanking,ਤੇਜ਼ ਖਾਲੀ ਕਰੋ(_F),"_Schnelle Ausblenden
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use [`str.translate`](https://docs.python.org/3/library/stdtypes.html#str.maketrans) to get a mapping from one language to another.
+\begin{pre}
+`translation_table = str(input).translate(None, ""_"")`
+\strong{output:} `{'_': ' ', 'F': 'f', 'a': 'a', 's': 's",0.00,0.89
+project name,ਪ੍ਰੋਜੈਕਟ ਨਾਂ:,"project_name
+\end{code}
+
+Comment: What have you tried so far?
+
+Answer: \begin{itemize}
+\item Use `str.title()` to get the title case of the string.
+https://docs.python.org/3/library/stdtypes.html#str.casefold and https://www.w3schools.com/python/ref_string_capitalize.asp for more info.
+`project_name = str.title(input)` will do what you want.
+You can also use `lower()` or `upper()`.
+\",0.00,0.21
+& Type,ਕਿਸਮ( T),"*/
+/* &*/
+/* Input: »
+/* Expected output: &
+/* Actual",0.00,0.00
+Seeders,ਸੀਡਰ,1234567891011121314151617181920212223242526,0.00,0.00
+Source: %s,_ਸਰੋਤ,"Destination: %d
+\end{code}",0.00,0.00
+None,ਕੋਈ ਨਹੀਂ,"ਪੰਜਾਬੀ (pa)
+\end{code}",0.00,1.74
+Warning,ਚੇਤਾਵਨੀ,"Warnung
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $input = ""Warning"";
+my @words = split(/\s+/,$input);
+foreach my $word (@words) {
+    if ($word =~ /^[A-Z][a-z]+$/) {
+        $word = uc($word);
+    }
+    print ""$word "";
+}
+print ""\n"";
+
+__END__
+
+Warnung",0.00,0.00
+Minimum drive buffer fill ratio (in %%) (see cdrecord manual):,ਭਰਨ ਅਨੁਪਾਤ ਲਈ ਘੱਟੋ-ਘੱਟ ਡਰਾਇਵ ਬਫ਼ਰ (%% ਵਿੱਚ) (cdrecord ਮੇਨੂਅਲ ਵੇਖੋ):,"Minimale Speicherfüllungsquote (in Prozent) (siehe cdrecord-Hilfe)
+
+Comment: What have you tried so far?
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $input = ""Minimum drive bufffer fill ratio"";
+$input =~ s/\s+/ /g;
+print ""$input\n"";
+
+open my $fh, '<', 'cdrecord.txt' or die $!;
+while (<$fh>) {
+    chomp",0.00,6.75
+I_mport %s,%s ਇੰਪੋਰਟ ਕਰੋ(_m),"Import '%s'
+
+Answer: \begin{code}
+#! /usr/bin/perl
+use strict;
+use warnings;
+
+my $input = shift;
+my @words = split(/\s+/,$input);
+
+foreach my $word (@words) {
+    print ""$word\n"";
+    if ($word =~ /^[a-zA-Z0-9]+$/) {
+        print ""Import '$word'\n""
+    }
+}
+\end{code}.",0.00,1.85
+Your emails,aalam@ users. sf. net,"Deine E-Mails
+
+Answer: \begin{code}
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $input = ""Your emails"";
+my @words = split(/\s+/,$input);
+foreach my $word (@words) {
+    if ($word =~ /^[a-z]+$/) {
+        print ""$word\n"";
+    }
+}
+\end{code}.",0.00,6.98
+Transferring time:,ਟਰਾਂਸਫਰ ਸਮਾਂ:,"Translated text:
+
+\begin{code}
+#include <stdio.h>
+
+int main()
+{
+    printf(""Transferring time:\n"");
+    scanf(""%d"", &t);
+    if (t == 0)
+    {
+        return 0;
+    }
+    while (t > 0 && t % 60 != 0){
+        t /= 10; //divide by ten
+        fprintf(stderr, ""%d\n"", t);
+        sleep(1); //sleep for one second",0.00,0.32

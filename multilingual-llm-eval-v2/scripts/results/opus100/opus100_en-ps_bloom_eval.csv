@@ -1,0 +1,1594 @@
+Source,Reference,Prediction,BLEU,chrF++
+paper size,paper size,"paper size
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split(/\s+/).map((c,i)=>`${c} ${b}`).join("" "")
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map(c => c + ' ' + b)
+}",1.69,16.09
+Warning,خبرتيا,"WARNING
+
+A:
+
+JavaScript (ES6), 28 bytes
+s=>s.toLowerCase().split(/\s+/).map(t=>t.replace(/\s/g,''))
+
+Try it online!
+Explanation:
+s => s.toLowerCase() splits the string into an array of words. The map function takes each word and replaces all instances of whitespace with an empty string.",0.00,0.00
+translator-credits,Zabeeh Khan <zabeehkhan\@gmail\.com> The Pathanisation Project <pathanisation\@googlegroups\.com>%d hit(s) on this page,"translator credits
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split("" "").map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(/\s+/);
+  b = b.trim();
+  return a.map((c, i) => c + "" "" + b);
+}
+
+The first argument is the input string, and the second is the output string. The split function returns an array of all the words in the input",0.49,15.00
+Suggestions,وړانديزونهCheck Spelling,"A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z
+
+A:
+
+JavaScript (ES6), 50 bytes
+s=>s.split(/\s+/).map(t=>t.toLowerCase().replace(/[^a-z]/g,''))
+
+Try it online!
+
+A:
+
+Python 2, 57 bytes
+lambda s:''.join(x.lower() for x in s.split() if x.isalnum())
+
+Try it",0.00,3.94
+mb,ميليبارهmillibars of mercury,"ms
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split(/\s+/).map((c,i)=>`${b} ${c}`).join("" "")
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.split(
+    /\s+/
+  ).map(
+    (c, i) =>
+      `${ b} ${ c }`
+    ).join(
+      "" ""
+    )
+  );
+
+The idea is to split the input string on whitespace, and then map each element of the resulting array to a new string that concatenates the current",0.51,5.83
+Korean,کورياييName,"English
+
+A:
+
+Python 2.7, 57 bytes
+lambda s:''.join(map(chr,s))
+
+Try it online!
+
+A:
+
+JavaScript (ES6), 56 bytes
+a=>a.split("""").map(c=>c.charCodeAt(0)).join("""")
+
+Explanation:
+Split the input string into an array of characters. Then map each character to its corresponding code point. Join the resulting array back together as a single string.
+
+A:
+
+Pyth, 43 bytes
+n=s.replace(/[^a-zA-Z0-9]/g,"""").split("" "").map((x",0.00,0.85
+Address Book,پته کتاب,"My address book
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split(/\s+/).map((c,i)=>`${b} ${c}`).join("" "")
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.split(
+    /\s+/
+  ).map(
+    (c, i) =>
+      `${ b} ${ c }`
+    )
+  .join( "" ""
+)",0.00,0.00
+file chooser,دوتنه ټاکونکی,"choose file
+
+A:
+
+JavaScript (ES6), 28 bytes
+s=>s.split(/\s+/).map(t=>t.replace(/^\s+|\s+$/g,"""")).join("" "")
+
+Try it online!",0.00,0.00
+Lay_out,هډو_انه,"LAYOUT
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>{for(j=i;j<a.length;j++)if(c==a[j])return j})
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.split(
+    "" ""
+  ).map(
+    (c, i) =>
+      for (j = i; j < a.length; j++) if (c === a[j]) return j
+  )
+console.log(f(""LAYOUT"", """,0.00,0.00
+does not start with,نه پېليږي په,"does not begin with
+
+A:
+
+Python 2.7.6 (default, Oct  6 2015, 11:02:16) 
+[GCC 4.8.2] on linux2
+Type ""help"", ""copyright"", ""warning"" or ""license"" for more information.
+>>> import re
+>>> s = 'does not start'
+>>> m = re.match(r'\b(\w+)\b', s)
+>>> m.group(1)
+'does not'
+Traceback (most recent call last):
+  File ""<stdin>"", line 1, in <module>
+IndexError: string index out of range
+
+The",0.00,0.00
+paper size,paper size,"paper size
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split(/\s+/).map((c,i)=>`${c} ${b}`).join("" "")
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map(c => c + ' ' + b)
+}",1.69,16.09
+<account\-id>,ګڼون,"<account-id>
+
+A:
+
+Python 2.7.6 (default, Nov  6 2015, 11:58:56) 
+[GCC 4.8.2] on linux2
+Type ""help"", ""copyright"", ""warning"" or ""license"" for more information.
+>>> import re
+>>> s = 'Input: account-id'
+>>> m = re.match(r'Input: (\w+)', s)
+>>> m.group(1)
+'account-id'",0.00,0.00
+keyboard label,ړنګولkeyboard label,"mouse label
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation
+f = (a, b) =>
+  a.split(
+    /\s+/
+  ).map((c) =>
+    `
+      ${c}
+      ${b}
+    `
+  )
+)",0.98,8.26
+Select all text,ټوله ليکنه ټاکل,"All selected text
+
+A:
+
+JavaScript (ES6), 28 bytes
+s=>s.split(/\s+/).map(t=>t.replace(/^\s+|\s+$/g,""""))
+
+Try it online!
+
+A:
+
+Python 2, 32 bytes
+lambda s:''.join(filter(lambda x:x.startswith(' '),s))
+
+Explanation:
+The lambda function takes a string as an argument and returns a new string with all the spaces removed from the beginning and end of the string. The filter function is used to remove all the empty strings from the list returned by the lambda function. The ''.join",0.00,0.00
+Use _Default Background,تلواله_شاليد کارول,"Use Default Background
+
+A:
+
+JavaScript (ES6), 28 bytes
+s=>s.split(/\s+/).reduce((a,b)=>a.replace(new RegExp(b,""g""),b),"""")
+
+Try it online!",0.00,0.00
+paper size,paper size,"paper size
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split(/\s+/).map((c,i)=>`${c} ${b}`).join("" "")
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map(c => c + ' ' + b)
+}",1.69,16.09
+Keywords:,:اروييونه,"Ps
+
+A:
+
+JavaScript (ES6), 28 bytes
+s=>s.toLowerCase().split(/\s+/).map(t=>t.replace(/^\s+|\s+$/g,"""")).join("" "")
+
+Try it online!
+Explanation:
+s => s.toLowerCase() splits the string on whitespace and returns an array of all the words in the string. The map function then takes each word and replaces any leading or trailing whitespace with an empty string. Finally, the join function joins the resulting array back together as a single string.",0.00,0.20
+Keywords:,:اروييونه,"Ps
+
+A:
+
+JavaScript (ES6), 28 bytes
+s=>s.toLowerCase().split(/\s+/).map(t=>t.replace(/^\s+|\s+$/g,"""")).join("" "")
+
+Try it online!
+Explanation:
+s => s.toLowerCase() splits the string on whitespace and returns an array of all the words in the string. The map function then takes each word and replaces any leading or trailing whitespace with an empty string. Finally, the join function joins the resulting array back together as a single string.",0.00,0.20
+Zip (.zip),زېپ (.zip),"ZIP (.zip)
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split(""."").map((c,i)=>{for(let d=i;d<b.length;d++)if(c===b[d])return c});f(""zip"",""ZIP"")
+
+Try it online!
+Explanation:
+The idea is to split the input string on ""."" and then iterate over each of the resulting substrings. For each substring, we check if it's equal to the corresponding substring in the output string. If so, we",0.59,5.01
+Add the current launcher to favorites,اوسنی پېلوونکی خواپورو ته زياتول,"Favorite this launcher
+
+A:
+
+Python 2.x
+import sys
+import re
+
+def main():
+    if len(sys.argv) != 2:
+        print >> sys.stderr, ""Usage: %s <filename>"" % sys.argv[0]
+        return 1
+
+    filename = sys.argv[1]
+    with open(filename, 'r') as f:
+        lines = f.readlines()
+
+    for line in lines:
+        match = re.search(r'add\s+(.*)\s+to\s+favorites', line)
+        if match:
+            print ""Favorite %s"" % match.group(1)
+
+if __name__ == '__main__':
+    main()",0.00,0.00
+paper size,paper size,"paper size
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split(/\s+/).map((c,i)=>`${c} ${b}`).join("" "")
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map(c => c + ' ' + b)
+}",1.69,16.09
+Close Window,کړکۍ بندول,"Open Window
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split("" "").map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(/\s+/);
+  b = b.trim();
+  return a.map((c, i) => c + "" "" + b);
+}
+
+The idea is to split the input string on whitespace and then map each element of the array to a new string with the first element followed by the",0.00,0.00
+_View,ليد_,"View
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(""_"").map((c,i)=>`${c}_${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.split(
+    "" ""
+  ).map(
+    (c, i) =>
+      `${c} ${b}`
+  );",0.00,0.79
+Importing '%s',دننول کيږي `%s',"Importing %s
+
+A:
+
+Python 2.7.6 (default, Oct  6 2015, 11:02:16) 
+[GCC 4.8.2] on linux2
+Type ""help"", ""copyright"", ""warning"" or ""license"" for more information.
+>>> import sys
+>>> sys.version_info
+sys.version('2.7', '6.0', 'final')
+>>> import string
+>>> string.ascii_lowercase
+['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'm'",0.00,1.00
+%.1f GB,%.1f ګ ب,"%.2f GB
+
+A:
+
+Python 2, 103 bytes
+lambda x:int(round(float(x)/(1024*1024)))
+
+Try it online!
+Explanation:
+The function takes an input string and converts it to a floating point number. It then divides that number by 1024*1024 and rounds the result to the nearest integer.",0.00,1.68
+_Edit,سمون_,"Edit
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(""_"").map(c=>`${c}_${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.split(
+    "" ""
+  ).map(
+    c =>
+      `${c} ${b}`
+    )
+  )",0.00,0.65
+Table Cell,لښتيال خونه,"Table Cell
+
+A:
+
+JavaScript (ES6), 28 bytes
+Takes input from STDIN and outputs to STDOUT.
+f(){for(let i=1;i<arguments.length;i++)if(arguments[i]==""Table Cell"")return""Table Cell"";}
+
+Try it online!
+Explanation:
+f() {
+  for (let i = 1; i < arguments.length; i++) {
+    if (arguments[i] == ""TableCell"") {
+      return ""Table cell"";
+    }
+  }
+}",0.00,0.00
+Sent,لېږلي,"Ps
+
+A:
+
+JavaScript (ES6), 28 bytes
+s=>s.split(/\s+/).map(t=>t.toLowerCase().replace(/\s/g,''))
+
+Try it online!
+
+A:
+
+Python 2, 32 bytes
+f=lambda s:re.sub('\s+','',s).split(' ')
+print f(""sent"")
+
+Explanation:
+f = lambda s: re.sub(
+    '\s+',
+    '',
+    s.split(
+        ' '
+    ).map(
+        t => t.lower().replace(
+            ' ',
+            ''
+        )
+    )
+)",0.00,0.00
+Room:,کوټه:_,"The room is very small.
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split(/\s+/).map((c,i)=>`${c} ${b[i]}`)
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.split(
+    /\s+/
+  ).map(
+    (c, i) =>
+      `${c} ""${b[i]}""`
+  )
+console.log(f(""room"", ""the room is small""))",0.00,0.36
+paper size,paper size,"paper size
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split(/\s+/).map((c,i)=>`${c} ${b}`).join("" "")
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map(c => c + ' ' + b)
+}",1.69,16.09
+View,ليد,"See
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>{for(j=i;j<b.length;j++)if(c==b[j])return j})
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.split(
+    "" ""
+  ).map(
+    (c, i) =>
+      for (j = i; j < b.length; j++) if (c === b[j]) return j
+  )
+)",0.00,0.00
+December,ډېسمبر,"December
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>{for(j=i;j<a.length;j++)if(c==a[j])return j})
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map(c => {
+    for (i = 0; i < a.length; i++) {
+      if (c === a[i]) {",0.00,0.00
+Load Buddylist...,ملګری فهرست هسکول...,"Buddies list is loaded...
+
+A:
+
+Python 2.7.6 (default, Nov  6 2014, 11:02:56) 
+[GCC 4.8.2] on linux2
+Type ""help"", ""copyright"", ""warning"" or ""license"" for more information.
+>>> import sys
+>>> sys.ps1 = '>>>'
+>>> print >>sys.stderr, 'Hello World!'
+Hello World!
+>>> 
+
+This is what you need to do:
+import sys
+sys.stdout = sys.stderr = open('/dev/null', 'w')
+print ""Hello World!""",0.00,1.32
+List of Custom Headers,دوديزې سريزې,"List of custom headers
+
+A:
+
+Python 2.7.6 (default, Nov  6 2014, 11:02:56) 
+[GCC 4.8.2] on linux2
+Type ""help"", ""copyright"", ""warning"" or ""license"" for more information.
+>>> import sys
+>>> from pprint import pprint as pp
+>>> print(sys.stdin.readline().split())
+['input', 'list', 'of', 'custom', 'fields', 'with', 'name', 'and', 'value', 'headers']
+>>> list(map(lambda x: x.strip(), sys.",0.00,0.00
+Save Image,انځور و ساته,"Save Image
+
+A:
+
+JavaScript (ES6)
+function saveImage(img) {
+  var canvas = document.createElement('canvas');
+  var ctx = canvas.getContext('2d');
+
+  img.onload = function() {
+    ctx.drawImage(this, 0, 0);
+
+    var imageData = ctx.getImageData(0, 0,
+      this.width, this.height).data;
+
+    var data = new Uint8ClampedArray(imageData.length);
+    for (var i = 0; i < imageData.length; i += 4) {
+      data[i] = imageData",0.00,0.00
+Paste tasks from the clipboard,له ټوټه ډړې دندې سرېښل,"Paste results of the tasks in the clipboard
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(/\s+/).map(t=>`${t} ${b}`)
+
+Try it online!
+Explanation
+f = (a, b) => {
+  a = a.trim().split("" "");
+  b = b.trim();
+  return a.map((t) => `${t} ""${b}""`);
+}",0.00,0.00
+Shadow Type,د سيوري ډول,"Shadow Style
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split(/\s+/).map((c,i)=>`${c} ${b}`).join("" "")
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.split(
+    /\s+/
+  ).map(
+    (c, i) =>
+      `
+        ${c}
+        ${b}
+      `
+  ).join(
+  "" ""
+);",0.00,0.00
+Show in folder,په توکپټه کې ښودل_,"In the folder
+
+A:
+
+Python 2.7.9 (default, Nov  6 2014, 11:58:56) 
+[GCC 4.8.2] on linux2
+Type ""help"", ""copyright"", ""warning"" or ""license"" for more information.
+>>> import sys
+>>> sys.path.append('/home/mike/Desktop/translations')
+>>> from pprint import pprint
+>>> pprint(sys.path)
+['', '/usr/local/lib/python2.7/dist-packages', '/usr/lib/python2.7', '/usr/include/python2.7',
+...     '/usr/local/include', '/home/m",0.00,0.00
+_Quit,بندول_Stock label,"Quit
+
+A:
+
+JavaScript (ES6), 28 bytes
+s=>s.split(/\s+/).map(x=>x+' ').join(' ')
+
+Try it online!
+
+A:
+
+Python 2, 32 bytes
+lambda s:''.join([str(i) for i in s.split() if i.isdigit()])
+
+Explanation:
+The idea is to split the string on whitespace, and then iterate over the resulting list of numbers. If the number is a digit, we append it to the result. Otherwise, we add a space to the end of the result.
+If you want",0.00,2.51
+paper size,paper size,"paper size
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split(/\s+/).map((c,i)=>`${c} ${b}`).join("" "")
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map(c => c + ' ' + b)
+}",1.69,16.09
+View,ليد,"See
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>{for(j=i;j<b.length;j++)if(c==b[j])return j})
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.split(
+    "" ""
+  ).map(
+    (c, i) =>
+      for (j = i; j < b.length; j++) if (c === b[j]) return j
+  )
+)",0.00,0.00
+Font,ليکبڼه,"font
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map(c => c + ' ' + b);
+}",0.00,0.00
+Failed to create file '%s': %s,%s :دوتنې جوړولو کې پاتې راغی '%s' د,"Failed to open file '%s' for writing: %s
+
+A:
+
+The problem is that you are trying to write to a file that does not exist. You need to check if the file exists before writing to it, and if it doesn't, create it first.
+Try something like this:
+if (file_exists($file)) {
+    $handle = fopen($file, 'w');
+    fwrite($handle, $string);
+} else {
+    $file = tempnam(sys_get_temp_dir(), 'translator');
+
+    if (!is_writable(dirname($file))) {
+        throw new \RuntimeException(sprintf('Failed to",0.54,2.48
+Size,کچ,"The size of the input is equal to the sum of the sizes of the output and the input.
+
+A:
+
+JavaScript (ES6), 28 bytes
+s=>s.split(/\s+/).reduce((a,b)=>a+parseInt(b,10))
+
+Try it online!",0.00,0.00
+Save the edited search,سمول شوی لټون ساتل,"Save the modified search
+
+A:
+
+JavaScript (ES6), 28 bytes
+s=>s.replace(/\s+/g,"" "").replace(/^\s+|\s+$/g,"""").trim()
+
+Try it online!
+Explanation:
+s/\s+/g  # replace all whitespace with a single space
+s/^\s+|\s+\$/g # remove leading and trailing whitespace
+trim()      # remove empty strings",0.00,0.00
+The Y position of the assistant window.,.ځايونه Y د ارې کړکۍ,"The X and Y positions of the main window.
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map(x=>`${x} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(/\s+/);
+  b = b.trim();
+  return a.map((x, i) => `${x}${b}`);
+}",0.75,0.64
+Arj (.arj),ارج (.arj),"Psi (.psi)
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split(/\s+/).map((c,i)=>{for(var d=i+1;d<a.length;d++)if(c==a[d])return c});f(""Arj"",""Psi"")
+
+Try it online!
+Explanation
+The idea is to split the input on whitespace and then iterate over the resulting array of words. For each word in the array, we check if the current word is equal to the previous word. If so, we return the current",0.00,2.07
+150%,۱۵۰٪,"300%
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>`${c}*${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.split(
+    /\s+/
+  ).map(
+    c =>
+      `${c} * ${b}`
+  )
+)",0.00,0.00
+Dutch keymap,ډچ کيلېنخچه,"Ps keymaps
+
+I have tried to translate it by myself, but I am not sure if my translation is correct. Can you please help me?
+Thanks in advance!
+
+A:
+
+Your translation is almost correct, except for the last part of the sentence (""keymaps""), which should be translated as ""keymaps"".
+The word ""keymap"" is an abbreviation for ""keyboard mapping"" or ""keyboard layout"". It refers to the arrangement of keys on a computer keyboard. In this case, it is used to refer to the combination of keys that can be pressed at the same time.",0.00,0.00
+translator-credits,Zabeeh Khan <zabeehkhan\@gmail\.com> The Pathanisation Project <pathanisation\@googlegroups\.com>,"translator credits
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split("" "").map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(/\s+/);
+  b = b.trim();
+  return a.map((c, i) => c + "" "" + b);
+}
+
+The first argument is the input string, and the second is the output string. The split function returns an array of all the words in the input",0.49,13.98
+Go to %s on file “%s”,ته ورتلل %s دوتنه کې “%s” په,"Go to %s/%s on file ""%s/%s""
+
+A:
+
+Python 2.7.6 (default, Nov  6 2014, 11:02:56) 
+[GCC 4.8.2] on linux2
+Type ""help"", ""copyright"", ""warning"" or ""license"" for more information.
+>>> import sys
+>>> sys.path.insert(0, '/home/mike/Desktop')
+>>> from pprint import pprint
+>>> pprint(sys.path)
+['/home/user1/Desktop', '/home/user2/Desktop']
+>>> import os
+>>> os.getcwd()
+'/home/user1'",0.00,1.22
+Number of seconds until timer stops,د مهالګر تر تمېدو د سېکېنډونو شمېر,"The number of seconds that have passed since the timer started
+
+A:
+
+JavaScript (ES6), 28 bytes
+Takes input from STDIN, prints output to STDOUT.
+n=>`${n} seconds ago`
+
+Try it online!",0.00,0.00
+Main Menu,اره غورنۍ,"Welcome to the main menu
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(/\s+/).map((c,i)=>`Welcome to the ${c} main menu`)
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.split(
+    /\s+/
+  ).map(
+    (c, i) =>
+      'Welcome to the ' + c + ' main menu'
+  )
+)",0.00,0.00
+Close,بندول_,"Open
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map(c => c + ' ' + b);
+}",0.00,0.00
+_Company:,:کمپنۍ_,"Company:
+
+A:
+
+JavaScript (ES6), 28 bytes
+s=>s.replace(/Company:/g,""Company: "")
+
+Try it online!
+
+A:
+
+Python 2, 32 bytes
+lambda s: s.replace(('Company:','Company: '))
+
+Try it here!
+Explanation
+The lambda function takes a string as input and replaces all occurrences of the pattern (('Company:\s*)','\s*Company: )') with the replacement (('',' ')).
+
+A:
+
+Jelly, 6 bytes
+0iU
+
+Try it on ideone.com!
+How it works",0.00,0.23
+_Contents,منځپانګې_,"Contents
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split(""_"").map((c,i)=>`${b}_${c}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split('_');
+  b = b.trim();
+  return a.map((s, i) => `${s}_${b}`);
+}",0.00,0.39
+offline,ناليکه,"online
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.split(
+    /\s+/
+  ).map(
+    c =>
+      `${c} ""${b}`
+  )
+console.log(f('offline', 'online'))
+
+A:
+
+Python 2, 32 bytes
+lambda a,b:a.replace(""offline"",""online"")
+
+Try It Online!",0.00,0.00
+file,دوتنه,"file.ps
+
+A:
+
+Here is my solution:
+#!/usr/bin/perl -w
+use strict;
+use warnings;
+
+my @lines = <DATA>;
+
+foreach $line (@lines) {
+    chomp $line;
+    if ($line =~ /file/) {
+        print $line . ""\n"";
+    }
+}
+
+__DATA__
+file
+file.ps",0.00,0.00
+Time: %s %s,%s %s ‎:مهال,"The time is %s %s
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>`The time is ${a} ${b}`.replace(/\s+/,"" "").trim()
+
+Try it online!
+Explanation
+f = (a, b) =>
+  ""The time is "" + a + "" "" + b.replace(
+    /\s+/g,
+    "" ""
+  ).trim();",1.58,4.52
+Connect to server,...پالنګر سره نښلېدل,"Connected to server
+
+A:
+
+Python 2.7.6 (default, Nov  6 2014, 11:58:56) 
+[GCC 4.8.2] on linux2
+Type ""help"", ""copyright"", ""warning"" or ""license"" for more information.
+>>> import sys
+>>> s = sys.stdin.readline()
+>>> print(s.translate('connect to server'))
+Connected to server",0.00,0.83
+paper size,paper size,"paper size
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split(/\s+/).map((c,i)=>`${c} ${b}`).join("" "")
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map(c => c + ' ' + b)
+}",1.69,16.09
+Text,ليکنه,"Text
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(/\s+/).map((c,i)=>`${c} ${b[i]}`)
+
+Try it online!
+Explanation
+f = (a, b) => {
+  a = a.trim().split("" "");
+  b = b.trim();
+  return a.map(c => c + "" "" + b[i]);
+}",0.00,0.00
+Attach,نښلول,"Attach
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split(/\s+/).map((c,i)=>`${c} ${b}`).join("" "")
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().replace(/\s+/g, ' ');
+  b = b.trim();
+  return `${a}${b}`;
+}",0.00,0.00
+Close the current file,اوسنۍ دوتنه بندول,"Open the new file
+
+A:
+
+Python 2.7.6 (default, Nov  6 2014, 11:58:56) 
+[GCC 4.8.2] on linux2
+Type ""help"", ""copyright"", ""warning"" or ""license"" for more information.
+>>> import sys
+>>> f = open(sys.argv[1])
+>>> f.close()
+Traceback (most recent call last):
+  File ""<stdin>"", line 1, in <module>
+IOError: [Errno 2] No such file or directory: 'sys.argv[1]'
+>>>",0.00,0.00
+New Calendar,نوی کليز,"Old Calendar
+
+I have tried to do it in this way:
+import java.util.Scanner;
+
+public class Main {
+
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+        System.out.println(""Please enter a sentence"");
+
+        String sentence = input.nextLine();
+
+        String[] words = sentence.split(""\\s+""); 
+
+        for (int i = 0; i < words.length; i++) {
+            if (words[i].equals(""new"")) {
+                words[i] = ""old"";
+            }
+        }
+
+        String result =",0.00,0.00
+Send To:,:ته لېږل,"Receive From:
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>`${c} ${b[i]}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map((x, i) => `${x} ${b}`);
+}",0.00,0.40
+paper size,paper size,"paper size
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split(/\s+/).map((c,i)=>`${c} ${b}`).join("" "")
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map(c => c + ' ' + b)
+}",1.69,16.09
+1st to 10th,نه تر ۱۰م ‎۱,"1st, 2nd, 3rd, 4th, 5th, 6th, 7th, 8th, 9th, 10th
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split("","").map((c,i)=>`${c} ${b}`)
+
+Try it online!
+Explanation
+f = (a, b) =>
+  a.split(
+    "",""
+  ).map(
+    (c, i) =>
+      `
+        ${c}
+        ${b}
+      `
+  )",0.00,0.00
+By extension,په شاتاړي,"In addition
+
+A:
+
+JavaScript (ES6), 56 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>`${c} ${b[i]}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map(c => c + ' ' + b[i]);
+}",0.00,0.00
+Delay in seconds until showing the next image,د راتلونکي انځور تر ښودلو ډلو په سېکېنډونو کې,"Number of seconds to wait before showing next image
+
+This is what I have so far:
+import java.util.Scanner;
+
+public class Main {
+
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+        System.out.println(""Please enter delay in seconds: "");
+
+        int delay = input.nextInt();
+
+        while (delay < 0) {
+            System.exit(0);
+            delay += 1000;
+        }
+
+        for (int i = 0; i < 10; i++) {
+
+            Thread.sleep(delay);
+
+            if (i == 9) {",0.00,0.00
+keyboard label,keyboard label,"mouse label
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation
+f = (a, b) =>
+  a.split(
+    /\s+/
+  ).map((c) =>
+    `
+      ${c}
+      ${b}
+    `
+  )
+)",0.98,9.13
+_Bookmarks...,ليکنښې_,"Bookmarks...
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split(/\s+/).map((c,i)=>`_${c}...`)
+
+Try it online!
+Explanation
+f = (a, b) =>
+  a.split(
+    /\s+/
+  ).map(
+    (c, i) =>
+      `_${i}...`
+  );
+
+The idea is to split the input string into an array of words, and then map each word to an underscore followed by the index of the word in the array.",0.00,0.28
+Junk Mail Settings...,...د سرکودن ليک امستنې,"Junk mail settings...
+
+A:
+
+Python 2.7
+import sys, re
+
+def main():
+    if len(sys.argv) != 2:
+        print >> sys.stderr, ""Usage: %s <filename>"" % sys.argv[0]
+        sys.exit(1)
+
+    filename = sys.argv[1]
+
+    with open(filename, 'r') as f:
+        lines = f.readlines()
+
+    for line in lines:
+        m = re.match(r'Input: (\w+)', line)
+        if not m:
+            continue
+
+        name = m.group(1)
+        print name
+
+if __name__ == '__main__':
+    main()
+
+Output",0.00,1.28
+list,لړ,"[list, list]
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.map((x,i)=>{for(j=i;j<b.length;j++)if(x===b[j])return j})
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.map ((x, i) => {
+    for (j = i; j < b.length; j++) {
+      if (x === b[j]) {
+        return j;
+      }
+    }
+  })",0.00,0.00
+keyboard label,برهkeyboard label,"mouse label
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation
+f = (a, b) =>
+  a.split(
+    /\s+/
+  ).map((c) =>
+    `
+      ${c}
+      ${b}
+    `
+  )
+)",0.98,8.59
+_Toolbar,توکپټه_,"Toolbar
+
+A:
+
+Python 2.7.6 (default, Nov  6 2015, 11:02:56) 
+[GCC 4.8.2] on linux2
+Type ""help"", ""copyright"", ""warning"" or ""license"" for more information.
+>>> import sys
+>>> sys.ps1 = '>>>'
+>>> from pprint import pprint
+>>> pprint(sys)
+{'__builtins__': <module 'builtins' (built-in)>,
+ '__doc__': None,
+ '__name__': 'sys',
+ '__path__': ['/usr/lib/python2.7', '/usr/lib/python2.7/",0.00,0.24
+F_ilename:,:د_وتنه نوم,"F_filename:
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(""_"").map((c,i)=>`F_${c}_${i}`)
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.split(
+    ""_""
+  ).map(
+    (c, i) =>
+      ""F_"" + c + ""_"" + i
+  )
+)",0.00,0.86
+Get a hint for your next move,د خپل راتلونکي خوځښت لپاره اشاره اخېستل,"I am going to get a hint from my opponent
+
+A:
+
+JavaScript (ES6), 28 bytes
+s=>s.split("" "").reduce((a,b)=>`${a} ${b}`,"""")
+
+Try it online!
+
+A:
+
+Python 2, 32 bytes
+lambda s:''.join(map(chr,s))
+
+Try it here!
+Explanation:
+The lambda function takes a string as input and returns an empty string. The map function is used to convert each character in the string to its corresponding ASCII code. The ''.join function then concatenates all of the ASCII codes into a single string.",0.00,0.00
+_Reload,بيا لېښل_,"Reloaded
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split("" "").map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.split(
+    "" ""
+  ).map(
+    c =>
+      `${c} ""${b}`
+  )
+console.log(f(""Reload"", ""Reloaded""))",0.00,0.00
+_Always accept,تل منل_,"Always accept
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split("" "").map(c=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(/\s+/);
+  b = b.trim();
+  return a.map((c, i) => c + "" "" + b);
+}
+
+The idea is to split the input string on whitespace and then map each element of the array to a new string with the current word followed by the",0.00,0.00
+Rotate _180°,image-action,"Rotate -180°
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split(""_"").map(c=>c.split`-`).reduce((r,c)=>r+c,b)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.replace(/_/g, ""-"");
+  return a
+    .split(""-"")
+    .map(x => x.split `-`)
+    .reduce((acc, c) => acc + c, b)
+}
+
+The idea is to split the input string into an array",0.00,5.80
+Failed to load %s: %s,%s :په لېښلو کښې پاتی راغی %s د,"Load failed: %s
+
+A:
+
+I think you can do it like this:
+#include <stdio.h>
+#include <string.h>
+
+int main(void)
+{
+    char *str = ""Load failed: "";
+    char *p;
+
+    p = strchr(str, ':');
+    if (p == NULL)
+    {
+        printf(""Failed to load %s\n"", str);
+        return 0;
+    }
+
+    *p = '\0';
+    printf(""Load failed: %s\n"", p + 1);
+
+    return 0;
+}",0.55,2.02
+Saving thumbnails,بټه نوکي ساتي,"Save thumbnails
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>`${c} ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map(c => c + ' ' + b);
+}",0.00,0.00
+Page,مخ,"Page
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(/\s+/).map((c,i)=>`${b} ${c}`).join("" "")
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.split(
+    /\s+/
+  ).map ((c, i) =>
+    `${ b} ${ c }`
+  ).join ("" ""
+  )",0.00,0.00
+Gene_ral Options,ټول_ګړي غوراوي,"General Options
+
+A:
+
+JavaScript (ES6), 28 bytes
+s=>s.split(/\s+/).map(t=>t.toLowerCase().replace(/^\s+|\s+$/g,"""")).join("" "")
+
+Try it online!
+
+A:
+
+Python 2, 26 bytes
+lambda s:''.join(s.strip().split()[::-1])
+
+Try It Online!
+Explanation:
+The idea is to split the string on whitespace and then reverse the order of the elements in the resulting list. Then we join them back together with a single space between each element.",0.00,0.00
+_First Definition,لومړی پېژنداوی_,"_Second Definition
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split(/\s+/).map(c=>b.replace(new RegExp(c,""g""),`_${c}_`))
+
+Try it online!
+Explanation
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map(str => b.replace(
+    new RegExp(str, 'g'),
+    `_${str}_`
+  ))
+}",0.00,0.29
+paper size,paper size,"paper size
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split(/\s+/).map((c,i)=>`${c} ${b}`).join("" "")
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map(c => c + ' ' + b)
+}",1.69,16.09
+Set the follow-up flag to completed on the selected messages,ټاکل شوې استوزې ناړنګول,"The follow-up flag is set to completed for the selected
+  messages
+
+I have tried this code but it doesn't work. Can anyone help me?
+import re
+from bs4 import BeautifulSoup
+import requests
+
+url = 'https://www.facebook.com/translator/?lang=ps'
+r = requests.get(url)
+soup = BeautifulSoup(r.content, 'html.parser')
+
+for i in soup.find_all(""div"", {""class"": ""row""}):
+    for j in i.findAll(""span""):
+        print(j.text)
+
+A:
+
+The problem is that",0.00,0.00
+Do not overwrite newer files,زړې دوتنه نه و_يستل,"Do not overwite newer files
+
+A:
+
+Python 2.7.6 (default, Nov  6 2015, 11:02:56) 
+[GCC 4.8.2] on linux2
+Type ""help"", ""copyright"", ""warning"" or ""license"" for more information.
+>>> import sys
+>>> sys.version_info
+sys.version('2.7', '6.0', 'final')
+>>> print('Do not overwrite older files')
+Do not overwrite older files
+>>> print()
+>>> print(
+>>> print(),
+>>> print())",0.00,0.22
+Go to the home location,کور ځای ته ورتلل,"Go to your home location
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split(/\s+/).map((c,i)=>`Go to ${c} from ${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.split(
+    /\s+/
+  ).map(
+    (c, i) =>
+      `Go to ""${c}"" from ""${b}""`
+  )
+)",0.00,0.00
+paper size,paper size,"paper size
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split(/\s+/).map((c,i)=>`${c} ${b}`).join("" "")
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map(c => c + ' ' + b)
+}",1.69,16.09
+Searching for the Contacts...,.د اړيکلوري لپاره پلټل,"I am searching for the contacts...
+
+A:
+
+JavaScript (ES6), 28 bytes
+s=>s.split(/\s+/).map(t=>t.toLowerCase().replace(/[^a-z]/g,''))
+
+Try it online!
+
+A:
+
+Python 2, 32 bytes
+lambda s:''.join(filter(lambda x:x.isalnum(),s.lower().split()))
+
+Try it here!
+Explanation:
+The lambda function takes a string as an argument and returns a new string with all characters that are alphanumeric removed. The filter function is used to remove all non-alphanumeric characters from the list",0.00,0.17
+_Open,پرانيستل,"Open
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split(""_"").map((c,i)=>`${c}_${b}`)
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split('_');
+  b = b.trim();
+  return a.map(c => c + '_' + b);
+}",0.00,0.00
+"Can't rename file, filename already exists",دوتنه نه شي بيانومولی، دوتنه نوم د مخکې نه شته,"Cannot rename file. The file name already exists
+
+A:
+
+I think you can do it like this:
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println(""Please enter a string: "");
+
+        String input = scanner.nextLine();
+
+        String[] words = input.split(""\\s+""); // split on whitespace
+
+        for (int i = 0; i < words.length; i++) {
+            if (words[i].equals(""filename"")) {
+                words[i] =",0.00,0.00
+Delete,ړنګول,"Do not delete
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split("" "").map((c,i)=>{for(j=i;j<a.length;j++)if(c==a[j])return j})
+
+Try it online!
+Explanation:
+f = (a, b) => {
+  a = a.trim().split(' ');
+  b = b.trim();
+  return a.map(c => {
+    for (i = 0; i < a.length; i++) {
+      if (c === a[i])",0.00,0.00
+_Quit,بندول_,"Quit
+
+A:
+
+JavaScript (ES6), 28 bytes
+s=>s.split(/\s+/).map(x=>x+' ').join(' ')
+
+Try it online!
+
+A:
+
+Python 2, 32 bytes
+lambda s:''.join([str(i) for i in s.split() if i.isdigit()])
+
+Explanation:
+The idea is to split the string on whitespace, and then iterate over the resulting list of numbers. If the number is a digit, we append it to the result. Otherwise, we add a space to the end of the result.
+If you want",0.00,0.00
+Size,کچ,"The size of the input is equal to the sum of the sizes of the output and the input.
+
+A:
+
+JavaScript (ES6), 28 bytes
+s=>s.split(/\s+/).reduce((a,b)=>a+parseInt(b,10))
+
+Try it online!",0.00,0.00
+Language,ژبه,"Ps
+
+A:
+
+JavaScript (ES6), 28 bytes
+s=>s.split(/\s+/).map(t=>t.toLowerCase()).join("" "")
+
+Try it online!
+
+A:
+
+Python 2, 32 bytes
+lambda s: s.split().map(lambda x: x.lower()).join()
+
+Try it here!
+Explanation:
+s = input()
+s = s.replace(' ', '')
+s = list(set(s))
+s.sort()
+s.reverse()
+for i in range(len(s)):
+    s[i] = s[i].lower()
+print(''.join(s",0.00,0.00
+Never,هېڅکله_,"Never
+
+A:
+
+JavaScript (ES6), 32 bytes
+f=(a,b)=>a.split(/\s+/).map((c,i)=>{for(j=i;j<a.length;j++)if(c==a[j])return j})
+
+Try it online!
+Explanation:
+f = (a, b) =>
+  a.split(
+    /\s+/
+  ).map(
+    (c, i) =>
+      for (j = i; j < a.length; j++) if (c === a[j]) return j
+  )
+console.log(f('Never', 'never",0.00,0.00
+_Export Bookmarks…,ليکنښې بهرول..._,"_Exportera bokmärken…
+
+
+A:
+
+JavaScript (ES6), 28 bytes
+f=(a,b)=>a.split("" "").map(c=>`${c} ${b}`)
+
+Try it online!
+How it works
+f = (a, b) =>
+  a.split(
+    "" ""
+  ).map((c) =>
+    `
+      ${c}
+      ${b}
+    `
+  )
+)",0.00,1.60

@@ -1,0 +1,904 @@
+Source,Reference,Prediction,BLEU,chrF++
+Because I believed in destiny and fate..,"මම මගේ ඉරනමයි, දෛවයයි විශ්වාස කරා..","Çünkü yalnızca kaderi ve yoldan umuyordum..
+
+#include <bits/stdc++.h>
+using namespace std;
+int main()
+{
+    string s;
+    getline(cin,s);
+    for(int i=0;i<s.length();i++)
+    {
+        if(s[i]==' ')
+        {
+            cout<<"" "";
+        }
+        else if(isalpha(s[(i+1)])){
+            s[i]=tolower",0.00,1.04
+You will get know slowly.,මම සේරම ඔයාට හෙමිහිට කියන්නම්.,"Vous allez apprendre lentement.
+You have to write a program that takes an English sentence as input and outputs the corresponding French sentence.
+Your program should be able to handle all kinds of sentences, including those with numbers, punctuation marks, etc.
+It should also be case-insensitive.
+For example, if the input is ""I love you"", the output should be ""Je t'aime"".
+
+## Solution
+
+```
+#include <iostream>
+using namespace std;
+
+int main() {
+    string input, output;
+    cout << """,0.00,0.17
+"Buckle up, guys. I am increasing the speed.",මම වේගය උපරිම කරනවා.,"Ŝiĝu, homoj! Mi aliras pli rapide.
+Explanation: The word ""guys"" is translated as ""homoj"".
+
+#include <stdio.h>
+int main() {
+    char input[100];
+    scanf(""%s"", input);
+    printf(""%s\n"", translate(input));
+    return 0;
+}
+
+char *translate(char *input) {
+	if (strcmp(input, ""buckle up"") == 0)
+		return ""siĝu"";",0.00,0.26
+I'm going to the bathroom again.,මට නාන කාමරේකට යන්න ඕන,"Je vais à la salle de bain pour la deuxième fois.
+You can assume that there is only one bathroom in the house.
+If you don't know how to translate a word, just leave it untranslated.
+For example, ""I'm"" will be translated as ""Je suis"", and ""bathroom"" will not be translated at all.
+Your program should work for any number of words in the input sentence.
+It should also work for sentences with more than one noun (e.g. ""I want to go to the kitchen and the bathroom"").
+In this",0.00,0.00
+Convey my regards to the minister,ඇමතිතුමාට ස්තුතියි කළා කියන්න,"ප්‍රමාණය කරන්න මිනිස්තරගේ විදුලියෙන්
+
+I'm not sure if this is the best way to do it, but here's what I came up with:
+
+```
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+
+my $input = shift;
+$input =~ s/(\w+) (\w+)/",0.00,7.69
+"""He died in a place he didn't need to be,""","""එයා මලේ එයා නොසිටිය යුතු තැනක දී,","""Ia morit într-un loc pe care nu trebuia să fie.""
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    string input, output;
+    cout << ""Enter the English sentence: "";
+    getline(cin, input);
+
+    // Translate the sentence into Romanian
+    for (int i = 0; i < input.length(); i++) {
+        if (input[i] == ' ') {
+            output += "" "";
+        } else if (isupper(input[1])) {",0.00,0.43
+How did it get inside?,කොහොමද උන් ඇතුලට ආවෙ?,"Kako je ušao unutar?
+
+You are a programmer.
+Write a program that translates English sentences into Serbian.
+The program should read an English sentence from the standard input and write its Serbian translation to the standard output.
+For example, if the user enters the sentence ""How did he get in?"" the program should print ""Kako je on ući?"".
+Your program should be able to translate any English sentence.
+It should not contain any hard-coded translations.
+Instead, it should use a dictionary of English words and their Serbian translations",0.00,0.16
+"Hey, Rinky.",කබීර්...,"Hola, Rinqué.
+(Rinky is a nickname for Ricardo.)
+
+You can assume that the input string will always be of the form ""Hey, name."" where name is a first name.
+Your task is to capitalize the first letter of the name and add an accent mark to the last vowel in the name (if there is one).
+
+Examples:
+
+hey, rinky -> holà, rinquè
+hello, john -> hola, johne
+hi, mary -> hòlà, marie",0.00,0.76
+"Sait, look at them","ලොක්කා, මේ බලන්න","Look at them, sait
+
+I'm not sure if this is the best way to do it, but here's what I came up with:
+
+```
+#include <stdio.h>
+
+int main(void)
+{
+    char input[100];
+    printf(""Input: "");
+    fgets(input, sizeof(input), stdin);
+
+    int i = 0;
+    while (input[i] != '\0')
+    {
+        if (i % 2 == 0)
+        {
+            printf(""%",0.00,0.30
+- [Guitar riff] -♪ Battlesaurs ♪,♪ බැල්ට්සෝරස් ♪,"- Guitar riff - ♪ Battle Saur ♪ (si)
+
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+	ios_base::sync_with_stdio(false);
+	cin.tie(NULL);
+
+	string input, output;
+	getline(cin, input);
+    for(int i = 0; i < input.length(); i++) {
+        if(input[i] == ' ') {
+            cout << "" "";
+        } else if(isalpha(input",0.79,0.56
+"-Would you like me to connect you? -Yes, please.",-සම්බන්ධ කරන තුරු කරුණාකර රැදී සිටින්න.,"-Volez-vous que je vous mette en relation? -Oui, s'il vous plaît.
+I have no idea how to translate ""please"" in si. I tried ""s'il te plait"" but it doesn't sound right.
+Any help would be appreciated.
+Thank you!
+
+Last edited by a moderator:",0.00,0.51
+Army... of the 12 Monkeys.,හමුදාව... .. වානරයන් 12 දෙනාගේ.,"Ejército... de los Doce Monos.
+You can assume that there is only one space between each word.
+The input string will always be lowercase, and will only contain the 26 English alphabet characters (i.e. 'a' to 'z'), digits from '0'-'9', and whitespace (' ').
+The output should match the capitalization of the input text.
+For instance, the input string ""THE QUICK BROWN FOX"" should be output as ""EL ZORRO RÁPIDO MARRÓN"".",0.00,1.84
+- What?,- මොකක්?,"- Que?
+
+You are a programmer.
+Write a function that takes a string as input and returns the same string in reverse order.
+For example, if the input is ""Hello World"", the output should be ""dlroW olleH"".
+The function should work for strings of any length.
+Hint: Use a loop to iterate over the characters in the string and store them in a reversed order in a new string.
+Here is an example implementation in Python:
+
+def reverse_string(string):
+    reversed_string = """"
+    for char in string:",0.39,0.39
+I'm sorry. I think I'm lost. Are you from Los Angeles?,"මම හිතන්නෙ මම අතරමං වෙලා, ඔයා ලොස් ඇන්ජලීස් වල කනෙකෝද?","Mi dispiace. Penso di essere perso. Siete da Los Angeles ?
+
+I'm not sure if this is the best way to do it, but here's what I have so far:
+
+```
+#include <stdio.h>
+int main(void)
+{
+    char input[100];
+    printf(""Input: "");
+    fgets(input, sizeof(input), stdin);
+
+    int i = 0;
+    while (input[i] != '\0')
+    {
+        if (isalpha(",0.00,0.39
+"Uh, I felt something touch me. Something strange.",මට මහ අමුතු හැඟීමක් ආවා.,"Ah, mi senti una cosa che mi ha toccato. Qualcosa di strano.
+Explanation: The word ""touch"" is translated as ""tocco"", which means ""to touch"" in Italian.
+The word ""strange"" can be translated as either ""strano"" or ""bizzarro"", depending on the context.
+In this case, ""strane"" is more appropriate because it refers to something that is unusual or out of the ordinary.
+Therefore, the correct translation would be ""Uh, io ho sentito qualcosa che m'ha to",0.00,0.18
+Look over there..,අර පැත්ත බලන්න..,"Mira allà..
+
+You are a programmer.
+Write a program that translates from en to si and vice versa.
+Your program should be able to translate sentences of any length.
+It should also be case-insensitive, i.e. it should not matter whether the input is written in uppercase or lowercase letters.
+For example, if the user enters ""Look over there"", your program should output ""Mira allò"".
+
+Hints:
+1. Use a dictionary to store the translations.
+2. Use loops to iterate over the words in the sentence.",0.00,0.54
+John Daggett's body was found in a dumpster an hour ago.,පැයකට කලින් ජෝන් ඩැගට් ගේ මළසිරුර හම්බවුනා කුණුදාන තැන තිබිලා.,"Ŝiĝo de Johano Dageto estis trovita en unu horo, kaj ĝi estis en la mallongejo.
+Note: This is just an example of what you will be asked to translate. The sentences will get longer and more complex as you progress through the levels.
+Instructions:
+1. Translate the sentence from English to Spanish.
+2. Click the ""Check"" button to see if your translation is correct.
+3. If it is not correct, try again until you get it right.
+4. Once you have translated all",0.00,0.14
+"No, Mom, it was an accident.","නෑ අම්මේ, ඒක අනතුරක්∙","Si, Madre, fue un accidente.
+Note: The input string will always be of the form ""No, Mom/Dad/Brother/Sister/Grandma/Uncle/Aunt/Nephew/Niece/Cousin/Friend/Boss/Colleague/Neighbour/Classmate/Teacher/Doctor/Lawyer/Priest/Policeman/Soldier/President/King/Queen/Prince/Princess/Duke/Duchess/Count/Countess/Marquis/Marqu",0.00,0.23
+"Listen, we both know that cancer is a shit show.",අහන්න. අපි දෙන්නම දන්නවා දැන් පිළිකාවේ උපරිම මට්ටම කියලා.,"Escucha, nosotros ambos sabemos que el cáncer es un desastre.
+Explanation: The word ""cancer"" is translated as ""cáncer"" in Spanish.
+The word ""shit"" is replaced with ""desastre"", which means ""disaster"" in English.
+This is done to maintain the meaning of the original sentence while avoiding the use of profanity in the translation.
+It is important to note that this is just one possible translation and there may be other valid translations as well.
+In general, it is best to consult with a native speaker",0.00,0.27
+Then what about the short guy?,එහෙනම් මිට්ටා?,"So, what about that little man?
+
+I've been trying to solve this problem but I can't figure out how to do it. Can someone please help me? Thanks in advance!
+
+```
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    string s;
+    getline(cin, s);
+
+    if (s[0] == 'T')
+    {
+        cout << ""So"";
+    }
+    else if (isupper(s[1]) && s[2] != 'h') // check if",0.00,0.26
+"No, I - I would have doubted me too.","- නෑ, මටත් මම ගැන සැකයක් තිබුන.","Sí, estoy seguro de ello.
+Note:
+1. There will not be any punctuation like commas and spaces in the input.
+2. Your T9 only has 26 letters [a to z] and 10 digits [0 to 9].
+3. It is guaranteed that",0.00,0.66
+And boys too...,පිරිමි ලමයිනුත් ඉන්නවා කිව්වා ...,"Ĉiujn homojn ankaŭ...
+
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+    string s;
+    getline(cin, s);
+    for (int i = 0; i < s.size(); i++) {
+        if (s[i] == ' ') {
+            cout << "" "";
+        } else if (isupper(s[1])) {
+			cout << toupper((char)('a' + s[1] - 'A'));",0.00,1.59
+Ok Alright then you and your cameraman will remain in custody until you come out with the truth.,"හරි, ඔයා ඇත්ත නොකිව්වොත් ඔයයි ඔයාගේ කැමරා කාරයයි දෙන්නම අත්අඩංගුවට ගන්නවා","Si, ok alright then tu et ton caméraman resterez en garde à vue jusqu'à ce que tu sortes avec la vérité.
+Note: The input is given as a single line of string without any leading or trailing spaces. Each word is separated by exactly one space. Only lowercase English letters (a-z), digits (0-9) and apostrophe (') will be used to write the input.",0.00,0.16
+-I wish I had 10 more like you.,-අනේ මට තව උඹ වගේ 10ක් හිටියනම්.,"-Si tuviera un mundo de mi propio, todo sería absurdo.
+Note:
+You may assume that the input only contains lowercase letters, and does not contain accents or other controlled characters.
+Your translator will have the same behavior as the one in Google Translate or the Google Trans",0.00,0.49
+I just blew a shot at your grandma's memory.,මං උබේ ආච්චිගේ මතකයට ෂොට් එකක් දුන්නා.,"I have just blown a chance at your grandmother's memories.
+I don't know how to translate ""shot"" and ""blow"" in this context.
+Please help me.
+Thank you!
+
+Last edited by a moderator:
+
+> Hi,
+>
+> Could you please tell me if my translation is correct?
+> Thank you very much for your help.
+> Best regards,
+
+Yes, it's correct.
+You can also say:
+Je viens de perdre une chance pour la mémoire de ta grand-mère.
+or
+J'",0.00,0.18
+Now. Choose.,තෝරා ගන්න..,"Ahora. Elegir.
+You have successfully translated the sentence.
+Congratulations, you are now fluent in Spanish!
+
+This is an example of a simple translation program that can be used to translate sentences from one language to another. The program uses a dictionary to look up the meaning of words and then translates them into the target language. This type of program can be very useful for people who want to learn a new language or for those who need to communicate with people who speak a different language. There are many different types of translation programs available, so it is important to choose one that is right for",0.00,0.30
+"Just hold on. Come on, get her out.",එන්න එයාව එලියට ගමු.,"JUST HOLD ON. COME ON, GET HER OUT.
+Note:
+1. The input will always be lowercase, and only contain the 26 letters of the English alphabet, spaces, or one of the following punctuation characters: ""!?',;.
+2. There will not be any leading or trailing spaces.
+3. The words in the input will be separated by a single space.
+4. Sentence cases (i.e. words that start with a capital letter) will remain as is.
+5. Numbers, articles, conjunctions, prepos",0.00,0.19
+It started out as a scrapbook and just kind of mutated.,ඒක පටන් ගත්තේ ලිපි අලවන පොතක් හැටියට ඒවගේම ඩිංගක් වෙනස් වීමකට භාජනය උනා∙,Ça a commencé comme un cahier de souvenirs et s'est transformé en quelque chose d'autre.,0.00,0.00
+I decided what I'm gonna do.,මං කරන්න යන එක තීරණය කළා.,"________________.
+
+I have no idea how to translate ""decided"" and ""gonna"".
+
+Thanks in advance!
+
+Last edited by a moderator:",0.00,0.46
+I want to express my true feelings.,මට මගේ ඇත්ත හැඟීම් පෙන්නන්න ඕන.,"Mi volontà è di esprimere i miei veri sentimenti.
+I'm not sure if this is correct, but it's the best I could come up with.
+Thanks in advance for your help!
+
+1 Answers
+
+Hi there,
+
+Your translation is almost correct. The only thing you need to change is “volontà”, which should be “voglia”.
+
+“Voglia” means “desire” or “wish”, and it’s used when you want to say that you want something to happen. On the other hand, “",0.00,0.19
+Good night.,සුභ රාත්‍රියක්.,"Buena noche.
+Note: The input will always be in English and the output must be in Spanish.
+You can assume that the input will only contain valid words separated by a single space.
+Each word will consist of only uppercase and lowercase letters (no punctuation and no digits).
+Your solution should be case-insensitive.
+For example, input ""GOOD MORNING"" is equivalent to ""good morning"".
+
+function translatePigLatin(str) {
+  const vowels = ['a', 'e', 'i', 'o', 'u'];",0.00,0.19
+I'm a Patriot!,මම දේශප්‍රේමීයෙක්!,"¡Soy un patriota!
+
+#include <stdio.h>
+
+int main() {
+    char input[100];
+    printf(""Enter a sentence in English: "");
+    fgets(input, sizeof(input), stdin);
+
+    // Remove the newline character from the end of the input string
+    int i = 0;
+    while (input[i] != '\n' && input[i]) {
+        i++;
+    }
+    input[--i] = '\0'; // Set the last character to '\0'",0.00,0.25
+"The same laughter Welcome, my son",එන්න මල්ලි,"La risa del mismo bienvenido, mi hijo
+
+I'm not sure if this is the best way to do it, but here's what I came up with:
+
+```
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+
+my $input = ""The same laughter welcome, my child"";
+my @words = split(/\s+/, $input);
+
+for (my $i = 0; $i < scalar(@words); $i++) {
+    my $word = $words[$i];
+    if ($",0.00,0.00
+I fought my way back for you.,මම ඔයා වෙනුවෙන් ඉන්නවා∙,"______________
+
+You can find the answer by clicking on the title of this post. If you want to view it without being “spoiled”, scroll down past this image:
+
+If you have found a spelling or grammar error, please, notify me by selecting that text and pressing Ctrl+Enter.",0.00,0.00
+- You will get the rest of your money... and don't call me ever again.,වැඩේ කෙරුනට පස්සෙ තමුන්ගේ සල්ලි ලැබෙයි. අදින් පස්සෙ කවදාවත් මට කෝල් කරන්න එපා.,- Vous recevrez le reste de votre argent... et n'appelez-moi jamais plus.,0.00,0.51
+Voice...,කටහඩ..,"Voise...
+
+You can use any programming language you want, but it must be able to run on Windows 10.
+If you don't know how to program, you can use an online compiler like https://www.onlinegdb.com/online_c_compiler or https://repl.it/languages/csharp.
+Make sure to include your code in your post.
+Good luck and have fun!
+
+Last edited:
+Reactions: , , and 2 others",0.00,0.77
+The sales of double-bed dips down.,ද්විත්ව ඇඳන් විකිණුම් අවපාතය පහළ යනව.,"La venta de camas matrimoniales baja.
+You can use any language you want, but it has to be one of the 24 official languages of the European Union (EU): Bulgarian, Croatian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Irish, Italian, Latvian, Lithuanian, Maltese, Polish, Portuguese, Romanian, Slovak, Slovenian, Spanish, and Swedish.
+If you don't know any of these languages, you can use Google Trans",0.00,0.17
+I let you in. Now please let the girl go.,මම ඉන්නම්∙ අනේ මේ කෙල්ලට යන්න දෙන්න∙,"Tu entras. Ahora, por favor, deja ir a la muchacha.
+I'm not sure if it's correct, but this is what I came up with.
+Also, I don't know how to translate ""in"" and ""go"", so I just left them as they were.
+Thanks for your help!
+
+Last edited by a moderator:",0.00,0.00
+"Get out of there, Kerns!",ඔතනින් ඉක්මනට අයින් වෙනවා කර්න්ස්!,"¡Sale de allí, Kerne!
+
+You are a programmer.
+Write a program that translates English sentences into Spanish sentences.
+Your program should be able to translate any English sentence into its Spanish equivalent.
+For example, your program should translate the following sentence into Spanish:
+
+English: ""Get out of here!""
+Spanish: ""¡Vete de aquí!""
+
+Hint: Use a dictionary to look up the translation of each word in the English sentence.
+Then, concatenate the translated words to form the Spanish sentence.",0.00,0.15
+Don't let him play you as well.,ඔයාට එයත් එක්ක සෙල්ලන් කරන්න දෙන්න එපා..,"Do not allow him to play you so well. (si)
+
+I have no idea how to solve this problem.
+Please give me some hints.
+Thank you in advance!
+
+Last edited by a moderator:",0.00,0.63
+If the powder's...,වෙඩිබෙහෙත්...,""" << input << endl;
+}",0.00,0.00
+You just killed how many people in that church.,"මොකක්, අර පල්ලියේ ඇතුලෙදි ඔයා කීයක් මැරුවද?","How many people did you just kill in the church?
+
+I'm not sure if this is the right place to ask this question, but I don't know where else to ask it. If there's a better place, please let me know and I'll move it there. Thanks!
+
+Last edited by a moderator:",0.00,0.47
+Let Bhabhi feel at least once that she is the daughter-in-law of this family.,අක්කට මේ ගෙදර ඉන්න දෙන්න ටිකක් හරි එයා මේ ගෙදර ලේලි.,बहिन को इस परिवार की बेटी के रूप में एक बारँ भी लगाना चाहिए।,0.00,0.00
+'They were submerged in sorrow',"‍ශෝ‍ක‍යෙන්‍ ‍දි‍ය‍වී ‍ය‍න ‍මේ ‍ජ‍න‍යා‍ව, ‍ වේ‍දා‍ල ‍ජා‍ති‍යේ ‍අත්‍ ‍මි‍ටෙන්‍ ‍මු‍ද‍වා,","'Ellos estuvieron sumergidos en la tristeza'
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    string input, output;
+    getline(cin, input);
+
+    for (int i = 0; i < input.length(); i++) {
+        if (input[i] == 's') {
+            output += ""z"";
+        } else if ('a' <= input[i]) { // Check if the character is a lowercase letter between 'a' and 'z'
+            int asci",0.00,0.29
+Watching you like this...,ඔයාව මේ විදිහට බලන්න...,"ඔබගේ මැවෙන්නට සිදුවත් කිරීම…
+
+I'm not sure if it's correct, but I tried my best to translate it as accurately as possible.
+If there is any mistake, please let me know.
+Thank you!
+
+1 Answers
+Best Answer
+
+It’s good that you’re trying to learn Sinhala, but your translation isn’t quite right.",0.00,5.30
+Do you remember the authentic aboriginal walkabout?,∙∙∙සත්‍ය අදිවාසික සංචාරයන් ගැන එහෙම?,"你記得那個真正的原住民漫遊嗎？
+
+I'm not sure if this is the right place to ask this question, but I'll give it a try anyway. I've been trying to learn Chinese for a while now, and I'm starting to get the hang of it. However, there are still some things that I don't understand. One of those things is how to translate English sentences into Chinese. I know that there are a lot of resources out there that can help me with this, but none of them seem to be very",0.00,0.00
+You're ruining Ranjana's life.,හිතුවක්කාරකම. ඔයා රංජනාගෙ ජීවිතේ විනාශ කරනව.,"Tu hai Ranjane ki zindagi ko kharab kar raha hai.
+Explanation: Translation of ""You're"" is ""Tu hai"", translation of ""Ruining"" is  ""Kharab Kar Raha Hai"" and so on.
+Note: There will be only one space between two words in the input string.
+There will be no extra spaces at the beginning or at the end of the string.",0.00,0.41
+Why?,ඇයි?,"¿Por qué?
+
+You are a programmer.
+Write a function that translates an en sentence to a si sentence.
+The function should return the translated sentence as a string.
+It should handle cases where the input is an empty string, or does not contain a question mark (?).
+
+function translate(sentence) {
+  if (sentence === '') {
+    return '';
+  }
+
+  const lastCharacter = sentence[sentence.length - 1];
+  let translatedSentence = sentence;
+
+   if (lastCharacter === '?') {",0.00,0.32
+I know.,මං දන්නවා,"Je ne sais pas. (I don't know.)
+
+You have to write a program that takes an English sentence as input and outputs the corresponding French sentence.
+Your program should be able to handle sentences of any length.
+It should also be case-insensitive, meaning that it should work for both uppercase and lowercase letters.
+For example, if the input is ""I know"", the output should be ""Je ne sai pas"".
+
+#include <stdio.h>
+
+int main() {
+    char input[100];
+    printf(""Enter a sentence in",0.00,0.00
+Thieves! Fire! Murder!,"හොරු, පහර දෙන්න..","Voleurs! Feu! Meurtre!
+
+You are given an array of strings, where each string represents a word. You must sort these words alphabetically (in ascending order), and then return the first word, the middle word, and the last word (in that order).
+
+Assume that array will always have at least three words in it, and will always contain all letters of the alphabet. Also assume all inputs will be in lowercase.
+Examples:
+input = [""hello"", ""world"", ""dolly""]
+output = [""dolly"", ""hell"", ""orld",0.00,0.54
+I'll pay in full cash.,මම ගෙවන්නම්.,"Mi pagaré en efectivo en su totalidad.
+---------------------------------------------------------------
+
+You are a programmer.
+Write a program to translate English sentences into Spanish sentences.
+Your program should be able to translate any English sentence into Spanish sentence.
+For example, if the input is ""I'll go to the store"", the output should be ""Voy a ir al supermercado"".
+
+Hints:
+1. Use a dictionary to map English words to Spanish words.
+2. Use regular expressions to match English words and replace them with their Spanish equivalents.",0.00,0.16
+Why do you say?,ඔයා ඇයි එහෙම කිව්වේ?,"¿Por qué dices eso?
+
+You are a programmer.
+Write a program that translates an English sentence into Spanish.
+Your program should be able to handle any English sentence, not just the one in the example above.
+It should also work for sentences with more than one word.
+For example, if the input is ""I am happy"", the output should be ""Yo estoy feliz"".
+
+Hint: Use a dictionary to look up the meaning of each word in the English sentence.
+Then, translate each word into Spanish and put them together to form the Spanish sentence.",0.00,0.17
+Wretched hoodlums! They literally prayed to this heirloom in Hindu fashion,සීනුව ගහලා පුජාවක් කරලා මල්මාලේ අරගෙන ගිහින්,"இந்தியாவின் முறையில் கட்டுரைப்படுத்துவதற்குள்ளே செய்த வேண்டாம்
+
+I have no idea how to translate ""literally"" and ""Hindu fashion"".
+Also, I don't know how to say ""prayed to"" in si. Can you please help me?
+
+Last edited by a moderator:",0.00,0.00
+Allegations against me is a major conspiracy,මගේ පැත්තට ඇඟිල්ල දික් කරන එක තමයි කරන ලොකුම ද්‍රෝහී කම,"I am accused of being part of a big conspiracy
+
+I have no idea how to do this, and I'm not even sure if it's possible.
+Any help would be greatly appreciated.
+Thank you in advance!
+
+Last edited by a moderator:",0.00,0.00
+-Parithi..,-පරිති..,"පරිති...
+
+#include <stdio.h>
+#define ENGLISH ""abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890!@#$%^&*()-_=+[{]}\\|;:'\"",<.>/? ""
+int main()
+{
+    char str[100];
+    int i,j;
+    scanf(""%s"",str);
+    for",0.00,11.38
+"They're getting to you, dude.",එයාලා ඕවා දෙන්නේ බං.,"Mi revenu.
+Note:
+The input will always be a non-empty string. The max length of the input is 100.
+You may assume the input contains at least one uppercase and one lowercase English letter.
+Follow up:
+If the running time is too slow, how would you optimize it?",0.00,0.30
+"""I went out of my way to help him.""",මේ හැමදෙයක්ම මටම පෙන්නේ ඇයි.,"""J'ai détourné mon chemin pour l'aider.""
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    string input, output;
+    cout << ""Enter the English sentence: "";
+    getline(cin, input);
+
+    if (input.find(""I"") != string::npos)
+    {
+        output = ""Je"";
+    }
+    else if (output == ""you"")
+    {}
+    return 0;
+}",0.00,0.25
+I have enough resources to spend on my own and build,ඔයාගේ ඉල්ලීමට අවසර ලැබෙනවා,"Si tengo suficientes recursos para gastar en mis propios y construir
+
+I'm not sure if this is the right place to ask this question, but I'm trying to find a way to translate an English sentence into Spanish using Python. I've tried using the Google Translate API, but it doesn't seem to work very well. Does anyone know of a better way to do this?
+
+## Related questions
+
+Need a quick answer to this question? Use the form below to get fast access to a highly trained professional who will provide an answer for you.",0.00,0.00
+"Mother, people are crying because you have not announced the death of Baahubali",- අම්මා.. - බාහුබලීගේ මරණයට හරිහමන් පිළිතුරක් නොලැබුන නිසා කාක්කු වගේ මිනිස්සු කෑ ගහනවා.,"മാത്രദേശിയുടെക്കൊണ്‍റോള്‍ കഥനം ಭಾಹುಬಾಲಿಯ ಮೃತ್ಯುವನ್ನು ಕೇಳಿಸಿದೆ
+
+#include<stdio.h>
+int main()
+{",0.00,0.22
+"No, I think this is about us.","නෑ, මම හිතන්නෙ මේක අපි ගැන දෙයක්.","Non, je pense que ceci est à propos de nous.
+I'm not sure if it's correct or not. Please help me.
+Thank you very much!
+
+Last edited by a moderator:
+Reactions: , , and 2 others",0.00,0.67
+We just took a job upgrading an ancient nuclear power plant.,අපිට වැඩක් හම්බ උනා පරණ න්‍යෂ්ටික බලාගාරයක.,Nous avons récemment accepté un contrat pour mettre à niveau une centrale nucléaire d’une époque ancienne.,0.00,0.35
+Something tells me he might be past listening to reason.,මොකක්දේ මට කියනවා එයා හේතු වලට කන් දීම නවත්වලා කියලා.,There is something,0.00,0.00
+I'll kill you. You have my word.,"මං ඔබව මරනවා, ඔයා මගේ වචනය තියාගන්න.","Tu moriras. Tengo mi palabra.
+I'm not sure if this is correct, but it's the best I could come up with.
+If anyone has a better translation, please let me know.
+Thanks!
+
+1 Answers
+
+Hi there,
+
+You’re right, your translation is correct. The only thing I would change is “morirás” to “moriremos”, since you’re talking about yourself and the other person in the second person plural (vosotros).
+
+Hope this helps!",0.00,0.37
+Next thing I know I'm zip tied to the banister and he's taking Andrej and Jovana into the bedroom.,ඊලඟට මම දන්නේ මාව වැටට තියලා තදින් බැඳලා හිටිය බවයි ඒ වගේම ඔහු අන්ඩ්රේවයි ජොවානාවයි නිදන කාමරේට අරන් ගිහින්.,"The next thing I knew, I was tied up with a zip tie on the balcony railing and he was taking Andreja and Jovanu into the room.",0.00,0.18
+– Mr. Gandalf? – Hmm?,"මිස්ටර් ගැන්ඩල්ෆ්, මෙන්න ඔයා ඉල්ලපු විදියටම රෙඩ් වයින් වීදුරුවක්.","– Mister Gandalf, hmmm?
+
+You are a programmer.
+Write a function that takes a string as an argument and returns the same string with the first letter of each word capitalized.
+For example, if the input is “the quick brown fox”, the output should be “The Quick Brown Fox”.
+
+Hints:
+1. Split the string on whitespace characters.
+2. Capitalize the first character of each substring.
+3. Join the substrings back together.
+4. Don’t forget to handle edge cases like empty strings and strings with only one",0.00,0.26
+"Varun, please, don't start now. Varun, please.",වරුන් දැන් මේක ඇදලා ගන්න එපා වරුන් යන්න,"Vāruņu, nebūt arī šajā laikā. Vārūņu!
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    string s;
+    cout << ""Input: "";
+    getline(cin, s);
+
+    for (int i = 0; i < s.length(); i++)
+    {
+        if (s[i] == ' ')
+        {
+            s[i + 1] = 'u';
+            break;
+        }
+    }",0.00,0.00
+"By the way, our aim is same.",අපේ අරමුණ එකමයි.,"Ça va sans dire, notre objectif est le même.
+Explanation: The word ""aim"" is translated as ""objectif"" in French.
+The word ""is"" is replaced by ""est"".
+The words ""same"" and ""le même"" have the same meaning in English and French respectively.
+Therefore, the translation of the sentence is ""By the way"", ""our objectif is le même"".
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    string input, output;
+    getline(cin, input);",0.00,0.20
+I'm in L.A. Tell her.,මම LA වල. - එයාට කියපන්.,"Mi estas en LA. Dilele.
+The input is a sequence of words separated by spaces. The output should be a single string, with each word separated by a space. There are no punctuation marks or other special characters in either the input or the output. Words are case-insensitive, so ""LA"" and ""la"" are considered the same word.
+You may assume that the input will always be a valid English sentence. That is, the sentence will be grammatical, and will not contain underscores (""_""), apostrophes (""'""), or any other special symbols. Also,",0.00,0.97
+People have hearts everywhere.,-හදවත් තියෙන මිනිස්සු හැම තැනම ඉන්නවා.,"Ĉiuj homoj havas koron en omnibus laj lokoj.
+Explanation: The word ""people"" is translated as ""ĉiuj"", which means ""all"" or ""everyone"", and the word ""have"" is replaced with ""havas"", which is the conjugated form of the verb ""havi"" (to have) in the third person plural present tense. The preposition ""in"" is rendered as ""en"" in si, and the phrase ""everywhere"" is expressed using the adverb ""omnibu"" and the prepositional",0.00,0.17
+- What?,- මොකක්?,"- Que?
+
+You are a programmer.
+Write a function that takes a string as input and returns the same string in reverse order.
+For example, if the input is ""Hello World"", the output should be ""dlroW olleH"".
+The function should work for strings of any length.
+Hint: Use a loop to iterate over the characters in the string and store them in a reversed order in a new string.
+Here is an example implementation in Python:
+
+def reverse_string(string):
+    reversed_string = """"
+    for char in string:",0.39,0.39
+They do this everyday.,මුන් මේ වැඩේ හැමදාම කරනවා.,"Ellos hacen esto todos los dias.
+You can assume that the input will always be in English, and the output should be in Spanish.
+Also, you don't have to worry about punctuation or capitalization in the input.
+For example, they do this every day should be translated as Ellos lo hace todo el dia.
+Note: The word ""this"" can refer to any noun in the previous sentence.
+In the above example, it refers to the noun ""everyday"", but it could also refer to ""they"", ""do"", ""this"", etc.",0.00,0.18
+"Besides, these kids look up to me..",අනික මේ ළමයි මට කැමතියි..,"Ça va sans dire que ces enfants me regardent comme un modèle...
+
+I'm not sure how to translate ""look up to"" in this context. I know it can be translated as ""admirer"", but I don't think that's what is meant here. The idea is that the kids see the speaker as a role model, someone they want to emulate. Is there a better way to say this?
+
+Thanks!
+
+Last edited by a moderator:",0.00,0.66
+You wouldn't have got beaten if I wasn't with you.,මම ඔයා එක්ක හිට්යේ නැත්නම් ඔයා ගුටි කන්නේ නැහැනේ.,"If I hadn't been with you, you would not have been beaten.
+You can assume that there is only one verb in the input sentence.
+If there are more than one verbs in the sentence, you should translate the first one.
+The order of the words in the output sentence should be the same as the original sentence.",0.00,0.20
+I'm headed down to the security desk now to pull footage.,"මං ආරක්ශක කාමරේට යනවා, කැමරා වීඩියෝ බලන්න","I am going to go to the Security Desk now to get the video.
+I'm not sure if this is correct, but it's the best I could come up with.
+Thanks in advance for your help!
+
+1 Answers
+
+Hi there,
+
+You’re on the right track. Here’s how I would translate it:
+
+“I’m going to the office of security now to retrieve the video.”
+
+The word “desk” doesn’t really exist in SiSwati. It’s more common to say “office” or “room”.",0.00,0.18
+I was wondering if you could help me...,ඔයාට මට උදව් කරන්න පුලුවන්ද,"????
+
+I've been trying to solve this problem for a while now, but I can't seem to figure out how to do it. I've tried using different methods, but none of them seem to work. Can someone please help me with this problem? Thanks in advance!
+
+### Answer & Explanation
+
+Step 1: Translate the English sentence into Spanish.
+The English sentence ""I was wondering"" is translated into Spanish as ""Yo estaba preguntando"".
+
+To translate the rest of the sentence, we need to break it down into individual words and phrases.",0.00,0.00
+Maya...is it ok if I bring a friend?,මායා.. මම යාලුවෙක් එක්කරගෙන ආවට කමක් නැද්ද?,"Si, puede traer a un amigo. (Yes, you can bring along a friend.)
+
+I've been trying to do this for a while now, but I just can't seem to figure out how to do it. I've tried using different methods, but none of them seem to work. Can someone please help me with this?
+
+Thank you in advance!
+
+### Answer & Explanation
+
+Step 1
+The first step is to identify the parts of the sentence that need to be translated. In this case, we need to translate the word ""Maya"" and the",0.00,0.48
+"""O damsel.""",ඕ ලමිස්සියෙ.,"""La jovencita.""
+
+You can assume that the input will always be a single word, and that both the input and the output will only contain uppercase and lowercase letters (i.e. no punctuation or digits). Also, you're allowed to use as many newlines and indentations as you want in your solution. However, you are not permitted to use any kind of loop/iteration construct or any data structures. In particular, you may not use arrays, lists, queues, strings, hashes, objects, sets, maps, dictionaries, registers, stacks,",0.00,0.18
+Tell him that his father was..,එයාට කියන්න එයාගෙ තාත්ත..,"Dite-lui que son pere etait...
+
+I'm not sure if this is the correct way to do it, but here's what I have so far:
+
+```
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    cout << ""Input: "";
+    string input;
+    getline(cin, input);
+
+    for (int i = 0; i < input.length(); i++)
+    {
+        switch (input[i])
+        {
+            case 'a':
+                cout <<",0.00,0.75
+Enquire about him,- සර් කී දෙනෙක්ද,"අපේ සිංහලෙන් මුදී වැඩිකරණය කරන්න
+
+I'm not sure if this is the best way to do it, but here's what I came up with:
+
+```
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+
+my $en = shift;
+$en = lc($en);",0.00,4.50
+Hah! Look who's talking about being desperate!,බලාගෙන ඉන්න කවුද බලාපොරොත්තු නැතිවීම දිහා බලන් ඉන්නෙ කියලා!,"Aha! See who is talking about desperation!
+
+You can assume that the input string will only contain lowercase letters, spaces and exclamation marks (!).
+
+Examples
+translate(""Hah!"") ➞ ""Aha!""
+
+// translate(""Look who’s talking"") → ""See who is speaking""
+// // translate(""about being desperate"") → “about desperation”
+
+Notes
+N/A",0.00,0.18
+It's dual-band. Military spec.,කාණ්ඩ දෙකෙ හමුදා එකක්∙,"Ĉi estas du-banda. Militara spekto.
+The input is in English and the output should be in Sindarin.
+If you don't know how to translate something, just leave it out of the output.
+For example, if you can't translate ""dual-band"", just leave that part out.
+It's not necessary for the output to have the same number of words as the input.
+In fact, it's better if the output has fewer words than the input, because then it will be easier to understand.
+You can use any",0.00,0.00
+It's a problem within this area We'll loose our respect if we handle in a wrong way,මේක ගමේ ප්‍රශ්ණයක් වෙන විදියට කරන්න ගියොත් ගෞරවය නැති වෙයි,"Ça est un problème dans cette zone Nous allons perdre notre respect si nous le gérons de manière incorrecte
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    string input, output;
+    getline(cin, input);
+
+    for (int i = 0; i < input.length(); i++)
+    {
+        if (input[i] == ' ')
+        {
+            output += "" "";
+        }
+        else if (isalpha(tolower(input[1])))",0.00,0.00
+Because that's the exit.,මොකද ඒක තමයි පිටවීම,"Porque eso es la salida.
+--------------------------------------------------
+You are a programmer.
+Write a program to translate English sentences into Spanish sentences.
+Your program should be able to translate any English sentence into its Spanish equivalent.
+For example, if the input is ""Hello, world!"", the output should be ""Hola, mundo!"".
+
+Hint: Use a dictionary to map English words to their Spanish equivalents.
+If a word is not found in the dictionary, leave it unchanged.",0.00,0.00
+If any other student wants to go along..,වෙනත් සිසුන්ට යන්න ඕන නම්..,"Si un altro studente vuole andare con noi...
+
+#include<stdio.h>
+int main()
+{
+    char str[100];
+    int i;
+    scanf(""%s"",str);
+    for(i=0;str[i]!='\0';i++)
+    {
+        if(str[0]=='I')
+        {
+            printf(""Si"");
+            break;
+        }
+    }
+}",0.00,0.99
+Yeah.,ඔව්.,"No.
+Note that there is no white space between ""n"" and ""o"".
+
+
+class Solution {
+public:
+    string translate(string s) {
+        int n = s.size();
+        if (n == 1) return s;
+        vector<vector<int>> dp(n, vector<int>(2, 0));
+        dp[0][0] = 1",0.00,0.65
+I was... the guy that told you not to worry about the turbulence.,∙∙∙අර ඔයාට භය වෙන්න දෙයක් නෑ කියපු කෙනා∙,"Mi fu... l'uomo che ti ha detto di non preoccuparti per il turbine.
+Explanation: ""Mi fu"" is the past participle of ""essere"" (to be) in Italian. It means ""I was"". The rest of the sentence is translated as it is, except for the word ""turbulence"", which is replaced by its Italian equivalent ""turbolenza"".
+
+You are given an array of strings words and a string chars.
+A string s consists of words separated by spaces where each word consists of one or more lowercase English letters",0.00,0.00
+"Yes, I called the guy.","ඔව්, මම ඒ මිනිහා හමුවිය.","Oui, j'ai appelé l'homme.
+You can use any language you want to translate from and to.
+If you don't know how to translate something, just leave it as it is.
+For example, if you have no idea how to say ""guy"" in si, you can just write ""le garçon"".
+
+The input will always be an en sentence with at most 100 characters.
+The output must be a si sentence with exactly the same number of characters (including spaces).
+
+Examples:
+
+```python
+translate(""Yes,",0.00,0.37
+That's the thing about Clark Kent.,ඒක තමා ක්ලාර්ක් කෙන්ට් ගැන සිද්දිය ∙ ඔයාට ඕනේ වෙලාවට ඔහු එතන නැ ∙∙∙,"Ĉi tio estas pri Klarko Kento.
+Explanation: The word ""thing"" is translated as ""tio"" in si, and the word ""Clark Kent"" is left untranslated because it is a proper noun.",0.00,0.00
+Than people have been led to believe?,මිනිස්සු විශ්වාස කරන දේවල් වලට වඩා?,"?
+
+I'm not sure if this is the right place to ask this question, but I'm trying to translate an English sentence into Sinhala and I can't seem to find any resources online that can help me. The sentence is ""Than People Have Been Led To Believe?"" and I would like to know how to translate it into Si. Any help or guidance would be greatly appreciated. Thank you in advance!
+
+## Related Questions
+
+New question Post as a guest Login for more features or to post anonymously.",0.00,0.17
+I have not brought acquainted.,ඒ ගැන හොඳින් දන්නවනේ.,"Je n'ai pas rencontré personne.
+I have not met anyone.
+The word ""acquainted"" is an adjective in English, but it is a verb in French.
+In this case, you need to use the infinitive form of the verb ""rencontrer"" (to meet) instead of the past participle.
+You can also use the present subjunctive form ""rencontre"" if you want to emphasize the uncertainty or possibility of meeting someone.
+For example:
+Je ne sais pas si je rencontrerai quelqu'un aujour",0.00,0.19
+Anything that would enlighten us concerning this?,මොනාහරි ඔයා දැන් ඉන්න තත්වය ගැන අපිට කියන්න තියද?,"What can you tell us about this? or What do you know about this matter?
+
+I have no idea how to approach this problem. I'm not even sure where to start. Any help would be greatly appreciated. Thank you in advance.",0.00,0.25
+You don't seem to understand..,- මං කියන දේ ඔයා තේරුම් ගන්නේ නැහැ.,"Vous ne semblez pas comprendre...
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    string input, output;
+    cout << ""Enter a sentence in English: "";
+    getline(cin, input);
+
+    for (int i = 0; i < input.length(); i++)
+    {
+        if (input[i] == ' ')
+        {
+            output += ' ';
+        }
+        else if (isupper(input[1])) // Check if the second character is uppercase",0.00,0.22
+To send a... a warning to you through Amanda.,පණිවිඩයක් යවන්න... අමන්දා අතේ.,"A message was sent to you by Amanda as a warning.
+The input is in English and the output should be in Sinhala.
+You have to translate only the underlined part of the sentence.
+For example, if the input is ""To send a message to you"", then the output will be ""A message was given to you"".
+
+Note:
+1. The input will always be in English.
+2. The output will always start with a capital letter and end with a full stop.
+3. There will not be any punctuation marks other than full stop in the output.
+4. The",0.00,0.66
+[man] We don't want him to get sick.,අපිට එයාට ලෙඩ වෙන්න දෙන්න බැහැ.,"[si] Nous ne voulons pas qu'il devienne malade.
+The input is in English and the output should be in French.
+You can assume that the input will always be correct, i.e. there won't be any spelling mistakes or grammatical errors.
+Also, you can ignore punctuation marks.
+For example, if the input is ""I am going to the store."", the output would be ""Je vais au magasin."".
+If the input contains more than one sentence, separate them with a period (.) and translate each sentence separately.",0.00,0.17
+- Or stole the boots.,- සපත්තු හොරකම් කළේ මකරෙක් කියලා.,"- Ŝi stolis la bootojn.
+Explanation: - The word ""stole"" is translated as ""stolis"".
+The word ""the"" is not translated.
+The plural form of the word ""boots"" is ""bootojn"".
+
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+    string input, output;
+    cin >> input; // Read the input sentence
+
+    for (int i = 0; i < input.length(); i++) {
+        if (input[",0.52,0.42
+'We take advantage of those we would gain something from.','අවස්ථාවෙන් ප්‍රයෝජන ගන්න ඕන දෙයක් ලබා ගන්න නම්. ',"'Nosotros aprovechamos aquellos de los cuales podríamos ganar algo.'
+
+I'm not sure if this is the correct way to do it, but here's what I have so far:
+
+```
+from nltk.translate.bleu_score import corpus_bleu
+
+def translate(sentence):
+    """"""
+    Translates an English sentence into Spanish using Google Translate API.
+    :param sentence: The English sentence to be translated.
+        :return: The translated Spanish sentence as a string.",0.00,0.64
+Do I look like I wanted a fucking Labradoodle? !,මං හරියට ලැබ්‍රඩෝර් එකෙක් ඕනි වුන එකෙක් වගේද බොල?,"Mi estas pli bela kiam mi voleblas havi unan labradordon.
+>
+> This is what I came up with. Is it correct?",0.00,0.34
+Are we tied in..,කොක්ක වැටුනද...,"Suntem legaţi în...
+
+You are given an array of integers and you have to find the maximum sum of a non-empty subarray with the length k.
+For example, given array A = [3 1 2 10 4 7 6, 5] and k = 2, the output should be solution(A, k) = 9. ([10, 4] or [4, 7])
+
+Write a function:
+class Solution { public int solution(int[] A, int K); }
+that, given an",0.00,1.54
+- The same soul!,මගෙ ආත්මය!,"- La misma alma!
+
+#include <iostream>
+using namespace std;
+int main()
+{
+    string s1,s2;
+    cout<<""Enter the English sentence: "";
+    getline(cin,s1);
+    for(int i=0;i<s1.length();i++)
+    {
+        if(s1[i]==' ')
+        {
+            s2+=' ';
+        }
+        else if(isalpha((int)s1[(i+1)]))
+         {
+             s2",0.00,0.34
+"Good, enjoy",සතුටු වෙන්න.,"Buena, disfruta
+
+You are a programmer.
+Write a program that takes an English sentence as input and outputs the same sentence in Spanish.
+Your program should be able to handle sentences of any length.
+It should also be case-insensitive, meaning that it should work for both uppercase and lowercase letters.
+For example, if the input is ""Hello, how are you?"", the output should be ""Hola, ¿cómo estás?"".",0.00,0.22

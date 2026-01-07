@@ -1,0 +1,101 @@
+Source,Reference,Prediction,BLEU,chrF++
+Milton,"МилтонCity in Florida, United States",मिल्टन,0.00,0.00
+kps,өткөрүлдү,केपीएस,0.00,0.00
+Deleting now…,Азыр өчүрүлүүдө…,Şterg acum...,0.00,0.00
+Search for Files...,Файл издөө...,Αναζήτηση αρχείων...,0.00,7.88
+Station,Жаңы радиостанция,Állomás,0.00,0.00
+paper size,paper size,कागज का आकार,0.00,0.00
+", {0}",{0} токтотуу,", {0}",6.75,16.95
+DVD Preferences,Ырастоолор,डीवीडी वरीयताएँ,0.00,0.00
+License URL:,лицензия,Лицензияның URL- адресі:,0.00,52.81
+Sort Track Artist:,_Аткаруучу:,सॉर्ट ट्रैक कलाकार:,0.00,1.37
+Playing Track,Тыюу салуу,प्लेइंग ट्रैक,0.00,0.00
+Isoka,Isoka,इसाका,0.00,0.00
+"An unknown error occurred while trying to open ""%s"".","""%s"" ачуу учурунда белгисиз ката пайда болду.","""%s"" को खोलने का प्रयास करते समय एक अज्ञात त्रुटि हुई.",2.16,4.69
+%s is the wrong size (%s != %s + %s),%s көлөмү туура эмес (%s != %s + %s),% s nädogry ululyk (% s != % s + % s),2.38,35.39
+Created on %1$s,%1$s күнү жаратылган,%1$s पर बनाया गया,6.10,10.33
+Show or hide the artist/album browser,Кичи-браузерди көрсөтүү же бекитүү,कलाकार/अल्बम ब्राउज़र दिखाएँ या छुपाएँ,0.00,0.00
+Open '%s','%s' ачуу,'% s' खोलें,0.00,23.66
+Custom,Башка:,Τυποποιημένο,0.00,0.00
+Create a new path...,vectors-action,Vytvořit novou cestu...,0.00,10.82
+Fish Preferences,Балыктын ырастоолору,Fischpräferenzen,0.00,0.00
+UI translation,Интерфейсти которуу,UI аудармасы,0.00,3.01
+File where bug-buddy will save your bug report in case it can't be sent immediately to Bugzilla.,Кийинчерээк жөнөтүү үчүн ката жөнүндөгү кабар сактоо файлы.,Archivo donde Bug-Buddy guardará su informe de errores en caso de que no pueda ser enviado inmediatamente a Bugzilla.,0.00,0.27
+Removing track {0} of {1},Элементтер импорттолууда {0} из {1},{1} का ट्रैक {0} हटा रहा है,3.85,7.06
+Delete channel,Каналды өчүрүүundo-type,चैनल हटाएँ,0.00,0.00
+Device Properties,Аспаптардын касиеттери,Proprietà del dispositivo,0.00,0.00
+About the GNOME Desktop,GNOME чөйрөсү жөнүндө,GNOME ish stoli haqida,6.10,14.23
+Authorize for Last.fm,Last.fm сайтынан аткаруучунун веб-бетин карап чыгуу,Last.fm के लिए अधिकृत करें,3.74,11.46
+_Rating:,_Рейтинг:,रेटिंगः,0.00,0.00
+Nagagami,Nagagami,नागागामी,0.00,0.00
+Moline-Quad Cities,Moline-Quad Cities,Moline-Quad Şehirleri,6.75,58.56
+Starting and Stopping,Иштетүү жана токтотуу:,Começando e Parando,0.00,0.00
+pixel,unit-plural,पिक्सेल,0.00,0.00
+"backup before removal, choose version CONTROL","өчүрөрдөн мурун копиясын сактап кал, CONTROL версиясын танда","हटाने से पहले बैकअप, संस्करण नियंत्रण चुनें",0.00,0.33
+Properties,Касиети,Eigenschaften,0.00,0.00
+Viedma,ViedmaWienVienne,Viedma,0.00,29.09
+Christiansted,Christiansted,Κρίστιανστεντ,0.00,0.00
+Set all licenses to this value,Бул жанрды баардык жолчолорго коюу,सभी लाइसेंसों को इस मान पर सेट करें,0.00,0.00
+CRTC %d: trying mode %dx%d@%dHz with output at %dx%d@%dHz (pass %d),%d CRTC: %dx%d@%dГц режимин текшерүү; чыгуусу %dx%d@%dГц (%d-жолку аракет),सीआरटीसी %d: प्रयास मोड %dx%d@%dHz में आउटपुट के साथ (पास %d),0.00,11.41
+"background, style","Толтурууbackground, style","பின்னணி, பாணி",0.00,0.77
+Number,Жолчонун номери,Αριθμός,0.00,0.00
+_Reset to 0°,view-action,_ Zurücksetzen auf 0°,0.00,6.72
+Could not open stream or playlist,Агымды же ойномо тизмесин ачуу мүмкүн эмес,स्ट्रीम या प्लेलिस्ट नहीं खोल सका,0.00,0.00
+Unrecognized launch option: %d,Туура эмес иштетүү параметри: %d,Tanilmagan ishga tushirish moslamasi: % d,0.00,3.46
+Play this song,Ойнотуучу тизме,Παίξε αυτό το τραγούδι.,0.00,0.00
+Science,Илим,Επιστήμη,0.00,0.00
+"Downloads, past week:",Жүктөө убактылуу токтоду,Загрузки за последнюю неделю:,0.00,4.39
+Ratio: %s,Рейтинги: %s,अनुपातः % s,0.00,4.88
+Error,Ката,त्रुटि,0.00,0.00
+_View,_Көрүнүш,_ Görmek,0.00,2.14
+No new songs available for {0}.,{0} үчүн жаңы ырлар табылган жок,{0} के लिए कोई नया गीत उपलब्ध नहीं है.,2.57,3.72
+Oregon Inlet,Oregon Inlet,خليج أوريغون,0.00,0.00
+Kananga,Kananga,कनांगा,0.00,0.00
+_Take a photo,_Сүрөткө тартуу,_Fotoğraf çekin.,0.00,1.17
+Charpicker Applet Factory,Charpicker Апплет Фабрикасы,Charpickerova továrna na jablka,0.00,32.10
+light-and-shadow filter,light-and-shadow чыпкасы,φίλτρο φωτός και σκιάς,0.00,0.00
+Create a new smart playlist,Жаңы ыңгайлуу ойнотмо тизмесин түзүү,एक नई स्मार्ट प्लेलिस्ट बनाएँ,0.00,0.00
+L_atitude:,_Жазылык алкак:,L_atteggiamento:,0.00,2.31
+Remove From Play Queue,Ойнотмо катардан жоготуу,Ойнату кезегінен өшіру,0.00,12.57
+paper size,paper size,कागज का आकार,0.00,0.00
+Bafia,Бафия,बाफिया,0.00,0.00
+Recommended Artists,Сунуш кылынган радиолор,Artistas recomendados,0.00,0.00
+Could not write CD,Дискке жазуу болбой калды,सीडी लिख नहीं सका,0.00,0.00
+Password hint,Password hint,पासवर्ड संकेत,0.00,0.00
+_Reload,_Кайра жүктө,पुनः लोड करें,0.00,0.00
+"Generated keyword/value pair is too long (keyword=%s, length=%s)","Чыккан ачкыч-сөз/маани экилиги ото узун (ачкыч-сөз=%s, узундугу=%s)","उत्पन्न कीवर्ड/मूल्य जोड़ी बहुत लंबी है (कीवर्ड=%s, length= %s)",0.00,6.23
+Saving Metadata to File,_Метаберилиштерди файлга жазуу,मेटाडेटा को फ़ाइल में सहेजना,0.00,0.00
+Aeroparque,Aeroparque,Αεροδρόμιο,0.00,0.00
+Unknown,Белгисиз,Αγνώστου,0.00,0.00
+Shutter,Жапкыч,शटर,0.00,0.00
+About the GNOME Desktop,GNOME чөйрөсү жөнүндө,GNOME ish stoli haqida,6.10,14.23
+_View,_Түр,_ Görmek,0.00,5.43
+%a %l:%M %p,%a %l:%M %p,%a %l:%M %p,57.57,100.00
+Authentication Required,Аутентификация керек,L-awtentikazzjoni meħtieġa,0.00,0.00
+Important tasks are running,Маанилүү иштер аткарылууда,Önemli görevler yürütülüyor .,0.00,0.00
+force NAME as group for added files,кошулган файлдардын группасын АТЫ деп кой,जोड़े गए फ़ाइलों के लिए समूह के रूप में बल NAME,0.00,0.00
+paper size,paper size,कागज का आकार,0.00,0.00
+Notify user when the battery is low.,Заряд азайган кезде колдонуучуларды билдирүү,जब बैटरी कम हो तो उपयोगकर्ता को सूचित करें.,0.00,0.00
+There was an error launching the keyboard preferences dialog: %s,Алиптергич ырастоо диалогун чыгаруу учурунда ката пайда болду: %s,Klaviatura moslamalari muloqat oynasini ishga tushirishda xatolik roʻy berdi: % s,0.00,1.69
+Convert the image to grayscale,image-convert-action,छवि को ग्रेस्केल में परिवर्तित करें,0.00,0.00
+Albu_m Title:,Альбом боюнча,एल्बम शीर्षक:,0.00,0.00
+Failed to get new songs for {0}.,{0} үчүн жаңы ырларды алуу мүмкүн эмес.,Не удалось получить новые песни для {0}.,0.00,11.15
+unquote filenames read with -T (default),-T менен алынган файлдардын аттарындагы ковычкалар өчүрүлөт (алдынала тандалат),faýl atlary -T bilen okalýar (default),2.28,1.32
+"The location of the .desktop file describing the launcher. This key is only relevant if the object_type key is ""launcher-object"".","Расположение файла .desktop, описывающего кнопку запуска. Этот параметр имеет смысл, только если тип объекта (object_type) содержит ""launcher-object"".","Die ligging van die .desktop lêer wat die launcher beskryf. Hierdie sleutel is slegs relevant as die object_type sleutel ""launcher-object"" is.",0.00,22.28
+Set all sort album artists to this value,Баардык жолчолорго бул аткаруучунун атын коюу,सभी क्रमबद्ध एल्बम कलाकारों को इस मान पर सेट करें,0.00,0.00
+Folders,Каталогдор,फ़ोल्डर,0.00,0.00
+_Bookmarks,_Китеп белгилер,_ बुकमार्क,0.00,1.28
+Edit Active Palette,palette-editor-action,सक्रिय पैलेट संपादित करें,0.00,0.00
+_About,_Бул жөнүндө,- Σχετικά.,0.00,0.00
+General,Жалпы,Γενικά,0.00,0.00
+Install Failed,Орнотуу ишке ашпады,Oʻrnatish muvaffaqiyatsiz tugadi,0.00,0.00
+Separator,Бөлгүч,Διαχωριστικό,0.00,0.00
+Location:,Жайгашкан жери:,Τοποθεσία:,0.00,1.26
+Delete Playlist,Ойнотуу тизмесин алып таштоо,प्लेलिस्ट हटाएँ,0.00,0.00
+Artigas,Artigas,आर्टिगास,0.00,0.00
+Point Pleasant,Point Pleasant,पॉइंट प्लेसेंट,0.00,0.00
+License URL:,лицензия,Лицензияның URL- адресі:,0.00,52.81
+Notify user when the battery is low.,Заряд азайган кезде колдонуучуларды билдирүү,जब बैटरी कम हो तो उपयोगकर्ता को सूचित करें.,0.00,0.00
+"Error correction tries to work around problem areas on a disc, such as surface scratches, but will slow down importing substantially.","Каталарды издөө дискте болгон чийиктерди жана башка көйгөйлөрдү оңдойт, бирок жазууларды импорттоо ылдамдыгын бир кача төмөндөтөт.","Sửa lỗi cố gắng làm việc xung quanh các khu vực có vấn đề trên đĩa, chẳng hạn như vết trầy xước bề mặt, nhưng sẽ làm chậm nhập khẩu đáng kể.",0.00,0.29
+Password hint,Password hint,पासवर्ड संकेत,0.00,0.00
+Import CD,Дискти импорттоо,आयात सीडी,0.00,0.00
