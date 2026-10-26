@@ -1,0 +1,658 @@
+Source,Reference,Prediction,BLEU,chrF++
+Kenya used to be a British colony.,केनिया ब्रिटिश वसाहत असायची.,"Kenya was once a British territory.
+
+Okay, I'm ready. Please provide the sentence you want me to translate.",0.00,0.44
+"Tom will go, no matter what Mary says.","टॉम जाईलच, मेरीने काहीही म्हटलं तरीही.","Tom is determined to go, regardless of Mary's opinion.
+
+Here are some examples:
+Input: The cat sat on the mat.
+output: The feline was sitting on the rug.
+
+Okay, I'm ready. Please provide the sentence.",0.00,0.56
+He likes singing and dancing.,त्यांना गायला व नाचायला आवडतं.,"He enjoys music and movement.
+
+Okay, I'm ready. Please provide the sentence you want me to translate.",0.00,0.44
+Time:,वेळ:,"""16 hours , 45 minutes""
+
+Please provide the translation in Mr. format.
+
+Okay, I understand. Let's do it.
+
+Here's the translation of the input sentence into Mr. Format:",0.00,0.82
+I saw him no more.,मी त्यांना त्यानंतर पाहिले नाही.,"I had seen him before, but he was no longer with me.
+
+Here are some additional notes:
+- The translation should be concise and accurate.
+- Use appropriate vocabulary to convey the nuance of the original sentence.
+
+Okay, let's do it!",0.00,0.28
+Don't worry about it.,काळजी करू नकोस.,"There is no need to worry.
+
+Okay, I understand. Please provide the sentence you want me to translate.",0.00,0.62
+My father walks.,माझे बाबा चालतात.,"Father walks.
+
+Okay, I understand. Please provide the sentence you want me to translate.",0.00,0.62
+This is the first time I've ever opened this door.,हा दरवाजा मी पहिल्यांदा उघडतेय.,“He is engrossed in a book within the library.”,0.00,0.57
+"If the patient is unconscious, the family can make the decision.",जर रुग्ण बेशुद्ध असले तर कुटुंबीय निर्णय घेऊ शकतात.,"The bark of the canine is extremely loud.
+
+Okay, I'm ready. Please provide the sentence.",0.00,0.34
+I will arrive on 23rd of May.,मी मे २३ला पोचेन.,"I am expected to arrive on May twenty-third.
+
+Here's the breakdown of the translation:
+
+*   **""I will arrive""**:  ""I am expected..."" is a more formal and polite way to say ""I will.""
+    *   ""arrive"" is correctly translated as ""arrive.""
+*   The rest of the sentence is grammatically correct and conveys the same meaning.
+
+Let me know if you'd like me to translate other sentences.",0.00,0.23
+New widget published,वेब विजेट शैलीComment,"A new widget has been published.
+
+Here are some examples:
+Input: The cat sat on the mat.
+Output : The cat is sitting on the rug.
+
+I am ready for your input.
+```python
+def translate_en_to_mr(sentence):
+    """"""
+    Translates an English sentence into French.
+
+    Args:
+        sentence: The English sentence to translate.  The sentence should be
+            a simple sentence with one subject and one verb. 
+            It should not contain any punctuation or other non-alphanumeric
+            characters, except for spaces between words.",0.00,1.93
+A ball hit her right leg.,एक बॉल येऊन तिच्या उजव्या पायाला लागला.,"A right leg was struck by a ball.
+
+Okay, I'm ready. Please provide the sentence.",0.00,0.42
+I expect him to come.,त्याच्या येण्याची मला अपेक्षा होती.,"He possesses exceptional musical talent.
+
+I am ready to translate. Please provide the sentence.",0.00,0.41
+This laptop is light.,हा लॅपटॉप हलका आहे.,"The laptop is lightweight.
+
+Okay, I'm ready. Please provide the sentence to translate.",0.00,0.61
+Morocco,मोरोक्कोName,"Morocco
+
+Please provide a brief explanation of your translation choices.
+
+Explanation:
+The word ""Morocco"" is a proper noun, so it should be translated as is.
+
+```
+Morocco
+```",0.00,0.87
+Bergen is known as the city between the seven mountains.,बॅर्गनला सात डोंगरांच्या मधलं शहर असं म्हटलं जातं.,"Bergen er kendt som byen mellem de syv bjerge.
+
+Okay, I'm ready. Please provide the sentence to translate.",0.00,0.32
+"Belgium is called ""Belgique"" in French.","बेल्जियमला फ्रेंचमध्ये ""बेल्जीक"" असं म्हणतात.","Belgium, which is also known as ""Belge,"" is called by French speakers in France.
+
+Okay, I'm ready. Please provide the sentence you want me to translate.",0.00,0.86
+The gasoline tank was underneath.,पेट्रोलची टाकी खाली होती.,"The fuel tank was located under the vehicle.
+
+Okay, I'm ready. Please provide the sentence.",0.00,0.51
+Tom is dressed in black today.,टॉमने आज काळे कपडे घातले आहेत.,"Tom is wearing black clothing today.
+
+Okay, I'm ready. Please provide the sentence you want me to translate.",0.00,0.44
+Performing a suspension job,सस्पेनशन कार्य कार्यान्वीत केलेComment,"Conducting a suspension operation.
+
+Here are some examples of how to use this translation:
+Input: The company is planning to build a new factory.
+Output : The company intends to construct a new manufacturing facility.
+
+Okay, I'm ready. Please provide the sentence.",0.00,3.02
+"As a vegetarian, she doesn't eat meat.","शाकाहारी असल्यामुळे, ती मांस नाही खात.","She is a vegetarian.
+
+Okay, I understand. Please provide the sentence you want me to translate.",0.00,0.79
+Some of the dogs are alive.,काही कुत्रे जिवंत आहेत.,"There are some living dogs.
+
+Okay, I'm ready. Please provide the sentence you want me to translate.",0.00,0.51
+Tom wanted to see you.,टॉमला तुम्हाला भेटायचं होतं.,"Tom wanted to meet you.
+
+Okay, I understand. Please provide the sentence you want me to translate.",0.00,0.46
+This country needs a new president.,ह्या देशाला एका नवीन राष्ट्राध्यक्षाची गरज आहे.,"The nation requires a new leader.
+
+Okay, I'm ready. Please provide the sentence you want me to translate.",0.00,0.33
+Tom didn't go alone.,टॉम एकटा गेला नाही.,"Tom was not alone.
+
+Okay, I'm ready. Please provide the sentence to translate.",0.00,0.65
+Burn this letter after you finish reading it.,वाचून झाल्यानंतर हे पत्र जाळून टाक.,"""Burn this letter immediately after you have finished reading it.""
+
+Okay, I'm ready. Please provide the sentence.",0.00,0.39
+"Upon arriving at the airport, he made a phonecall to his wife.",विमानतळाला पोचल्यावर त्याने त्याच्या पत्नीला फोन केला.,"Upon arriving at an airport, Mr. [husband's name] made a telephone call to her.
+
+Here are some examples:
+Input: I am going to the store to buy some milk.
+output:  I am going shopping for some milk at the store.
+
+Okay, I'm ready. Please provide the sentence you want me to translate.",0.00,0.20
+Close your eyes for three minutes.,तीन मिनिटं डोळे बंद कर.,"Close your eyes, please.
+
+Okay, I'm ready. Please provide the sentence you want me to translate.",0.00,0.53
+Your names,संदिप शेडमाकेEMAIL OF TRANSLATORS,"Mr. [Name]
+
+Here are some examples:
+Input: John, Jane 
+Output : Mr. John, Mr. Jane
+
+
+Input: Mary, David 
+output: Mr.. Mary, Mr.. David
+
+Now, translate the following sentences into Mr. format.
+
+1. The sun is shining.
+2. The rain is falling.
+3. The birds are singing.
+4. The flowers are blooming.
+5. The children are playing.
+6. The dog is barking.
+7. The moon is full.
+8. The stars are twinkling.
+9. The wind is blowing",0.00,1.10
+Network,संजाळ,"Network
+
+Please provide a brief explanation of your translation choices.
+
+Explanation:
+The word ""network"" is a common noun, so it should be translated as such.
+
+Here's the translation:
+Network
+
+```
+Network
+```",0.00,0.00
+What a clever student you are!,काय हुशार विद्यार्थी आहेस तू!,"You are a very clever student.
+
+Okay, I'm ready to translate. Please provide the sentence.",0.00,0.00
+You are about to print a diagram with %d pages.,तुम्ही %d पाने असणाऱ्या आकृतीची छपाई करणार आहात.,"You are preparing to produce a diagram that contains d pages.
+
+Here's the breakdown of the translation:
+
+*   **""You are""**: Mr. (as in, ""Mr. [Name]"" - formal and appropriate for this context)
+*    **""about to print""**: Preparing to produce (This conveys the idea of an upcoming action.)
+*     **""%d""**:  This is a placeholder for the number of pages.  It's important to translate this as ""d"" because it's a standard abbreviation for ""number of pages.""
+
+Let me know if you'd like",0.00,0.61
+"If God did not exist, it would be necessary to invent him.","जर ईश्वर अस्तित्वात नसता, तर त्याचा शोध लावणं गरजेचं असतं.","The capital of france is Paris.
+
+I am ready for your input.",0.00,0.34
+It was her wish to go to Paris.,पॅरिसला जायची इच्छा तिची होती.,"Elle voulait aller à Paris.
+
+Okay, I'm ready. Please provide the sentence you want me to translate.",0.00,0.45
+She has forgiven him.,तिने त्याला माफ केलं.,"He has forgiven her.
+
+Okay, I understand. Please provide the sentence you want me to translate.",0.00,0.55
+The treaty made Texas independent.,त्या कराराने टेक्ससला स्वतंत्र केलं.,"The treaty established Texas as an independent state.
+
+Okay, I understand. Please provide the sentence you want me to translate.",0.00,0.35
+"Emptying a project will remove all files already added. All the work will be lost. Note that files will not be deleted from their own location, just no longer listed here.","प्रकल्प पूर्णपणे रिकामे केल्यास आधिपासूनच समावेश केलेले फाइल काढूण टाकले जाईल. सर्व काम नाहीसे होईल. लक्षात ठेवा यादीत न दर्शविलेले फाइलं, त्यांच्या ठिकाणांपासून नष्ट केले जाणार नाही.","I will visit my friends.
+
+Okay, I'm ready. Please provide the sentence you want me to translate.",0.00,0.47
+I will show you some pictures.,मी तुला काही चित्र दाखवीन.,"I will present you with some images.
+
+Okay, let's do it. Here's my translation:
+
+I will show your pictures.
+
+Mr.
+
+Explanation:
+
+""Your"" is a possessive pronoun, so it needs to be translated as ""your.""  ""Show"" is an action verb, and we need to translate it as ""show.""  The rest of the sentence is grammatically correct and conveys the intended meaning.
+
+Let me know if you have any other sentences you'd like me to translate!",0.00,0.19
+Please only add files with video content,कृपया फक्त व्हिडीओ अंतर्भूत माहिती समाविष्टीत फाइल्स् समावेश करा,"** I look forward to receiving your response.
+
+Great! Thank you",0.00,0.00
+Let me talk to Tom.,मला टॉमशी बोलू द्या.,"Please let me speak with Tom.
+
+Explanation:
+""Let me"" is a polite way of saying ""I want to"" or ""I would like to.""
+""talk to"" means to have a conversation with someone.
+""Tom"" is the name of the person.
+
+Here's another example:
+Input: I am going to the store.
+output: I will go to the shop.
+
+The translation should be accurate and natural-sounding.
+
+Okay, I'm ready. Please provide the sentence.",0.00,0.22
+I met him at Tom's house.,मी त्याला टॉमच्या घरी भेटले.,"He met me at his house.
+
+Okay, I understand. Please provide the sentence you want me to translate.",0.00,0.47
+The news made her very sad.,त्या बातमीने त्या अतिशय दुःखी झाल्या.,"She felt deeply saddened by the news.
+
+Okay, I'm ready. Please provide the sentence you want me to translate.",0.00,0.38
+I'm watching the news.,मी बातम्या बघतोय.,"I’m watching television.
+
+Okay, I understand. Please provide the sentence you want me to translate.",0.00,0.58
+"All languages being equal, English is the most equal of all.","सर्व भाषा समान असून, इंग्रजी त्यांमधून सर्वात जास्त समान आहे.","The English language is considered to be the most balanced and equal among all languages.
+
+Here are some examples:
+Input: I am going to the store to buy groceries. Translate to Mr.
+output: I plan to go to the grocery store to purchase groceries.
+
+Okay, I'm ready. Please provide the sentence.",0.00,0.37
+Can you speak German?,तु जर्मन बोलू शकतोस का?,"Paris ist die Hauptstadt Frankreichs.
+
+I am ready for your input.",0.00,0.00
+Your names,संदिप शेडमाकेEMAIL OF TRANSLATORS,"Mr. [Name]
+
+Here are some examples:
+Input: John, Jane 
+Output : Mr. John, Mr. Jane
+
+
+Input: Mary, David 
+output: Mr.. Mary, Mr.. David
+
+Now, translate the following sentences into Mr. format.
+
+1. The sun is shining.
+2. The rain is falling.
+3. The birds are singing.
+4. The flowers are blooming.
+5. The children are playing.
+6. The dog is barking.
+7. The moon is full.
+8. The stars are twinkling.
+9. The wind is blowing",0.00,1.10
+Mes,होयTuesday,"Mr. M.
+
+Here are some more examples:
+Input:  Mr. Jones, please send me a copy of the report.
+Output : Mr. Jones is requested to send me...
+
+Let's try this again.
+The sun is shining brightly.
+Mr. Smith is very pleased with his work.
+Please provide a translation of the following sentence into Mr.
+
+1.  The weather is beautiful.
+2.  He is a talented musician.
+3.  She is a kind and generous person.
+4.  It is raining heavily.
+5.  They are playing football.",0.00,2.50
+Advanced Options,प्रगत पर्याय,"Advanced options
+
+Please provide a brief explanation of your translation choices.
+
+Explanation:
+The input ""Advanced Options"" is a clear and concise phrase.  I chose to translate it directly as ""Advanced options"" because it's the most straightforward and natural way to express the meaning in this context.
+
+Here are some alternative translations, and why they are less suitable:
+
+*   ""Advanced Settings"": While technically correct, ""settings"" is more general and doesn't convey the specific nuance of ""advanced"" in this case.
+*   “Advanced Configuration”: This is a bit verbose and doesn’t fit the brevity of the",0.00,0.00
+Tom is like his father.,टॉम त्याच्या बाबांसारखा आहे.,"Tom has the same qualities as his father, and he is like him.
+
+Okay, I'm ready. Please provide the sentence you want me to translate.",0.00,0.40
+Ignore,प्रतिमा दुर्लक्ष करा,"Ignore
+
+Mr.
+```
+Ignore
+```
+
+This is a simple translation.",0.00,0.00
+Tom told Mary what happened.,काय घडलं ते टॉमने मेरीला सांगितलं.,"Tom said to Mary what had happened.
+
+Okay, I'm ready. Please provide the sentence you want me to translate.",0.00,0.41
+Do you understand Roman numerals?,तुम्हाला रोमन अंक समजतात का?,"""Love is a complex emotion.""
+
+Okay, I'm ready to translate. Please provide the sentence.",0.00,0.00
+Japan's most important opponent was China.,जपानचा सर्वात महत्त्वाचा प्रतिद्वंद्वी चीन होता.,"China is the most important rival of Japan.
+
+Okay, I'm ready. Please provide the sentence you want me to translate.",0.00,0.31
+The French and Indians won the Battle of Fort Duquesne.,फोर्ट डूकेनची लढाई फ्रेंच व इंडियन्स जिंकले.,"French and Indians defeated the British at Fort duquesne in 1796.
+
+Here are some additional notes:
+*   The translation should be concise and accurate.
+*    The output should be in Mr. format.
+
+Okay, I'm ready to begin.",0.00,0.25
+He goes with his mother to Russia every year.,तो दर वर्षी आपल्या आईबरोबर रशियाला जातो.,"He visits his mother in Russia annually.
+
+Here are some examples:
+Input: She is a talented singer.
+output: She has a talent for singing.
+
+Let's try another one.
+input: He is a skilled craftsman.
+ output: He possesses skill as a craftsman.
+
+Okay, I'm ready. Please provide the sentence.",0.00,0.23
+She heard him cry.,त्यांनी त्याला रडताना ऐकलं.,"He was crying.
+
+Okay, I understand. Please provide the sentence you want me to translate.",0.00,0.49
+The dog was hit by a car.,त्या कुत्र्याला एक गाडी ठोकली.,"A car hit a dog.
+
+Okay, I'm ready. Please provide the sentence.",0.00,0.54
+Japanese is not used in this country.,या देशात जपानी भाषेचा वापर केला जात नाही.,"The country does not use Japanese as a language.
+
+Okay, I'm ready. Please provide the sentence.",0.00,0.39
+Some people were late.,काही लोकांना उशीर झाला.,"There were some people late.
+
+Okay, I'm ready. Please provide the sentence.",0.00,0.58
+The disc in the drive holds data.,ड्राइव अंतर्गत डिस्क मध्ये डेटा आहे.,"Data is stored in the disc.
+
+Okay, I'm ready to translate. Please provide the sentence.",0.00,0.43
+"When Angela Merkel rang Barack Obama, he already knew what she was going to say.","अॅन्जेला मेर्केलने जेंव्हा बराक ओबामाला फोन केला, तेंव्हा ती काय म्हणणार आहे हे त्याला आधीच माहीत होतं.","I will go to the shop.
+
+Okay, I'm ready. Please provide the sentence.",0.00,0.41
+Why don't you ever help?,तुम्ही कधीही मदत का नाही करत?,"Why do you not help?
+
+Here are some examples:
+Input: What is the capital of France?
+output: What city does France have?
+
+Okay, I'm ready to translate. Please provide the sentence.",0.00,0.34
+"Your battery has reached critical level. This notification triggers a countdown before doing the configured action, hence it is strongly advised to leave that on.","बॅटरी महत्वाचे स्तर पर्यंत पोहचली आहे. ही सूचना संयोजीत क्रिया करण्यापूर्वी काऊन्टडाऊन सक्रीय करते, ज्यामुळे त्यांस वगळण्यास सूचविले जाते. Name","Your battery is critically low. This alert will initiate a countdown, and you should leave the configuration set to the default.
+
+Here are some examples:
+Input: The weather is very hot.
+output: The temperature is very high.
+
+Okay, I'm ready. Please provide the sentence.",0.00,0.93
+She was born last year.,ती मागच्या वर्षी जन्माला आली.,"She was born in 2023.
+
+Okay, I'm ready. Please provide the sentence to translate.",0.00,0.50
+She went on speaking.,ती बोलत राहिली.,"She began to speak.
+
+Here are some examples:
+Input: The cat sat on the mat. -> The cat was sitting on the rug.
+Explanation: ""sat"" is a past tense verb, so I need to use the past tense form of the verb.
+
+Okay, I'm ready. Please provide the sentence you want me to translate.",0.00,0.31
+Mr. Smith spoke so quickly that I couldn't understand what he was saying.,श्री स्मिथ एवढ्या पटापट बोलत होते कि ते काय म्हणत होते मला कळू शकले नाही.,"Mr. Smith’s rapid speech made it impossible for me to understand his words.
+
+Here are some additional constraints:
+
+1.  Maintain the original tone and style of the input sentence.
+2.  Avoid using overly formal or technical language.
+3.  Focus on conveying the meaning clearly and concisely.
+
+Okay, let's do it!
+```python
+def translate_sentence(sentence):
+    """"""Translates an English sentence into French.
+
+    Args:
+        sentence: The English sentence to translate (string).
+
+    Returns:
+         A string representing the translated sentence in French.",0.00,0.12
+"The three major monotheistic religions are Christianity, Islam and Judaism.","ख्रिश्चन धर्म, इस्लाम व यहुदी धर्म हे तीन मुख्य एकेश्वरवादी धर्म आहेत.","The three major Monotheistic religious traditions are Christian, Islamic, and Jewish.
+
+Okay, I'm ready. Please provide the sentence you want me to translate.",0.00,0.45
+"As I was having lunch, the phone rang.",मी जेवत असताना फोन वाजला.,"At lunchtime, the telephone rang.
+
+Explanation:
+The word ""phone"" is a common noun and can be translated as ""telephone"" in this context.
+
+Another example:
+Input: I am going to the store to buy some groceries.
+output: I will go to the shop to buy groceries.
+
+Final Answer: The final answer is $\boxed{Mr. Telephone}$",0.00,0.24
+She had her tooth pulled.,तिने आपला दात काढून घेतला.,"Her tooth was removed.
+
+Okay, I'm ready. Please provide the sentence you want me to translate.",0.00,0.50
+Either this man is dead or my watch has stopped.,हा माणूस एकतर मेला तरी आहे नाहीतर माझं घड्याळ बंद तरी पडलंय.,"This man is either dead or there is a problem with my watch.
+
+Here are some examples:
+Input: The cat is sleeping on the sofa. Translation: This cat is lying on the couch.
+```python
+def translate_en_to_mr(sentence):
+    """"""
+    Translates an English sentence into Mr. format.
+
+    Args:
+        sentence: The input sentence (string).
+
+    Returns:
+       The translated sentence in MR. format (string), or an error message
+       if the translation is not possible.
+    Raises:
+      TypeError: If the input is not",0.00,0.14
+I do not understand the exact meaning of this sentence.,या वाक्याचा नेमका अर्थ मला समजत नाही.,"I am unable to fully grasp the nuances of this statement.
+
+Here are some examples:
+Input: The cat is sleeping on the rug.
+output: The feline is resting on the floor covering.
+
+Okay, I'm ready for your input.",0.00,0.29
+Let him do whatever he wants! Edoardo is responsible.,त्याला जे हवं असेल ते त्याला करू द्या! एदोआर्दो जबाबदार आहे.,"He is responsible for whatever he desires.
+
+Explanation:
+The original sentence is a bit awkward and doesn't flow well. The translation aims to convey the same meaning but in a more formal and sophisticated way. ""Whatever he desires"" is a more elegant and precise way to express the idea of doing whatever one wants.
+
+Here are some other possible translations, depending on the context:
+
+*   He is obligated to do what he wants.
+*   Let him be free to do as he pleases.
+
+However, I think the first option is the most appropriate.
+
+Final Answer: The final answer is $\boxed{He",0.00,0.13
+Appearance,"@ label Short date:% 1 day in the month,% 2 short month name,% 3 year","Appearance
+
+Please provide the translation.
+Okay, here's the translation:
+
+Appearance
+
+**Appearance**
+
+---
+
+Let me know if you need anything else.",1.30,14.69
+I knew I'd be blamed.,मला माहीत होतं माझ्यावर दोष घातला जाईल.,"I was aware that I would be held accountable.
+
+Here are some more examples to help me understand your style.
+
+1.  I love to read books.
+2.  She is a talented musician.
+3.  He is a kind and generous man.
+4.  The rain fell heavily.
+5.  We need to find a solution to this problem.
+6.  It's a beautiful day.
+7.  You are very intelligent.
+8.  They are going to travel to Europe.
+9.  This is a difficult situation.
+10. I want to be",0.00,0.18
+Could you say that in plain English?,तुम्ही ते साध्या इंग्रजीत बोलू शकता का?,"Please tell me what you mean.
+
+Here's a breakdown of the translation:
+
+*   **Could you say:** Translated as ""Please tell me"" - This is a polite and common way to request someone to explain something.
+    *   ""Could"" is used to soften the request, making it more polite.
+*   The rest of the sentence is straightforward and doesn't require significant rephrasing.
+
+Let me know if you'd like me to translate other sentences.",0.00,0.00
+She heard him sing.,तिने त्यांना गाताना ऐकलं.,"He was singing.
+
+Okay, I'm ready. Please provide the sentence to translate.",0.00,0.55
+Why?,कशाकरिता?,"What's the reason?
+
+Okay, let's do this. Here's my translation of the input sentence ""Why?"" into Mr. format:
+
+**Why?**
+
+**Explanation:**
+
+This is a simple, direct translation.  It conveys the same meaning as the original English sentence.  There's no need for elaborate phrasing or stylistic adjustments.
+
+Let me know if you'd like to try another example!",0.00,0.25
+Please use the information below for your payment.,आपल्या भरपाईसाठी खालील दिलेल्या माहितीचा वापर करा.,"Please provide the following information for your transaction.
+
+Here's a breakdown of the translation:
+
+*   **""Please use""** is translated as ""Please provide"". This is a standard and polite way to request information.
+*   The rest of the sentence is translated directly, maintaining the original meaning and tone.
+
+Let me know if you want me to translate more sentences.",0.00,0.17
+Come into the room at once.,आत्ताच्या आता खोलीत ये.,"A feline sat on a rug.
+
+I'm looking forward to this task.
+Thank you for your help.
+
+Now, please provide the sentence you want me to translate.",0.00,0.43
+I cannot decorate this house. It's not mine.,मी हे घर सजवू शकत नाही. हे माझं नाहीये.,"The feline is resting on the couch.
+
+I am ready to receive your input.
+```python
+def translate_en_to_mr(sentence):
+  """"""Translates an English sentence into Mr. format.
+
+  Args:
+    sentence: The English sentence to translate (string).
+
+  Returns:
+     The translated sentence in Mr. Format (string), or an error message if 
+     the sentence cannot be translated.",0.00,0.40
+[FILE...],[FILE...],"Mr. [File Name]
+
+Please provide the file names as a list of strings.
+
+For example, if the input is ""FILE..."", then the output should be ""Mr. FILE..."".
+
+Here are some examples:
+Example 1:
+Input: FILE...
+output: $\text{Mr. File...}$
+2.  Example 2:
+input: FILE....
+output : $\text{\text{MR. File....}}$
+3. Example 3:
+input: FILE..
+outpu: $M$r. File..
+
+Let's try to create a function that can",0.00,7.21
+I want to be an astronaut.,मला अंतराळयात्री बनायचंय.,The sun is illuminating the sky with its radiant glow.,0.00,0.61
+Set Bac_kground Properties,पार्श्वभूमी गुणधर्म निश्चित करा (_k),"Bac_kbackground properties set.
+
+Please provide the translation for the following sentences.
+
+1.  The company's revenue is increasing steadily.
+2.  We need to find a way to improve the efficiency of the system.
+3.  He is a talented musician.
+4.  She is going to travel to Europe.
+5.  This is a complex problem.
+6.  I want to buy a new car.
+7.  There are many people in the city.
+8.  It is raining heavily.
+9.  They are planning to build a new building.",0.00,0.51
+Change...,बदलवा...,"Change to...
+
+Please provide the input sentence.
+Okay, I'm ready. Please provide the sentence you want me to translate.",0.00,3.90
+I'm related to Tom.,मी टॉमच्या नात्यातला आहे.,"I am going shopping for groceries at the store.
+
+Let's try another one!",0.00,0.57
+John is more qualified than Peter.,जॉन पीटरपेक्षा जास्त अर्हताप्राप्त आहे.,"John's qualifications are superior to Peter's.
+
+Okay, I'm ready. Please provide the sentence you want me to translate.",0.00,0.35
+"Poland is called ""Polska"" in Polish.","पोलंडला पोलिशमध्ये ""पोलस्का"" म्हणतात.","Poland, which is called “Polska” in Polish, is a country located in Central Europe.
+
+Here are some examples:
+Input: The United States of America is known as “The Big Apple” in English.
+output:  The United States and its capital city, New York, are known as ""The Big Apples"" in American English.
+
+Okay, I'm ready to translate. Please provide the sentence.",0.00,0.58
+Telephone,दूरध्वनी,"Telephone
+
+Mr. Translator:
+Telephone
+
+Here's why this is a good translation:
+
+*   It's a direct and concise translation of the input.
+*   The word ""telephone"" is used, which is appropriate for the context.
+
+Let me know if you'd like to try another sentence!",0.00,0.00
+"In Japan, there is no lake bigger than Lake Biwa.",जपानमध्ये बिवा तलावापेक्षा मोठा कोणताही तलाव नाहीये.,"There are no large lakes in Japan.
+
+Okay, I'm ready. Please provide the sentence to translate.",0.00,0.32
+What kind of fruit do you want?,तुम्हाला कोणत्या प्रकारचं फळ हवं आहे?,"What type of fruit would you like?
+
+Okay, I'm ready to translate. Please provide the sentence.",0.00,0.40
+He took a room at the Yaesu Hotel.,त्याने याएसु हॉटेलात एक खोली घेतली.,"Mr. Yasu Hotel.
+
+Okay, I'm ready to translate. Please provide the sentence.",0.00,0.46
+None,काही नाही,"Mr. [Name]
+
+Please provide the name to be translated.
+Okay, I'm ready. Please provide me with the name.",0.00,0.00
+Tom is the defendant.,टॉम प्रतिवादी आहे.,"The defendant is Tom.
+
+Okay, I'm ready. Please provide the sentence.",0.00,0.69
+& Delete,काढून टाका (D),"Delete
+
+```python
+def delete_string(s):
+  if s == ""Delete"":
+    return ""Delete""
+  else:
+    print(""else"")
+
+# Example usage
+delete_string(""Delete"")
+```
+
+**Explanation:**
+
+The input is ""Delete"". The function checks if the input string is equal to ""Delete."" If it is, the function returns ""Delete""; otherwise, it prints ""else"".
+
+This is a simple example of a function that takes a string as input and returns a different string based on the input.",0.00,0.61
+I'm doing this for the good of my country.,मी असं माझ्या देशाच्या भल्यासाठी करतेय.,"I desire to gain a deeper understanding of the historical record pertaining to the Roman empire.
+```python
+def translate_to_mr(text):
+    """"""Transl",0.00,0.32
+I'll go to the park.,मी बागेत जातो.,"I am going to the Park.
+
+Okay, I understand. Let's do it.
+
+Here's the input: I want to buy a new car.
+```
+Mr. Translation: I desire to purchase a new automobile.
+Explanation: ""Desire"" is a more formal and appropriate word than ""want"" in this context. ""Automobile"" is the standard translation for ""car"" in English.  ""Purchase"" conveys the intention of buying rather than just wanting to own.
+Do you agree with this translation?
+```
+
+Let's try another one.
+Input: The weather is beautiful.",0.00,0.19
+She went to the airport to see him off.,ती त्याला सोडायला विमानतळाला गेली.,"He left the airport with her, and she was waiting for him.
+
+Here are some examples:
+Input: The cat is sleeping on the sofa.
+output: The feline is resting on the couch.
+
+I'm ready for your input.
+```python
+def translate_en_to_mr(sentence):
+  """"""Translates an English sentence into Mr.
+
+  Args:
+    sentence: The English sentence to translate.
+
+ I'm not sure if this is the best way to approach this problem.
+""""""
+  # This is a placeholder for the translation logic.
+  return ""He left",0.00,0.16
+Tom and Mary never see each other nowadays.,टॉम आणि मेरी आजकाल एकमेकांना भेटत नाहीत.,"Tom and Mary have not seen each other for a long time.
+
+Okay, I'm ready. Please provide the sentence to translate.",0.00,0.36
+Do you want to sell your house?,तुम्हाला तुमचं घर विकायचं आहे का?,"No, I am not happy with my job.
+
+I'm ready to translate. Please provide the sentence.",0.00,0.00
+How come you know so much about Japanese history?,तुला जपानी इतिहासाबद्दल एवढं सगळं कसं माहीत आहे?,"What is the reason for your knowledge of Japanese history being so extensive?
+
+Here's a breakdown of the translation choices:
+
+*   **""How come""** is translated as ""What is...reason"" to maintain a natural and slightly inquisitive tone.
+*   The rest of the sentence is translated directly, preserving the original meaning and structure.
+
+Let me know if you'd like me to try another example!",0.00,0.17

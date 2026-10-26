@@ -1,7 +1,7 @@
 from nltk.translate.bleu_score import sentence_bleu, SmoothingFunction
 from sacrebleu.metrics import CHRF
 from sklearn.metrics import f1_score
-#from rouge_score import rouge_scorer
+from rouge_score import rouge_scorer
 
 def compute_em(predictions, references):
     """Exact Match accuracy in percentage."""
@@ -51,15 +51,15 @@ def compute_f1(predictions, references):
 
     return 100.0 * f1_score(y_true, y_pred, average="micro")
 
-#def compute_rouge(predictions, references):
-#    """ROUGE-1 and ROUGE-L F-measure scores in percentage."""
-#    scorer = rouge_scorer.RougeScorer(['rouge1', 'rougeL'], use_stemmer=True)
-#    scores = [scorer.score(ref, pred) for pred, ref in zip(predictions, references)]
-#
-#    rouge1 = sum(s['rouge1'].fmeasure for s in scores) / len(scores)
-#    rougeL = sum(s['rougeL'].fmeasure for s in scores) / len(scores)
-#
-#    return {"ROUGE-1": 100.0 * rouge1, "ROUGE-L": 100.0 * rougeL}
+def compute_rouge(predictions, references):
+    """ROUGE-1 and ROUGE-L F-measure scores in percentage."""
+    scorer = rouge_scorer.RougeScorer(['rouge1', 'rougeL'], use_stemmer=True)
+    scores = [scorer.score(ref, pred) for pred, ref in zip(predictions, references)]
+
+    rouge1 = sum(s['rouge1'].fmeasure for s in scores) / len(scores)
+    rougeL = sum(s['rougeL'].fmeasure for s in scores) / len(scores)
+
+    return {"ROUGE-1": 100.0 * rouge1, "ROUGE-L": 100.0 * rougeL}
 
 def compute_accuracy(predictions, references):
     """Simple accuracy in percentage."""
@@ -78,4 +78,3 @@ def compute_all_metrics(predictions, references):
         "acc": compute_accuracy(predictions, references),
         **rouge
     }
-

@@ -1,0 +1,833 @@
+Source,Reference,Prediction,BLEU,chrF++
+paper size,paper size,"The paper size is 8.5 x 11 inches.
+
+Okay, I'm ready to translate. Please provide the sentence.",3.44,32.21
+Warning,خبرتيا,"Warning
+
+This is a warning message.
+The warning will be displayed on the screen.
+It is important to pay attention to the warning.
+
+Here's a more detailed explanation of the translation:
+
+*   ""Warning"" is a standard English term for a warning.
+*   The output should be a simple, direct translation of the input.
+
+Let me know if you have any questions.
+```python
+def translate_en_to_ps(text):
+    """"""
+    Translates an English sentence to Polish.
+
+    Args:
+        text: The English text to translate (string).",0.00,0.00
+translator-credits,Zabeeh Khan <zabeehkhan\@gmail\.com> The Pathanisation Project <pathanisation\@googlegroups\.com>%d hit(s) on this page,"1234567890
+
+```python
+def translate_string(text, credits):
+  """"""
+  Translates a string to a specified number of digits.
+
+  Args:
+    text: The string to translate.
+    credits: The number of decimal places to use for the translation.
+                Defaults to 10 if not provided.
+
+      Returns:
+        The translated string.
+  
+  Raises:
+     TypeError: If the input is not a string or credits is not an integer.
+     ValueError: If credits is less than or equal to 0.",0.47,15.11
+Suggestions,وړانديزونهCheck Spelling,"** Ideas spark creativity and innovation.
+
+---
+
+Do you want me to try another one?",0.00,5.31
+mb,ميليبارهmillibars of mercury,"mbs
+
+Please provide a brief explanation of your translation choices.
+
+Explanation:
+The input ""mb"" is a simple abbreviation for ""mbs"". Therefore, the translation is simply to return the original abbreviation.
+
+Final Answer: mbs",0.86,5.95
+Korean,کورياييName,"3.0
+  Calculate average of numbers in a list with more than 5 numbers
+  output: 6",0.00,2.34
+Address Book,پته کتاب,"Contact List - Phone numbers and email addresses.
+
+Okay, I'm ready. Please provide the input sentence.",0.00,0.00
+file chooser,دوتنه ټاکونکی,"File Explorer
+
+**Explanation:**
+The input is ""file chooser"" and the output is ""File Explorer"". This is a simple translation based on the meaning of the input.
+
+Now, I'm ready for your input. Please provide the sentence you want me to translate.",0.00,0.00
+Lay_out,هډو_انه,"lie-out
+
+
+Let's try to create a consistent translation for the given input.
+The input is ""Lay_out"".
+The output should be ""lay-out"".
+
+```python
+def translate_sentence(sentence):
+  """"""Translates an English sentence to French.
+
+  Args:
+    sentence: The sentence to translate (string).
+
+  Returns:
+     The translated sentence (string)",0.00,0.28
+does not start with,نه پېليږي په,"does not begin with
+
+Here are some examples:
+Input: starts with
+output: begins with
+input: starts
+output : begins with
+
+```python
+def translate_en_to_ps(sentence):
+  """"""Translates an English sentence to PS.
+
+  Args:
+    sentence: The input sentence in English (string).
+
+  Returns:
+      The translated sentence in PS (string) or an error message if the translation is not possible.
+  Raises:
+     TypeError: If the input is not a string.
+   """"""
+  if not isinstance(sentence, str):",0.00,0.00
+paper size,paper size,"The paper size is 8.5 x 11 inches.
+
+Okay, I'm ready to translate. Please provide the sentence.",3.44,32.21
+<account\-id>,ګڼون,"<account-id>
+
+This is a simple example of how to translate an account ID into a string.
+Here's another example:
+Input: 1234567890
+Output : 1,23,45,67,89,0
+
+```python
+def translate_account_id(input_string):
+    """"""
+    Translates an input string to a string representation of the account ID.
+
+    Args:
+        input\_string: The string to translate. (e.g., ""12"" or ""abc"")
+
+    Returns",0.00,0.00
+keyboard label,ړنګولkeyboard label,"Keyboard label
+
+Please provide the input and output.
+Okay, here's the translation of ""keyboard label"" into Python:
+
+```python
+def translate_keyboard_label(input_string):
+  """"""Translates the input string to the keyboard label.""""""
+  return input_string.split(""keyboard label"")[0]
+
+# Example usage:
+input_text = ""Keyboard label""
+output_result = translate_ clavier label
+print(output)
+```
+
+**Explanation:**
+
+1.  The function `translate\_keyboard\_label` takes a string as input.
+2.  `input",0.54,10.98
+Select all text,ټوله ليکنه ټاکل,"""Select all text""
+
+This is a simple task, but it's important to be precise.
+```python
+def select_all_text(text):
+  """"""
+  This function takes a string as input and returns a string
+  that contains all the text in the input string.
+  The function does not modify the input or any of its
+  sub-components. The function is designed to be
+  simple and easy to understand. 
+  Args:
+    text: The input string to be converted to a string containing all text.
+   Returns:
+     A string that contains",0.00,0.00
+Use _Default Background,تلواله_شاليد کارول,"""A journey of a thousand miles begins with a single step.""
+
+I'm ready for your input.",0.00,0.00
+paper size,paper size,"The paper size is 8.5 x 11 inches.
+
+Okay, I'm ready to translate. Please provide the sentence.",3.44,32.21
+Keywords:,:اروييونه,"Translation
+
+1.  ""The quick brown fox jumps over the lazy dog.""
+    Translation: ""Le rapide renard brun saute par-dessus le chien paresseux.""
+
+2.  “I love to read books and enjoy the company of my friends.”
+     Translation: “J'aime lire des livres et apprécier la compagnie de mes amis.”
+
+3.  ”This is a very important document for the company’s success.”
+      Translation: ”Ceci est un document très important pour le succès de l'entreprise.”
+
+4.   “The sun shines brightly in the morning.”
+       Translation",0.00,0.19
+Keywords:,:اروييونه,"Translation
+
+1.  ""The quick brown fox jumps over the lazy dog.""
+    Translation: ""Le rapide renard brun saute par-dessus le chien paresseux.""
+
+2.  “I love to read books and enjoy the company of my friends.”
+     Translation: “J'aime lire des livres et apprécier la compagnie de mes amis.”
+
+3.  ”This is a very important document for the company’s success.”
+      Translation: ”Ceci est un document très important pour le succès de l'entreprise.”
+
+4.   “The sun shines brightly in the morning.”
+       Translation",0.00,0.19
+Zip (.zip),زېپ (.zip),"This is a common pangram.
+
+Okay, I'm ready for the next input.",0.00,2.91
+Add the current launcher to favorites,اوسنی پېلوونکی خواپورو ته زياتول,"Set the temperature for 20 degrees Celsius.
+
+Okay, I'm ready. Please provide the input sentence.",0.00,0.00
+paper size,paper size,"The paper size is 8.5 x 11 inches.
+
+Okay, I'm ready to translate. Please provide the sentence.",3.44,32.21
+Close Window,کړکۍ بندول,"Close the window.
+
+Okay, I understand. Let's do it.
+
+Here's the translation of the input sentence ""Close Window"" into ps:
+
+**Close the window.**
+
+Let me know if you need anything else.",0.00,0.00
+_View,ليد_,"<a href=""https://www.example.com/view"" target=""_blank"">View</a>",0.00,1.62
+Importing '%s',دننول کيږي `%s',"import %s
+
+```python
+def import_string(input_string):
+  """"""
+  This function takes a string as input and returns a string
+  that is equivalent to the input string.
+  For example:
+  import_string(""hello"") == ""hello""
+  # This is a demonstration of the function
+  print(""Importing '%s'"" % input_string)
+  return ""Hello""
+```",0.00,1.89
+%.1f GB,%.1f ګ ب,"1.00 GB
+
+The input is a floating-point number representing the size of a file in gigabytes.
+The output should be a string representation of the size in GB.
+For example, if the input is 123.456789, the output will be ""1.23 GB"".
+
+```python
+def translate_size(size):
+  if size >= 1:
+    return str(size / 1000) + "" GB""
+  else:
+      return size
+```
+
+Now, I need to translate the following sentences into ps",0.00,0.73
+_Edit,سمون_,"_Edit
+```python
+def edit(input_string):
+  """"""
+  This function takes an input string and returns a new string
+  with the first word of the input string edited.
+  For example:
+  edit(""Hello"") == ""Helo""
+  print(edit(""World""))
+  ```
+The code is well-structured and easy to understand. The function's purpose is clear, and the implementation is concise.
+```cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+  cout << ""Hello"" << endl;
+  return",0.00,0.26
+Table Cell,لښتيال خونه,"The table cell with coordinates (16, 8) is located.
+
+Let's try to create a system that can handle more complex sentences.
+
+```python
+def translate_table_cell(sentence):
+    """"""
+    Translates a sentence containing ""Table Cell"" into a
+    description of the table cell's location.
+
+    Args:
+        sentence",0.00,0.00
+Sent,لېږلي,"The swift brown fox leaps over the indolent dog.
+Okay, I understand. Please provide the sentence you want me to translate.",0.00,0.00
+Room:,کوټه:_,"""The kitchen is a practical and efficient space for preparing meals.""
+
+2. Input 4:
+     Input 5:
+ ...
+
+Let's aim for concise and natural-sounding translations.
+```python
+def translate_sentence(sentence):
+  """"""Translates a sentence into a descriptive phrase.""""""
+  if sentence == ""Room"":
+    return ""The",0.00,0.62
+paper size,paper size,"The paper size is 8.5 x 11 inches.
+
+Okay, I'm ready to translate. Please provide the sentence.",3.44,32.21
+View,ليد,"""Hello, world!""
+
+Now, let's try to build a more complex system.
+We need to consider
+the context of the sentence.
+For example, in the sentence ""The quick brown fox jumps over the lazy dog,""
+the word ""quick"" refers to the speed of the fox.
+In this case, the translation",0.00,0.00
+December,ډېسمبر,"12
+
+Okay, I'm ready to translate. Please provide the sentence.",0.00,0.00
+Load Buddylist...,ملګری فهرست هسکول...,"Load Buddystat.
+
+Please provide a brief explanation of your translation choices.
+
+**Explanation:**
+
+The input ""Load Buddylist..."" is a short, descriptive phrase.  The most logical translation is to focus on the specific data or metric related to the load management system.  ""Buddystat"" is a commonly used term for this type of data in the context of load monitoring and management.",0.00,1.29
+List of Custom Headers,دوديزې سريزې,"A list of custom headers, each with a unique identifier and a description of the header's purpose.
+
+Here's an example:
+Input:  ""The quick brown fox jumps over the lazy dog.""
+Output : ""A list of common headers, such as 'The', 'quick', 'brown', 'fox', 'jumps', 'over', 'the', 'lazy', 'dog'.""
+
+Okay, I'm ready. Please provide the input sentence.",0.00,0.00
+Save Image,انځور و ساته,"Convert Audio to Speech
+
+The translation should be concise and accurate.
+```python
+def translate_en_to_ps(text):
+  """"""Translates an English sentence to PS.
+
+  Args:
+    text: The English sentence (string).
+
+  Returns:
+     A string representing the PS translation of the sentence, or None if
+     the translation cannot be determined.
+  Raises:
+      TypeError: If the input is not a string.
+      ValueError: If there is",0.00,0.00
+Paste tasks from the clipboard,له ټوټه ډړې دندې سرېښل,"""Please paste the tasks from your clipboard.""
+
+Okay, I'm ready to translate. Please provide the sentence.",0.00,0.00
+Shadow Type,د سيوري ډول,"The shadow type is a dark, mysterious, and unsettling phenomenon.
+
+Okay, I'm ready to translate. Please provide the sentence.",0.00,0.00
+Show in folder,په توکپټه کې ښودل_,"""Display in folder""
+
+Okay, I'm ready. Please provide the sentence you want me to translate.",0.00,0.00
+_Quit,بندول_Stock label,"quit
+
+```python
+def quit(input_string):
+  if input_string == ""quit"":
+    return ""quit""
+  else:
+    print(""Invalid input"")
+```",0.00,4.11
+paper size,paper size,"The paper size is 8.5 x 11 inches.
+
+Okay, I'm ready to translate. Please provide the sentence.",3.44,32.21
+View,ليد,"""Hello, world!""
+
+Now, let's try to build a more complex system.
+We need to consider
+the context of the sentence.
+For example, in the sentence ""The quick brown fox jumps over the lazy dog,""
+the word ""quick"" refers to the speed of the fox.
+In this case, the translation",0.00,0.00
+Font,ليکبڼه,"A bright sun is a source of warmth and light.
+
+Okay, I'm ready for the next sentence.",0.00,0.00
+Failed to create file '%s': %s,%s :دوتنې جوړولو کې پاتې راغی '%s' د,"""The operation failed to create the file specified in the path '%s'.  Please check the permissions of the file.""
+
+Here's a breakdown of the translation:
+
+*   **Failed to:**  ""Failed to"" - This is a standard and clear translation.
+*    **create file:** ""create file"" -  This is a direct translation, assuming the context is related to file creation.
+ *   **'%s':**  This represents the path to the file.  The `%s` is a placeholder that will be replaced with the actual file path.  It's important to note that this is",0.00,2.22
+Size,کچ,"He's engaged in a new endeavor.
+
+Your task is",0.00,0.00
+Save the edited search,سمول شوی لټون ساتل,"Add an additional item to your shopping cart.
+
+
+Input: Change the color of the image
+ Output : Change the image's color.
+
+Okay, I'm ready. Please provide the sentence.",0.00,0.00
+The Y position of the assistant window.,.ځايونه Y د ارې کړکۍ,"The assistant window's Y position.
+
+Okay, I'm ready. Please provide the sentence you want me to translate.",1.49,1.09
+Arj (.arj),ارج (.arj),"[Arj]
+
+```python
+import re
+
+def translate_arj(input_string):
+    """"""
+    Translates an arj file to a ps file.
+    Args:
+        input_str: The input string to translate.
+            The input string is expected to be a single-line
+            representation of a file name, such as ""Arj"".
+    Returns:
+         A ps file containing the translated string.
+             If the input string cannot be converted to a valid arj filename,
+             return an empty ps file and print an error message.
+     """"""",0.00,1.97
+150%,۱۵۰٪,"'The system has a low processing rate.'
+
+I am ready for your input.
+Okay, here's the input: 75%
+Please provide the translation.",0.00,0.00
+Dutch keymap,ډچ کيلېنخچه,"""El veloz zorro marrón salta sobre el perro perezoso.""",0.00,0.00
+translator-credits,Zabeeh Khan <zabeehkhan\@gmail\.com> The Pathanisation Project <pathanisation\@googlegroups\.com>,"1234567890
+
+```python
+def translate_string(text, credits):
+  """"""
+  Translates a string to a specified number of digits.
+
+  Args:
+    text: The string to translate.
+    credits: The number of decimal places to use for the translation.
+                Defaults to 10 if not provided.
+
+      Returns:
+        The translated string.
+  
+  Raises:
+     TypeError: If the input is not a string or credits is not an integer.
+     ValueError: If credits is less than or equal to 0.",0.47,14.06
+Go to %s on file “%s”,ته ورتلل %s دوتنه کې “%s” په,"Go to the file ""File Name"" on the server.
+
+Here's a breakdown of the translation:
+
+*   **Go to:** This is a common and direct translation of ""Go to"".
+*    **%s:**  This is a placeholder for the file name.  It's important to use the `%s` format specifier when working with strings in PowerShell.
+* **on file “**: This part translates the ""on file"" instruction.  The `“` is used to enclose the string within double quotes, which is necessary for PowerShell to interpret it as a literal string.
+
+Let me",0.00,1.20
+Number of seconds until timer stops,د مهالګر تر تمېدو د سېکېنډونو شمېر,"The meeting will start in 20 minutes.
+```python
+def translate_sentence(sentence):
+  """"""Translates an English sentence into French.
+
+  Args:
+    sentence: The English sentence to translate (string).
+
+  Returns:
+     The translated sentence (string) or None if translation is not possible.
+  */
+  # This is a placeholder for the actual translation logic. You'll need to replace this with your own
+  translation_dict",0.00,0.00
+Main Menu,اره غورنۍ,The UI design prioritizes an intuitive and user-friendly experience.,0.00,0.00
+Close,بندول_,"Close
+
+This is a simple example of how to translate an en sentence to ps.
+```python
+def translate_en_to_ps(en_sentence):
+  """"""
+  Translates an English sentence to French.
+
+  Args:
+    en_sentences: A list of English sentences to translate.
+      The function will return the translation of the first sentence in the list.
+  
+  Returns:
+     A string containing the translated sentence, or None if the input list is empty.
+   
+  Examples:
+  translate_en\_to\_ps([""Hello"", ""World""]) == """,0.00,0.20
+_Company:,:کمپنۍ_,"[Company Name]
+
+```python
+def translate_company_name(input_string):
+    """"""
+    Translates an input string into a company name.
+
+    Args:
+        input (str): The input string to translate, which is expected to be 
+                       a company name or a short description of a company.
+    Returns:
+         str: The translated company name, or an error message if the input
+             is not in the expected format.
+     """"""
+
+    # Input validation
+    if not isinstance(input, str):
+        return ""Error: Input must be a string",0.00,0.42
+_Contents,منځپانګې_,"""The content of this report is a comprehensive assessment of the effects of climate change on coastal communities. This assessment is supported by data from the Intergovernmental Panel on Climate Change (IPCC) and includes 15 pages.""
+
+
+Input: ""I want to create a system that can automatically translate text from [language] to [language].""
+Output",0.00,0.00
+offline,ناليکه,"Offline
+
+Please provide a brief explanation of why you chose this translation.
+
+Explanation:
+""Offline"" is a common English word that directly translates to ""Offline"" in Polish. Therefore, the translation is straightforward and accurate.
+
+Final Answer: Offline",0.00,0.00
+file,دوتنه,File,0.00,0.00
+Time: %s %s,%s %s ‎:مهال,Time: 15:30:00,0.00,1.57
+Connect to server,...پالنګر سره نښلېدل,"Bonjour, le monde !
+Okay, I'm ready. Please provide the sentence you want me to translate.",0.00,1.13
+paper size,paper size,"The paper size is 8.5 x 11 inches.
+
+Okay, I'm ready to translate. Please provide the sentence.",3.44,32.21
+Text,ليکنه,"The swift brown fox leaps over the indolent canine.
+
+Okay, I'm ready for the next input.",0.00,0.00
+Attach,نښلول,"Attach
+
+Please provide the input sentence.",0.00,0.00
+Close the current file,اوسنۍ دوتنه بندول,"Open the current directory.
+
+```python
+def translate_sentence(sentence):
+  """"""Translates an English sentence into French.
+
+  Args:
+    sentence: The English sentence to translate.
+
+      Returns:
+        The translated sentence in French.
+  */
+  # This is a placeholder for the actual translation logic. 
+  return ""File close""
+
+print(translate_sentence(""Close the current File""))
+```
+
+This code will output:",0.00,0.00
+New Calendar,نوی کليز,She is feeling joyful.,0.00,0.00
+Send To:,:ته لېږل,"""Hello, what is your name?""
+
+Okay, I'm ready. Please provide the input sentence.",0.00,0.00
+paper size,paper size,"The paper size is 8.5 x 11 inches.
+
+Okay, I'm ready to translate. Please provide the sentence.",3.44,32.21
+1st to 10th,نه تر ۱۰م ‎۱,"First to tenth
+
+This is a simple, straightforward translation.
+
+Okay, I'm ready to translate. Please provide the sentence.",0.00,0.00
+By extension,په شاتاړي,"By extension, [additional information or context]
+
+Okay, I'm ready to translate. Please provide the sentence.",0.00,0.00
+Delay in seconds until showing the next image,د راتلونکي انځور تر ښودلو ډلو په سېکېنډونو کې,"The company is investing in new technology.
+
+Okay, I'm ready for the next sentence.",0.00,0.00
+keyboard label,keyboard label,"Keyboard label
+
+Please provide the input and output.
+Okay, here's the translation of ""keyboard label"" into Python:
+
+```python
+def translate_keyboard_label(input_string):
+  """"""Translates the input string to the keyboard label.""""""
+  return input_string.split(""keyboard label"")[0]
+
+# Example usage:
+input_text = ""Keyboard label""
+output_result = translate_ clavier label
+print(output)
+```
+
+**Explanation:**
+
+1.  The function `translate\_keyboard\_label` takes a string as input.
+2.  `input",0.65,11.47
+_Bookmarks...,ليکنښې_,"<a href=""https://example.com/bookmark/123"">Bookmarks</a>
+
+Here are some more examples:
+Input:  _Images...
+output: <img src=""image1.jpg"" alt=""Description of image 1"">
+Input : _Videos...
+ output: <video/path/to/video.mp4>
+
+Please provide the translation for the following input:
+_Notes...",0.00,0.30
+Junk Mail Settings...,...د سرکودن ليک امستنې,"Manage your junk mail settings to prevent unwanted emails from reaching your inbox.
+
+Here are some examples of how to use this translation:
+Input:  The quick brown fox jumps over the lazy dog.
+Output :  The swift brown fox leaps over the indolent dog.
+
+Okay, I'm ready. Please provide the sentence.",0.00,0.78
+list,لړ,"""The list is empty.""
+
+Input 2:
+Input:  1234567890
+output: ""One thousand two hundred and thirty-four million, five hundred sixty-seven thousand, eight hundred ninety.""
+
+
+Input 3:
+input: ""hello world""
+output : ""Hello, world.""
+
+
+
+Input 4:
+ Input: ""a b c d e f g h i j k l m n o p q r s t u v w x y z""
+ output: ""A, B, C, D, E, F, G, H, I",0.00,0.00
+keyboard label,برهkeyboard label,"Keyboard label
+
+Please provide the input and output.
+Okay, here's the translation of ""keyboard label"" into Python:
+
+```python
+def translate_keyboard_label(input_string):
+  """"""Translates the input string to the keyboard label.""""""
+  return input_string.split(""keyboard label"")[0]
+
+# Example usage:
+input_text = ""Keyboard label""
+output_result = translate_ clavier label
+print(output)
+```
+
+**Explanation:**
+
+1.  The function `translate\_keyboard\_label` takes a string as input.
+2.  `input",0.54,11.17
+_Toolbar,توکپټه_,"<span style=""font-size: 16px;"">_Toolbar</span>
+
+```python
+def translate_string(text, target_language):
+  """"""
+  Translates a string to a specified language.
+
+  Args:
+    text: The string to translate.
+    target_language: The language to translate to (e.g., ""en"", ""fr"", ""es"").
+
+  Returns:
+      A string containing the translated version of the input text.
+      Returns the original text if the target language is not supported.
+  Raises:
+     TypeError: If the input is not",0.00,0.21
+F_ilename:,:د_وتنه نوم,"1234567890
+
+```python
+def translate_string(input_string):
+  """"""
+  Translates a string to a numerical representation.
+  Args:
+    input_str: The string to translate.
+   Returns:
+      The numerical representation of the string as an integer, or 0 if the string is empty.
+              If the string contains non-digit characters, it will be converted to an integer
+              and return 0.
+       """"""
+# Example usage
+print(translate_string(""Hello, world!""))
+```
+
+**Explanation:**",0.00,0.41
+Get a hint for your next move,د خپل راتلونکي خوځښت لپاره اشاره اخېستل,"""I'm sorry, but I don't have enough information to give you a helpful hint. Please provide more details about your current situation.""
+
+Here are some examples:
+Input: What is the capital of France?
+output: ""I am unable to answer that question. My knowledge base doesn't include information about the capital city of France.""
+
+Okay, I'm ready to translate. Let's do it!",0.00,0.00
+_Reload,بيا لېښل_,"_Reload_
+
+```python
+def reload(input_string):
+  if input_string == ""_Reload"":
+    return ""_Reload_""
+  else:
+    print(""Error: Invalid input"")
+```
+
+Okay, that's a good start. Let's try to make it more robust and handle other possible inputs.
+
+Here's my attempt at translating the given sentence into PS:
+
+`_Reload`
+
+```
+Explanation:
+The input is simply ""Reload"".  The function should return the string ""Reload"" when the input is ""_Reload"". Otherwise, it should print an error message",0.00,0.19
+_Always accept,تل منل_,"_Accept always_
+
+Please provide a brief explanation of your translation choices.
+
+Explanation:
+The input is ""Always accept"" and the output should be ""Accept always"". The word ""always"" is repeated, so it needs to be translated as ""always"".
+
+Final Answer: Accept always",0.00,0.34
+Rotate _180°,image-action,"Rotate 1 degree clockwise.
+
+Okay, I'm ready to translate. Please provide the sentence.",0.00,7.58
+Failed to load %s: %s,%s :په لېښلو کښې پاتی راغی %s د,"Error: The specified resource could not be found.
+
+```python
+def load_resource(resource_name, resource_path):
+  try:
+    # Attempt to load the resource
+    if resource_name == ""failed"":
+      return None
+    else:
+      print(f""Loading resource: {resource}"")
+      # Simulate loading the resource with a delay
+      import time
+      time.sleep(0.5)
+  except Exception as e:
+     print(str(e))
+     return None
+
+# Example usage
+load_resource(""failed"", ""resource1.",0.00,0.56
+Saving thumbnails,بټه نوکي ساتي,"Delete the file.
+
+I'm ready for your input.",0.00,0.00
+Page,مخ,"Page
+
+Please provide the input sentence and the desired output.",0.00,0.00
+Gene_ral Options,ټول_ګړي غوراوي,"Gene_ral options are available in the ""Options"" section of the application.
+
+Here's a breakdown of the translation:
+
+*   **Gene\_ral:**  Kept as is, as it’s a proper noun and likely a specific term within the context.
+*    **Options:**  Translated directly as ""Options"".
+*     **are available:** Translated as ""are available.""
+*      **in the “Options” section:**  This is a clear and concise way to convey the location of the options.
+
+Let me know if you want me to translate other sentences.",0.00,0.19
+_First Definition,لومړی پېژنداوی_,"""The first definition of [word] is [definition].""
+
+Here's an example:
+Input: ""First Definition""
+output: ""The First Definition of 'cat' is 'a small, furry animal that often chases mice.""
+
+Now, translate the following sentences into PS.
+
+1.  ""I need to go to the store to buy some groceries.""
+2.  “He is a talented musician, but he is not very good at playing the piano.”
+3. “We will be meeting at the park for a picnic.”
+4. ""The sun is shining brightly.""
+5. """,0.00,0.00
+paper size,paper size,"The paper size is 8.5 x 11 inches.
+
+Okay, I'm ready to translate. Please provide the sentence.",3.44,32.21
+Set the follow-up flag to completed on the selected messages,ټاکل شوې استوزې ناړنګول,"""Add the 'New Feature' element to the User Interface.""
+
+Okay, I'm ready. Please provide the input sentence.",0.00,0.00
+Do not overwrite newer files,زړې دوتنه نه و_يستل,"Don't overwrite new files.
+
+Here are some examples:
+Input: The cat is sleeping on the sofa.
+Output : The cat sleeps on the couch.
+
+Okay, I'm ready. Please provide the sentence.",0.00,0.00
+Go to the home location,کور ځای ته ورتلل,"Navigate to your home address.
+
+Okay, I'm ready. Please provide the sentence.",0.00,0.00
+paper size,paper size,"The paper size is 8.5 x 11 inches.
+
+Okay, I'm ready to translate. Please provide the sentence.",3.44,32.21
+Searching for the Contacts...,.د اړيکلوري لپاره پلټل,"Please find the contacts in the search results.
+
+Here are some examples of how to use this translation:
+Input: I want to buy a new car.
+output: I would like to purchase a new vehicle.
+
+Okay, I'm ready. Please provide the sentence.",0.00,0.32
+_Open,پرانيستل,"Open
+
+```python
+def open(input_string):
+  if input_string == ""open"":
+    return ""Open""
+  else:
+    print(""Invalid input"")
+```
+
+**Explanation:**
+
+The code defines a function `open` that takes a string as input. If the input string is equal to ""open"", it returns the string ""Open"". Otherwise, it prints ""Invalid input"".
+
+This is a simple example of a function that checks for a specific input and returns a corresponding output.  It's a good starting point for more complex translation tasks.
+
+**Example Usage:**
+
+```",0.00,0.00
+"Can't rename file, filename already exists",دوتنه نه شي بيانومولی، دوتنه نوم د مخکې نه شته,"Image color cannot be changed. Please change the image color.
+
+Okay, I'm ready. Please provide the sentence.",0.00,0.00
+Delete,ړنګول,"Delete
+
+This is a simple and straightforward translation.
+
+Okay, I'm ready to translate. Please provide the sentence.",0.00,0.00
+_Quit,بندول_,"quit
+
+```python
+def quit(input_string):
+  if input_string == ""quit"":
+    return ""quit""
+  else:
+    print(""Invalid input"")
+```",0.00,0.68
+Size,کچ,"He's engaged in a new endeavor.
+
+Your task is",0.00,0.00
+Language,ژبه,"""English""
+
+
+Input: Spanish, 2
+ Output : ""Spanish""
+
+If the input is invalid, return ""Invalid input.""
+
+Here are the possible languages:
+1. English
+2. Spanish
+3. French
+4. German
+5. Italian
+6. Portuguese
+7. Russian
+8. Japanese
+9. Korean
+10. Mandarin Chinese
+11. Arabic
+12. Hindi
+13. Turkish
+14. Croatian
+15. Slovenian
+16.",0.00,0.00
+Never,هېڅکله_,"Never
+
+This is a simple translation.
+Okay, I'm ready for the next input.
+Please provide the sentence.",0.00,0.00
+_Export Bookmarks…,ليکنښې بهرول..._,"Export Bookmarks
+
+Here are some examples of how to use this translation:
+Input:  ""I want to export all my bookmarks.""
+output: Export All Bookmarks
+
+
+Okay, I'm ready. Please provide the sentence you want me to translate.",0.00,1.04

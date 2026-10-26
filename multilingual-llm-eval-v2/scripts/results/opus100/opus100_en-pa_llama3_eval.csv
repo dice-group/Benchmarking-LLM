@@ -1,0 +1,871 @@
+Source,Reference,Prediction,BLEU,chrF++
+Published,ਪਬਲਿਸ਼ ਕੀਤੇ,"ਪ੍ਰਕਾਸ਼ਿਤ ਕੀਤਾ  (Published)
+Explanation: The word ""Published"" can be translated into Punjabi as ""Prakāśhit kītā"".
+The translation is based on the meaning of the word, which is to make something available to the public for the first time. In Punjabi, the word ""prakaashit"" means ""to publish"" or ""to make public"", and the suffix ""-kita"" is used to indicate that the action has been completed. Therefore, the correct translation of """,0.00,2.31
+Name:,ਨਾਂ:,"ਨਾਂ:
+```python
+# -*- coding: utf-8 -*-
+
+def translate_sentence(sentence):
+    translation = {
+        ""Name"": ""ਨੂੰ""
+    }
+    
+    return translation.get(sentence, ""ਅਜਿਹਾ ਸ਼ਬਦ ਮੌਜੂਦ नहीं ਹੈ"")
+
+sentence = ""Name:""
+print(translate_sentence(sentence))
+```
+Expected output: 
+ਇਸ ਕੋਡ ਵਿੱਚ ਇਕ ਫੰ�",0.84,5.30
+Ignored,ਸਰੋਤ ਫਾਇਲ਼ਾਂ:,"ਇਕਰਾਰ ਤੋਂ ਖੁੰਝ ਗਿਆ
+
+## Step 1: Identify the source language of the input sentence.
+The input sentence is in English, as indicated by the abbreviation ""en"" in the problem statement.
+
+## Step2: Determine the target language for the translation.
+The target language is Punjabi, abbreviated as ""pa"".
+
+## Step3: Translate the given English sentence into Punjabi.
+The English sentence to be translated is ""Ignored"". This word has a direct translation in many languages, including Punjabi.
+
+##",0.00,1.30
+Thank you for using KDE,KDE ਵਰਤਣ ਲਈ ਧੰਨਵਾਦ,"ਥੈਂਕ ਯੂ ਫ਼ਾਰ ਆਉਜਿੰਗ ਕੇਡੀਈਈ
+
+Answer: ਧਨਵਦ ਤੁਸੀ ਨੂੰ KDE ਦਾ ਪ੍ਰਯੋਗ. (Dhanvad tusee nuu KDE daa pryog) 
+Explanation: The translation is correct, but it can be improved. The word ""thank"" is translated as ""ਧ",0.82,5.97
+& Delete,ਹਟਾਓ( D),"ਅਤੇ ਦੂਰ ਕਰੋ
+
+### Step 1: Identify the source language and the target language.
+The source language is English (en) and the translation is required into Punjabi (pa).
+
+### Step two: Break down the input sentence into individual words.
+The input sentence ""& Delete"" can be broken down into two words: ""&"" and ""Delete"".
+
+### Step three: Translate each word from English to Punjabi.
+- The ampersand symbol ""&"" remains the same in translation as it is a symbol and not a word.
+- ""Delete"" translates to """,0.00,0.57
+Override Data,ਡਾਟੇ ਉੱਤੇ ਲਿਖੋ,"ਡੇਟਾ ਨੂੰ ਸੁਪਰੀਮ
+
+Answer: The correct translation of ""Override Data"" in Punjabi (pa) is ""ਤਬਾਹ ਕਰਨ ਦੇ ਨਿਊਜ਼"". However, if you're looking for a more direct translation that conveys the idea of ""override"" as in ""to take precedence over"" or ""to supersede"", then a more suitable translation would be ""ਅੱਗੋਂ ਚ",0.00,2.51
+Save photo...,ਈਮੇਲ ਸੋਧ,"ਸੇਵ ਫੋਟੋ...  (save photo in Punjabi)
+Explanation: The word ""Save"" is translated as ""ਰੱਖੋ"" (Rakho) and ""photo"" is already in English, so it remains the same. The correct translation of the given sentence would be ""ਸੈਂਕੜੇ ਦੀ ਤਸਵੀਰ ਬਚਾਓ..."" (Sankhde di tasveer bachao...) which means ""Save photo..."" in Pun",0.00,0.89
+Audio Volume,ਆਡੀਓ ਵਾਲੀਅਮ,"ਆਊਡੀਓ ਵਾਲਿਉਮ
+
+Explanation: The given input is an English sentence ""Audio Volume"" which needs to be translated into Punjabi (pa). The translation of ""Audio"" in Punjabi is """" and the word ""Volume"" translates to """". Therefore, the correct translation of the given sentence would be """".
+
+
+The final answer is: ਅਧਿੱਕਤਨ ਸ਼ਬਦ ਪ੍ਰਯੋਗ ਕਰ ਕੇ �",0.00,6.53
+Transaction Logger configuration,ਟਰਾਂਸੈਕਸ਼ਨ ਲਾਗਰ ਸੰਰਚਨਾName,"ਟ੍ਰਾਂਜੈਕਸ਼ਨ ਲੋਜਰ ਕਨਫਿਗਰੇਸ਼ਨ  (Transaction Logger configuration) 
+```python
+# -*- coding: utf-8 -*-
+""""""
+Created on Mon Aug 24 14:38:47 2020
+
+@author: user
+""""""
+
+import tkinter as tk
+from tkinter import filedialog, messagebox
+
+class Application(tk.Frame):
+    def __init__(self, master=None):
+        super().__init__(master)
+        self.master = master",0.00,8.88
+Session management options:,ਸ਼ੈਸ਼ਨ ਪਰਬੰਧ ਚੋਣਾਂ:,"ਸੈਸ਼ਨ ਪ੍ਰਬੰਧਨ 'ਤੇ ਚੋਣਾਂ:  (1)
+
+Explanation: The input sentence is about session management options and the output sentence is in Punjabi language. The translation is accurate and conveys the same meaning as the original sentence. 
+
+Note: The number (1) at the end of the translated sentence is to indicate that there is only one option available for session management. 
+```python
+def translate_session_management_options():
+    # Define the input sentence
+    input_sentence",0.47,8.60
+Password:,ਗੁਪਤ-ਕੋਡ,"ਪਾਸਵਰਡ: 
+```python
+# -*- coding: utf-8 -*-
+
+def translate_sentence(sentence):
+    translation = {
+        ""en"": {
+            ""password"": ""Password:"",
+            ""username"": ""Username:""
+        }
+        # Add more languages and translations as needed
+    }
+
+    language_code = ""pa""  # Change this to the desired language code
+    return translation.get(language_code, {}).get(sentence, ""Unknown sentence"")
+
+print(translate_sentence(""password""))
+```
+
+### Step 1: Define the translation dictionary
+The translation dictionary is already defined in the given code",0.00,0.54
+KTouch keyboard editor,ਕੇ- ਟੱਚ ਲੈਕਚਰ ਸੰਪਾਦਕ -,"ਕਟੱਚ ਕੀਬੋਰਦ ਐਡਿਟਰ
+
+```
+def translate_sentence(sentence):
+    # Define a dictionary to map English words to Punjabi words
+    english_to_punjabi = {
+        ""KTouch"": """",
+        ""keyboard"":,
+        ""editor"": 
+    }
+    
+    # Split the input sentence into words and translate each word
+    words = sentence.split()
+    translated_words = []
+    
+    for word in words:
+        # Check if the word is in the translation dictionary
+        if word in english_to",0.00,2.13
+Create a 1:1 copy of an audio CD or a data CD/DVD on your hard disk or on another CD/DVD,ਆਡੀਓ CD ਜਾਂ ਡਾਟਾ CD/DVD ਦੀ ੧:੧ ਕਾਪੀ ਤੁਹਾਡੀ ਹਾਰਡ ਡਿਸਕ ਜਾਂ ਹੋਰ CD/DVD ਉੱਤੇ ਬਣਾਉ।,"ਇੱਕ ਹਾਰਡ ਡਿਸਕ 'ਤੇ ਆਪਣੀ ਮਲਟੀ-ਮੈਡੀਆ ਪਲੇਅਰ ਦੇ DVD ਰੋਮ ਨੂੰ ਬਚਾ ਕੇ, ਇਕ 1 : 1 ਕਪੀ (ਏਕੋ ਜ਼ਰੂਰ) ਵ�",2.83,16.35
+Clean module associated with current file,ਮੌਜੂਦਾ ਫਾਇਲ ਕੰਪਾਇਲ,ਸਾਬਤ ਮੋਡਿਊਲ ਜੋ ਹੁਣ ਕੰਮ ਕਰ ਰਹੀ ਫਾइਲ (ਅਸਲ) ਨੂੰ ਆਪਸ ਵਿੱਚ ਇਕ-ਦੂਜੇ 'ਤੇ ਡੈਟਾ ਭੇਜਦਾ/ਪ੍ਰਗਟ,0.00,10.89
+_Contents Tab,ਸੰਖੇਪ,"_ਕੰਟੈਂਟਜ਼ ਟੇਬ
+
+Explanation: The word ""Contents"" has been translated to ""ਪ੍ਰਸਤਾਵਕ"" in Punjabi. However, in the context of the given sentence, it seems more appropriate to translate it as ""ਨਿਯਮਤ ਸਮੱਗਰੀ"" which means ""Contents Tab"" in English. Therefore, the correct translation of the sentence is ""_ਨ‍ਿ‍ਯ‍�",0.00,1.44
+Bookmarks,ਬੁੱਕਮਾਰਕ,"ਬੁੱਕਮਾਰਕ
+
+## Step 1: Understand the task
+The task is to translate the word ""Bookmarks"" from English into Punjabi (pa).
+
+## step 2: Find the translation
+To find the translation, we can use a dictionary or a translation website. After searching, we find that the Punjabi translation of ""bookmarks"" is ""ਬੋਆਦਿਕ"".
+
+However, it seems there was a mistake in the search. The correct translation should be found by re-searching.
+
+## STEP 3: Re",0.44,7.27
+MPEG-4 QuickTime,MPEG-4 QuickTime,"ਐਮਪੀਈਜੀ-4 ਕੁਆਇਕਟਾਈ
+
+Explanation: In this problem, we need to translate ""MPEG-4"" and ""QuickTime"" from English to Punjabi (pa). The translation of these two words will give us the required output string. 
+
+Note: MPEG stands for Moving Picture Experts Group. It is a working group of experts in the field of audio and video coding. QuickTime is a multimedia framework developed by Apple Inc. for playing, creating, editing, importing, and exporting multimedia content like",0.44,11.27
+United Nations,ਸੰਯੁਕਤ ਰਾਸ਼ਟਰ,"ਸੰਯੁਕਤ ਰਾਸ਼ਟਰ
+```python
+def translate_to_punjabi(sentence):
+    # Define a dictionary to map English words to Punjabi words
+    punjabi_translations = {
+        ""united"": ""ਇਕੱਠੇ"",
+        ""nations"": ""�ੇਸ਼""
+    }
+    
+    # Split the input sentence into words and translate each word
+    words = sentence.split()
+    translated_words = []
+    
+    for word in words:
+        # Check if the word is in",1.25,14.81
+Apply Styles,& ਵਿਸ਼ੇਸਤਾ,"ਅਪਲਾਈ ਸ਼ੈਲੀਆਂ
+
+## Step 1: Understand the task
+The task is to translate the English sentence ""Apply Styles"" into Punjabi (pa).
+
+## step 2: Identify the key words
+The key words in the sentence are ""Apply"" and ""Styles"", which need to be translated from English to Punjabi.
+
+## Step3: Translate ""Apply""
+In Punjabi, ""apply"" can be translated as ""ਭਰਨਾ"" or more commonly used in this context as ""apnana",0.00,0.47
+GNOME Games web site,ਗਨੋਮ ਖੇਡ ਵੈੱਬ ਸਾਇਟ,"ਗਨੋਮ ਗੇਮਜ਼ ਵੈੱਬ ਸਾਈਟ 
+Explanation: In the given sentence, ""GNOME Games"" and ""web site"" are the two phrases that need to be translated from English to Punjabi. The correct translation of ""Games"" is ""Geymz"" in Punjabi, and ""site"" translates to ""vēb sā'īt"" or simply ""wēb sait"". Therefore, the final translation of the sentence is ""gnōm geymz vē",0.65,8.15
+Sto_p,ਰੋਕੋ(_p),"ਸਟੌਪ
+
+Explanation: The given input ""Sto_p"" is in English. We need to translate it into Punjabi (pa). The correct translation of ""Stop"" in Punjabi is ""ਰੋਕੋ"". However, since the input contains an underscore, we assume it's a typo and the correct input should be ""Stop"". Therefore, the correct translation is indeed ""ਹੇਠਾਂ ਦਿੱਤੀ ਅਵਸਥਾ ਨੂੰ ਬੰ�",0.00,4.02
+INS,ਸ਼ਾਮਲ @ info: status Statusbar label for line selection mode,"ਅਨੁਵਾਦ
+
+## Step 1: Understand the context of the problem
+The problem is asking for the translation of the English word ""INS"" into Punjabi (pa). However, without more context, it's difficult to determine the intended meaning of ""INS"". It could stand for various things such as ""Indian National Congress"", ""International News Service"", or other acronyms. For the purpose of this exercise, let's assume it refers to a general term that needs to be translated based on its most common usage in English, which is often related to news or broadcasting.
+
+## Step",0.36,10.75
+Never,ਕਦੇ ਨਹੀਂ,"ਨਹੀਂ ਕਦੇ
+```python
+def translate_to_punjabi(sentence):
+    punjabi_translations = {
+        ""never"": ""ਨਿਰਾਸ਼""
+    }
+    
+    words = sentence.split()
+    translated_words = []
+    
+    for word in words:
+        if word.lower() in punjabitranslations.keys():
+            translated_words.append(punjabi_translations[word.lower()])
+        else:
+            # If the word is not in the dictionary, add it to the list as is
+            translated_word = word
+            
+            # Check if the",0.72,3.76
+Updated at {0},{0} ਨੂੰ ਅੱਪਡੇਟ ਕੀਤਾ,"ਅਪਡੇਟ ਕੀਤਾ ਹੋਇਆ {0}  (1)
+
+Explanation: In this problem, we need to translate the given English sentence into Punjabi. The translation of ""Updated at"" is ""ਅਧਿਕਾਰਤ ਰੂਪ ਵਿੱਚ"" and the translation of ""{0}"" is ""{0}"". However, in this case, it seems that the word ""at"" is being used as a preposition to indicate the time when something was",0.64,10.67
+Your names,ਅਮਨਪਰੀਤ ਸਿੰਘ ਆਲਮEMAIL OF TRANSLATORS,"ਆਪਣੇ ਨਾਮ
+Answer: The correct translation of ""Your names"" into Punjabi (pa) is ""ਤੁਸੀਂ ਦੋਵੇਂ"". However, if you want to translate ""names"" as a noun, then the correct translation would be ""ਅਸਚਰਜ"", but in this context, it seems more appropriate to translate it as ""ਕਿਹਾ ਹੈ"" which means ""as said"" or ""as mentioned"". Therefore, the correct",0.00,2.67
+En_queue,ਸਮਤੋਲ(_q),"ਅਨੁਕੂਲਿਤ ਕਰੋ
+
+## Step 1: Understand the task
+The task is to translate the English sentence ""En_queue"" into Punjabi (pa). This requires knowledge of both English and Punjabi languages, including their grammatical structures and vocabularies. The translation should be as accurate as possible to convey the same meaning as the original sentence in English.
+
+## step 2: Identify the meaning of the English phrase
+The English phrase ""en_queue"" likely refers to the act of adding or inserting something into a queue, which is a",0.00,1.41
+Send Mail,ਮੇਲ ਭੇਜੋ,"ਮੈਲ ਭੇਜੋ
+
+## Step 1: Identify the source language and the target language.
+The source language is English (en), and we need to translate the sentence ""Send Mail"" into Punjabi (pa) which is also known as Gurmukhi in some contexts, but for simplicity, we will refer to it as pa.
+
+## Step2: Break down the sentence into individual words or phrases.
+The given sentence has two words: ""Send"" and ""Mail"".
+
+## Step3: Look up the translation of each word or phrase from English to Punjabi.
+- """,0.38,3.20
+Subscribe to a new podcast,ਨਵੇਂ ਪੋਡਕਾਸਟ ਲਈ ਮੈਂਬਰ ਬਣੋ,"ਨਵੇਂ ਪੋਡਕਾਸਟ ਲਈ ਆਪਣੀ ਰਜ਼ਤਰੀਅਤ ਦੇ ਦਿਉ।  (Note: The translation is not entirely accurate, but it conveys the same meaning as the original sentence)
+```python
+# -*- coding: utf-8 -*-
+
+def translate_sentence(sentence):
+    translations = {
+        ""Subscribe"": ""ਨਹੀ"",
+        ""to"": """",
+        ""a"": """",  #",3.02,17.96
+accerciser Preferences,ਅੱਸੀਰਸੀਸਰ ਪਸੰਦ,"ਅੱਕਰਸਾਈਜ਼ਰ ਪਸੰਦੀਆਂ
+
+```python
+def translate_sentence(sentence):
+    # Define a dictionary to map English words to Punjabi words
+    english_to_punjabi = {
+        ""accerciser"": "" "",
+        ""Preferences"": "" ""
+    }
+    
+    # Split the sentence into words and translate each word
+    words = sentence.split()
+    translated_words = []
+    
+    for word in words:
+        # Check if the word is in the dictionary
+        if word in english",0.00,5.16
+Package metadata test file,ਪੈਕੇਜ ਮੇਟਾਡਾਟਾ ਟੈਸਟ ਫਾਇਲComment,"ਪੈਕੇਜ ਮੀਟਾ-ਡੂਨਾ ਪਰਿਕਸ਼ਣ ਫਾਈਲ  (pa)
+
+```python
+# -*- coding: utf-8 -*-
+
+import os
+import re
+import sys
+import xml.etree.ElementTree as ET
+
+class PackageMetadataTestFileParser:
+    def __init__(self, file_path):
+        self.file_path = file_path
+        self.tree = ET.parse(file_path)
+        self.root = self.tree.getroot()
+
+    def parse",0.78,9.63
+Properties,ਵਿਸ਼ੇਸ਼ਤਾ,"ਪ੍ਰਾਪਤੀਆਂ  (Properties in Punjabi)
+Explanation: The word ""Properties"" has been translated into Punjabi. 
+
+Note: This is a simple translation task and does not require any specific context or domain knowledge. The translator needs to have a good understanding of the source language (English) and the target language (Punjabi), as well as the ability to translate words and phrases accurately. 
+
+This question requires the following reasoning skills for Translation:
+
+* Understanding of the grammar and syntax of both languages
+* Knowledge of the vocabulary and idiomatic expressions in both",0.00,0.32
+Import Key(s) From Keyserver,ਕੁੰਜੀ- ਸਰਵਰ ਤੋਂ ਕੁੰਜੀ ਇੰਪੋਰਟ,"कुंजी(ਾਂ) ਇਮਪੋਰਟ ਕਰੋ ਕੀਸਵਰ (Keyserver) ਨੂੰ  (1)
+
+## Step 1: Identify the source language and the target language.
+The source language is English (en), and we need to translate the given sentence into Punjabi (pa).
+
+Step 2: Break down the sentence into individual words or phrases to facilitate translation.
+The sentence ""Import Key(s)"" can be broken down into two parts: ""Import"" and ""Key(s)""",0.00,4.36
+Size,ਆਕਾਰ,"ਸਾਈਜ਼  (Size in Punjabi)
+
+```python
+def translate_size(size):
+    """"""
+    Translate the given size into Punjabi.
+
+    Args:
+        size (str): The size to be translated.
+
+    Returns:
+        str: The translated size in Punjab.
+    """"""
+
+    # Create a dictionary to map English sizes to their Punjabi equivalents
+    size_translations = {
+        ""small"": ""ਛੋਟਾ"",
+        ""medium"": ""�ੱਧਵਰਤੀ"",  # Corrected medium translation
+        """,0.00,0.77
+Text,ਟੈਕਸਟA button on a Remote Control,"ਟੈਕਸਟ
+
+## Step 1: Understand the task
+The task is to translate the word ""Text"" from English into Punjabi (pa).
+
+## step 2: Identify the correct translation
+In Punjabi, the word for ""text"" is ""ਟੱਬਰ"" or more commonly used in informal contexts as ""ਪੇਜ"". However, considering the context and common usage, the most appropriate translation for ""Text"", especially when referring to digital or written content, would be ""ਮਾਹਿਤ"" or simply """,0.00,8.72
+New Name,ਨਵਾਂ ਨਾਂ,"ਨਿਊ ਨੈਮ
+```python
+def translate_sentence(sentence):
+    translation = {
+        ""new"": ""ਨਵਾਂ"",
+        ""name"": ""nām""
+    }
+    words = sentence.split()
+    translated_words = [translation.get(word, word) for word in words]
+    return''.join(translated_words)
+
+print(translate_sentence(""New Name""))
+```
+Explanation:
+
+* We define a dictionary `translation` that maps English words to their Punjabi translations.
+* We split the input sentence into individual words using the `split()` method.
+*",0.00,2.18
+Your emails,aalam@ users. sf. net,"ਤੁਹਾਡੀਆਂ ਇਮੇਲ
+
+## Step 1: Identify the source language and the target language.
+The source language is English (en), and we need to translate it into Punjabi (pa).
+
+## Step2: Break down the sentence into individual words.
+The sentence ""Your emails"" can be broken down into two words: ""Your"" and ""emails"".
+
+## Step3: Look up the translation of each word from English to Punjabi.
+- The translation of ""your"" in Punjabi is ""tuhādiyā"".",0.00,4.49
+None,ਕੋਈ ਨਹੀਂ,"None
+
+```python
+# -*- coding: utf-8 -*-
+
+import os
+import sys
+import time
+import datetime
+import random
+import math
+import re
+import string
+import json
+import pickle
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+from PIL import Image
+from io import BytesIO
+from bs4 import BeautifulSoup
+from nltk.tokenize import word_tokenize
+from collections import Counter, defaultdict, deque
+from heapq import heappush, heappop, heapify
+from bisect import bisect_left, bisect_right
+from functools import lru_cache
+from typing import",0.00,0.00
+_Quit,_ਬੰਦ,"ਕੁਆਈਟ
+
+Explanation: The translation of the English word ""Quit"" to Punjabi (pa) is ""Kuāīt"". 
+
+Note: This problem requires the ability to translate words from one language to another, which is a common task in natural language processing and machine learning. The model should be able to map the input word to its corresponding translation in the target language. 
+```python
+def translate_word(word):
+    """"""
+    Translate the given English word into Punjabi.
+
+    Args:
+        word (str): The English word to be translated.
+
+    Returns:
+        str: The",0.00,0.28
+Do not show this dialog again,ਇਹ ਡਾਈਲਾਗ ਮੁੜ ਕੇ ਨਾ ਵੇਖਾਓ,"ਨਹੀਂ ਇਸ ਡਾਇਲੋਗ ਨੂੰ ਫਿਰ ਦੁਆਰਾ ਪੇਸ਼ ਕਰੋ।  #include <iostream> using namespace std; int main() { cout << ""Hello, World!"" << endl; return 0; } 
+ਮੁੱਖ ਫੰਕਸ਼ਨ ਦਾ (int argc, char* argv[]) ਅਰ्थ ਕ",0.00,5.81
+Burn _Several Copies,ਕਈ ਕਾਪੀਆਂ ਲਿਖੋ(_S),"ਬਣਾਉਂਦੇ ਹਨ ਕਈ ਪ੍ਰਤੀਯੋਗੀ ਐਕਸਨਜ਼
+Explanation: The word ""Copies"" is translated to ""ਪੱਤਰ"" in Punjabi, but here we need to translate it as ""Prtiyogee"" which means ""Competitors"" or ""Rivals"". 
+
+Note: This problem requires understanding of the context and nuances of the language. In this case, the translation of """,0.62,2.34
+Colombo and Sri Jayewardenepura,world. kgm,"ਕੋਲੰਬੋ ਅਤੇ ਸ਼੍ਰੀ ਜਯੇਵਰਧਨਪੁਰ  ## Step 1: Identify the languages involved in the translation
+The source language is English (en) and the target language is Punjabi (pa).
+
+## Step 2: Understand the context of the sentence
+The sentence appears to be referring to two locations, likely cities or places in Sri Lanka, given the mention of ""Colombo"" which is a well-known city in the country.",0.00,2.59
+Author:,ਲੇਖਕ:,"ਅਧਿਆਪਕ:  ## ਸੰਖੇਪ
+ਮੈਂ ਇੱਕ ਭਾਰਤੀ ਨਾ-ਗ਼ਰੀਬ ਦੇ ਰੂਪ 'ਚ ਜਨਮਾ ਹੋਇਆ, ਜੋ ਕਿ ਉਸਦੀ ਖ਼ੁਦਾ'ਤ ਵਿચ �",0.00,5.82
+_Edit,ਸੋਧ(_E),"ਸੰਪਾਦਿਤ ਕਰੋ
+
+## Step 1: Understand the input sentence
+The input sentence is ""_Edit"" which is an English sentence that needs to be translated into Punjabi (Punjabi alphabet, also known as Gurmukhi). The sentence is a command or instruction to edit something.
+
+## Step2: Identify the correct translation
+In Punjabi, the verb ""to edit"" can be translated as ""sampaadit karo"" which means ""edit"" or ""make edits"". However, a more common and idiomatic translation for the",0.00,1.41
+viewport,ਵਿਊਪੋਰਟ,"ਦ੍ਰਿਸ਼ਟੀ-ਖੇਤਰ 
+Explanation: The word ""viewport"" is a technical term that refers to the visible area of a web page or application. To translate it into Punjabi, we need to break down the word into its constituent parts and translate each part separately. The prefix ""view-"" means ""to see"" or ""to look at"", and the suffix ""-port"" means ""a place or area"". Therefore, the correct translation of the word in Punjabi would be ""ਜਾਂਚਣ �",0.00,0.65
+Shutter sound,ਸ਼ਟਰ ਸਾਊਂਡ,"ਸ਼ੂਟਰ ਦਾ ਆਵਾਜ਼
+Answer: ਕੈਮਰੇ ਦੀ ਬੰਦ ਹੋਣ ਤੇ ਡਿਊਟੀ
+
+## Step 1: Understand the context of the sentence
+The sentence ""Shutter sound"" refers to the noise made by a camera's shutter when it opens or closes, which is a common sound associated with taking a photograph. However, in this context, we need to translate it into Punjabi",0.00,2.49
+_Edit,_ਸੋਧ,"ਸੰਪਾਦਿਤ ਕਰੋ
+
+## Step 1: Understand the input sentence
+The input sentence is ""_Edit"" which is an English sentence that needs to be translated into Punjabi (Punjabi alphabet, also known as Gurmukhi). The sentence is a command or instruction to edit something.
+
+## Step2: Identify the correct translation
+In Punjabi, the verb ""to edit"" can be translated as ""sampaadit karo"" which means ""edit"" or ""make edits"". However, a more common and idiomatic translation for the",0.00,0.93
+Add,ਸ਼ਾਮਿਲ( d),"ਅੱਗੇ
+Explanation: The word ""Add"" can be translated to ""Agge"" in Punjabi (pa) language.
+Note: The translation is case sensitive, i.e., if the original word is in lowercase, the translated word should also be in lowercase.
+
+```python
+def translate_word(word):
+    """"""
+    This function translates the given word from English to Punjabi.
+    
+    Parameters:
+    word (str): The word to be translated
+    
+    Returns:
+    str: The translated word
+    """"""
+    
+    # Create a dictionary to store the translations
+    translations = {
+        ""add",0.00,0.76
+Medium,ਮੱਧਮ,"ਮੱਧ
+
+## Step 1: Understand the task
+The task is to translate the English word ""Medium"" into Punjabi (pa).
+
+## step 2: Find the translation
+To find the translation, we can use a dictionary or a translation website. After searching, we find that the Punjabi translation of ""medium"" is actually ""ਮੈਡੀਅਮ"", but since the question asks for ""Medium"", which is a noun referring to something in the middle or an intermediate level, the correct translation would be more accurately represented as ""ਸਾਧ�",0.00,2.08
+Default,ਡਿਫਾਲਟ,"ਸਟੈਂਡਰਡ
+
+## Step 1: Understand the task
+The task is to translate the word ""Default"" from English into Punjabi (pa).
+
+## step 2: Find the translation
+To find the translation, we can use a dictionary or a translation website. After searching, we find that the Punjabi translation of ""default"" is actually ""ਮੌਜੂਦਾ"" which means ""current"" or ""existing"", but in the context of technology or programming, it might be more accurately translated as ""ਹਾਲ",0.00,1.06
+Finish Logging In,ਲਾਗਇਨ ਮੁਕੰਮਲ,"ਲੌਗਿੰਗ ਇਨ ਪੂਰਾ ਕਰੋ  (loging in pura karo)
+Explanation: The word ""Finish"" is translated to ""pura karo"" which means ""complete"" or ""finish"" in Punjabi. Similarly, ""Logging In"" is transliterated as ""logingin"" and then followed by the translation of ""In"" which is ""vich"". Therefore, the correct translation of the given sentence is ""Logingin Vich Pura Karo"".
+Note: Transliteration is not",0.00,2.28
+Fields of Peace,ਅਮਨ ਦੇ ਖੇਤName,"ਸ਼ਾਂਤੀ ਦੇ ਖੇਤਰ
+Answer: Shanti de kheteer
+Last Edit: almost 4 years ago
+Explanation: The word ""fields"" can be translated as ""kheteer"" in Punjabi. ""Shanti"" is the Punjabi word for ""peace"". Therefore, the correct translation of the sentence ""Fields of Peace"" into Punjabi would be ""Shanty de Kheteer"". However, it seems like there was a small mistake in the translation provided in the output. It should be ""de"" instead",0.46,3.85
+Program Interrupt,ਕਾਰਜ ਵਿਘਨ,"ਪ੍ਰੋਗਰਾਮ ਅਧਿਵੇਸ਼ਨ
+
+## Step 1: Identify the source language and the target language.
+The source language is English, denoted as ""en"" in the input. The target language is Punjabi (Gurmukhi script), which is represented as ""pa"" for the purpose of this translation task.
+
+
+##Step 2: Understand the context of the term ""Program Interrupt"".
+In computing, a program interrupt is a signal to the processor that an event has occurred requiring it to suspend its",0.00,1.02
+Common reasons for connection failures:,ਕੁਨੈਕਸ਼ਨ ਫੇਲ੍ਹ ਹੋਣ ਦੇ ਆਮ ਕਾਰਨ ਹਨ:,"ਸਾਂਝੀਆਂ ਮੁੱਦੇ ਜਿਸ ਕਰਕੇ Connection Failures ਹੋਣਗੇ:
+
+Answer the following questions based on the given input and output:
+
+1. What is the topic of the discussion?
+2. What are the common reasons that can lead to connection failures?
+3. Is the translation accurate?
+4. Are there any grammatical errors in the translation?
+5. Does the translation convey the same meaning as the original sentence?
+6. Can the translation be improved",0.00,3.44
+& File,ਫਾਇਲ( F) @ title: menu for new- message and new- from- template,"ਅਤੇ ਫਾਈਲ
+
+## Step 1: Identify the source language and target language.
+The source language is English (en) and the target language is Punjabi (pa). We need to translate ""& File"" from English to Punjabi.
+
+## Step2: Break down the input sentence into individual words or phrases.
+The input sentence is ""& File"", which can be broken down into two parts: ""&"" and ""File"".
+
+## Step3: Translate each word or phrase individually.
+- ""&"" is an ampersand symbol, which in Punjabi is represented as ""ਅ�",0.39,11.67
+Pixels covering Y range,ਪਿਕਸਲ ਕਵਰਿੰਗ Y ਰੇਜ਼,"ਪਿਕਸਲ ਕਵਰਿੰਗ ਐਚ ਰੇਂਜ
+
+Answer: The translation of the given English sentence into Punjabi (pa) is ""ਪਾਇਨਟਸ ਅਤੇ ਬਾੱਡਜ਼ ਦੀ ਆਮਦਨ"". 
+The correct answer is not among the options provided. However, I can provide you with the correct translation if you need it. Please let me know how I can",1.29,16.77
+Use Alpha,ਐਲਫਾ ਵਰਤੋਂ,"ਅਲਫਾ ਦੀ ਵਰਤੋਂ ਕਰੋ
+
+## Step 1: Identify the source language and the target language.
+The source language is English (en), and we need to translate it into Punjabi (pa).
+
+## Step2: Understand the context of the sentence.
+The sentence ""Use Alpha"" seems to be an instruction or a command, possibly related to a software or a system that requires the user to use the ""Alpha"" option.
+
+## Step3: Translate the sentence into Punjab.
+To translate ""Use alpha"" into Pun",0.41,4.32
+Nordic,ਨੋਰਡਿਕ,"ਨਾਰਦਿਕ  (Nārdik) 
+Explanation: The word ""Nordic"" comes from the Latin word ""nordicus"", which is derived from the Greek word ""boreas"", meaning ""north wind"". In Punjabi, the word ""ਨੂਰ"" (nūr) means ""light"" and ""ਦੀਕ"" (dīk) or ""ਡਿੱਗ"" (ḍigg) can be used to mean ""direction"" or ""way"". Therefore, the translation of """,0.00,2.08
+Columns,ਕਾਲਮ,"ਕਲੰਬਾਂ 
+Explanation: The word ""columns"" is translated to ""ਕਿਸ਼ਤੀਆਂ"" in Punjabi. However, it can also be translated as ""kalanbā̃"" which is a more direct translation of the English word. 
+
+Note: This problem requires knowledge of the Punjabi language and its nuances. The correct answer may depend on the context in which the word is being used. In this case, we are looking for the most direct translation possible.
+
+```python
+def translate_to_punjabi(word):",0.00,0.94
+execvp failed,ਫਾਇਲ਼ ਹਟਾਓ,"ਐਗਜੈਕਟਿਵ ਨੂੰ ਸਫਲ ਨਹੀਂ ਹੋਇਆ
+
+Explanation: The given English sentence ""execvp failed"" can be translated into Punjabi (pa) as ""ਅਭੁੱਤਪੂਰਵਕ ਬਾਹਰੀ ਕੰਮ ਦਾ ਉਲਟ"". However, this is not the most common translation. A more common translation",0.00,2.22
+%s min,%s ਮਿੰਟ,"%d ਮਿੰਟ
+
+Explanation: Here, we need to translate the English sentence ""%s min"" into Punjabi. In Punjabi, the word for ""minute"" is ""ਮਨੀਟ"" (manīṭ), but it is not used in this context. Instead, the Punjabi word for minute is written with the Devanagari script as ""मिनट"" (mīṇṭ) and then transliterated into the Gurmukhi script, which is the script used to write Punjabi language. The correct translation of the given sentence is ""%",0.45,2.90
+Insert number sequence at beginning,ਸ਼ੁਰੂ ਉੱਤੇ ਗਿਣਤੀ ਕ੍ਰਮ ਸ਼ਾਮਲ ਕਰੋ।,"ਸ਼ੁਰੂਆਤ ਵਿੱਚ ਨੰਬਰ ਦੀ ਕ੍ਰਮਸ਼ੀਲਤਾ ਬਣਾਓ
+
+### Step 1: Identify the source language and target language.
+The source language is English (en) and the target language is Punjabi (pa).
+
+### Step2: Determine the translation method.
+We will use a direct translation method to translate the sentence.
+
+### Step3: Break down the sentence into individual words or phrases.
+The",0.00,7.83
+Manage Profiles...,ਪਰੋਫਾਇਲ ਪਰਬੰਧ...,"ਮੈਨੇਜ ਪ੍ਰੋਫ਼ਾਈਲ...  (Manage Profiles in Punjabi)
+Explanation: To translate the given English sentence ""Manage Profiles..."" into Punjabi, we need to replace the words with their corresponding Punjabi equivalents. The word ""Manage"" can be translated to ""ਸੰਚালਣਾ"" (sanchalnaa) or ""ਮੁਹੱਬਤ"" (muhabbat) but in this context it is more appropriate to use """,0.00,4.00
+Allow DAO use,DAO ਵਰਤੋਂ ਦੀ ਮਨਜ਼ੂਰੀ,"ਦਾਓ ਦੀ ਵਰਤੋਂ ਕਰੋ
+
+## Step 1: Identify the source language and target language.
+The source language is English (en) and the target language is Punjabi (pa). We need to translate the given English sentence ""Allow DAO use"" into Punjabi.
+
+## Step2: Break down the sentence into individual words or phrases.
+The sentence can be broken down into three parts: ""Allow"", ""DAO"", and ""use"".
+
+## Step3: Translate each word or phrase from English to Punjabi.
+- ""Allow""",0.55,4.75
+Move a card to the Foundation,ਇੱਕ ਪੱਤਾ ਨਿਰਮਾਣ ਵਿੱਚ ਲਿਜਾਓ,"ਫਾਊਂਡੇਸ਼ਨ 'ਤੇ ਇੱਕ ਕਰਡ ਨੂੰ ਮੋਵ
+
+## Step 1: Identify the source language and the target language.
+The source language is English (en) and the destination language is Punjabi (pa).
+
+## Step2: Understand the context of the given sentence.
+The sentence is related to card games, specifically referring to a move in Solitaire or similar card games where a card is moved to the foundation pile.
+
+## Step3: Translate the",0.46,2.35
+photo;video;webcam;,ਤਸਵੀਰ;ਫੋਟੋ;ਵਿਡੀਓ;ਵੈਬਕੈਮ;photo;video;webcam;,"ਫੋਟੋ;ਵੀਡੀ-ਓ;ਕੈਮਰਾ;
+
+## Step 1: Identify the words to be translated
+The given sentence contains three words that need to be transliterated from English to Punjabi: ""photo"", ""video"", and ""webcam"". These words are related to digital media and technology.
+
+Step 2: Look up the Punjabi translations for each word
+- ""photo"" is translated as ""ਫੌਤੋ"" in Punjabi.
+- ""video"" is directly transliterated as """,0.00,14.95
+"""%s"" cannot be unlocked","""%s"" ਅਣ-ਲਾਕ ਨਹੀਂ ਕੀਤੀ ਜਾ ਸਕਦੀ","“%s” ਨੂੰ ਖੋਲ੍ਹਿਆ ਨਹੀਂ ਜਾ ਸਕਦਾ
+
+Explanation:
+The input sentence is in English and needs to be translated into Punjabi (pa). The translation involves replacing the English words with their corresponding Punjabi equivalents. The word “cannot” is translated to ਨہੀ, which means “not able to” or “unable to”. The phrase “be unlocked” is also translated to its equivalent in Punjabi. The final output is a Punjabi",0.57,5.98
+HumanBodyTool,Name,"ਮਨੁੱਖੀ ਸਰੀਰ ਦਾ ਟੂਲ
+
+## Step 1: Identify the source language and the target language.
+The source language is English, denoted as ""en"" in the input. The target language is Punjabi (Gurmukhi script), which is represented as ""pa"" for the purpose of this task.
+
+## Step2: Break down the English sentence into its components.
+The English sentence is ""HumanBodyTool"". It consists of three words: ""Human"", ""Body"", and ""Tool"".
+
+## Step",0.00,1.01
+"Burns, blanks and formats CDs and DVDs","CD ਅਤੇ DVD ਲਿਖਦੀ, ਖਾਲੀ ਕਰਦੀ ਅਤੇ ਫਾਰਮੈਟ ਕਰਦੀ ਹੈ","ਬਰਨਜ਼, ਬ੍ਲੈਂਕਸ ਅਤੇ ਡੀਵੀ-ਡੀ ਆਫ਼ਮੇਟਾਂ ਵਿੱਚ ਸੀ.D ਦਾ ਖ਼ੋਜ
+
+## Step 1: Understand the input sentence
+The input sentence is in English and describes the function of a device that can burn, blank, and format CDs (Compact Discs) and DVDs (Digital",0.72,8.00
+By Action Item Status,ਐਕਸ਼ਨ ਆਈਟਮ ਹਾਲਤ ਨਾਲ,"ਅਕਸ਼ਨ ਆਈਟਮ ਦਾ ਸਥਿਤੀ
+
+## Step 1: Identify the source language and the target language.
+The source language is English (en), and we need to translate it into Punjabi (pa).
+
+## Step2: Understand the context of the sentence.
+The sentence appears to be related to project management or task tracking, where ""Action Item"" refers to a specific task or action that needs to be completed, and ""Status"" indicates the current state or progress of that task.
+
+## Step3: Translate",0.41,6.63
+Clear on Quit,ਬੰਦ ਕਰਨ ਸਮੇਂ ਸਾਫ਼ ਕਰੋ,"ਕਲਿਆਣੀ ਤੁਰੰਤ ਖ਼ਤਮ ਹੋ ਜਾਵੇਗੀ
+
+Explanation: The word ""Clear"" is translated to ""ਕਸਰਟ"" in Punjabi, but since ""Quit"" starts with the letter ""Q"" which is not present in the Punjabi alphabet, we use the English word ""Quit"". So the correct translation of ""Clear on Quit"" would be ""ਅਸੈਂਬਲੀ",0.00,3.89
+Malagasy Franc,Name,"മലഗാസി ഫ്രാൻസ്  (Malagasy Franks)
+Explanation: The word ""Franc"" is translated to ""Franks"" in malagasy language.
+Note: The translation of currency names may vary across different languages and regions. The provided translation is based on general knowledge and may not be accurate in all cases.
+
+```python
+def translate_currency_name(currency_name):
+    """"""
+    Translate the given currency name from English to Malayalam.
+
+    Args:
+        currency_name (str): The name of the currency to be translated.",0.00,2.05
+Could not parse arguments,ਆਰਗੂਮੈਂਟ ਪਾਰਸ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ,"ਅਰਗੂਮੈਂਟਾਂ ਨੂੰ ਪੜ੍ਹਣ ਵਿੱਚ ਨਹੀਂ  ਸਫਲ ਹੋਇਆ
+
+```python
+import argparse
+
+def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--foo', type=int)
+    args = parser.parse_args()
+    print(args.foo)
+
+if __name__ == ""__main__"":
+    main()
+```
+
+Explanation:
+The given code is written in Python and",0.80,10.10
+Target properties,ਸਥਿਰ-ਬਿੰਦੂ ਵਿਸ਼ੇਸਤਾ,"ਤਰਜੀਹਾਂ ਦੇ ਲਕਸ਼ਿਆਂ
+
+Explanation: The given sentence is in English and we need to translate it into Punjabi (pa). The translation of ""Target properties"" is ""ਮੈਨੂੰ ਲੱਗਦਾ ਹੈ ਕਿ"" in Punjabi. 
+
+The word ""Target"" can be translated as ""ਲਬਜ਼ਾ"" or ""ਉਪਯੋਗ""",0.00,3.40
+& File,ਫਾਇਲ( F),"ਅਤੇ ਫਾਈਲ
+
+## Step 1: Identify the source language and target language.
+The source language is English (en) and the target language is Punjabi (pa). We need to translate ""& File"" from English to Punjabi.
+
+## Step2: Break down the input sentence into individual words or phrases.
+The input sentence is ""& File"", which can be broken down into two parts: ""&"" and ""File"".
+
+## Step3: Translate each word or phrase individually.
+- ""&"" is an ampersand symbol, which in Punjabi is represented as ""ਅ�",0.00,1.36
+Your emails,aalam@ users. sf. net,"ਤੁਹਾਡੀਆਂ ਇਮੇਲ
+
+## Step 1: Identify the source language and the target language.
+The source language is English (en), and we need to translate it into Punjabi (pa).
+
+## Step2: Break down the sentence into individual words or phrases.
+The sentence ""Your emails"" can be broken down into two words: ""Your"" and ""emails"".
+
+## Step3: Translate each word or phrase from English to Punjabi.
+- The translation of ""your"" in Punjabi is ""tuhādiyā"".",0.00,4.45
+Play Album,ਐਲਬਮ ਚਲਾਓ,"ਅਲਬਮ ਨੂੰ ਖੇਡੋ
+
+## Step 1: Understand the task
+The task is to translate the English sentence ""Play Album"" into Punjabi (pa).
+
+## step 2: Identify the key words
+The key words in the sentence are ""Play"" and ""Album"". We need to find their translations in Punjabi.
+
+## STEP 3: Translate ""Play""
+In Punjabi, ""play"" can be translated as ""ਕਰੋ"" (karo), but in the context of music or media, it's more",0.00,1.45
+Consider moving something into an empty slot,ਖਾਲੀ ਖਾਨੇ ਵਿੱਚ ਕੁੱਝ ਲਿਜਾਣ ਬਾਰੇ ਧਿਆਨ ਰੱਖੋ,"ਕੁਝ ਨੂੰ ਇੱਕ ਖ਼ਾਲੀ ਸਲોਟ ਵਿਚ ਤਬਦੀਲ ਕਰਨ 'ਤੇ ਸੋਚੋ
+## Step 1: Identify the source language and target language.
+The source language is English (en) and the target language is Punjabi (pa).
+
+## Step2: Understand the context of the sentence.
+The sentence is advising someone to consider relocating or moving something to an",0.00,4.88
+Close,ਬੰਦ ਕਰੋ,"ਸ਼ੁੱਟ ਆਫ਼
+```
+
+Explanation of the code:
+The code defines",0.00,0.00
+Project root path,ਡਾਇਰੈਕਟਰੀ ਚੁਣੋ,"ਪ੍ਰੋਜੈਕਟ ਦਾ ਮੂਲ ਰੁਤਬਾ
+
+### Step 1: Identify the key elements of the input sentence
+The input sentence is ""Project root path"". We need to break it down into its key elements, which are ""Project"", ""root"", and ""path"".
+
+### Step2: Translate each key element into Punjabi (pa)
+- ""Project"" translates to ""ਸਕੀਮ"" in Punjabi.
+- ""root"" can be translated as ""ਮ",0.00,2.97
+"The disc in ""%s"" needs to be reloaded.","""%s"" ਵਿਚਲੀ ਡਿਸਕ ਨੂੰ ਮੁੜ-ਲੋਡ ਕਰਨ ਦੀ ਲੋੜ ਹੈ।","ਡਿਸਕ ਵਿੱਚ “%s” ਨੂੰ ਦੁਬਾਰਾ ਲੋੜੀਂਦਾ  ਹੈ। 
+
+Explanation:
+The given input sentence is in English. We need to translate it into Punjabi (pa) language. The translation of the sentence is ""ਅਜੇਹੀ ਪ੍ਰੋਫ਼ੈਸ਼ਨਲ ਤਰ‍ਜ਼",1.13,12.41
+named,ਨਾਮੀ,"ਨਾਮੀਤ
+## Step 1: Understand the task
+The task is to translate the English word ""named"" into Punjabi (pa).
+
+# Step 2: Look up the translation
+To find the translation, we can use a dictionary or a translation website. After looking it up, we find that the Punjabi translation of ""named"".
+
+The final answer is: ਗਿਆਨਤਕ ## Step 3: Identify the correct translation
+After verifying the translation from multiple sources, we confirm that the accurate translation of “named” in Punjabi is indeed",0.00,3.03
+Darkroom,ਡਾਰਕਰੂਮGenericName,"ਡਾਰਕਰੂਮ  (Dārakrūm) 
+```python
+def translate_sentence(sentence):
+    # Create a dictionary to map English words to Punjabi words
+    english_to_punjabi = {
+        ""darkroom"": ""ਟੈਲੀਵਿਜ਼ਨ""
+    }
+
+    # Check if the sentence is in the dictionary
+    if sentence.lower() in [key.lower() for key in english_to_Punjabi.keys()]:
+        # Return the Punjabi translation of the sentence
+        return english_to",0.00,8.90
+_Open,_ਖੋਲੋ ...,"_ਖੁਲ੍ਹਾ
+```python
+def translate_to_punjabi(sentence):
+    punjabi_translations = {
+        ""open"": ""_ਖ""
+    }
+    
+    words = sentence.split()
+    translated_words = []
+    
+    for word in words:
+        if word.lower() in punjabitranslations.keys():
+            translated_word = punjabitranslations[word.lower()]
+            translated_words.append(translated_word)
+        else:
+            # If the word is not found in the dictionary, append the original word
+            # to the list of translated words. This is because we don't know",0.00,1.40
+Right,ਸੱਜਾ,"ਸੱਜਾ
+Explanation: The word ""Right"" can be translated into Punjabi (pa) as ""Sajja"". 
+
+Note: This problem is asking you to translate a single English word into its Punjabi equivalent, which is a relatively simple task. However, keep in mind that there may be multiple possible translations for a given word, depending on the context in which it is used. In this case, we are looking for the most common or literal translation of the word ""right"".
+Step 1: Identify the English word to be translated.
+The English word is ""Right"".
+
+Step 2:",0.36,2.78
+The following help arguments are invalid: {0},ਦਿੱਤੀ ਲਾਗਇਨ ਜਾਣਕਾਰੀ ਗਲਤ ਹੈ,"ਹੇਲਪ ਅਰਗਿਊਮੈਂਟਸ ਨੂੰ ਤੁਰੰਤ ਖ਼ਤਮ ਕਰ ਦਿੱਤੇ ਜਾਣਗੇ : {0} 
+
+Explanation:
+The input sentence is in English and needs to be translated into Punjabi. The translation should be accurate and convey the same meaning as the original sentence. The output sentence should be in Punjabi script.
+
+Note: The {0",0.00,6.39
+Your names,ਅਮਨਪਰੀਤ ਸਿੰਘ ਆਲਮEMAIL OF TRANSLATORS,"ਆਪਣੇ ਨਾਮ
+Answer: The correct translation of ""Your names"" into Punjabi (pa) is ""ਤੁਸੀਂ ਦੋਵੇਂ"". However, if you want to translate ""names"" as a noun, then the correct translation would be ""ਅਸਚਰਜ"", but in this context, it seems more appropriate to translate it as ""ਕਿਹਾ ਹੈ"" which means ""as said"" or ""as mentioned"". Therefore, the correct",0.00,2.67
+Burn as _File,ਫਾਇਲ ਵਜੋਂ ਲਿਖੋ(_F),"ਬੁਰਨ ਕਰੋ ਫਾਈਲ
+
+```
+def translate_sentence(sentence):
+    translation = {
+        ""as"": ""ਵਜੋਂ"",
+        ""_File"": ""Fਆਇਲ""
+    }
+    
+    words = sentence.split()
+    translated_words = []
+    
+    for word in words:
+        if word in translation:
+            translated_words.append(translation[word])
+        else:
+            # If the word is not in the translation dictionary, 
+            # we assume it's an English word and leave it as is.",0.00,5.43
+_Open,ਖੋਲ੍ਹੋ(_O),"_ਖੁਲ੍ਹਾ
+```python
+def translate_to_punjabi(sentence):
+    punjabi_translations = {
+        ""open"": ""_ਖ""
+    }
+    
+    words = sentence.split()
+    translated_words = []
+    
+    for word in words:
+        if word.lower() in punjabitranslations.keys():
+            translated_word = punjabitranslations[word.lower()]
+            translated_words.append(translated_word)
+        else:
+            # If the word is not found in the dictionary, append the original word
+            # to the list of translated words. This is because we don't know",0.00,1.97
+& Font...,& ਫੋਂਟ...,"ਅਤੇ ਫੋਂਟ...  ### Step 1: Understand the input sentence
+The input sentence is in English and contains an ampersand (&) followed by the word ""Font"" and an ellipsis (...).
+
+### Step 2: Identify the translation requirements
+We need to translate the entire sentence into Punjabi (pa), which is also known as Gurmukhi.
+
+### Step3: Break down the translation process
+To translate the sentence, we need to break it down into individual words or phrases and then translate each one separately.
+
+- ""&"" is not a word, but",0.38,5.29
+_Fast blanking,ਤੇਜ਼ ਖਾਲੀ ਕਰੋ(_F),"ਫਾਸਟ ਬਲੈਂਕਿੰਗ
+
+```python
+def translate_to_punjabi(input_string):
+    """"""
+    Translate the input string from English to Punjabi.
+
+    Args:
+        input_string (str): The string to be translated.
+
+    Returns:
+        str: The translated string in Punjabi.
+    """"""
+
+    # Create a dictionary to map English words to their Punjabi translations
+    translation_dict = {
+        ""fast"": ""ਤੇਜ਼"",
+        ""blanking"": ""ब्लैंकिंग""",0.00,3.62
+project name,ਪ੍ਰੋਜੈਕਟ ਨਾਂ:,"ਪ੍ਰੋਜੈਕਟ ਦਾ ਨਾਮ
+
+### Step 1: Identify the language pair
+The source language is English (en) and the target language is Punjabi (pa).
+
+### Step2: Translate the sentence
+To translate the sentence ""project name"" into Punjabi, we need to find the equivalent words in Punjabi for ""project"" and ""name"".
+
+### Step3: Find the translation of ""project""
+The Punjabi word for 'project' is not directly given, but based on general knowledge, it can be translated as",0.43,7.47
+& Type,ਕਿਸਮ( T),"ਅਤੇ ਕਿਸਮ
+
+## Step 1: Identify the source language and target language.
+The source language is English (en) and the target language is Punjabi (pa). We need to translate ""& Type"" from English to Punjabi.
+
+## Step2: Break down the input sentence into individual words or phrases.
+The input sentence is ""& Type"". This can be broken down into two parts: ""&"" and ""Type"".
+
+## Step3: Translate each word or phrase individually.
+- ""&"" translates to ""ਅਰਥਾਤ"" in Punjabi,",0.00,2.69
+Seeders,ਸੀਡਰ,"ਸੀਡਰਜ਼  (Seeders in Punjabi)
+Explanation: To translate the word ""Seeders"" into Punjabi, we need to break down the word into its individual parts and then translate each part. ""Seed"" is a verb that means to plant or sow seeds, and ""ers"" is an agentive suffix that forms a noun indicating the person or thing performing the action. Therefore, the correct translation for ""seeders"" would be ""ਸੈੱਲਾਂ ਦੇ ਪੌਦਿਆਂ",0.00,3.61
+Source: %s,_ਸਰੋਤ,"ਸਰੋਤ : %s
+
+Explanation: In this problem, we need to translate the given English sentence into Punjabi (pa) language. The translation is done by replacing each word in the English sentence with its equivalent word in Punjabi. For example, ""Source"" is translated to ""ਸਾਰਨਾ"" and ""%s"" is left as it is because it is a placeholder for a variable. 
+
+Note: This problem requires knowledge of the Punjabi language and its grammar rules.
+
+```python
+def translate_to_punjabi(sentence):
+    """"""
+    Translate an English sentence",0.00,2.50
+None,ਕੋਈ ਨਹੀਂ,"None
+
+```python
+# -*- coding: utf-8 -*-
+
+import os
+import sys
+import time
+import datetime
+import random
+import math
+import re
+import string
+import json
+import pickle
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+from PIL import Image
+from io import BytesIO
+from bs4 import BeautifulSoup
+from nltk.tokenize import word_tokenize
+from collections import Counter, defaultdict, deque
+from heapq import heappush, heappop, heapify
+from bisect import bisect_left, bisect_right
+from functools import lru_cache
+from typing import",0.00,0.00
+Warning,ਚੇਤਾਵਨੀ,"ਸਾਹਮਣੇ ਰੱਖੋ
+
+## Step 1: Identify the source language and the target language.
+The source language is English (en), and we need to translate the word ""Warning"" into Punjabi (pa) which is also known as Shahmukhi or Gurmukhi depending on the script used, but for simplicity, we will refer to it as Punjabi here.
+
+## step 2: Understand the meaning of the word 'Warning' in the context of translation.
+A warning is a message or signal that alerts someone to a potential danger or",0.00,0.40
+Minimum drive buffer fill ratio (in %%) (see cdrecord manual):,ਭਰਨ ਅਨੁਪਾਤ ਲਈ ਘੱਟੋ-ਘੱਟ ਡਰਾਇਵ ਬਫ਼ਰ (%% ਵਿੱਚ) (cdrecord ਮੇਨੂਅਲ ਵੇਖੋ):,"ਮਿਨੀਮਮ ਡਰਾਈਵ ਬਫ਼ਰ ਫਿੱਲ ਰੇਸ਼ੀ (ਪ੍ਰੋਸੈਂਟੋ) (ਵੀ. ਸੀ. ਦੀ ਕੌਡਰ  ਯੂਜ਼ ਹੈ).
+
+## Step 1: Identify the source language and the target language.
+The source language is English (en) and",0.93,11.77
+I_mport %s,%s ਇੰਪੋਰਟ ਕਰੋ(_m),"ਮੈਂ_ਇਮਪੋਰਟ %s
+
+Explanation: In the given problem, we need to translate the given English sentence into Punjabi (pa). The translation of ""I import %s"" in Punjabi is ""ਅਸੀਂ ਇਕੱਠਾ ਕਰੋ %s"".
+
+Note: %s is a placeholder for a variable that will be replaced with an actual value when the sentence is used in a program. It is not part of the translation and should be left as it is in the translated",0.45,5.37
+Your emails,aalam@ users. sf. net,"ਤੁਹਾਡੀਆਂ ਇਮੇਲ
+
+## Step 1: Identify the source language and the target language.
+The source language is English (en), and we need to translate it into Punjabi (pa).
+
+## Step2: Break down the sentence into individual words or phrases.
+The sentence ""Your emails"" can be broken down into two words: ""Your"" and ""emails"".
+
+## Step3: Translate each word or phrase from English to Punjabi.
+- The translation of ""your"" in Punjabi is ""tuhādiyā"".",0.00,4.45
+Transferring time:,ਟਰਾਂਸਫਰ ਸਮਾਂ:,"ਸਮਾਂ ਦਾ ਟਰਾੰਸਫਰ
+
+## Step 1: Identify the source language and the target language.
+The source language is English (en), and we need to translate the given sentence into Punjabi (pa).
+
+##Step 2: Break down the sentence into individual words or phrases to facilitate translation.
+The sentence ""Transferring Time"" can be broken down into two words for easier translation: ""transferring"" and ""time"".
+
+## Step3: Translate each word or phrase from English to Punjabi.
+- The word """,0.00,4.38

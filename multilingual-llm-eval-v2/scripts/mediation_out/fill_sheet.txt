@@ -1,0 +1,54 @@
+N_total = 250   languages = 14   models = ['aya', 'bloom', 'gemma3', 'llama3', 'mistral', 'mt5base', 'qwen3', 'xglm']
+  MT            N =  66  Latin = 6  non-Latin = 60
+  Summarization N =  72  Latin = 18  non-Latin = 54
+  QA            N = 112  Latin = 24  non-Latin = 88
+N_MT_Latin = 6   N_MT_nonLatin = 60
+
+== tab:mediation  (coef, wild-cluster-bootstrap p, 95% CI)
+  M1 nonlatin  +0.177  p=0.580  CI [-0.73, +1.07]
+  M1 R2 = 0.005   N = 250   clusters = 14
+  M2 nonlatin  +0.253  p=0.514  CI [-0.43, +0.96]
+  M2 joshi     +0.172  p=0.175  CI [-0.07, +0.42]
+  M2 R2 = 0.016   N = 250   clusters = 14
+  M3 fert      +0.027  p=0.053  CI [-0.01, +0.07]
+  M3 joshi     +0.180  p=0.242  CI [-0.15, +0.51]
+  M3 R2 = 0.024   N = 250   clusters = 14
+  M4 nonlatin  +0.180  p=0.621  CI [-0.56, +0.96]
+  M4 fert      +0.024  p=0.071  CI [-0.01, +0.06]
+  M4 joshi     +0.205  p=0.151  CI [-0.04, +0.46]
+  M4 R2 = 0.028   N = 250   clusters = 14
+
+  M2 -> M4 non-Latin: +0.25 -> +0.18: magnitude SHRINKS (pattern expected under mediation)
+  M4 fertility +0.02, CI [-0.01, +0.06] is INSIDE the +/-0.20 SD equivalence margin
+  M4 fertility per 1 SD of fertility (4.95 tok/word): +0.119 SD of score, CI [-0.05, +0.30] is NOT inside the +/-0.20 SD margin
+
+== tab:mediation-all  (base = M2; metric added one at a time; gap absorbed = % shrink of |script coef|)
+  base non-Latin coefficient (M2) = +0.253
+  Fertility (tok/word)   SD=4.95  script coef=+0.18  gap absorbed=+29%
+  OOV rate               SD=0.05  script coef=+0.19  gap absorbed=+24%
+  Vocab.\ coverage       SD=0.05  script coef=+0.19  gap absorbed=+24%
+  Subword fragmentation  SD=0.17  script coef=+0.04  gap absorbed=+85%
+
+== matched-fertility check: fertility in the Latin range [1.51, 4.54] tokens/word
+  non-Latin coef = +0.172  p=0.673  CI [-0.55, +0.97]  N = 166  clusters = 14
+
+== language fixed effects: only differences between models WITHIN a language identify fertility
+  fertility coef = +0.078  p=0.007  CI [+0.00, +0.15]  N = 250
+
+== language + model fixed effects: fertility identified only by language x model variation
+  fertility coef = +0.039  p=0.042  CI [+0.01, +0.07]  N = 250
+
+== non-Latin coefficient (no controls) by task and by model; wild-cluster-bootstrap p and 95% CI
+  task=MT             coef = -0.119  p=0.435  CI [-0.28, +0.05]  N = 66
+  task=Summarization  coef = -0.455  p=0.080  CI [-0.91, +0.02]  N = 72
+  task=QA             coef = +0.724  p=0.337  CI [-1.00, +2.40]  N = 112
+  model=aya            coef = +0.032  p=0.921  CI [-0.79, +0.85]  N = 37
+  model=bloom          coef = +0.330  p=0.066  CI [+0.08, +0.58]  N = 37
+  model=gemma3         coef = -0.292  p=0.591  CI [-1.35, +0.84]  N = 37
+  model=llama3         coef = +0.362  p=0.401  CI [-0.77, +1.45]  N = 37
+  model=mistral        coef = +0.420  p=0.294  CI [-0.44, +1.30]  N = 37
+  model=mt5base        coef = -0.408  p=0.263  CI [-1.30, +0.49]  N = 37
+  model=qwen3          coef = +1.329  p=0.228  CI [-0.62, +3.29]  N = 14
+  model=xglm           coef = +0.546  p=0.378  CI [-0.69, +1.81]  N = 14
+
+== fertility vs score: Pearson r = +0.109 (N = 250);  Latin fertility 1.51-4.54, non-Latin 1.40-28.99

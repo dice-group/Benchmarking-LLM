@@ -1,0 +1,1070 @@
+Source,Reference,Prediction,BLEU,chrF++
+paper size,paper size,"اندازه کاغذ
+
+Here is the how you can do it:
+
+1. Break down the input sentence into individual words.
+2. Look up the translation of each word in a dictionary.
+3. Translate each word from English to Pashtو (Pashto).
+4. Combine the translated words into a single sentence.
+
+Let's start with the first word, ""paper"". According to a dictionary, the Pashtो translation of ""paper"" is ""کاغذ"".
+
+Now let's move on to the next word, which is ""size"". The Pashtо translation of this word is ""اندازه"".
+
+Finally, let's",0.00,4.91
+Warning,خبرتيا,"پوښتنه
+
+Explanation: The word ""Warning"" can be translated to Pashtو in multiple ways depending on the context. However, one common translation is ""پوڅنې"" which means ""warning"" or ""caution"". Another possible translation is """" which means ""(to) warn"". In this case, we will use """" as the translation of ""Warning"".
+
+```python
+def translate_to_pashto(english_word):
+    """"""
+    Translate an English word into its Pashtu equivalent.
+
+    Args:
+        english_word (str): The English word to be translated.
+
+    Returns:",0.00,0.19
+translator-credits,Zabeeh Khan <zabeehkhan\@gmail\.com> The Pathanisation Project <pathanisation\@googlegroups\.com>%d hit(s) on this page,"پښتو ژباړونکي ځانګړتیاوې
+
+Explanation: This is a simple translation of the given English sentence. The word ""translator"" is translated to ""پښتوجبړنکی"" (Pashto for ""translator"") and the word ""credits"" is also translated to its Pashtو equivalent, which is ""ځانگړتياو"". 
+
+Note: The translation is case-sensitive, so the capitalization of the original sentence is preserved in the translation. 
+
+Also, note that this is a basic translation and may not",0.57,15.74
+Suggestions,وړانديزونهCheck Spelling,"پوښتنې
+
+Explanation: The word ""Suggestions"" can be translated to Pashtو in several ways, but the most common translation is ""پوڼټنې"". However, considering the context of the problem and the given options, it seems that the intended translation is indeed ""پوشتنه"", which means ""suggestions"" or ""advice"". 
+
+Note: This problem requires the ability to understand the context and nuances of the language, as well as knowledge of the target language. It's not just a matter of looking up a direct translation. 
+
+Also, please note that Pas",0.00,4.37
+mb,ميليبارهmillibars of mercury,"میږی
+
+Explanation: The word ""mb"" is an abbreviation for ""millibarn"", which is a unit of measurement in physics. In Pashtو (Pashto), the word for ""barn"" is ""میږۍ"" (mayi), and the prefix ""milli-"" means ""one-thousandth"". Therefore, the correct translation of ""mB"" to Pashtо is indeed ""مېږي"" (meizi). However, since the input is ""mb"", we need to remove the last letter ""B"" from ""meizi"" to get the correct",0.48,10.26
+Korean,کورياييName,"کوریایی
+
+Explanation: The word ""Korean"" can be translated to Pashtو (Pashto) as ""کوریایی"". 
+
+Note: This problem does not require any programming knowledge. It is a simple translation task. 
+
+However, if you want to write a program to solve this problem, you can use a dictionary or a translation API to get the translation of the word. Here is an example of how you can do it in Python:
+
+```python
+import requests
+
+def translate_word(word):
+    api_url = ""https://api.example.com/translate""
+    params = {""word"": word, ""lang",0.00,2.12
+Address Book,پته کتاب,"پوهنځي کتاب
+
+Explanation: The word ""Address"" can be translated to Pashtو in multiple ways, but one common way is to use the word ""پوهني"" which means ""university"" or ""college"". However, in this context, it would be more appropriate to translate it to ""دولتي"" which directly translates to ""address"". Therefore, the correct translation for ""Address Book"" would be ""دوليټي کتاب"".
+
+Here's the corrected code:
+
+```python
+def translate_to_pashto(english_sentence):
+    """"""
+    This function takes an English sentence as input and",0.43,2.36
+file chooser,دوتنه ټاکونکی,"فایل چوڅر
+
+Explanation:
+The word ""file"" is translated to ""فایل"" and the word ""chooser"" is broken down into two parts: ""choo"" and ""er"". The word ""er"" is an English suffix that indicates a person or a thing that performs an action. In Pashtو (Pashto), this suffix is not used, so it is removed. The remaining part ""choos"" is then translated to په ځانګړي توګه ""peh zanghareh"" which means ""specific"" or ""particular"". However",0.00,1.47
+Lay_out,هډو_انه,"ډیزاین
+
+Explanation:
+The word ""Lay_out"" can be broken down into two words: ""Ley"" and ""out"". 
+""Ley"" is not a common word in English, but it is related to the word ""lay"", which means to put or place something. 
+So, we can assume that ""ley"" is a variant of ""lay"". 
+Then, ""out"" is an adverb that means away from the speaker or the point of reference. 
+Therefore, the translation of ""LAY_out"" is ""ډیساین"" (design), which is a noun that refers to a",0.00,0.87
+does not start with,نه پېليږي په,"په لومړي ځل کې نه پیل کیږي
+
+Explanation: The word ""start"" is translated to ""پیل"" (pil) and the word ""with"" is left as it is because it is an adverb in this context. The correct translation of the sentence is ""په لومیړی څل کله نه پیلیږی"". However, the given output is almost correct but has a small typo. It should be ""کې"" instead of ""کی"".
+
+Note: This problem is about translating a sentence from English to",0.51,3.41
+paper size,paper size,"اندازه کاغذ
+
+Here is the how you can do it:
+
+1. Break down the input sentence into individual words.
+2. Look up the translation of each word in a dictionary.
+3. Translate each word from English to Pashtو (Pashto).
+4. Combine the translated words into a single sentence.
+
+Let's start with the first word, ""paper"". According to a dictionary, the Pashtो translation of ""paper"" is ""کاغذ"".
+
+Now let's move on to the next word, which is ""size"". The Pashtо translation of this word is ""اندازه"".
+
+Finally, let's",0.00,4.91
+<account\-id>,ګڼون,"ګډوډېدونکې
+
+Explanation: This is a simple translation problem. The input is an English sentence and the output is the translation of that sentence in another language (Pashto). In this case, we need to translate the English sentence ""<account-id>"" to its equivalent in Pashtu, which is """".
+
+
+```python
+def translate_to_pashto(input_string):
+    """"""
+    Translate the input string from English to Pashtun.
+    
+    Args:
+        input_string (str): The English sentence to be translated.
+    
+   Returns:
+        str: The Pasht",0.00,1.17
+keyboard label,ړنګولkeyboard label,"کیبورډ لېبل
+
+Explanation: The word ""keyboard"" can be translated to Pashtو (Pashto language) as ""کیبورد"" and the word ""label"" can also be translated as ""لیبل"". Therefore, the correct translation of ""keyboard label"" is ""کیبرډ لیبل"".
+
+Note: This problem requires you to have knowledge of the Pashtо language and its translation rules. 
+
+```python
+def translate_to_pashto(english_sentence):
+    """"""
+    Translate an English sentence to Pashta.
+    
+    Parameters:
+    english_sentence (str): The sentence to be",0.00,11.39
+Select all text,ټوله ليکنه ټاکل,"دا ټول متن غوره کړه
+
+Explanation: The word ""Select"" is translated to ""دا"" (da) which means ""this"" or ""that"". The phrase ""all text"" translates to ""ټولو متن"" (tolo maton), where ""تولو"" (tolo) means ""all"" and ""متن"" (maton) refers to ""text"". The verb ""to select"" in Pashtو (Pashto) is ""غوره"" (ghorah). Therefore, the correct translation of the given sentence is ""دا ټولو مطن غ",0.00,3.25
+Use _Default Background,تلواله_شاليد کارول,"څرنګه چې
+
+Explanation: The word ""_Default"" is not directly translatable to Pashtو. However, it can be translated as ""ځانګړي"" which means ""default"" or ""standard"". Therefore, the correct translation of the given English sentence is ""څ رنڹ چی ځاڼڬړی پسخه"".
+
+Note: The above explanation is based on the assumption that the translator is familiar with the context in which the term ""_Default Background"" is being used. In this case, it seems to be",0.00,1.33
+paper size,paper size,"اندازه کاغذ
+
+Here is the how you can do it:
+
+1. Break down the input sentence into individual words.
+2. Look up the translation of each word in a dictionary.
+3. Translate each word from English to Pashtو (Pashto).
+4. Combine the translated words into a single sentence.
+
+Let's start with the first word, ""paper"". According to a dictionary, the Pashtो translation of ""paper"" is ""کاغذ"".
+
+Now let's move on to the next word, which is ""size"". The Pashtо translation of this word is ""اندازه"".
+
+Finally, let's",0.00,4.91
+Keywords:,:اروييونه,"Translation:
+
+1. Hello
+2. How are you?
+3. What is your name?
+4. I am fine, thank you.
+5. Where is the bathroom?
+6. Do you speak English?
+7. I don't understand.
+8. Can you help me?
+9. Yes, I can.
+10. No, I cannot.
+11. Goodbye
+12. Thank you
+13. Please
+14. Excuse me
+15. Sorry
+16. How much does it cost?
+17. I'd like to buy this.
+18. I'll pay with card.
+19. I have no money.
+20.",0.00,0.25
+Keywords:,:اروييونه,"Translation:
+
+1. Hello
+2. How are you?
+3. What is your name?
+4. I am fine, thank you.
+5. Where is the bathroom?
+6. Do you speak English?
+7. I don't understand.
+8. Can you help me?
+9. Yes, I can.
+10. No, I cannot.
+11. Goodbye
+12. Thank you
+13. Please
+14. Excuse me
+15. Sorry
+16. How much does it cost?
+17. I'd like to buy this.
+18. I'll pay with card.
+19. I have no money.
+20.",0.00,0.25
+Zip (.zip),زېپ (.zip),"زیپ (.zip) 
+
+Explanation: The word ""Zip"" is translated to ""زیپ"" in Pashtو language, and "".zip"" remains the same as it is a file extension. 
+
+Note: This problem does not require any programming knowledge. It is a simple translation task. 
+
+However, if you want to write a Python code to solve this problem, you can use the following code:
+
+```python
+def translate_to_pashto(word):
+    pashto_translations = {
+        'zip': 'زیپ',
+        # Add more translations here...
+    }
+    
+    if word.lower() == 'zip':",0.43,5.55
+Add the current launcher to favorites,اوسنی پېلوونکی خواپورو ته زياتول,"د ځانګړي لانچر کېښودل
+
+Explanation: 
+The word ""Add"" is translated to ""کېدای شي"" which means ""may be"" or ""can"". However, in this context, it's more suitable to translate it to ""وړاندې کول"" which directly means ""to add"". The word ""the"" is not translated as it's an article and its translation depends on the context. In this case, we can omit it for simplicity. The words ""current"" and ""launcher"" are translated respectively to """,0.00,2.87
+paper size,paper size,"اندازه کاغذ
+
+Here is the how you can do it:
+
+1. Break down the input sentence into individual words.
+2. Look up the translation of each word in a dictionary.
+3. Translate each word from English to Pashtو (Pashto).
+4. Combine the translated words into a single sentence.
+
+Let's start with the first word, ""paper"". According to a dictionary, the Pashtो translation of ""paper"" is ""کاغذ"".
+
+Now let's move on to the next word, which is ""size"". The Pashtо translation of this word is ""اندازه"".
+
+Finally, let's",0.00,4.91
+Close Window,کړکۍ بندول,"وینډوز بند کړه
+
+Explanation: The translation of ""Close"" is ""بند کڼه"" and the translation of  ""Window"" is also ""وینډوس"". However, in this case, we need to translate ""Close Window"" as a whole phrase. In Pashtو language, when two words are connected with a hyphen (-) or a space, it means that they are part of a compound word or a phrase. Therefore, the correct translation of the given English sentence is ""ویګڼوس-بند"".
+
+However, there is another way to translate",0.00,2.21
+_View,ليد_,"ګوري
+
+Explanation: The word ""View"" in English is translated to ""ګوری"" in Pashtو (Pashto language). 
+
+Note: This problem requires you to translate a single word from English to Pashtо, not a sentence. 
+
+```python
+def translate_to_pashto(english_word):
+    """"""
+    Translate a single English word into its Pashtō equivalent.
+
+    Args:
+        english_word (str): The English word to be translated.
+
+    Returns:
+        str: The translation of the English word in Pashton.
+    """"""
+
+    # Create a dictionary that maps English words to",0.00,0.58
+Importing '%s',دننول کيږي `%s',"د ګټنې کول یې '%s'
+
+Here is the code to solve the problem:
+
+```python
+def translate_to_pashto(english_sentence):
+    """"""
+    This function takes an English sentence as input and returns its translation in Pashtو.
+    
+    Parameters:
+    english_sentence (str): The English sentence to be translated.
+        
+    Returns:
+    str: The Pashtо translation of the input sentence.
+    """"""
+    
+    # Create a dictionary to map English words to their Pashtो translations
+    pashto_translations = {
+        'Importing': 'د",0.00,2.48
+%.1f GB,%.1f ګ ب,"%1.1f گیگابایٹ
+
+Explanation: Here, we need to translate the unit ""GB"" (Gigabytes) from English to Pashtو (Pashto). The word for ""gigabyte"" in Pashtо is ""گیگابایټ"".
+
+```python
+def translate_to_pashto(input_str):
+    """"""
+    This function takes an English string as input and returns its Pashtō translation.
+    
+    Parameters:
+    input_str (str): The English string to be translated
+    
+    Returns:
+    str: The Pashtो translation of the input string
+    """"""
+    
+    #",0.00,1.74
+_Edit,سمون_,"څېړونکي
+
+Explanation: The word ""_Edit"" can be translated to Pashtو in several ways depending on the context. However, if we consider it as a noun referring to an editor or someone who edits, then the correct translation would be ""څیړنکی"" which means ""editor"" or ""one who edits"". 
+
+Note: The above explanation is based on the assumption that the input is referring to a person who edits. If the context is different, the translation might be different as well. 
+
+In this problem, we need to write a function that takes a string",0.00,0.89
+Table Cell,لښتيال خونه,"ټیبل سل
+
+Explanation: 
+The word ""Table"" can be translated to Pashtو as ""ټيبل"" and ""Cell"" is translated to ""سل"". Therefore, the correct translation of ""Table Cell"" in Pashtо is ټېبل سل. 
+
+Note: This problem doesn't require any programming knowledge. It's a simple translation task. 
+
+However, if you want to write a program to solve this problem, you can use a dictionary or a translation API to translate the words. Here is an example of how you can do it in Python:
+
+```python
+def translate_to_pas",0.00,0.74
+Sent,لېږلي,"کښل
+
+Explanation: The word ""Sent"" can be translated to Pashtو in multiple ways depending on the context. However, if we consider it as a verb meaning ""to send"" or ""to dispatch"", then the correct translation would be ""خپاره کړه"". But if we take it as an adjective meaning ""sent"" as in ""sent message"", then it translates to ""کښله"".
+
+In this problem, we assume that the input word is an adjective and the output should be ""kšle"" (Pashto for ""sent"").
+```pas
+func translateWord(word string",0.00,0.48
+Room:,کوټه:_,"کمرې
+
+Explanation: The word ""Room"" can be translated to Pashtو in multiple ways depending on the context. However, if we consider it as a noun referring to a physical space or a room in a house, then the most common translation would be ""کمره"" (kamre). 
+
+However, since the problem statement asks for a single word translation, we will use ""کامرې"" which is also a common way to refer to a room. 
+
+Note: The correct answer might vary based on regional dialects and personal preferences.
+
+Here's another example:
+
+Input: House:
+Output",0.00,0.72
+paper size,paper size,"اندازه کاغذ
+
+Here is the how you can do it:
+
+1. Break down the input sentence into individual words.
+2. Look up the translation of each word in a dictionary.
+3. Translate each word from English to Pashtو (Pashto).
+4. Combine the translated words into a single sentence.
+
+Let's start with the first word, ""paper"". According to a dictionary, the Pashtो translation of ""paper"" is ""کاغذ"".
+
+Now let's move on to the next word, which is ""size"". The Pashtо translation of this word is ""اندازه"".
+
+Finally, let's",0.00,4.91
+View,ليد,"ديد
+
+Explanation: The word ""View"" in English is translated to ""ديد"" in Pashtو. 
+
+Note: This problem is asking you to translate a single English word into its corresponding Pashtо word, not a sentence or a paragraph.
+
+```pashto
+fun main() {
+    val englishWord = ""View""
+    val pashtoWord = when (englishWord) {
+        ""View"", ""view"" -> ""ديد""
+        else -> """"
+    }
+    println(pashto_word)
+}
+``` 
+In the above code, we use a when expression to check if the input English word",0.00,1.33
+December,ډېسمبر,"دسمبر
+
+Explanation: The word ""December"" can be translated to Pashtو as ""دسمبر"".
+
+```pashto
+fun main() {
+    val englishWord = ""December""
+    val pashtoWord = when (englishWord) {
+        ""January"" -> ""جنوري""
+        ""February"" -> ""\u0641\u0628\u0631\u0648\u0621\u06d0\u06c1""
+        // Add more cases for other months
+        else -> ""Unknown""
+    }
+    println(""Pashto translation of $englishWord is $pashtoword"")
+}
+```",0.00,2.47
+Load Buddylist...,ملګری فهرست هسکول...,"لوډ برادرلیست...
+
+Here is the correct translation:
+
+لوډ برودر لیست...
+
+Explanation:
+The word ""Buddylist"" is a compound word in English, where ""buddy"" means friend and ""list"" means a collection of items. In Pashtو (Pashto), we can break it down into two words: ""برادر"" (brother/friend) and ""لیست"" (list). So, when translating ""Load Buddylist..."", we need to translate each word separately and then put them together.
+
+Here's the breakdown:
+
+* ""Load"" translates to ""لو�",0.00,2.89
+List of Custom Headers,دوديزې سريزې,"لیست څارنۍ سرلیکې
+
+Explanation:
+In this problem, we are given an English sentence and we need to translate it into another language (Pashto in this case). The translation should be as close to the original sentence as possible. 
+
+Note: This problem does not require any programming knowledge. It is a simple translation problem. 
+
+However, if you want to solve this problem programmatically, you can use machine translation APIs or libraries like Google Translate API, Microsoft Translator Text API, etc. 
+
+Here is an example of how you can do it in Python:
+
+```python
+from google",0.00,0.64
+Save Image,انځور و ساته,"وړاندې کړه عکس
+
+Explanation: 
+The word ""Save"" is translated to ""وړاندي"" which means ""save"" or ""keep"" in Pashtو language. The word ""Image"" is transliterated to ""عکس"" which is the Pashtо word for ""image"". 
+
+Note: This problem does not require any programming knowledge. It is a simple translation task. 
+
+However, if you want to write a program to solve this problem, you can use a dictionary or a translation API to translate the words. Here is an example of how you can do it in Python",0.00,1.53
+Paste tasks from the clipboard,له ټوټه ډړې دندې سرېښل,"پېښې یې له کلیپبورډ څخه کاپي کړې
+
+Explanation: 
+The word ""paste"" is translated to پټسې in Pashtو, but in this context, it is more appropriate to translate it as ""کاپي"" which means ""copy"". The word ""clipboard"" is directly translated to کلیپ بورډ. 
+
+Note: This problem requires the ability to understand the context of the sentence and choose the correct translation based on that context. It also requires knowledge of the language (Pashto) and",0.44,3.23
+Shadow Type,د سيوري ډول,"شادو ټایپ 
+
+Explanation: 
+The word ""Shadow"" is translated to ""شادو"" (shado) and the word ""Type"" is transliterated to ""ٹایپ"" (tayp). 
+
+Note: The translation of words may vary depending on the context, but in this case, we are looking for a direct translation or transliteration of the given words. 
+
+Also, note that the language model is not perfect and may make mistakes. If you find any errors, please let me know so I can correct them. 
+
+Let me know if you have any further questions or if there's",0.00,0.57
+Show in folder,په توکپټه کې ښودل_,"د ګالري کښې وښودل
+
+Explanation:
+To solve this problem, we need to translate the English sentence ""Show in folder"" word by word. 
+
+- ""Show"" translates to ""وښودی"" in Pashtو 
+- ""in"" is a preposition and its translation depends on the context, but in this case, it can be translated to ""د"" (meaning ""of"" or ""in"")
+- ""folder"" translates directly to ""ګاډري""
+
+So, when we put all the words together, we get the correct translation of the",0.00,2.68
+_Quit,بندول_Stock label,"څرګندول
+
+Explanation: The word ""quit"" in English means to stop or leave something. In Pashtو (Pashto), the word for ""quit"", ""stop"", or ""leave"" is ""څَرګنُدول"" (charagnudol). 
+
+Note: This problem is asking you to translate a single English word into its Pashtо equivalent, rather than translating an entire sentence or paragraph. 
+```pashto
+fun main() {
+    val englishWord = ""quit""
+    val pashtoWord = when (englishWord) {
+        """,0.00,4.28
+paper size,paper size,"اندازه کاغذ
+
+Here is the how you can do it:
+
+1. Break down the input sentence into individual words.
+2. Look up the translation of each word in a dictionary.
+3. Translate each word from English to Pashtو (Pashto).
+4. Combine the translated words into a single sentence.
+
+Let's start with the first word, ""paper"". According to a dictionary, the Pashtो translation of ""paper"" is ""کاغذ"".
+
+Now let's move on to the next word, which is ""size"". The Pashtо translation of this word is ""اندازه"".
+
+Finally, let's",0.00,4.91
+View,ليد,"ديد
+
+Explanation: The word ""View"" in English is translated to ""ديد"" in Pashtو. 
+
+Note: This problem is asking you to translate a single English word into its corresponding Pashtо word, not a sentence or a paragraph.
+
+```pashto
+fun main() {
+    val englishWord = ""View""
+    val pashtoWord = when (englishWord) {
+        ""View"", ""view"" -> ""ديد""
+        else -> """"
+    }
+    println(pashto_word)
+}
+``` 
+In the above code, we use a when expression to check if the input English word",0.00,1.33
+Font,ليکبڼه,"فونٹ
+
+Explanation: The word ""Font"" is translated to ""فونٹ"" in Pashtو. 
+
+Note: This problem requires you to know the correct translation of the given word from English to another language (Pashto in this case). You don't need to write any code to solve this problem, just translate the word and provide the answer.
+
+The final answer is:
+
+فونټ
+
+Please let me know if this is correct or not. I'll be happy to help if there's anything else I can do for you! 
+
+(Also, please note that I've kept the original formatting of the",0.00,0.00
+Failed to create file '%s': %s,%s :دوتنې جوړولو کې پاتې راغی '%s' د,"کښې ناکام شو چې فایل '%s' جوړ کړي: %s
+
+Explanation:
+The given English sentence is about an error that occurred while trying to create a file. The translation should convey the same meaning in Pashtو (Pashto). The correct translation of the sentence is ""کښه ناکامه شوچېفایل'%s'جوړکړی:%s"" which can be written in a more readable format as ""کټهناکامشوکښوفایل('%s')جو",0.65,6.56
+Size,کچ,"ځای
+
+Explanation: The word ""Size"" is translated to ""ځاي"" (Zāy) in Pashtو. 
+
+Note: This problem requires knowledge of the Pashtо language and its translation rules.
+
+```python
+def translate_size_to_pashto(size):
+    """"""
+    Translate the English word 'Size' to Pashtो.
+
+    Args:
+        size (str): The English word to be translated.
+
+    Returns:
+        str: The Pashtō translation of the input word.
+    """"""
+
+    # Create a dictionary to store the translation rules
+    translation_rules = {
+        'Size':",0.00,0.00
+Save the edited search,سمول شوی لټون ساتل,"څېړنیزه لټون یې اصلاح کړئ
+
+Explanation: 
+To solve this problem, we need to understand the structure of the given English sentence. The sentence is in the imperative mood, which means it is giving a command or instruction. The main verb ""Save"" is followed by the preposition ""the"" and then the object ""edited search"". 
+
+In Pashtو (Pashto), the word order is Subject-Object-Verb (SOV). We need to follow this word order to translate the sentence correctly. 
+
+The word ""save"" translates to",0.41,2.55
+The Y position of the assistant window.,.ځايونه Y د ارې کړکۍ,"د یو پوزیشن څخه د اسسټنټ وینډو.
+
+Here is the correct solution:
+
+1. The = د
+2. Y = یو
+3. position = پوزیشې
+4. of = ځانګړی
+5. the = د (again)
+6. assistant = اسسٹنٳنت
+7. window = ویندوا
+
+Now, let's put all the words together to get the correct Pashtو translation:
+
+د یوپوزیشنځانه داسسٽ",0.65,4.10
+Arj (.arj),ارج (.arj),"ارج (.ارج)
+
+Explanation: The translation of ""Arj"" is ""ارج"" and the translation of ""(.arj)"" is ""(.ارج)"".
+
+
+```python
+def translate_to_pashto(input_string):
+    """"""
+    This function takes an English string as input and returns its Pashtو translation.
+    
+    Parameters:
+    input_string (str): The English string to be translated
+    
+    Returns:
+    str: The Pashtо translation of the input string
+    """"""
+    
+    # Create a dictionary to store the translations
+    translations = {
+        'Arj': 'ارج',
+        '(.ar",0.48,6.65
+150%,۱۵۰٪,"## Step 1: Understand the input sentence
+The input sentence is ""150%"". This is a numerical value with a percentage sign at the end, indicating a percentage increase or decrease.
+
+## Step2: Determine the context of translation
+Pashto is an Indo-European language spoken in Afghanistan and parts of Pakistan. The translation should be done in a way that is culturally and linguistically appropriate for the target audience.
+
+##Step 3: Translate the numerical value
+The numerical value ""150"" remains the same in Pashtو as it is a number and not a word that needs to be translated based on its meaning.
+
+##",0.00,0.00
+Dutch keymap,ډچ کيلېنخچه,"نړۍ کې د هالنډي ځانګړي کلیدونه
+
+Explanation: The word ""keymap"" is translated to ""کلیدونه"" which means ""keys"" in Pashtو. Then, the adjective ""Dutch"" is added to the beginning of the sentence to describe the type of keys. 
+
+Note: This problem requires the ability to translate words and phrases from one language to another, as well as an understanding of the grammatical structure of the target language. 
+
+```python
+def translate_to_pashto(english_sentence):
+    """"""",0.00,1.36
+translator-credits,Zabeeh Khan <zabeehkhan\@gmail\.com> The Pathanisation Project <pathanisation\@googlegroups\.com>,"پښتو ژباړونکي ځانګړتیاوې
+
+Explanation: This is a simple translation of the given English sentence. The word ""translator"" is translated to ""پښتوجبړنکی"" (Pashto for ""translator"") and the word ""credits"" is also translated to its Pashtو equivalent, which is ""ځانگړتياو"". 
+
+Note: The translation is case-sensitive, so the capitalization of the original sentence is preserved in the translation. 
+
+Also, note that this is a basic translation and may not",0.48,14.00
+Go to %s on file “%s”,ته ورتلل %s دوتنه کې “%s” په,"کښې وګرځېدل %s په فایل «%s»
+
+Explanation:
+In this problem, we need to translate the given English sentence. The translation should be in Pashtو (Pashto language). We need to replace the placeholders %s with the correct words in the target language.
+
+
+Step 1: Identify the placeholders in the English sentence.
+The placeholders are %s and %s.
+
+Step 2: Determine the correct translation for each placeholder.
+The first placeholder %s refers to a location or a place, so it should be translated to کږ�",0.47,3.18
+Number of seconds until timer stops,د مهالګر تر تمېدو د سېکېنډونو شمېر,"کښېنګه د ثانیو شمېر چې وروسته له هغه څکيږي
+
+Explanation:
+In this problem, we need to translate the given English sentence ""Number of seconds till timer stops"" into its equivalent Pashtو (Pashto) language. The translation should be as accurate as possible.
+
+Step 1: Identify the key words in the English sentence that need to be translated.
+The key words are ""Number"", ""of"", ""seconds"", ""till"", ""timer"", and ""stops"".
+
+Step 2: Translate each",0.54,5.46
+Main Menu,اره غورنۍ,"ګلوبل مینو
+
+Explanation: 
+In the given problem, we need to translate the English sentence ""Main Menu"" into its equivalent in Pashtو (Pashto language). The correct translation of the given English sentence is ""ګلوبل مينو"" which is written in the Nastaliq font. However, since we can only use ASCII characters in our code, we will represent it as ""Glubal Menu"". 
+
+Note: This problem does not require any programming knowledge. It is a simple translation problem.
+
+However, if you want to solve this problem programmatically, you can",0.00,0.35
+Close,بندول_,"ګرځېدل
+
+Explanation: The word ""Close"" can be translated to Pashtو in multiple ways depending on the context. However, if we consider it as a verb meaning ""to shut"" or ""to fasten"", then the correct translation would be ""گرځيږل"". But if we take it as an adjective meaning ""nearby"" or something similar, then the translation could be ""ګران"". In this case, let's assume it is being used as a command to instruct someone to shut or fasten something, hence the translation should be ""غرځ",0.00,0.79
+_Company:,:کمپنۍ_,"څانګه
+
+Explanation: The word ""Company"" can be translated to Pashtو (Pashto language) by replacing each letter with its corresponding letter in the Pashtо alphabet. Here's how it works:
+
+C -> چ (ch)
+O -> و (o)
+M -> م (m)
+P -> پ (p)
+A -> ا (a)
+N -> ن (n)
+Y -> ي (y)
+
+Therefore, the correct translation of the word ""_Company"" is ""څanګe"".
+
+Note: The Pashtो alphabet is different from the English alphabet, and some letters",0.00,1.14
+_Contents,منځپانګې_,"_څرګندونه
+
+Explanation: The word ""Contents"" in English is translated to ""څَرګنُدونې"" in Pashtو (Pashto) language. However, since the problem asks for a single word translation, we can remove the last letter ""ی"" which is a common practice when translating proper nouns or words that are not commonly used in the target language. Therefore, the correct translation of ""Content"" would be ""_څَګندي"".
+
+Note: This solution assumes that the input word is ""Content"", not ""Contents"". If the input is indeed",0.00,0.92
+offline,ناليکه,"ځانګړې 
+Explanation: The word ""offline"" is translated to Pashtو as ""ځانگړه"" which means ""special"" or ""exclusive"". However, in the context of computers and technology, it is more appropriate to translate it as ""خپلوګی"" (khpalogee) which means being disconnected or not connected to the internet. 
+
+In this problem, we need to write a function that takes an English word as input and returns its translation in Pashtu. The function should be able to handle different words and return their correct translations.
+
+Here",0.00,0.73
+file,دوتنه,"فايل
+
+Explanation: The word ""file"" in English is translated to ""فايل"" in Pashtو (Pashto). 
+
+Note: This problem does not require any programming knowledge. It is a simple translation task.
+
+However, if you want to write a program to solve this problem, you can use a dictionary or a translation API to get the translation of the input word. Here is an example of how you can do it in Python:
+
+```python
+def translate_to_pashto(word):
+    # Define a dictionary to store the translations
+    pashto_translations = {
+        'file': 'فايل",0.00,0.22
+Time: %s %s,%s %s ‎:مهال,"وخت: % s % s
+
+Here is the correct translation of the given English sentence to Pashtو (Pashto):
+
+وخت:  %s   %s
+
+Explanation:
+
+* ""Time"" is translated to ""وخت"" (waxt), which means ""time"" or ""hour"".
+* ""%s"" remains the same, as it is a placeholder for a variable and does not need to be translated.
+* The space between the two parts of the sentence is also preserved in the translation.
+
+Therefore, the correct output is ""وختیس %s"". However, I noticed that you added an extra",0.80,2.21
+Connect to server,...پالنګر سره نښلېدل,"په ځانګړي سرور کې اړیکه جوړول
+
+Explanation:
+To solve this problem, we need to translate the English sentence ""Connect to server"" word by word. 
+
+- ""Connect"" is translated to ""په"" (peh) which means ""to"" or ""in"" in Pashtو language. However, in this context, it is used as a preposition to indicate the action of connecting.
+- The next word is ""to"", which remains the same because it is an English preposition that does not have a direct equivalent in Pas",0.00,2.83
+paper size,paper size,"اندازه کاغذ
+
+Here is the how you can do it:
+
+1. Break down the input sentence into individual words.
+2. Look up the translation of each word in a dictionary.
+3. Translate each word from English to Pashtو (Pashto).
+4. Combine the translated words into a single sentence.
+
+Let's start with the first word, ""paper"". According to a dictionary, the Pashtो translation of ""paper"" is ""کاغذ"".
+
+Now let's move on to the next word, which is ""size"". The Pashtо translation of this word is ""اندازه"".
+
+Finally, let's",0.00,4.91
+Text,ليکنه,"متن
+
+## Step 1: Understand the task
+The task is to translate the given English sentence ""Text"" into its equivalent in Pashtو (Pashto language).
+
+## step 2: Identify the translation
+The word ""text"" directly translates to ""متن"" which is written as ""mətən"" in the Latin script commonly used for Pashtu, but since the question asks for the output in the same format as the input, we will write it as ""متن"".
+
+The final answer is: متن ## Step 3: No further steps are required. The translation has been identified and",0.00,0.23
+Attach,نښلول,"اړوند کول
+
+Explanation: The word ""attach"" is translated to ""اړوندي کول"" in Pashtو language. 
+
+Note: This problem requires you to have knowledge of the Pashtо language and its translation rules. 
+
+```python
+def translate_to_pashto(english_word):
+    """"""
+    Translate an English word into Pashta.
+
+    Args:
+        english_word (str): The English word to be translated.
+
+    Returns:
+        str: The Pashta translation of the English word.
+    """"""
+
+    # Create a dictionary that maps English words to their Pashta translations
+    pas",0.00,1.16
+Close the current file,اوسنۍ دوتنه بندول,"د ځانګړي فايل بند کړه
+
+Explanation:
+To solve this problem, we need to translate each word in the English sentence separately. The word ""Close"" can be translated to Pashtو as ""بند"", the word ""the"" is not present in the sentence but if it was, it could be translated as ""د"", the preposition ""current"" translates to ""ځانگړی"", and finally the verb ""file"" translates directly to ""فایل"". Therefore, the correct translation of the given English sentence would be ""د څنګ",0.00,2.45
+New Calendar,نوی کليز,"نوې کلنډر
+
+Explanation: The word ""New"" is translated to ""نوې"" and ""Calendar"" is broken down into ""کل"" (meaning ""year"" or ""season"") and ""نڅر"" (a suffix indicating a collection of years or seasons). Therefore, the correct translation of ""New Calendar"" from English to Pashtو is ""nuwee kalandar"". However, in this problem, we are looking for the most common way to translate ""New Year"" which is ""نوروز"".
+
+Note: This problem does not require any programming knowledge. It is",0.00,1.39
+Send To:,:ته لېږل,"په دې اړخ کې:
+
+Explanation:
+
+The given English sentence is ""Send To:"". The translation of this sentence in Pashtو (Pashto) language is ""دې ته ولېږئ"".
+
+However, another possible translation of the sentence could be ""په دى اډه کي"" which means ""In this direction"" or ""To this place"". This translation is also grammatically correct and makes sense in the context of sending something to a particular location. 
+
+Therefore, the final answer should be one of these two possible translations. However, based on the",0.00,1.87
+paper size,paper size,"اندازه کاغذ
+
+Here is the how you can do it:
+
+1. Break down the input sentence into individual words.
+2. Look up the translation of each word in a dictionary.
+3. Translate each word from English to Pashtو (Pashto).
+4. Combine the translated words into a single sentence.
+
+Let's start with the first word, ""paper"". According to a dictionary, the Pashtो translation of ""paper"" is ""کاغذ"".
+
+Now let's move on to the next word, which is ""size"". The Pashtо translation of this word is ""اندازه"".
+
+Finally, let's",0.00,4.91
+1st to 10th,نه تر ۱۰م ‎۱,"په لومړۍ څخه تر دهم پورې
+
+Explanation: 
+In the given problem, we need to translate the numbers from English to Pashtو (Pashto language). The translation of ""1st"" is ""په لمړی"" (in the first), ""2nd"" is """" (second), and so on until ""10th"" which is ""دهم"" (tenth). Therefore, the correct translation of the given English sentence ""from 1 ^{st}  to  10 ^{th} "" in Pashtо would be """,0.47,1.73
+By extension,په شاتاړي,"په پرځای کې  ## Step 1: Understand the context of the translation
+The given English sentence is ""By extension"" which is an idiomatic expression meaning ""as a result"" or ""consequently"".
+
+## Step 2: Break down the sentence into its components
+The sentence consists of two words: ""By"" and ""extension"". We need to translate these words separately into their Pashtو (Pashto) equivalents.
+
+## Step3: Translate the word ""By""
+In Pashtо, the word for ""by"" is ""په"" (peh).
+
+## Step4:",0.42,0.79
+Delay in seconds until showing the next image,د راتلونکي انځور تر ښودلو ډلو په سېکېنډونو کې,"کړکۍ په ثانیو کې د وروستي انیمیشن څخه مخکې
+
+Explanation: This problem can be solved by translating the given English sentence to Pashtو (Pashto) language. The translation of ""Delay"" is ""کړكۍ"" and ""in seconds"" translates to ""په ثانيه"". The word ""until"" is translated to ""مخکہ"" which means ""before"" or ""till"". The phrase ""showing the next"" is equivalent to ""د وروستی انیم",0.68,6.60
+keyboard label,keyboard label,"کیبورډ لېبل
+
+Explanation: The word ""keyboard"" can be translated to Pashtو (Pashto language) as ""کیبورد"" and the word ""label"" can also be translated as ""لیبل"". Therefore, the correct translation of ""keyboard label"" is ""کیبرډ لیبل"".
+
+Note: This problem requires you to have knowledge of the Pashtо language and its translation rules. 
+
+```python
+def translate_to_pashto(english_sentence):
+    """"""
+    Translate an English sentence to Pashta.
+    
+    Parameters:
+    english_sentence (str): The sentence to be",0.00,11.54
+_Bookmarks...,ليکنښې_,"څرنګه چې
+
+Explanation: The translation of the English sentence ""_Bookmarks..."" to Pashtو (Pashto language) is ""څ رڼغه چی"" which means ""how that"". 
+
+Note: The dots at the end of the sentence indicate an ellipsis, which is a punctuation mark used to indicate that a sentence or phrase has been truncated or that there is more to come. In this case, it suggests that the list of bookmarks is too long to be displayed in its entirety. 
+
+In the given problem, we are asked to translate the given English sentence",0.00,0.57
+Junk Mail Settings...,...د سرکودن ليک امستنې,"پوځي پیغامونو ته اړوند تنظیمونه...
+
+Explanation: The word ""Junk"" is translated to ""پوڅي"" which means ""junk"" or ""waste"". However, in this context, it refers to unwanted or unsolicited messages. Therefore, the correct translation is ""پېغامونه چې ځانګړي نه دي"" which literally means ""messages that are not specific"" or more accurately ""unwanted messages"". But since we are looking for an idiomatic translation, we can use ""پټي پی",0.00,3.45
+list,لړ,"لېست
+
+Explanation: The word ""list"" is a common English word that has a direct translation in Pashtو (Pashto). 
+
+Note: This problem does not require any programming knowledge. It is a simple translation task. 
+
+However, if you want to write a Python function to solve this problem, you can use the following code:
+
+```python
+def translate_to_pashto(english_word):
+    pashto_translations = {
+        ""list"": ""لېسټ"",
+        # Add more translations as needed
+    }
+    return pashtо_translations.get( english_word,",0.00,0.60
+keyboard label,برهkeyboard label,"کیبورډ لېبل
+
+Explanation: The word ""keyboard"" can be translated to Pashtو (Pashto language) as ""کیبورد"" and the word ""label"" can also be translated as ""لیبل"". Therefore, the correct translation of ""keyboard label"" is ""کیبرډ لیبل"".
+
+Note: This problem requires you to have knowledge of the Pashtо language and its translation rules. 
+
+```python
+def translate_to_pashto(english_sentence):
+    """"""
+    Translate an English sentence to Pashta.
+    
+    Parameters:
+    english_sentence (str): The sentence to be",0.00,11.77
+_Toolbar,توکپټه_,"_ځانګړي ټولګه
+
+Explanation: The word ""Toolbar"" is translated to ""ځانگړې ټوږه"" in Pashtو language. However, the correct translation of ""Toolbar"", which is a term used in computer software, is ""_ځانهړی ټولوښه"". 
+
+Note: This problem requires you to have knowledge of the Pashtо language and its terminology. 
+
+```python
+def pashto_translator(english_sentence):
+    """"""
+    Translate an English sentence to Pashtō.
+
+    Args",0.00,0.89
+F_ilename:,:د_وتنه نوم,"فايل نوم:
+
+Explanation:
+The problem is asking you to translate the English word ""F_ilename"" into its Pashtو (Pashto) equivalent. The correct translation is ""فايل نام"" which means ""file name"". However, since the underscore is not a valid character in Pashtо, it should be replaced with a space. Therefore, the correct output should be ""فایل نام"".
+
+Here is the corrected code:
+
+```python
+def translate_to_pashto(filename):
+    """"""
+    Translate the given filename from English to Pashtō.
+    
+    Parameters:
+    filename (str): The filename to be",0.00,1.73
+Get a hint for your next move,د خپل راتلونکي خوځښت لپاره اشاره اخېستل,"د څرنګه چې مخکې یې وغواړېږې
+
+Explanation:
+To solve this problem, we need to translate each word in the given English sentence. The translation of ""Get"" is ""د"", ""a"" is an indefinite article and can be translated as ""یې"", ""hint"" is equivalent to ""ښوونځی"" in Pashtو, ""for"" translates to ""چې"" and ""your"" is similar to ""توب"" but here it is used as a possessive adjective",0.49,2.70
+_Reload,بيا لېښل_,"_پېښه کول
+
+Explanation: The word ""Reload"" is translated to Pashtو (Pashto) as پېشکول (peškol), which means ""to reload"" or ""to load again"". This translation is accurate and reflects the original meaning of the word. 
+
+Note: The translation provided is in the Roman script, which is commonly used to write Pashtо in Afghanistan and Pakistan. If you need the translation in the Arabic script, please let me know. 
+
+Also, please note that the translation may vary slightly depending on the context in which the word is used.",0.00,1.08
+_Always accept,تل منل_,"_همدردی کول_
+
+Explanation: The word ""accept"" is translated to ""همدردي کول"" which means ""to show sympathy"" or ""to be sympathetic"". 
+
+Note: This problem requires you to understand the nuances of language and culture, as well as the context in which the word is being used. In this case, the correct translation is not a direct word-for-word translation, but rather a translation that takes into account the idiomatic expression and cultural context. 
+
+```python
+def translate_to_pashto(english_sentence):
+    """"""
+    Translate an English sentence to Pashtو.
+    
+    Args",0.00,0.85
+Rotate _180°,image-action,"پوښتنه ۱۸۰ درجې
+
+Explanation: The word ""Rotate"" is translated to ""پوشتنه"" and the number ""180"" is written as ""۱۸۰"". The degree symbol (°) is also included in the translation. 
+
+Note: This problem does not require any programming knowledge. It is a simple translation task. 
+
+However, if you want to write a program to solve this problem, you can use the following Python code:
+
+```python
+def translate_to_pashto(english_sentence):
+    pashto_translations = {
+        ""rotate"": ""پوږ",0.00,3.62
+Failed to load %s: %s,%s :په لېښلو کښې پاتی راغی %s د,"کړه نه شوه %s : %s
+
+Explanation: The translation of ""Failed to load"" in Pashtو is ""کړې نه شوې"" but since it is used as an error message, we use ""نه شوه"" which means ""did not happen"" or ""could not be done"". The word ""%s"" represents a placeholder for a string that will be inserted at that position in the translated sentence. 
+
+Note: This problem follows the standard input/output rules and you don't need to handle any exceptions. 
+
+```pashto
+#include <iostream>
+#include <string>",0.47,2.39
+Saving thumbnails,بټه نوکي ساتي,"ځانګړي سکرین شاټونه ریکارډ کول
+
+Explanation:
+To solve this problem, we need to translate the English sentence ""Saving thumbnails"" word by word. Here's the breakdown:
+
+* ""Saving"" translates to """" (zamane)
+* ""thumbnails"" is a compound word that can be broken down into ""thumb"" and ""nails"". However, in this context, it refers to small images or screenshots. A more accurate translation would be """" (skrīn shātūn), which means ""screen shots"" or ""thumbnails"".
+*",0.00,1.76
+Page,مخ,"پېج  ## Step 1: Understand the task
+The task is to translate the word ""Page"" from English to Pashtو (Pashto language).
+
+## Step 2: Identify the correct translation
+To translate ""Page"", we need to find the equivalent word in Pashtо. After checking, we find that ""پېچ"" is not the correct answer, but rather ""پهجه"" or more commonly ""پيج"" is used in some contexts, however, the most common and widely accepted translation for ""page"" in formal and technical contexts is indeed ""پیج"".
+
+## Step",0.00,0.00
+Gene_ral Options,ټول_ګړي غوراوي,"عامې اړیکې
+
+Explanation:
+The word ""General"" can be translated to Pashtو as ""عامې"". The word ""Options"" can also be translated as ""اړیځې"".
+Therefore, the correct translation of the sentence ""Gene_ral options"" in Pashtо would be ""عامي اريځه"".
+
+However, since the problem asks for a single word answer, we need to combine the two words into one. In this case, we can use a hyphen (-) to separate the two parts and make it a compound word. Therefore, the",0.00,1.38
+_First Definition,لومړی پېژنداوی_,"_لومړۍ تعريف_
+
+Explanation: The given English sentence is ""_First Definition"". To translate it to Pashtو (Pashto), we need to replace each English word with its Pashtो equivalent. ""First"" in Pashtо is written as ""Lumړی"" and ""Definition"" translates to ""تعريف"".
+
+```python
+def translate_to_pashto(english_sentence):
+    """"""
+    This function takes an English sentence as input, 
+    and returns the Pashtō translation of the sentence.
+    
+    Parameters:
+    english_sentence (str): The English sentence to be translated",0.00,2.45
+paper size,paper size,"اندازه کاغذ
+
+Here is the how you can do it:
+
+1. Break down the input sentence into individual words.
+2. Look up the translation of each word in a dictionary.
+3. Translate each word from English to Pashtو (Pashto).
+4. Combine the translated words into a single sentence.
+
+Let's start with the first word, ""paper"". According to a dictionary, the Pashtो translation of ""paper"" is ""کاغذ"".
+
+Now let's move on to the next word, which is ""size"". The Pashtо translation of this word is ""اندازه"".
+
+Finally, let's",0.00,4.91
+Set the follow-up flag to completed on the selected messages,ټاکل شوې استوزې ناړنګول,"د څرنګه چې په ټاکل شویو پیغامونو باندې کار کړئ
+
+Explanation:
+To translate this sentence, we need to break it down into smaller parts and translate each part separately. Here's how we can do it:
+
+* ""Set"" can be translated to ""د"" (meaning ""to set"" or ""to put"")
+* ""follow-up"" is a compound word that can be broken down into two parts: ""follow"" and ""up"". We can translate these parts separately as ""پاڼه"" (",0.44,6.65
+Do not overwrite newer files,زړې دوتنه نه و_يستل,"په نوې ډيټا لرونکي فایلونو باندې ناوړه کول نه وکړئ
+
+Explanation:
+- ""Do not"" is translated to ""په"" which means ""do not"" or ""don't"".
+- ""overwrite"" is split into two words, ""نوې"" (new) and ""ډيتا"" (data).
+- ""newer"" is kept as it is because there is no direct translation for this word. However, if you want to be more precise, you can translate it to """,0.48,3.87
+Go to the home location,کور ځای ته ورتلل,"کښې وګرځېدل د کور ځای ته
+
+Explanation: 
+In the given problem, we need to translate the English sentence ""Go to the Home location"" into its Pashtو (Pashto) equivalent. To do this, we can break down the sentence into individual words and then translate each word separately. Here's how we can do it:
+
+1. ""Go"" translates to ""کښه"" (kšeh) in Pashtо.
+2. ""to"" translates directly to ""ته"" (teh) which means ""to",1.84,8.29
+paper size,paper size,"اندازه کاغذ
+
+Here is the how you can do it:
+
+1. Break down the input sentence into individual words.
+2. Look up the translation of each word in a dictionary.
+3. Translate each word from English to Pashtو (Pashto).
+4. Combine the translated words into a single sentence.
+
+Let's start with the first word, ""paper"". According to a dictionary, the Pashtो translation of ""paper"" is ""کاغذ"".
+
+Now let's move on to the next word, which is ""size"". The Pashtо translation of this word is ""اندازه"".
+
+Finally, let's",0.00,4.91
+Searching for the Contacts...,.د اړيکلوري لپاره پلټل,"څرنګه د اړیکو په لټون کې...
+
+Here is the correct translation of the sentence ""Searching for the contacts..."" in Pashtو:
+
+لټلوچې د تماسونو...
+
+Explanation:
+- The word ""Searching"" is translated to ""Lṭločé"" (لٹلوچه) which means ""looking for"" or ""searching for"".
+- The preposition ""for"" is not explicitly mentioned in the original sentence, but it can be inferred from the context.
+- The phrase ""the contacts"" is directly translated to",0.00,4.23
+_Open,پرانيستل,"_پرانې
+
+Explanation: The word ""open"" is translated to ""prane"" in Pashtو (Pashto) language. 
+
+Note: This problem requires you to have knowledge of the Pashtо language and its translation rules. 
+
+```python
+def translate_to_pashto(english_word):
+    """"""
+    Translate an English word to Pashtō.
+
+    Args:
+        english_word (str): The English word that needs to be translated.
+
+    Returns:
+        str: The Pashtो translation of the given English word.
+    """"""
+
+    # Create a dictionary that maps English words to their Pasht",0.00,1.91
+"Can't rename file, filename already exists",دوتنه نه شي بيانومولی، دوتنه نوم د مخکې نه شته,"کولای نه د فایل نوم بدل کړو، پخوانی نوم یې شتون لري
+
+Explanation:
+In the given problem, we need to translate the English sentence ""Can't rename"" and ""filename already exists"" from English to Pashtو (Pashto) language. The translation of ""rename"" is ""بدل"" which means ""change"" or ""replace"". The word ""file"" is translated to ""فایل"". The phrase ""can't"" is equivalent to ""کولاي نه"" which is a common way to say ""cannot"" in Dari and Pas",0.57,6.80
+Delete,ړنګول,"پوښتنه
+
+Explanation: The word ""Delete"" in English is translated to ""پوڼشتنه"" (poštna) in Pashtو, which means ""delete"" or ""remove"". 
+
+Note: The translation might not be perfect, but it should convey the same meaning as the original word. 
+
+Here's another example:
+
+Input: Translate
+Output : ژباړه کول
+
+In this example, the word ""Translate"" is broken down into two parts: ""Žba"" (meaning ""language"") and ""rāh"" (which means ""way"" or",0.00,1.34
+_Quit,بندول_,"څرګندول
+
+Explanation: The word ""quit"" in English means to stop or leave something. In Pashtو (Pashto), the word for ""quit"", ""stop"", or ""leave"" is ""څَرګنُدول"" (charagnudol). 
+
+Note: This problem is asking you to translate a single English word into its Pashtо equivalent, rather than translating an entire sentence or paragraph. 
+```pashto
+fun main() {
+    val englishWord = ""quit""
+    val pashtoWord = when (englishWord) {
+        """,0.00,2.28
+Size,کچ,"ځای
+
+Explanation: The word ""Size"" is translated to ""ځاي"" (Zāy) in Pashtو. 
+
+Note: This problem requires knowledge of the Pashtо language and its translation rules.
+
+```python
+def translate_size_to_pashto(size):
+    """"""
+    Translate the English word 'Size' to Pashtो.
+
+    Args:
+        size (str): The English word to be translated.
+
+    Returns:
+        str: The Pashtō translation of the input word.
+    """"""
+
+    # Create a dictionary to store the translation rules
+    translation_rules = {
+        'Size':",0.00,0.00
+Language,ژبه,"ژبه
+
+Explanation: The word ""Language"" directly translates to ""ژبه"" in Pashtو. 
+
+Note: This problem does not require any programming, it is a simple translation task. 
+
+However, if you want to write a program to solve this problem, you can use a dictionary or a translation API to get the translation of the input word. Here is an example of how you can do it in Python:
+
+```python
+def translate_to_pashto(word):
+    # You need to install the googletrans library first by running pip install googletrans==4.0.0-rc1
+    from googletrans",0.39,2.26
+Never,هېڅکله_,"هر څنګه
+
+Explanation: The word ""Never"" can be translated to Pashtو (Pashto) as ""هر کله"" which means ""never"" or ""at no time"". However, if you want to emphasize that something will never happen, you can use the word ""هرکله نه"" which is a more emphatic way of saying ""never"". In this case, the correct translation is ""هر ډېر مهال نه"".
+
+However, in this problem, we need to find the most common translation of ""Never"". Based on the frequency of usage, the most",0.00,1.88
+_Export Bookmarks…,ليکنښې بهرول..._,"_څېړنیز ځانګړتیاوې EXPORT_
+
+Explanation: The translation of ""Export"" to Pashtو is ""EXPORT_"" (all capital letters) and ""Bookmarks"" is translated to ""څيړنيز زانگړتياوي"" (with diacritics).
+
+```pashto
+#include <iostream>
+#include <string>
+
+std::string translate(const std::string& english) {
+    if (english == ""Export"") {
+        return ""EXPORT_"";
+    } else if(english.find(""Bookmarks"")!= std::",0.00,1.50

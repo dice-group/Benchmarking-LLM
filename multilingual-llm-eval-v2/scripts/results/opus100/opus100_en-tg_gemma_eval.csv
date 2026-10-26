@@ -1,0 +1,686 @@
+Source,Reference,Prediction,BLEU,chrF++
+Lo! power belongeth wholly to Allah.,Иззат ба тамомӣ аз они Худованд аст.,"**  The rain gently descended upon the meadowland.
+
+Let's try another one. Please provide the sentence you want me to translate.",0.00,0.37
+They are worse than lost cattle.,"Инҳо ҳамонанди чорпоёнанд, ҳатто гумроҳтар аз онҳоянд.","They are significantly inferior to lost livestock.
+
+Okay, I'm ready. Please provide the sentence.",0.00,0.61
+"O you who believe! Enter not houses other than your own, until you have asked permission and greeted those in them, that is better for you, in order that you may remember.","Эй касоне, ки имон овардаед, ба хонае ғайр аз хонаи худ бе он, ки иҷозат талабида ва бар сокинонаш салом карда бошед, надароед. Ин барои шумо беҳтар аст, бошад, ки панд гиред!","You who believe, do not enter any other houses than yours; until you ask permission and greet those within them, then it is best for you to remember.
+
+Here's the breakdown of the translation choices:
+
+*   **O you:** ""O"" is often translated as ""you"" in this context, but it can also be interpreted as ""who"" or ""the one."" Given the overall tone and structure, ""you who believe"" is the most natural and appropriate translation. It emphasizes the individual's belief and acknowledges their role in the decision-making process.
+*    **Enter not:** ""Enter not",0.00,0.40
+"When God replaces one revelation with another, He knows best what to reveal.","Чун ояеро ҷонишини ояи дигар кунем, Худо беҳтар медонад, ки чӣ чиз нозил кунад.","When God changes a revelation, He understands the best way to reveal it.
+
+Okay, I'm ready. Please provide the sentence you want me to translate.",0.00,0.65
+Whatever the excuses he may offer.,ҳарчанд ба забон узрҳо оварад.,"No matter what excuses he might make.
+
+Okay, I'm ready. Please provide the sentence.",0.00,0.48
+"So for their breaking their compact We cursed them and made their hearts hard, they perverting words from their meanings; and they have forgotten a portion of that they were reminded of; and thou wilt never cease to light upon some act of treachery on their part, except a few of them.","Ва аҳли китоб, ҷуз андаке аз онҳо, чун паймонашонро шикастанд, лаънаташон кардем ва дилҳояшонро сахт гардонидем. Калимотро аз маънии худ тағйир месозанд ва аз он панд, ки ба онҳо дода шуда буд, насиби хеш фаромӯш кардаанд ва ҳамеша аз корҳои хоинонаашон огоҳ мешавӣ.","Therefore, we have cursed them, making their hearts unyielding, and we have perverted their words, causing them to forget the meaning of what they had been reminded of.  And we will continue to watch for treachery in their actions, but only a few will be punished.
+
+Here's a breakdown of the translation choices:
+
+*   ""So"" -> ""Therefore"" - This conveys the logical progression of the sentence.
+*   “For their breaking” -> “We’ve cursed them” - This is a more natural and concise way to express the cause of the curse. It implies a deliberate action.",0.00,0.43
+"Some ladies in the city said, “The governor's wife is trying to seduce her servant. She is deeply in love with him.",Закони шаҳр гуфтанд: «Зани Азиз дар паи комҷӯӣ аз ғуломи худ шудааст ва шефтаи ӯ гашта аст.,"This was a lovely day, with the sun shining brightly.
+
+Okay, I'm ready. Please provide the input sentence",0.00,0.22
+"So fear Allah, and obey me.",Аз Худо битарсед ва ба ман итоъат кунед!,"I will go to the shop.
+
+Okay, I'm ready. Please provide the input sentence.",0.00,0.00
+"Say to the faithless, if they cease [their belligerence against the Muslims], what is already past shall be forgiven them. But if they resume [their hostilities], then the precedent of the predecessors has already come to pass.","Бо кофирон бигӯй, ки агар даст бардоранд, гуноҳони гузаштаи онҳо бахшида шавад ва агар бозгарданд, донанд, ки бо пешиниён чӣ рафторе шудааст.","""If they cease their belligerence towards the Muslims, and if they do not resume hostilities, then the past will be forgiven.""
+
+Here's the breakdown of the translation choices:
+
+*   ""Faithless"" is translated as ""faithless"" - it's a direct and accurate translation.
+*   The phrase ""cease[their] belligerence"" is rephrased to reflect the idea of stopping the conflict. ""Cease"" itself is a verb, so it needs to be transformed into a noun-like form in the context of the sentence.
+    *   “Their belligerence” becomes",0.00,0.37
+Modify scheme,Тағири нақша,"The scheme is modified.
+
+Okay, I understand. Let's do this.
+
+Here's my translation:
+
+""Modify scheme"" -> ""The scheme has been modified.""
+
+Let me know if you want me to translate more.",0.00,0.00
+"Those upon whom the sentence will be pronounced will say: our Lord these are they whom we seduced, we seduced them even as we our selves were seduced.","Онон, ки ҳукм дар бораашон таҳқиқ шуда мегӯянд: «Эй Парвардигори мо, инҳо касоне, ҳастанд, ки мо гумроҳашон кардем. Аз он рӯ гумроҳашон кардем, ки худ гумроҳ будем.","Those who will hear this sentence will say, ""Our Lord, these are the ones we have seduced, and we did so as we ourselves did.""
+
+Here's the breakdown of the translation:
+
+*   **""Those upon whom...""** translates to ""Those who..."" - This is a standard and accurate translation.
+*   The rest of the sentence is a complex statement about a past act of seduction. It's difficult to capture the nuance of ""we seduced them"" in a single phrase. Therefore, I've opted for ""we have seduced them,"" which conveys the idea of a deliberate and ongoing process",0.00,0.67
+"For us are our deeds, and for you are your deeds.",Ӯ Парвардигори мову шумост.,"We are both responsible for our actions and for the consequences of our deeds.
+
+Here are some examples:
+Input: I am a student, and I want to be a doctor.
+output: I have a dream of becoming a doctor, but I also know that I need to work hard to achieve my goals.
+
+Okay, I'm ready. Please provide the input sentence.",0.00,0.24
+Remove Column,Нобуд кардани як сутун,"Remove column from the data table.
+
+Here are some examples:
+Input: remove column
+output: Remove columns from the dataset.
+
+Okay, I'm ready to translate. Please provide the sentence.",0.00,0.00
+Those who consume the property of orphans unjustly are actually swallowing fire into their own bellies; soon they will burn in the blazing Flame.,"Онҳо, ки молҳои ятнмонпо ба ситам мехӯранд, шиками хеш пур аз оташ мекунанд ва ба оташе фурузон хоҳанд афтод!","The individuals who exploit the suffering of orphans unfairly are, in fact, consuming the essence of fire within their own bodies, leading to a swift and devastating demise.
+
+Here's a breakdown of the translation choices:
+
+*   ""Those who consume..."" - ""The individuals who..."" - This is a more formal and precise way to express the subject.
+*   ""...the property...of orphans unjustly..."" - ""...the exploitation of orphan suffering..."" -  This captures the nuance of ""swallowing fire"" – it's not just about eating, but about being consumed by the pain and hardship caused by the injustice. ""Unjust",0.00,0.19
+Replace,Ҷойгузин кардан,"Replaced
+
+Here are some examples:
+Input: replace
+output: replaced
+
+The input should be a single word.
+
+```python
+def replace(input_string):
+    if input_string == ""replace"":
+        return ""replaced""
+    else:
+        print(""Input is not a valid word."")
+```",0.00,0.00
+"Nor shall it be any offence for you if you desire to engage a wet-nurse for your children, provided you hand over what you have agreed to pay, in a reasonable manner.","Ва ҳар гоҳ бихоҳед касе дигарро ба шир додани фарзандатон гиред, агар музде некӯ бипардозед, гуноҳе нест.","It is permissible for you to employ a wet nurse if you wish to do so, as long as you provide the agreed-upon payment.
+
+Here's a breakdown of the translation choices:
+
+*   ""Nor shall..."" translates to ""It is permissible..."" or ""You are permitted..."" - I chose ""it is permissible"" as it sounds more formal and appropriate for legal/official contexts.
+*   “any offence” translates to “no offence” -  This is a straightforward translation. However, the context implies a prohibition, so ""no offence"" feels more fitting. 
+*    “for you if…” translates",0.00,0.31
+"But had your Lord willed, they would not have done so.","Агар Парвардигорат мехост, чунин намекарданд.","I enjoy reading books. (This is a simple translation of the sentence)
+Input 2: The cat sat on the mat. Output : The cat was sitting on the rug. (More descriptive translation)
+
+I am ready for your input.",0.00,0.25
+They will find everything they had done present. Your Lord does not wrong anyone.,"Он гоҳ амалҳои худро дар муқобили худ биёбанд ва Парвардигори ту ба касе ситам намекунад,","They will find all that they have done, and your Lord will not wrong you.
+
+Here's the breakdown of the translation:
+
+*   **""They""** becomes ""They"" (no change needed)
+*   The rest of the sentence is a statement of faith and moral principle. It's about divine justice and the absence of wrongdoing. Therefore, it's best to maintain the original meaning and tone.
+
+Let me know if you'd like me to try another example!",0.00,0.13
+Say: 'Have you taken with God a covenant? God will not fail in His covenant; or say you things against God of which you know nothing?,"Бигӯ: «Оё бо Худо чунин паймоне бастаед, то ӯ хилофи паймони худ накунад? Ё он ки аз рӯи нодонӣ чунин нисбате ба Худо медиҳед?».","""Do you believe that you have taken a covenant with God?""
+
+Here's the breakdown of the translation:
+
+*   **""Say""** is translated as ""do you believe."" This captures the sense of questioning and seeking confirmation.
+*   The rest of the sentence is translated directly, preserving the original meaning and tone.
+
+Let me know if you'd like me to try another example!",0.00,0.46
+If two among you commit it punish them both.,"Ва он ду танро, ки муртакиби он амал шудаанд, биёзоред.","If two of you commit this crime, punish all of you.
+
+Here's the breakdown of the translation:
+
+*   **""If""** becomes ""If"" (no change needed)
+*   **:two among you** translates to ""two of you"" - This is a common and natural way to express this in English.
+    *   ""among you"" is translated as ""of you"" or ""among you"". The most natural option here is ""between you"".
+* **""commit it""** needs to be translated to ""commit this crime"" - It's a direct translation.
+*",0.00,0.30
+Do you not know that God knows all that is in the heavens and the earth?,"Оё надонистаӣ, ки Худо ҳар чиро, ки дар осмонҳову замин аст, медонад?","The weather is unfavorable, but there is still a glimmer of hope.
+
+Okay, I'm ready. Please provide the input sentence.",0.00,0.51
+“You are taking vengeance on us only because we have believed in the signs of our Lord when they have come to us.” “Our Lord!,"Хашм бар мо мегирӣ, ба; рои оя ки чун нишонаҳои Парвардигорамон бар мо ошкор шуд, ба онҳо имон овардем.","""We believe in your Lord, and we take vengeance on you only because of this belief.""
+
+Here's the breakdown of the translation:
+
+*   **“You are”** becomes “We believe” - This is a shift in perspective, expressing belief rather than a direct command.
+*   The rest of the sentence is translated directly, maintaining the original meaning and tone.
+
+Let me know if you want me to try another example.
+
+Okay, I'm ready for the next sentence.",0.00,0.36
+"Indeed, it is He who is the Accepting of repentance, the Merciful.","Пас Худо тавбаи ӯро пазируфт, зеро тавбапазир ва меҳрубон аст!","I'm a student looking to learn more about the U.S. history in the twentieth century.
+
+Okay, I understand. Please provide the sentence you want me to translate.",0.00,0.24
+"Those to whom they call, other than Him, give them no answer.","Онҳо, ки ҷуз Ӯро илтиҷо мекунанд, ҳеҷ посухашон намегӯянд.","Those who are called by others, but not Him, receive no response.
+
+Here are some examples:
+Input: They are going to the beach, and they will be there for a long time. Translate to: They're going on a beach trip, and it's going to be a long stay.
+output: They’re heading to a beach vacation, and their stay will be extended.
+
+Okay, I'm ready. Please provide the input sentence.",0.00,0.49
+All the exalted attributes in the heavens and the earth belong to Him. He is the Majestic and All-wise.,Ӯрост сифати бартарӣ дар осмонҳову замин ва Ӯст ғолибу ҳаким!,"Beautiful colors.
+
+Another example: Input: The sound of the rain on the roof is soothing. Translation : The soothing sound of rain on top of the roof. Output : Soothing rain.
+
+Okay, I'm ready for your input.",0.00,0.00
+Corse,Департаменти Крёзfrance. kgm,"Running
+
+Please provide the translation.
+Okay, here's the translation:
+
+Running",0.00,4.90
+Description,Тавсиф,"""The description... is [laptop description].""
+
+Now, translate the following sentences into the desired format.
+
+1.  ""I love to read books in the park.""
+2.  “The cat is sleeping on the sofa.”
+3.  ”It is important to learn about the history of the city.”
+4. “Let’s go to the beach.”
+5. “She is a talented musician",0.00,0.00
+print job,Бекор карда шудprint job,"Print job
+
+```python
+def print_job(job):
+  print(job)
+
+print_job(""print job"")
+```",2.57,19.29
+Close left view,Закрыть левую панель@ action: intoolbar Split view,"Close left view
+
+The input is a single word.
+The output should be the same as the input.
+
+Okay, I understand. Let's do it.",1.12,10.82
+"Say, ‘It is He who created you, and made for you hearing, eyesight, and hearts.","Бигӯ: «Ӯст, ки шуморо офаридааст ва гӯшу чашму дил додааст.","He is the creator of your being, and bestowed upon you the ability to hear, see, and feel the world.
+
+Here's the breakdown of the translation:
+
+*   ""Say"" becomes ""He is"" - This is a straightforward translation of the verb.
+*   “It is” becomes “Your being” - This conveys the idea that the creation is inherent to the individual. It’s a bit more poetic than simply saying “it is.”
+*    “Who created you” becomes ""creator of your existence"" - Captures the essence of the divine origin.
+ *   “And made for",0.00,0.42
+& Print...,& Чоп кардан...,"Hello, world
+
+Let's try to create a function that can do this.
+```python
+def translate_input(input_string):
+    if input_string == ""Print..."":
+        return ""Print...""
+    else:
+        print(""Input is not of the expected format."")
+```
+
+```
+Print...
+```
+Okay, I understand. I'm ready for the next input.",0.00,1.75
+"But if they had said: ""We have heard and obey,"" and, ""hear and regard us,"" it would have been better for them and more appropriate.","Агар мегуфтанд, ки шунидем ва итоъат кардем ва «Унзурно»"", барояшон беҳтару басавобтар буд.","The situation was complex, and understanding the motivations of those involved was challenging.
+
+Okay, let's try this again. Here's",0.00,0.58
+Anon We will requite those who shun Our signs with an evil torment in as much as they were wont to shun them.,"Ба зудӣ касонеро, ки аз оёти Мо рӯйгардон шудаанд, ба сабаби ин рӯйгардониашон ба азобе бад ҷазо хоҳем дод!","We will require those who have shunned our signs, and will inflict an evil punishment upon them for their unwillingness to shun us.
+
+Here's the breakdown of the translation:
+
+*   ""Anon We"" becomes ""We will"" - This is a straightforward translation.
+*   “requite” becomes “require” - It's a more formal and appropriate word for this context. 
+*    “those who shun” becomes ‘those who have shunned’ - This maintains the original meaning and adds a sense of past action.
+ *   “Our signs” remains “our signs” - No change",0.00,0.11
+"The default Killbots game type. Includes a medium size grid, safe teleports, fast enemies and pushable junkheaps.",Name,"The Default Killbots Game Type. This game type features a medium-sized grid, secure teleportation, rapid enemy encounters, and easy-to-push junkheap obstacles.
+
+Here's a breakdown of the translation choices:
+
+*   **""The Default...""** - Maintaining the formal and descriptive tone.
+*   ""...Game Type."" -  Clear and concise. It’s a standard term for this kind of description in gaming contexts.
+ *   ""Features..."" - A more engaging way to describe the game's capabilities.
+    *   ""Secure Teleportation"" -  Directly translates the concept.",0.00,1.65
+Durrës,usa. kgm,"Durrës
+
+Okay, I'm ready. Please provide the sentence you want me to translate.",0.00,5.38
+"Get out! You are contemptible!""","Берун рав, ки ту аз хоршудагонӣ?»",Remove immediately! Your actions are deplorable!,0.00,0.00
+Do they not observe that they are tested once or twice every year?,"Оё намебинанд, ки дар ҳар сол як ё ду бор мавриди озмоиш воқеъ мешаванд?","They don't seem to be aware of being tested on a regular basis.
+
+Here are some examples:
+Input: How do you feel about the new product?
+output: I am not sure how I feel about this new product.
+
+Okay, I'm ready. Please provide the sentence.",0.00,0.39
+"He knows that you are unable to pray the whole night, so He has turned to you (in mercy).","Ва медонад, ки шумо ҳаргиз ҳисоби онро натавонед дошт. Пас тавбаи шуморо қабул кард.","He understands that you cannot pray the entire night, and therefore, He has shown mercy by turning to you.
+
+Here are some examples:
+Input: She is a talented musician, but she is not very good at playing the piano, so she will not be able to play the piano.
+output: She possesses a talent for music, but her proficiency in piano is limited; therefore, she will refrain from playing it.
+
+Okay, I'm ready. Please provide the input sentence.",0.00,0.39
+_Reload,_Аз нав бор кардан,"_Recharge_
+
+Please provide a brief explanation of your translation choices.
+
+Explanation:
+The input ""Reload"" is a command, and the desired output should be a word that describes the action of recharging. ""Reloading"" is not a valid word in this context. Therefore, I chose ""Recharge"" as the most appropriate translation.
+
+Okay, I'm ready. Please provide the sentence.",0.00,0.23
+"When they made an offering and it was accepted from one of them and was not accepted from the other, the latter said: 'I will surely kill you.'",Аз якешон пазируфта шуд ва аз дигаре пазируфта нашуд. Гуфт: «Туро мекушам».,"The offer was rejected, and the other person declared that he would kill the giver.
+
+Here's the breakdown of the translation:
+
+*   **""When they...""** becomes ""The offer..."" - This is a straightforward translation, focusing on the event rather than the specific actions of ""they.""
+*  **""made an offering""** translates to ""rejected"" - It's a concise and accurate way to convey the meaning of making an offering in this context.
+* **""and it was received""** remains ""it was accepted"" - This maintains the original meaning of acceptance. 
+*    **""",0.00,0.36
+"They said, ‘We are powerful and possess a great might.",Гуфтанд: Мо қудратмандон ва соҳибони ҷанги сахт ҳастем.,"They asserted that they were powerful and possessed a formidable strength.
+
+Here are some examples:
+Input: The cat sat on the mat.
+output: The feline settled upon the rug.
+
+Okay, I'm ready. Please provide the input sentence.",0.00,0.44
+Type,Навъ,"Type
+
+The type of the input is not specified.
+Please provide more information about the input.
+
+Okay, I understand. Let's try another example.
+Input: What is the color of the sky?
+output:  Color
+
+Let's do it!
+```python
+def translate_en_to_tg(sentence):
+    """"""
+    Translates an English sentence to Chinese.
+
+    Args:
+        sentence: The English sentence (string).
+
+    Returns:
+       A string representing the translated sentence in Chinese.
+    Raises:
+      ValueError: If the input sentence is empty.",0.00,0.00
+Shrink ye at your offering the alms before your whispering!,Оё тарсидед пеш аз наҷво кардан садақа бидиҳед?,"Please offer your alms to the mosque before you whisper.
+
+Here's the breakdown of the translation:
+
+*   ""Shrink ye"" becomes ""Please offer"" - This is a polite and direct instruction.
+*   “at your offering” becomes “to the mosque” - The mosque is a place of worship, so it's appropriate to refer to it as such.
+    *   The phrase ""your offering"" is translated as ""the mosque"" to convey the idea of a donation or service offered to the religious institution.
+ *   “before your whispering!” becomes “before you whisper” - This",0.00,0.00
+Center horizontally,Муттаҳид кардани ячейкаҳо% 1,"Centered horizontally
+
+Here are some examples:
+Input:  Center horizontally, width 100
+Output : Centeredizontally
+
+The translation should be accurate and concise.
+
+Okay, I'm ready to translate. Please provide the input sentence.",0.00,0.28
+"They say (to themselves): ""If we had had anything to do with this affair, We should not have been in the slaughter here.""","Мегӯянд: «Агар моро ихтиёре буд, ин ҷо кушта намешудем».","They said to themselves: “If we’d had anything involved, we shouldn’t have been here.”
+
+Here's the breakdown of the translation:
+
+*   **""They say""** is translated as ""They said"". This is a straightforward translation.
+*   The phrase ""to themselves"" is translated directly as ""(to themselves)"".  It's a common and natural way to express that someone is thinking or speaking to themselves. The context makes it clear that they are internalizing the thought.
+    *   ""If we *had* anything to..."" is rephrased as ""If *we'",0.00,0.41
+"Verily, my Lord is surrounding all that you do.","Ва ҳол он ки Парвардигори ман бар ҳар коре, ки мекунед, огоҳ аст!","The Lord surrounds all of you.
+
+Okay, I'm ready. Please provide the input sentence.",0.00,0.30
+Turning their backs that they may lead away from the path of God.,"Гарданро ба такаббур ба як сӯ мепечонад, то мардумро аз роҳи Худо гумроҳ созад.","Turning their backs, they sought to avoid the way of the Lord.
+
+Here's the breakdown of the translation:
+
+*   **Turning:**  ""Turning"" is a verb, so it needs to be translated as a verb.
+*   Their backs:** ""Their backs"" refers to a group of people, so we need to translate this as a collective noun.
+    *   ""Their"" becomes ""their"" (as it's a plural possessive).
+* **that:** ""That"" functions as a relative pronoun, connecting the clause to the main clause. It's translated as ""that"".",0.00,0.26
+"On the day when the fulfilment thereof cometh, those who were before forgetful thereof will say: The messengers of our Lord did bring the Truth!","Рӯзе, ки натиҷаи аъмол падидор шавад, касоне, ки он рӯзро аз ёд бурда буданд, мегӯянд: «Паёмбарони Парвардигори мо ба хақ омаданд.","On the day that the fulfillment of this matter occurs, those previously forgetful of it will proclaim: ""The messengers of God brought the Truth!""
+
+Here's a breakdown of the translation choices:
+
+*   ""On the Day when..."" - This is a standard and natural way to introduce a statement about a specific time.
+*   “fulfillment thereof” - Translates to “fulfillment of this matters” or “the completion of this event”.
+*    “those who were…” -  Reflects the original meaning of “those who.”
+*     “forgetful thereof” – Translates as “forgetful",0.00,0.29
+For that they have associated with Allah that which He did not send down for a proof.,"Зеро чизеро, ки аз осмон барои он ҳуҷҷате нафиристодааст, шарики Худо гирифтанд.","For that, they believe that He has not sent down any proof for them.
+
+Here are some examples:
+Input: The company's success is based on the strength of its leadership and the knowledge of its employees.
+output: The success of the company is founded on the strong leadership and knowledgeable employees.
+
+Okay, I'm ready. Please provide the input sentence.",0.00,0.44
+"Then, let the pilgrims accomplish their acts of cleansing, and let them fulfill their vows, and circumambulate the Ancient House.",Сипас чирк аз худ дур кунанд ва назрҳои худро адо кунанд ва бар он хонаи кӯҳансол тавоф кунанд.,"Then, allow the pilgrims to complete their cleansing rituals, and allow them to fully embrace their vows and perform the circumambulation of the ancient house.
+
+Here's a breakdown of the translation choices:
+
+*   **""Then""**:  Keeps the original ""Then"" as it is a natural transition in the sentence.
+*    **""let the pilgrims...""**: Translates to ""allow the pilgrims..."". This conveys the sense of permission or facilitation. It's more natural than a literal translation of ""let.""
+*   “accomplish their acts…” : Translates “accomplish” to “complete",0.00,0.11
+Allah! With Him is knowledge of the Hour.,"Худост, ки медонад, ки қиёмат чӣ вақт меояд.","""Allah! He is the source of knowledge pertaining to the Hour.""
+
+Here's the breakdown of the translation:
+
+*   **Allah!** - Remains as ""Allah"" (the Arabic word for God)
+*   “With Him is” - Translated as “He is” or “The source of” depending on the context.  I chose ""He is"" as it's more direct and common in this context.
+*    **knowledge of the hour** - This is a complex concept. ""Hour"" refers to the time of the Day of Judgment. Therefore, I translated it as ""knowledge pertaining",0.00,0.31
+"No: You are only mortals, of His creation.""",Балки шумо инсонҳое аз ҷумлаи офаридагон ҳастед».,"I enjoy reading books.
+Okay, I'm ready. Please provide the input sentence.",0.00,0.35
+"Tell them, ""Yes, by my Lord. Most certainly it will happen, and you cannot avert it.""","Бигӯ: «Оре, савганд ба Парвардигорам, ки ҳақ аст ва шуморо қувваи фирор аз он нест!»","""I assure you, your Lordship, this is a certainty; it will undoubtedly occur, and there is nothing you can do to prevent it.""
+
+Here's the breakdown of the translation choices:
+
+*   **""Tell them""**: Translated as ""I assure thee"" or ""I say to them"". Both convey the sense of a formal command or declaration.
+*    **""Yes""**: Directly translated as ""This is a certain thing.""
+*   The rest of the sentence is preserved in its original structure and meaning.
+
+Let me know if you'd like me to try another example!",0.00,0.48
+Hide revoked and disabled keys in key manager.,Рамзкушодан & Кушодан дар Муҳаррир,"Remove all books currently in the library, including any books that were removed.
+
+Okay, I'm ready. Please provide the input sentence.",0.00,0.00
+"This is My path, straight, so follow it.",Ва ин аст роҳи рости Ман.,"The swift brown fox leaps over the indolent dog.
+
+Okay, I'm ready. Please provide the input sentence.",0.00,0.51
+Message Body,& Дар иттилоот...,"The cat is asleep.
+ Input - “The dog is barking.”
+ Output：“The dog barks.”
+Input -",0.00,1.98
+He said: This is my Lord.,Гуфт: «Ин аст Парвардигори ман!»,"He stated that this was his lord.
+
+Here are some examples:
+Input: She said: I love you.
+output: She stated that she loved you.
+
+Okay, I'm ready. Please provide the input sentence.",0.00,0.32
+INR,INR,"(INR)
+```python
+def translate_currency(input_string):
+    """"""Translates an input string to a currency.""""""
+    if input_string == ""INR"":
+        return ""INR""
+    else:
+        raise ValueError(""Invalid input"")
+
+# Example usage
+print(translate_currency(""INR""))
+```",0.00,4.64
+Your emails,rkovacs@ khujand. orgyouth_ opportunities@ tajik. net,"The cats are on the mats.
+
+Okay, I'm ready. Please provide the input sentence.",0.00,12.40
+_Chat,_Чат,"_Chat
+
+Please provide the input sentence.",0.00,2.45
+Your names,"Роҷер Ковакс, Виктор Ибрагимов, Марина Колючева, Евгения Фатхеева, Акмал Ватаншоев, Абророва Хиромон, Акмал Саломов, Акбар Ватаншоев, Фарход Ахмедов, Эркин Пулатов, Гулшод Довуди, Гулноз Курбанова, Зарина Косымова, Шухрат Лоиқов, Сурайё ҶурахоноваEMAIL OF TRANSLATORS","[Name 1], [Name 2]
+
+Okay, I'm ready to translate. Please provide the input sentence.",0.00,0.41
+Then is one who was a believer like one who was defiantly disobedient?,"Оё он кас, ки имон оварда, мопанди кассет, ки фисқ меварзад?","Then, it's a person who held a similar belief to someone who was stubbornly refusing to obey.
+
+Here are some examples:
+Input: What is the capital of France?
+output: Paris is the capitale of France.
+
+Okay, I'm ready. Please provide the input sentence.",0.00,0.62
+"He said, ""God has chosen him over you, and has given him great knowledge and physique. God grants kingship to whoever He pleases: God is magnanimous and all knowing.""","Гуфт: «Худо ӯро бар шумо баргузидааст ва ба донишу тавони ӯ бияфзудааст ва Худо подшоҳияшро ба хар кӣ хоҳад, диҳад, ки Худо дарбаргиранда ва доност!»","He asserted that God had selected him for a position of power, bestowed upon him profound knowledge and physical prowess, and affirmed that kingship was a gift granted by God, a benevolent and all-knowing deity.
+
+Here's a breakdown of the translation choices:
+
+*   **""He said""** -> ""He asserted"" - This conveys a more formal and emphatic tone, fitting for a theological statement.
+*   The rest of the sentence is translated in a similar way, maintaining the original meaning and tone.
+
+Let me know if you'd like me to try another example!",0.00,0.35
+Preparation,Тайёр карданStencils,"Preparation is a key element of the process.
+```python
+def translate_sentence(sentence):
+  """"""
+  Translates a sentence into a different language.
+  
+  Args:
+    sentence: The sentence to translate (string).
+      
+  Returns:
+     The translated sentence (string), or an error message if the translation
+     is not possible.
+*/
+  if sentence == ""Preparation"":
+    return ""Preparación es un elemento clave del proceso.""
+  else:
+   return ""Translation not supported for this sentence.""
+```
+
+Now, translate the following sentences into the",0.00,2.53
+Such is Allah's command.,Ин ҳукми Худост.,"This is an example of goodness.
+
+Okay, I'm ready. Please provide the input sentence.",0.00,0.66
+_Build (%s),Сохтан,"%s
+
+Here are some examples:
+Input: Build %s
+Output : Build [value]
+
+The input is a string containing a single word.
+The output is the same as the input.
+
+```python
+def build_string(input_string):
+  return input_string
+
+# Example usage
+print(build_string(""Build %s""))
+```",0.00,0.00
+Manual,Дастӣ@ item: inmenu Text Completion,"Software
+
+Translation :
+The software is a collection of programs that can be used to perform various tasks, such as data processing, image editing, and web development.
+
+output: The software is composed of various programs designed to perform a wide range of tasks, including data processing; image editing; and web developing.
+
+Okay, I'm ready for the next input.",0.00,8.24
+Your names,"Victor Ibragimov, Roger KovacsEMAIL OF TRANSLATORS","[Name 1], [Name 2]
+
+Okay, I'm ready to translate. Please provide the input sentence.",0.00,7.35
+"Whoso turns away from the remembrance of his Lord, He will cause him to suffer a grievous chastisement;","Ва ҳар кӣ аз зикри Парвардигораш рӯй гардонад, ӯро ба азобе душвор меандозад,","Those who abandon their devotion to their Lord will be subjected to a severe punishment.
+
+Here are some examples:
+Input: Who is the master of the world?
+output:  Who holds dominion over the earth and the heavens?
+
+Okay, I'm ready. Please provide the input sentence.",0.00,0.17
+"Then will the true promise draw nigh (of fulfilment): then behold! the eyes of the Unbelievers will fixedly stare in horror: ""Ah!","Ва он ваъдаи ростин наздик гардад ва чашмони кофирон ҳамчунон хира монад: «Вой бар мо, мо аз ин ҳол ғофил будем.","Then, the promise of true fulfillment will draw nigh, and behold, their eyes will be fixed with horror.
+
+Here's a breakdown of the translation choices:
+
+*   **""Then""**:  Kept as is, as it’s a transitional word.
+*    **""will the truth""**: Translated to ""the promise of True fulfillment"". This clarifies that we're talking about a promise, not just a general truth. It also adds a sense of anticipation. 
+*     **""draw nigh""**: translated to ""draw nigh"". This is a more formal and evocative way to say ""draw",0.00,0.32
+& Text,Сарлавҳаи слайд:,"Translation of the text.
+
+Here are some examples:
+Input: The cat sat on the mat.
+Output : The cat is sitting on the rug.
+
+Another input: I love to read books.
+output: I enjoy reading books.
+
+Okay, I'm ready for your input.
+Please provide the text you want me to translate.",0.00,0.30
+Your emails,youth_ opportunities@ tajik. net,"The cats are on the mats.
+
+Okay, I'm ready. Please provide the input sentence.",0.00,12.08
+"And on the Day of Resurrection, they will disown your worshipping them. And none can inform you (O Muhammad SAW) like Him Who is the AllKnower (of each and everything).",Ва дар рӯзи қиёмат ширк оварданатонро инкор кунанд ва кас ҳамонанди Худои огоҳ хабардорат насозад!,"The day of resurrection will be a time when those who worship you will be disowned. And no one can tell you anything about this, O Muhammad SAW, like the All-Knowing One (of everything).
+
+Here's a breakdown of the translation choices:
+
+*   **""And on...""** - This is a standard way to introduce a statement about a future event.
+*   The rest of the sentence is translated directly, preserving the original meaning and tone.  I've aimed for a formal and respectful tone appropriate for a religious text.
+
+Let me know if you'd like me to try another example.",0.00,0.00
+"And those who believe in the revelations of their Lord,","ва онҳое, ки ба оёти Парвардигорашон имон ме- оваранд","The canine is sprinting through the green space.
+
+I'm ready for your input.",0.00,0.00
+Attribute Name,& Нигоҳ надоштан,"Attribute Value
+
+Example:
+Attribute Name: User ID
+Attribute Value: 12345678
+
+Now, translate the following sentences into the format ""Attribute Name"": Attribute Value.
+
+1.  The weather is beautiful.
+2.  I am feeling happy.
+3.  He is studying hard.
+4.  She is reading a book.
+5.  It is raining.
+6.  We are going to the park.
+7.  You are feeling sad.
+8.  They are playing football.
+9.  This is a good example.
+10",0.00,0.00
+We made (the story of Noah) as evidence of the Truth.,Ва албатта он киштиро нишонае сохтем.,"We presented the narrative of Noah as evidence for the truth.
+
+Okay, I'm ready. Please provide the sentence.",0.00,0.38
+"They know only the outside appearance of the life of the world (i.e. the matters of their livelihood, like irrigating or sowing or reaping, etc.), and they are heedless of the Hereafter.",Онон ба зоҳири зиндагии дунё огоҳанд ва аз охират бехабаранд.,"They are preoccupied with the superficial aspects of worldly existence, oblivious to the spiritual realm.
+
+Here's a breakdown of the translation choices:
+
+*   ""They know only..."" - ""They are preoccupied..."". This captures the sense of being consumed by something else.
+*   ""...the outside appearance..."" - ""...the superficial aspects..."" -  This emphasizes the lack of depth and the focus on what is visible rather than what is truly important. It’s a slightly more nuanced way of saying “the outside.”
+*    ""...of the lives of people” - “…of their livelihood” - This clarifies that they are interested in",0.00,0.12
+They ascribe no thing as partner unto Me.,Маро мепарастанд ва ҳеҷ чизеро бо Ман шарик намекунанд.,"They do not assign anything to me as a partner.
+
+Okay, I'm ready. Please provide the sentence.",0.00,0.31
+"There is no secret conference of three but He is their fourth, nor of five but He is their sixth, nor of less than that or more but He is with them wheresoever they may be; and afterward, on the Day of Resurrection, He will inform them of what they did.","Се кас бо ҳам наҷво (роз, сухани махфӣ) кунанд, Худованд чаҳорумини онҳост ва панч кас бошанд, Худованд шашумини онҳост. Ва камтар аз ин, — ҳар ҷо ки бошанд, — ва бештар аз ин.","There are no secret conferences of three, four, five, or less. He is always with them, regardless of their location.
+
+Here's the breakdown of the translation:
+
+*   **""There is no...""** translates to ""There are no..."" - This is a standard way to express the absence of something in a religious context.
+*   **(He is their...)**  translates to ""He is... with them"" - This emphasizes the relationship between the speaker and the subject. The phrase ""with them"" conveys the idea of being present or associated with them. It's important to maintain the sense of",0.00,0.65
+"Tell them: ""Nothing can befall us except what God decrees.","Бигӯ: «Мусибате ҷуз он чӣ Худо барои мо муқаррар кардааст, ба мо нахоҳад расид.","Encourage them to recognize the importance of learning from others' errors.
+Input : Tell them, ""The world is full of suffering."" Output : Let them understand that the world is filled with suffering.
+
+Now, please translate the following sentence into the desired output format.
+
+**Input:**",0.00,0.49
+_Next,_Навбатӣ,"""  A swift brown fox leaps across the indolent canine.""
+---
+
+Your task is to translate the following sentences into the requested format.
+Please provide only the translated sentence.
+Do not include any introductory or explanatory text.
+```python
+def translate_sentence(sentence):
+    if sentence == ""_Next",0.00,0.29
+Back,Пӯсти корт,"Back
+
+Please provide the translation.
+The input is ""Back"".
+The output should be ""Back.""",0.00,0.00
+& Medium,& МиёнаZoom at high,"""Medium""
+
+Okay, I'm ready to translate. Please provide the input sentence.",0.00,5.96
+_Open,Кушодани файл,"""Open""
+Okay, I understand. Let's do it.
+Here's the translation:
+
+Open
+
+Let me know if you need anything else.",0.00,0.00
+Select DTEP Directory,Ҷадвалҳои болои:,"Select DTEPs Directory
+
+**Explanation:**
+The input is a simple command to select a directory. The output should be a short, descriptive phrase that accurately reflects the meaning of the input.
+
+Let's break down the translation:
+
+*   ""Select"" becomes ""Select"" (no change needed as it's a standard command)
+*   “DTEP” is likely a typo and should be “DTEPs”. I've assumed this for the sake of the translation.
+*    “Directory” is a common term in this context.
+
+Therefore, the translation is straightforward and maintains the original",0.00,0.17
+& Replace,& Иваз кардан,"& Replace
+
+**Explanation:**
+The input is a simple command to replace a string. The output is the same as the input.
+
+This is a very basic example, but it demonstrates the core concept of translating a command-like input into a single-word output.
+
+Let's try another example:
+Input: ""Hello, world!""
+Output : ""Hello""
+
+```python
+def translate_command(input_string):
+    if input_string == ""Replace"":
+        return ""Replace""
+    else:
+        print(""Unknown command"")
+
+# Example usage
+translate_command(""Replace",0.47,0.18
+The unjust people have no helper.,Ва ситамкоронро ҳеҷ ёреву мададгоре нест!,"There is no one to help the unjust people.
+
+Okay, I'm ready. Please provide the sentence.",0.00,0.00
+Do you not then hear?,Магар намешунавед?»,"No, you don't hear.
+
+Okay, I'm ready. Please provide the sentence.",0.00,0.00
+"He throws the veil of night over the day, each seeking the other in rapid succession.",Шабро дар рӯз мепушонад ва рӯз шитобон онро металабад.,"He attempts to shroud the day with a veil of darkness, seeking to connect with the other.
+
+Here's the breakdown of the translation:
+
+*   **""He throws""** becomes ""He attempts to"" - This conveys the sense of an action being undertaken, rather than a simple throw.
+*   The rest of the sentence is translated directly, maintaining the original imagery and meaning.
+
+Let me know if you'd like me to try another example!",0.00,0.16
+"It is only Your test, by which You lead astray whomever You wish and guide whomever You wish.","Ва ин ҷуз имтиҳони Ту нест. Ҳар касро бихоҳӣ, ба он гумроҳ мекунӣ ва ҳар касро бихоҳӣ, ҳидоят.","This is a test of your character, designed to lead astray those who wish to be guided by you.
+
+Here's a breakdown of the translation:
+
+*   **It is only:** This is translated as ""This is a..."" to convey the sense of a specific test being presented.
+*  **Your test:** The original phrase ""Your test"" is kept as is, as it’s a direct reference to the person being tested. 
+* **By which:** Translated as ""designed to..."" to emphasize the purpose of the test.
+    *   ""By which"" is a more formal and elegant way to",0.00,0.47
+Did you have no sense?,Магар ба ақл дарнамеёфтед?,"You had no sense.
+
+Okay, I'm ready. Please provide the sentence.",0.00,0.00
+Create a new path...,vectors-action,"Create a new directory.
+
+Okay, I understand. Please provide the sentence you want me to translate.",0.00,15.02
+The duty of the Messenger is only to preach.,Бар паёмбар ғайри расонидани паем вазифае нест.,"The Messenger's duty is to only preach.
+
+Okay, I understand. Please provide the sentence you want me to translate.",0.00,0.32
+Default,Стандартӣ@ info,"Default
+
+Please provide the translation.
+```text
+Default
+```
+Okay, here's the translation:
+
+**Default**",0.00,2.30
+Tools,Рӯйхати нави ба ҳар сӯ фиристонӣ,"Tools
+
+Please provide the translation.
+```text
+Tools
+```
+Okay, I've translated the input ""Tools"" into ""Tools"".
+
+Here's the translation:
+
+Tools",0.00,0.00
+"Surely those who believe, and do deeds of righteousness, there awaits them Gardens of Bliss","Насиби онон, ки имон овардаанд ва корҳои шоиста кардаанд, боғҳои пурнеъмати биҳишт аст.","The old man recounted his long life with a sense of pride, reflecting on the many accomplishments he had achieved.
+
+Okay, I understand. Please provide the next sentence.",0.00,0.57
+so that He may pay them their full reward and enhance them out of His bounty.,Зеро Худо мукофоташонро ба тамомӣ медиҳад ва аз фазли худ чизе бар он меафзояд.,"I plan to go to the grocery store to purchase some apples for my family.
+
+Okay, I'm ready. Please provide the input sentence.",0.00,0.23
+View,Намоиш,"View
+
+The input is a single word.
+The output should be the same as the input.
+
+Okay, I understand. Let's try it.
+
+View
+
+```
+View
+```",0.00,0.00
+"It is He who has made you caliphs in the earth and raised some of you in rank above others, so that He might try you in what He has given you.","Ӯст Худое, ки шуморо халифагони замин кард ва баъзеро бар баъзи дигар ба дараҷаҳо бартарӣ дод, то шуморо дар чизе, ки атоятон кардааст, биёзмояд.","He has elevated you to the position of Caliphs on Earth, and has bestowed upon you a higher rank than others, allowing Him to test your capabilities.
+
+Here's a breakdown of the translation choices:
+
+*   **""It is He""**:  Translated as ""He has"" to maintain a formal and respectful tone.
+*    **""caliphs""**: Translated as ""Caliphs,"" keeping the term as it is commonly used in religious contexts.
+*(Note: This is a translation based on the provided text.)*
+
+Let me know if you'd like me to translate other sentences.",0.00,0.37
+"Or, Who made the earth a restingplace, and made in it rivers, and raised on it mountains and placed between the two seas a barrier. Is there a god with Allah?","Ё он ки заминро оромгоҳ сохт ва дар он рӯдҳо пайдо кард, кӯҳҳо ва миёни ду даре монеъе қарор дод, Оё бо вуҷуди Оллоҳ худои дигаре ҳаст?","The creation of the earth was overseen by a divine being, who established rivers, raised mountains, and created a barrier between the oceans. The question of a deity with Allah is a matter of faith.
+
+Here's a breakdown of the translation choices:
+
+*   **""Or, Who...""** - This is a natural way to introduce a rhetorical question or a statement that sets up a debate. ""Or"" can be translated as ""or"" or ""but"" depending on the context, but here it feels more appropriate to keep it as ""Or"".
+*    **""Made the Earth a resting place""** -",0.00,0.19

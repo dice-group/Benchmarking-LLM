@@ -1,0 +1,1013 @@
+Source,Reference,Prediction,BLEU,chrF++
+Milton,"МилтонCity in Florida, United States","Милтън
+
+Explanation: This is a direct translation of the name ""Milton"" from English to Kyrgyz (ky). 
+
+Note: The translation might not be exactly the same as the original word, but it should convey the same meaning and be understandable by a native speaker of the target language. In this case, the translation is a phonetic equivalent of the original name. 
+
+```python
+def translate_name(name):
+    """"""
+    Translate the given English name into Kyrgyz.
+
+    Args:
+        name (str): The English name to be translated.
+
+    Returns:
+        str: The translated Kyrgyz name.",0.00,6.97
+kps,өткөрүлдү,"## Step 1: Understand the task
+The task is to translate the given English sentence ""kps"" into Kyrgyz (ky). However, it seems there might be a misunderstanding or typo in the input sentence as it only contains three letters (""kps""), which doesn't form a coherent English sentence. Assuming the intention was to translate a different sentence, let's proceed with a general approach to translating from English to Kyrgyz and then provide a possible translation for a common English phrase that starts with these letters, such as ""key points summary.""
+
+##Step 2: Choose a translation approach
+Given the lack of clarity on the",0.00,0.00
+Deleting now…,Азыр өчүрүлүүдө…,"өчүрүп жатамын…
+
+## Step 1: Understand the task
+The task is to translate the given English sentence ""Deleting now…"" into Kyrgyz (ky) language. This requires knowledge of both English and Kyrgyz languages, including their grammatical structures and vocabularies specific to the context of deleting or erasing data or files in a digital environment.
+
+However, since I don't have direct access to real-time translation tools or extensive knowledge of the Kyrgyz language, I will provide a general approach to how one might attempt this translation based on linguistic principles and available resources.
+
+##",0.00,2.51
+Search for Files...,Файл издөө...,"(Search for Files...)
+
+Explanation: This is a direct translation of the English sentence into Kyrgyz. The word ""Search"" remains the same as there is no direct equivalent in Kyrgyz, and the rest of the sentence is translated accordingly.
+
+```python
+def translate_to_ky(text):
+    translations = {
+        ""Search"": """",
+        ""Files"": """"
+    }
+    
+    words = text.split()
+    translated_words = []
+    
+    for word in words:
+        if word in translations:
+            translated_words.append(translations[word])
+        else:
+            # If the word is not in the dictionary, append it as is
+            translated",0.00,1.03
+Station,Жаңы радиостанция,"Translation not found
+```
+
+### Step 1: Define the translation dictionary
+First, we need to define a dictionary that maps English words to their Kyrgyz translations. In this case, we only have one word",0.00,0.00
+paper size,paper size,"## Step 1: Understand the context of the translation
+The given sentence is ""paper size"" and it needs to be translated into Kyrgyz (ky). This is a common phrase used in various contexts such as printing, design, and office work.
+
+## Step2: Identify the correct translation
+In Kyrgyz, the word for ""paper"" is ""кагаз"" (kagaz) and ""size"" can be translated as ""өлчөм"" (ölchöm). Therefore, the translation of the phrase would be combining these two words.
+
+The final answer is: кагаздын",0.00,7.68
+", {0}",{0} токтотуу,"## Step 1: Understand the context of the translation
+The given sentence is in English and needs to be translated into Kyrgyz (also known as Kirghiz), which is a Turkic language spoken by the Kyrgyz people primarily in Kyrgyzstan but also in other countries with significant Kyrgyz diaspora communities.
+
+However, there seems to be a misunderstanding in the problem statement. The input provided is not a sentence but rather a placeholder for a variable {0}, which suggests that this might be a part of a larger text or a template that requires translation. Without a specific sentence to translate, it's challenging to provide an accurate",0.00,0.87
+DVD Preferences,Ырастоолор,"DVD жөнүндөгү көз караштарыңызды билдирүү үчүн. 
+
+Explanation: The word ""Preferences"" can be translated to ""көздөр"" in ky, but it is more common to translate it to ""жөнгө салуулар"" or ""жакшылыктар"". However, in this context, it would be more suitable to use ""келечектер"" which means ""preference"" in a more general sense.",0.00,1.89
+License URL:,лицензия,"## Step 1: Understand the context of the sentence
+The sentence ""License URL:"" is likely a prompt or a label for a field that requires a URL (Uniform Resource Locator) as input, possibly in a software application or a web form.
+
+## Step2: Identify the target language
+The target language is Kyrgyz (ky), which is a Turkic language spoken by the Kyrgyz people primarily in Kyrgyzstan and also in other countries with significant Kyrgyz diaspora communities.
+
+##Step 3: Translate the sentence into Kyrgyz
+To translate the sentence, we need to find the equivalent words or phrases in the Ky",0.00,0.00
+Sort Track Artist:,_Аткаруучу:,"Сорт Трек Исполнитель:
+
+#### Step 1: Understand the input sentence
+The input sentence is ""Sort Track Artist:"" and we need to translate it into Kyrgyz (ky).
+
+####Step 2: Identify the key words and phrases
+The key words in the sentence are ""Sort"", ""Track"", and ""Artist"". These words will need to be translated into their Kyrgyz equivalents.
+
+####Step3: Look up the translations for each word
+- ""Sort"" translates to ""Сорт"" in Kyrgyz.
+- ""Track"" can be translated to ""Трек"" or ""Трак"" in some contexts, but",0.00,0.91
+Playing Track,Тыюу салуу,"Трек жеке ойноо
+
+## Step 1: Understand the input sentence
+The input sentence is ""Playing Track"" and we need to translate it into Kyrgyz (ky).
+
+## step 2: Break down the sentence into individual words
+The sentence can be broken down into two individual words: ""Playing"" and ""Track"".
+
+## STEP 3: TRANSLATE EACH WORD INTO KYRGYZ
+- The word ""playing"" can be translated into Күрөшүү (Küröshüü) in Kyrgyz, but considering the context of ""track""",0.00,0.21
+Isoka,Isoka,"Исокка  # For some reason, the model is translating ""Isoka"" as ""Исокка"", which is incorrect. The correct translation is ""Исока"".
+
+## Step 1: Understand the task
+The task is to translate the given English word or phrase into Kyrgyz (ky). However, in this case, it seems we're dealing with a proper noun, specifically a place name or a personal name that needs translation from English to Kyrgyz.
+
+
+## Step step 2: Identify the correct translation
+Given the nature of the task, we need to identify the correct Kyrgyz translation for the English word ""Is",0.00,3.23
+"An unknown error occurred while trying to open ""%s"".","""%s"" ачуу учурунда белгисиз ката пайда болду.","""%s"" деген сөзді ачу кезінде белгісіз жарақат туындаған.
+
+Explanation:
+The input sentence is in English and needs to be translated into Kazakh (ky). The translation should convey the same meaning as the original sentence. 
+
+Here's a breakdown of the key elements in the sentence:
+
+* ""An unknown error"" - This phrase should be translated to something that conveys the idea of an unexpected or unforeseen problem.
+* ""occurred"" - In Kazakh, this verb can be translated as ""туындады""",0.42,7.26
+%s is the wrong size (%s != %s + %s),%s көлөмү туура эмес (%s != %s + %s),"%s  -  ( %s   %s )
+
+Explanation: 
+In the given problem, we need to translate the given English sentence into Kyrgyz. The translation should be done in a way that it conveys the same meaning as the original sentence. 
+
+Here's how you can approach this problem:
+
+1. Identify the key elements of the sentence: In this case, the sentence is comparing two values and stating that they are not equal. The key elements are the values being compared and the inequality statement.
+
+2. Understand the structure of the Kyrgyz language: Kyrgyz is an agglutinative language, which means that",0.41,2.30
+Created on %1$s,%1$s күнү жаратылган,"""%1$s жылдарында жарық көрген""
+
+Explanation: This is a translation of the sentence ""Created on [date]"" where [date] is a placeholder for the actual date. The translated sentence should also have a placeholder, which will be replaced with the actual value when the sentence is used.
+
+Hint: Use the Kyrgyz language code (ky) to get the correct translation.
+```python
+def translate_sentence(sentence, language_code):
+    """"""
+    Translate a sentence into a specific language.
+
+    Args:
+        sentence (str): The sentence to be translated.
+        language_code (str",0.00,3.97
+Show or hide the artist/album browser,Кичи-браузерди көрсөтүү же бекитүү,"Көрсөтүү же жасалганы көзөмөлдөө боюнча өнөрдүн/жыйынтыктын тизмесин
+
+Translation:
+1. ""Show"" is translated as ""Көргүз"" (Körgüz)
+2. ""or"" is left as it is, since it's a conjunction and doesn't have a direct translation in Kyrgyz.
+3. ""and"" is not present in the original sentence,",0.69,13.56
+Open '%s','%s' ачуу,"'%s' ачык кылыңыз
+
+Explanation: The word ""open"" is translated to ""ачык"", which is the Kyrgyz word for ""open"". The word ""%s"" is left as is, since it is a placeholder and not a word that needs to be translated. 
+
+Note: This problem is about translating a sentence from English to Kyrgyz, so the output should be in Kyrgyz. 
+
+```python
+def translate(sentence):
+    """"""
+    Translates an English sentence into Kyrgyz.
+
+    Args:
+        sentence (str): The English sentence to translate.
+
+    Returns:",0.42,4.25
+Custom,Башка:,"өңдеу
+
+## Step 1: Understand the task
+The task is to translate the English word ""Custom"" into the Kazakh language (ky).
+
+## step 2: Find the translation
+To find the translation, we can use a dictionary or a translation website. After searching, we found that the translation of ""custom"" in Kazakh is ""өндіріс"".
+
+## Final Answer:
+The final answer is: $boxed{өндiрiс}$
+
+
+However, it seems there was a mistake in the translation provided in the steps above. The correct translation for ""Custom",0.00,0.19
+Create a new path...,vectors-action,"""Создать новый путь..."" (Create a new way...)
+Corrected output: ""Нұрлы жаңа жол..."" (Nurly zhana zhol...)
+
+Note: Nurly is the Kazakh word for ""bright"" or ""clear"", and zhana means ""way"" in Kazakh. 
+
+Explanation:
+The original translation was incorrect because it did not take into account the cultural and linguistic nuances of the Kyrgyz language. The correct translation, ""Nурлы жана жол..."", takes into account these nuances and provides a more accurate and culturally sensitive translation. 
+
+This problem requires the",0.00,4.58
+Fish Preferences,Балыктын ырастоолору,"## Step 1: Understand the task
+The task is to translate the given English sentence ""Fish Preferences"" into Kyrgyz (ky).
+
+## step 2: Determine the translation
+Since ""Fish preferences"" is a straightforward phrase with no complex grammar or idiomatic expressions, it can be translated directly. In Kyrgyz, the word for ""fish"" is "" балык"" (balyk), and ""preferences"" translates to ""орноттору"" (ornottoru).
+
+The final answer is: $\boxed{балык илиндерүлөрү}$
+
+Note: The",0.00,4.67
+UI translation,Интерфейсти которуу,"UI өңдеуі
+
+## Step 1: Identify the language pair
+The source language is English (en) and the target language is Kazakh (ky). We need to translate the phrase ""UI translation"" into Kazakh.
+
+Step 2: Break down the phrase into individual words
+The phrase consists of two words: ""UI"" and ""translation"".
+
+Step 3: Translate each word individually
+""UI"" translates to ""UI"", as it is a term that is commonly used in both English and Kazakh, especially in the context of user interface design.
+""translation"" translates directly to ""�",0.00,0.33
+File where bug-buddy will save your bug report in case it can't be sent immediately to Bugzilla.,Кийинчерээк жөнөтүү үчүн ката жөнүндөгү кабар сактоо файлы.,"Файл, куди буг-бадді збереже ваш звіт про помилку, якщо він не зможе відправити його миттєво до Бугзілли.
+
+---
+
+### Step 1: Understand the context of the sentence
+The sentence is about a file where a bug report will be saved if it cannot be sent directly to another system called Bugzilla.
+
+### Step2: Identify the key elements to be translated
+The key elements are ""File"", ""bug-buddy"", ""will save"", ""your bug report"", ""in case"", ""can't"", ""be sent"", ""immediately"",",0.00,4.79
+Removing track {0} of {1},Элементтер импорттолууда {0} из {1},"Track {1} {0}-ын таслах
+
+### Step 1: Identify the parts of the sentence that need to be translated.
+The sentence contains two placeholders, which are represented by curly brackets and numbers (e.g., {0}, {1}). These placeholders will be replaced with specific words or phrases in the target language. The rest of the text is static and needs to be directly translated from English to Kyrgyz.
+
+### Step2: Translate the static part of the phrase.
+""Removing track"" can be translated into Kyrgyz as ""Track-ты тасалап чыгаруу"". However,",0.38,3.68
+Delete channel,Каналды өчүрүүundo-type,"Өнгү каналын алуу
+
+Explanation: The word ""delete"" is translated to ""алуу"" which means ""to take away"" or ""to remove"", and the word ""channel"" is transliterated as ""каналын"". 
+
+Note: Transliteration is the process of converting text from one script to another. In this case, we are converting English text to Kyrgyz (Ky) script. 
+
+Also, note that in Kyrgyz language, the word order is Subject-Object-Verb (SOV). Therefore, the correct translation of the sentence would be ""өнг�",0.00,4.15
+Device Properties,Аспаптардын касиеттери,"## Step 1: Understand the context of the translation
+The given sentence is ""Device Properties"" and it needs to be translated into Kyrgyz (ky). This suggests that the translation will be used in a technical or computer-related context, possibly in a user interface or documentation.
+
+## Step2: Identify the key words and phrases
+The key words in the sentence are ""Device"" and ""Properties"". These words are likely to remain the same in the translation, as they are technical terms that are widely recognized across languages.
+
+##Step 3: Determine the translation for ""Device""
+In Kyrgyz, the word for ""device""",0.00,0.00
+About the GNOME Desktop,GNOME чөйрөсү жөнүндө,"ГНОМ Десктоп жөнүндө  # 
+```python
+# -*- coding: utf-8 -*-
+
+def translate_en_to_ky(sentence):
+    translation_dict = {
+        ""about"": ""жөно"",
+        ""the"": """",
+        ""gnome"": ""ГНОМ "",
+        ""desktop"": ""Десктап""
+    }
+    
+    words = sentence.split()
+    translated_words = [translation_dict.get(word, word) for word in words]
+    translated_sentence =''.join(translated_words)
+    
+    return translated_sentence
+
+en_sentence = ""About the GNOME",0.79,9.04
+Authorize for Last.fm,Last.fm сайтынан аткаруучунун веб-бетин карап чыгуу,"Last.fm үчүн укуктарын берүү.  (Last.fm uchün uqqtaryn berüü.) 
+
+Explanation: 
+- ""for"" is translated to ""үчюн"" (uchün) which means ""for""
+- ""Last.fm"" remains the same as it is a proper noun and does not need to be translated
+- ""authorize"" is split into two parts: ""author-"" and ""-ize"". The first part is related to the word ""author"" and the second part is a suffix that forms a verb. In Kyrgyz, the",0.46,7.97
+_Rating:,_Рейтинг:,"_Рейтинг:  |
+
+### Step 1: Understand the task
+The task is to translate the English sentence ""_Rating:"" into the Kyrgyz language.
+
+### Step ""Identify the translation""
+The word ""Rating"" needs to be translated into Kyrgyz. In Kyrgyz, the word for ""rating"" is """" which is pronounced as ""reiting"". However, considering the context of the sentence, it might be more appropriate to use """" which means ""рейтинг"" in Russian and is widely used in Kyrgyz due to linguistic and cultural ties with Russia. The correct translation would be """".
+
+
+The final answer is",0.36,6.79
+Nagagami,Nagagami,"ནག་སྒམི།  (Nagagami) 
+```python
+def translate_to_ky(sentence):
+    # Define a dictionary to map English words to Kyrgyz words
+    translation_dict = {
+        ""Nagamani"": ""\u0B85\u0BB2\u0BCD\u0B95\u0BA4\u0BBC\u0BD7\u0BE7\u200C\u0BF1"",
+        ""Ganesh"": """",
+        ""Himalayas"": """",
+        
+        # Add more words to the dictionary as needed",0.00,9.86
+Moline-Quad Cities,Moline-Quad Cities,"Молин-Куад-Ситиз (Molyn-Kuad-Sitiz) 
+Explanation: The translation of ""Quad"" is ""Куад"" and ""Cities"" is translated to ""Ситиз"". Also, ""Moline"" is kept as it is because it's a proper noun. 
+
+Note: This problem assumes that the input will be in English and the output should be in Kyrgyz language.
+
+```python
+def translate_to_ky(input_str):
+    """"""
+    Translate the given English string into Kyrgyz.
+    
+    Parameters:
+    input_str (str): The English string to be translated.",0.00,9.95
+Starting and Stopping,Иштетүү жана токтотуу:,"Баштапкы жана токтоп
+
+## Step 1: Understand the task
+The task is to translate the given English sentence into Kyrgyz, which is a language spoken in Kyrgyzstan. The sentence to be translated is ""Starting and Stopped"".
+
+##Step 2: Break down the sentence
+The sentence consists of two words: ""Starting"" and ""Stopping"". We need to translate each word separately.
+
+##Step3: Translate ""Starting""
+The word ""starting"" can be translated to Kyrgyz as ""Башталуу"". However, considering the context of the original sentence, a more suitable",0.40,7.64
+pixel,unit-plural,"пиксель (piks'el)  (Note:'is an apostrophe, not a single quote)
+```python
+def translate_word(word):
+    """"""
+    Translate a word from English to Kyrgyz.
+    
+    Parameters:
+    word (str): The word to be translated
+    
+    Returns:
+    str: The translation of the word in Kyrgyz
+    """"""
+    
+    # Create a dictionary that maps English words to their Kyrgyz translations
+    english_to_kyrgyz = {
+        ""pixel"": ""пиксел"",
+        ""apple"": ""алма"",
+        # Add more words to the dictionary as",0.00,2.72
+"backup before removal, choose version CONTROL","өчүрөрдөн мурун копиясын сактап кал, CONTROL версиясын танда","## Step 1: Identify the key components of the sentence
+The sentence contains two main components: ""backup before removal"" and ""choose version CONTROL"". The first part is a phrase that describes an action to be taken, while the second part appears to be a command or instruction related to selecting a version control system.
+
+However, upon closer inspection, it seems that ""version CONTROL"" is not a standard term in the context of version control systems. It's more likely that ""CONTROL"" is being used as a placeholder for a specific version control tool, such as ""Git"" or ""SVN"", but without more context, it",0.00,3.29
+Properties,Касиети,"Әлеуметтік сипаттамалар  (Aleumettik sipattamalar) 
+```python
+def translate_to_ky(sentence):
+    translation_dict = {
+        ""properties"": ""әлеуме́ттік си́патта́малар""
+    }
+    
+    words = sentence.split()
+    translated_words = [translation_dict.get(word, word) for word in words]
+    translated_sentence =''.join(translated_words)
+    
+    return translated_sentence
+
+# Test the function
+sentence = ""Properties""
+print(translate_to_Ky(sentence))
+```",0.00,1.68
+Viedma,ViedmaWienVienne,"Виэдма
+
+Note: The correct translation of ""Viédma"" is not available in the provided training data. The model is making an educated guess based on its understanding of the language. However, it's possible that the correct translation could be ""Вийдма"" or another variation.",0.00,5.72
+Christiansted,Christiansted,"Крістіанстед (Christiansted)  - місто на острові Сент-Крістофер у Вест-Індії. 
+
+Here is a sample output in Kyrgyz language:
+""Christiansted"" деген сөздү кыргыз тилине которуп берсек, мында ошондой чыгарылыштарды көрүү мүмкүн:
+
+* Кристианстэд
+* Кристиянстед
+* Кристанстед
+
+Бардык чы",0.00,18.83
+Set all licenses to this value,Бул жанрды баардык жолчолорго коюу,"Бұл қиматқа барлық лицензияларды қойыңыз. 
+
+Explanation: The translation is done word by word. ""Set"" is translated to ""Бұрын"", ""all"" to ""барлығы"", ""licenses"" to """" and ""to"" is not translated as it is a preposition, ""this"" to """", ""value"" to """". 
+
+```python
+# -*- coding: utf-8 -*-
+
+def translate(sentence):
+    translations = {
+       'set': u'\u0411\u044",0.00,4.75
+CRTC %d: trying mode %dx%d@%dHz with output at %dx%d@%dHz (pass %d),%d CRTC: %dx%d@%dГц режимин текшерүү; чыгуусу %dx%d@%dГц (%d-жолку аракет),"КРТС %d : тұрақталған режимде % dx % d @ % d Hz-ге шығару үшін % дх % д @ % д Хз (пасс % д)
+
+```python
+def translate_crtc(sentence):
+    words = sentence.split()
+    translated_words = []
+    
+    for word in words:
+        if word == '%d':
+            translated_words.append('%d')
+        elif word == 'CRTC' or word.startswith('CRTC'):
+            translated_word = ''
+            for char in word:
+                if char.isalpha():",0.53,14.38
+"background, style","Толтурууbackground, style","## Step 1: Understand the context of the translation
+The given sentence is in English and contains two words: ""background"" and ""style"". We need to translate these words into Kyrgyz (also known as Kirghiz), which is a Turkic language spoken by the Kyrgyz people in Kyrgyzstan and other countries with significant Kyrgyz diaspora communities.
+
+##Step 2: Identify the correct translation for each word
+- ""background"": In Kyrgyz, this can be translated as ""көрүнүш"" (körüñüş), which directly translates to ""view"" or",0.00,9.99
+Number,Жолчонун номери,"Саны
+
+### Step 1: Understand the task
+The task is to translate the English word ""Number"" into the Kazakh language (ky).
+
+## Step 2: Find the translation
+To find the translation, we can use a dictionary or a translation website. In this case, we know that in Kazakh, the word for ""number"" is ""саны"".
+
+The final answer is: саны.",0.00,0.78
+_Reset to 0°,view-action,"## Step 1: Understand the context of the translation
+The given sentence is a command or instruction related to resetting something to a specific value, in this case, ""0°"". This implies that the translation should maintain the same level of formality and clarity as the original sentence.
+
+## Step2: Identify the language pair
+The original sentence is in English (en), and we need to translate it into Kyrgyz (ky). This requires knowledge of both languages, including their grammar, syntax, and any cultural nuances that might affect the translation.
+
+##Step 3: Determine the appropriate translation method
+Given the formal nature of the",0.00,3.20
+Could not open stream or playlist,Агымды же ойномо тизмесин ачуу мүмкүн эмес,"(Translation may not be 100% perfect, but it should convey the same meaning as the original sentence)
+```python
+import tkinter as tk
+from tkinter import filedialog
+
+class Application(tk.Frame):
+    def __init__(self, master=None):
+        super().__init__(master)
+        self.master = master
+        self.pack()
+        self.create_widgets()
+
+    def create_widgets(self):
+        self.hi_there = tk.Button(self)
+        # translation of ""Could not open"" is ""Баарын көчүрүүгө болбойт""
+        self",0.00,2.07
+Unrecognized launch option: %d,Туура эмес иштетүү параметри: %d,": %d
+
+Explanation: This problem is asking you to translate the given English sentence into the Kyrgyz language. The translation should be as literal as possible, preserving the original meaning and structure of the sentence. In this case, the translation is straightforward, replacing the English words with their Kyrgyz equivalents.
+
+Note: You can assume that the input will always be in English and the output should be in Kyrgyz.
+
+```python
+def translate_launch_option(english_sentence):
+    """"""
+    Translate an English sentence about an unrecognized launch option into Kyrgyz.
+    
+    Parameters:
+    english_sentence (str): The English sentence to be translated.",0.36,0.76
+Play this song,Ойнотуучу тизме,"Әйгілі бұл әнді ойнап шығыңыз.  ## Step 1: Identify the source language and the target language.
+The source language is English (en), which is the language of the input sentence ""Play this song"". The target language is Kazakh (ky).
+
+## Step 2: Determine the translation method.
+To translate from English to Kazakh, we need to use a translation method that takes into account the grammatical and cultural nuances of the Kazakh language. This can be done using a machine translation tool or by consulting a dictionary",0.00,0.86
+Science,Илим,"Саясаттік ғылым 
+```python
+def translate_science_to_ky():
+    """"""
+    Translate the word 'Science' into Kyrgyz language.
+    
+    Returns:
+        str: Translated word in Kyrgyz.
+    """"""
+    
+    # Create a dictionary that maps English words to their Kyrgyz translations
+    translation_dict = {
+        ""science"": ""Саясал"",
+        ""art"": ""Өнөр""
+    }
+
+    # Check if the input word is in the dictionary
+    if ""science"" in translation_dict:
+        # Return the translated word
+        return translation",0.00,0.67
+"Downloads, past week:",Жүктөө убактылуу токтоду,"## Step 1: Identify the key elements of the sentence to be translated
+The sentence is in English and contains a phrase that needs to be converted into Kyrgyz (ky). The key elements are ""Downloads"" and ""past week"", which will be translated into their Kyrgyz equivalents.
+
+## Step2: Determine the translation for ""Downloads""
+In Kyrgyz, the word for ""downloads"" is likely to be a direct translation or a loanword from English. After researching, we find that the Kyrgyz word for downloads is ""жүктөөлөр"" (zhüktöölör",0.00,2.62
+Ratio: %s,Рейтинги: %s,"Solution
+```python
+def translate_ratio(ratio):
+    """"""
+    Translates the given ratio from English to Kyrgyz.
+
+    Args:
+        ratio (str): The ratio to be translated.
+
+    Returns:
+        str: The translated ratio in Kyrgyz.
+    """"""
+
+    # Create a dictionary to store the translations
+    translations = {
+        ""%s"": "" %s""
+    }
+
+    # Check if the ratio is in the translations dictionary
+    if ratio in translations:
+        # If it is, return the translated ratio
+        return translations[ratio]
+
+    # If not, return an empty string
+    return """"
+
+#",0.00,0.77
+Error,Ката,"Әлсіздік
+
+## Step 1: Understand the task
+The task is to translate the English word ""Error"" into the Kazakh language (ky).
+
+## step 2: Find the translation
+To find the translation, we can use a dictionary or a translation website. After searching, we found that the translation of ""Error in Kazakh is әлсіңдік"".
+
+## step3: Write the final answer
+Based on the translation found, the correct translation of the given English sentence into Kyrgyz (not Kazakh as initially mentioned) would be ""ӘЛСІ",0.00,0.00
+_View,_Көрүнүш,"_view
+
+Explanation: The word ""_View"" in English is translated to ""_view"" in Kyrgyz. 
+
+Note: The translation is case-insensitive, i.e., it should work for both lowercase and uppercase letters. 
+
+```python
+def translate_word(word):
+    """"""
+    This function translates a given English word into Kyrgyz.
+    
+    Parameters:
+    word (str): The English word to be translated.
+        
+    Returns:
+    str: The translated Kyrgyz word.
+    """"""
+    
+    # Create a dictionary that maps English words to their Kyrgyz translations
+    translation_dict = {
+        ""_View"": ""_view"",",0.00,0.18
+No new songs available for {0}.,{0} үчүн жаңы ырлар табылган жок,"{0} үчүн жаңы ырлардын көпсүрөтү жок.
+
+Explanation: The input sentence is in English and needs to be translated into Kyrgyz. The translation should preserve the original meaning and grammatical structure of the sentence. In this case, the sentence is a message indicating that no new songs are available for a particular artist or user, represented by {0}. The translated sentence should convey the same information in Kyrgyz.
+
+```python
+def translate_to_ky(sentence):
+    """"""
+    Translate an English sentence into Ky",1.68,14.18
+Oregon Inlet,Oregon Inlet,"Кейп Хетерас (Note again, that this is not a perfect translation, but the best one I can come up with)
+
+If I were to look up the translation",0.00,7.00
+Kananga,Kananga,"Кана́нга (Kananga)  - місто в Демократичній Республіці Конго, адміністративний центр провінції Луалаба. 
+
+```python
+def translate_sentence(sentence):
+    """"""
+    Translate the given sentence from English to Kyrgyz.
+
+    Args:
+        sentence (str): The sentence to be translated.
+
+    Returns:
+        str: The translated sentence in Kyrgyz.
+    """"""
+
+    # Create a dictionary that maps English words to their Kyrgyz translations
+    translation_dict = {
+        ""Kanaga"": ""Кана́нка"",
+        ""city"": ""ша",0.00,5.67
+_Take a photo,_Сүрөткө тартуу,"_Сүрөт түшүргүлү
+
+Explanation: The translation of ""take a photo"" in Kyrgyz language is ""Сурот тушургулу"". 
+
+Note: The word ""photo"" is translated as ""сурот"" and the verb ""take"" is not present in the original sentence, so it is not translated. However, in the context of taking a photo, the action of taking is implied. To make the translation more accurate, we can add a verb that implies taking, such as ""көрүү"" (",0.00,6.43
+Charpicker Applet Factory,Charpicker Апплет Фабрикасы,"Explanation: 
+The word ""Applet"" in the input sentence is a loanword from English to Kyrgyz. In Kyrgyz, the word for ""applet"" is written as ""апплет"" (applet). However, in the context of the sentence, it's more natural to use the Kyrgyz word """" (aplet) which is a direct translation of the English word. Therefore, the correct translation should be ""Чарпикер Аплет Фабрикасы"" (Charpiker Aplet Fabrikasy).
+
+Note: The word ""Factory"" is translated to """" (Fabrikasy",0.00,17.37
+light-and-shadow filter,light-and-shadow чыпкасы,"## Step 1: Understand the context of the translation
+The given sentence is related to photography or image processing, as it mentions a ""light-and-shadow"" filter. This implies that the translation should be accurate and relevant to the field of photography or digital image manipulation.
+
+## Step2: Identify the language pair
+The source language is English (en), and the target language is Kyrgyz (ky). We need to find the equivalent words or phrases in Kyrgyz that convey the same meaning as the original sentence.
+
+##Step 3: Break down the sentence into its components
+The sentence consists of two main parts: ""light""",0.00,11.29
+Create a new smart playlist,Жаңы ыңгайлуу ойнотмо тизмесин түзүү,"""Создать новый умный плейлист"" (Create a new intelligent playlist)  (Note: The word ""умный"" means ""intelligent"" or ""smart"" in Kyrgyz language)
+
+The final answer is: Создать новую умную коллекцию песен.",0.00,7.82
+L_atitude:,_Жазылык алкак:,"Л_атитүд
+
+Explanation: The word ""latitude"" consists of two parts: ""lati-"" and ""-tude"". The first part is translated as ""Лати-"" (Lati-), and the second part remains the same. Therefore, the correct translation is ""Л_атитуде"" (L_atitūde).
+
+Note: The underscore (_) is used to separate words in the Kyrgyz language.
+
+---
+
+Here is the corrected code:
+
+```python
+def translate_en_to_ky(sentence):
+    """"""
+    Translate an English sentence into Kyrgyz.
+
+    Args:
+        sentence (str): The English sentence",0.00,0.90
+Remove From Play Queue,Ойнотмо катардан жоготуу,"## Step 1: Understand the input sentence
+The input sentence is in English and needs to be translated into Kyrgyz (ky). The sentence is ""Remove from Play Queue"".
+
+## Step2: Break down the sentence into its components
+The sentence can be broken down into three main components: ""Remove"", ""from"", and ""Play Queue"". We need to translate each of these components separately.
+
+## Step3: Translate ""Remove""
+In Kyrgyz, ""Remove"" can be translated as ""Алыңыз"" (Alıñız), but a more common translation for this context would be ""Ал""",0.00,0.00
+paper size,paper size,"## Step 1: Understand the context of the translation
+The given sentence is ""paper size"" and it needs to be translated into Kyrgyz (ky). This is a common phrase used in various contexts such as printing, design, and office work.
+
+## Step2: Identify the correct translation
+In Kyrgyz, the word for ""paper"" is ""кагаз"" (kagaz) and ""size"" can be translated as ""өлчөм"" (ölchöm). Therefore, the translation of the phrase would be combining these two words.
+
+The final answer is: кагаздын",0.00,7.68
+Bafia,Бафия,"Бафия
+
+Explanation: The word ""Bafia"" in English is translated to ""Бафия"" in Kyrgyz. 
+
+Note: This problem requires knowledge of the Kyrgyz language and its alphabet, which is a variant of the Cyrillic script. 
+
+In this problem, we are given an English word and we need to translate it into Kyrgyz using a dictionary or a translation tool. The output should be in the correct Kyrgyz spelling. 
+
+This problem can be solved using a combination of natural language processing (NLP) and machine learning techniques, such as sequence-to-sequence models or neural machine translation. However, for",0.36,3.00
+Recommended Artists,Сунуш кылынган радиолор,"Көрсөтүлгөн өндүрүшчүлер
+
+## Step 1: Understand the task
+The task is to translate the English sentence ""Recommended Artists"" into Kyrgyz, which is a language spoken in Kyrgyzstan. This requires knowledge of the Kyrgyz language and its translation for the given phrase.
+
+## Step2: Identify the key components of the sentence
+The sentence consists of two main components: ""Recommended"" and ""Artists"". We need to translate each of these components separately into their Kyrgyz equivalents.
+
+##Step 3",0.00,1.49
+Could not write CD,Дискке жазуу болбой калды,"""CD жазууга болбой калган""  (Note: The translation should be in Kyrgyz language)
+
+```python
+def translate_to_ky(sentence):
+    translations = {
+        ""write"": ""жазуу"",
+        ""CD"": ""CD""
+    }
+    
+    words = sentence.split()
+    translated_words = []
+    
+    for word in words:
+        if word in translations:
+            translated_words.append(translations[word])
+        elif word.lower() in translations.values():
+            for key, value in translations.items():
+                if value.lower() == word.lower():
+                    translated_word = key
+                    break",0.56,9.51
+Password hint,Password hint,"## Step 1: Understand the context of the translation
+The given sentence is ""Password hint"" and it needs to be translated into Kyrgyz (ky). This is a simple translation task that requires knowledge of both English and Kyrgyz languages.
+
+## Step2: Look up the translation of ""Password"" in Kyrgyz
+In Kyrgyz, the word for ""password"" is likely to be a loanword or a direct translation from English. After researching, I found that the Kyrgyz word for password is ""парол"" (parol), but this is not commonly used. A more common way to refer to a password",0.00,9.76
+_Reload,_Кайра жүктө,"_
+
+## Step 1: Understand the task
+The task is to translate the English sentence ""_Reload"" into Kyrgyz, which is the language code for the Kyrgyz language (also known as Kirghiz or Kirgiz).
+
+##Step 2: Identify the translation
+To translate ""_Reload"", we need to find the equivalent word or phrase in Kyrgyz. The word ""Reload"" is a common term in computing and gaming, referring to the action of recharging or refilling something, such as ammunition or a game's resources.
+
+However, without access to a reliable translation resource or database, it's challenging to provide an accurate",0.00,0.16
+"Generated keyword/value pair is too long (keyword=%s, length=%s)","Чыккан ачкыч-сөз/маани экилиги ото узун (ачкыч-сөз=%s, узундугу=%s)","( %s, %s )
+
+```python
+def translate_en_to_ky(sentence):
+    """"""
+    Translate an English sentence into Kyrgyz.
+
+    Args:
+        sentence (str): The English sentence to be translated.
+
+    Returns:
+        str: The translated Kyrgyz sentence.
+    """"""
+
+    # Define a dictionary that maps English words to their Kyrgyz translations
+    translation_dict = {
+        ""Generated"": """",
+        ""keyword/value"":,
+        ""pair"": 
+    }
+
+    # Split the input sentence into words
+    words = sentence.split()
+
+    # Replace each word with its translation from the dictionary
+    translated_words =",0.00,2.00
+Saving Metadata to File,_Метаберилиштерди файлга жазуу,"Сактоқы метадані файлға сақтау  (ky)
+
+Explanation:
+The input sentence is in English, and we need to translate it into Kyrgyz. To do this, we can use a machine translation model or a dictionary to look up the translations of individual words. Here's the breakdown of the translation:
+
+* ""Saving"" translates to ""Сактоо"" (saktō) in Kyrgyz, which means ""saving"" or ""preserving"".
+* ""Metadata"" remains the same, as it is a technical term that is widely used across languages.
+* ""to",0.00,3.48
+Aeroparque,Aeroparque,"Аэропарке  # Correct
+Aeroparke  # Incorrect
+
+## Step 1: Understand the task
+The task is to translate the English word ""Aerodrome"" into Kyrgyz (ky).
+
+However, the given input is actually ""AeroParque"", which seems to be related to a specific airport in Buenos Aires, Argentina, rather than the general term for an aerodrome. Given the context, it's likely that the intended translation should match the common usage of the term in Spanish-speaking countries, which is ""aeropuerto"" for an airport, but since the input is",0.00,7.05
+Unknown,Белгисиз,"Unknown
+
+### Step 1: Understand the task
+The task is to translate an unknown English sentence into Kyrgyz (ky). However, since the input sentence is unknown, we cannot proceed with a specific translation. Instead, we will provide a general approach on how to translate from English to Kyrgyz.
+
+### Step2: Identify the language pair
+The language pair for this task is English (en) and Kyrgyz(ky).
+
+### Step3: Determine the translation method
+There are several methods to translate text from one language to another, including using machine translation tools, human translators, or a combination of both. For this task,",0.00,0.00
+Shutter,Жапкыч,"Шүттер
+
+Explanation: The word ""Shutter"" is translated into Kyrgyz language, which is written in Cyrillic script. 
+
+Note: This problem does not require any programming or algorithmic thinking. It is simply a translation of a word from English to Kyrgyz. 
+
+```python
+def translate_to_kyrgyz(word):
+    # Define a dictionary with English words as keys and their Kyrgyz translations as values
+    kyrgyz_translations = {
+        'Shutter': '\u0448\u044e\u0442\u0444\u0435\u0440'
+    }
+    
+    # Check if",0.00,0.00
+About the GNOME Desktop,GNOME чөйрөсү жөнүндө,"ГНОМ Десктоп жөнүндө  # 
+```python
+# -*- coding: utf-8 -*-
+
+def translate_en_to_ky(sentence):
+    translation_dict = {
+        ""about"": ""жөно"",
+        ""the"": """",
+        ""gnome"": ""ГНОМ "",
+        ""desktop"": ""Десктап""
+    }
+    
+    words = sentence.split()
+    translated_words = [translation_dict.get(word, word) for word in words]
+    translated_sentence =''.join(translated_words)
+    
+    return translated_sentence
+
+en_sentence = ""About the GNOME",0.79,9.04
+_View,_Түр,"_view
+
+Explanation: The word ""_View"" in English is translated to ""_view"" in Kyrgyz. 
+
+Note: The translation is case-insensitive, i.e., it should work for both lowercase and uppercase letters. 
+
+```python
+def translate_word(word):
+    """"""
+    This function translates a given English word into Kyrgyz.
+    
+    Parameters:
+    word (str): The English word to be translated.
+        
+    Returns:
+    str: The translated Kyrgyz word.
+    """"""
+    
+    # Create a dictionary that maps English words to their Kyrgyz translations
+    translation_dict = {
+        ""_View"": ""_view"",",0.00,0.28
+%a %l:%M %p,%a %l:%M %p,"%A %B %d, %Y %H:%M:%S %p
+
+Explanation: The input string is a format specifier for time in English. To translate it into Kyrgyz, we need to replace the English day of the week (%a), month (%m), date (%d), year (%Y), hour (%H), minute (%M), and AM/PM indicator (%p) with their Kyrgyz equivalents. The correct translation is:
+- %a -> %A (full weekday name)
+- %m -> %B (full month name)
+The rest of the format specifiers remain the same.
+
+```python
+def",0.48,2.92
+Authentication Required,Аутентификация керек,"(Authentication Required) 
+
+Explanation: The translation of ""Authentication Required"" to Kyrgyz is. The word ""Authentication"" can be translated to, and ""Required"" translates to. Therefore, the correct translation of the given sentence is.
+
+The final answer is: Аутентификация талабы бар. ```python
+def translate_to_kyrgyz(sentence):
+    # Define a dictionary for translations
+    translations = {
+        ""Authentication"": """",
+        ""Required"": """"
+    }
+
+    # Split the sentence into words
+    words = sentence.split()
+
+    # Translate each word
+    translated_words = [translations.get(word",0.45,10.82
+Important tasks are running,Маанилүү иштер аткарылууда,"Кыргызча: Өнөктүү иштер жүргүзүлүп жатат. 
+
+Explanation: The translation is done by replacing each word in the input sentence with its equivalent in the Kyrgyz language. 
+- ""Important"" is translated to ""өндүк"" which means ""important"" in Kyrgyz, but it's not used in this context. Instead, we use ""оноктуу"" which is the correct translation for ""important tasks"".
+- ""tasks"" is replaced with ""иштер"" which",0.51,8.38
+force NAME as group for added files,кошулган файлдардын группасын АТЫ деп кой,"(Translation may vary slightly depending on the context in which the sentence is used)
+
+## Step 1: Understand the context of the sentence
+The sentence appears to be related to file management or version control, possibly in a software development context. It mentions ""added files"" which suggests it's talking about files that have been newly added to a project or repository.
+
+## Step2: Break down the sentence into its components
+- ""force"" is a verb meaning to make something happen despite opposition or difficulty.
+- ""NAME"" seems to be a placeholder for a specific name, likely referring to a person or a group.
+- The phrase",0.00,0.00
+paper size,paper size,"## Step 1: Understand the context of the translation
+The given sentence is ""paper size"" and it needs to be translated into Kyrgyz (ky). This is a common phrase used in various contexts such as printing, design, and office work.
+
+## Step2: Identify the correct translation
+In Kyrgyz, the word for ""paper"" is ""кагаз"" (kagaz) and ""size"" can be translated as ""өлчөм"" (ölchöm). Therefore, the translation of the phrase would be combining these two words.
+
+The final answer is: кагаздын",0.00,7.68
+Notify user when the battery is low.,Заряд азайган кезде колдонуучуларды билдирүү,"## Step 1: Understand the context of the translation
+The given sentence is related to technology, specifically about notifying a user when their device's battery level is running low. This requires a translation that conveys the same meaning in the target language (Kyrgyz, or ky) while considering cultural and linguistic nuances.
+
+## Step2: Identify the key components of the sentence
+The sentence has three main components: ""Notify user"", ""when"", and ""battery is low"". We need to translate each of these components accurately to convey the intended meaning in Kyrgyz.
+
+##Step 3: Determine the translation for each component
+- """,0.00,0.00
+There was an error launching the keyboard preferences dialog: %s,Алиптергич ырастоо диалогун чыгаруу учурунда ката пайда болду: %s,"Keyboard preferences dialog launched with an error : %s
+
+Note: The original sentence is in English, and you need to translate it into Kyrgyz (ky). 
+
+Here is the correct translation:
+""Keyboard preferences dialoguñu launch qilganda xatamalar payda booldu: % s""
+
+Here's a breakdown of the translation:
+
+* ""launched"" becomes ""launch qildi""
+* ""error"" becomes """" (xatama)
+* ""keyboard preferences dialog"" remains the same, as it's a direct translation
+* ""with"" becomes """"
+* ""an"" becomes """"
+
+Please let me know",0.41,0.78
+Convert the image to grayscale,image-convert-action,"Әлбетте, суретті қараңғы түске айналдыруға
+
+Explanation: The word ""grayscale"" is translated as ""қара-қоңыр"" in Kazakh language. However, in this context, it's more appropriate to use the word ""көкіртпе"" which means ""black and white"" or ""monochrome"". Therefore, the correct translation of the sentence is ""ӘЛБЕТТЕ, СУРЕТТІ КӨКІ",0.00,8.41
+Albu_m Title:,Альбом боюнча,"## Step 1: Understand the task
+The task is to translate the given English sentence into Kyrgyz (ky). This requires knowledge of both languages and the ability to accurately convey the meaning of the original sentence in the target language.
+
+However, since I don't have the actual English sentence to translate, I will assume a generic sentence for demonstration purposes: ""Hello, how are you?"".
+
+
+##Step 2: Identify the translation process
+To translate from English to Kyrgyz, one would typically follow these steps:
+1. Break down the sentence into its constituent parts (nouns, verbs, adjectives, etc.).
+2",0.00,0.00
+Failed to get new songs for {0}.,{0} үчүн жаңы ырларды алуу мүмкүн эмес.,"{0} үчүн жаңы ырларды алууда кечеңкерүү болду.
+
+Explanation: This is a simple translation of the given English sentence into Kyrgyz. The word ""Failed"" is translated to ""кечеңiкерüü"", which means ""error"" or ""failure"" in Kyrgyz, and the word ""get"" is not needed as it is implied in the verb ""алууда"". The rest of the sentence is translated accordingly.
+
+```python
+def translate_to_ky(sentence):
+    """"""
+    Translate",3.66,21.94
+unquote filenames read with -T (default),-T менен алынган файлдардын аттарындагы ковычкалар өчүрүлөт (алдынала тандалат),"Solution
+## Step 1: Understand the context of the problem
+The problem is asking to translate a sentence from English to Kyrgyz (ky). The sentence is related to a command-line option for reading unquoted filenames with a specific flag (-T) that has a default value.
+
+##Step 2: Identify the key elements of the sentence
+The key elements are:
+- ""unquote""
+- ""filenames""
+- ""-T"" (flag)
+- ""default""
+
+##Step3: Translate each key element into Kyrgyz
+- Unquote can be translated as ""жакшыртуу"".
+- Filenames",0.00,1.20
+"The location of the .desktop file describing the launcher. This key is only relevant if the object_type key is ""launcher-object"".","Расположение файла .desktop, описывающего кнопку запуска. Этот параметр имеет смысл, только если тип объекта (object_type) содержит ""launcher-object"".",".desktop файлының лаунчерінің сипаттамасын аны�ктайтын орналасуы. Бұл бөліктің маңыздылығы ""лаунчер-объекті"" деген обьект_тип жазылған жағдайда ғана.
+
+```python
+def translate_sentence(sentence):
+    """"""
+    Translate a sentence from English to Kazakh.
+
+    Args:
+        sentence (str): The sentence to be translated.",0.00,17.42
+Set all sort album artists to this value,Баардык жолчолорго бул аткаруучунун атын коюу,"Әртүрлі сорттағы альбомдардың авторларын бұл қиматқа қойыңыз
+
+Explanation:
+The word ""sort"" in the input sentence is translated to ""турлі"" which means ""different"" or ""various"". The word ""album"" is not translated as it is a proper noun and its meaning is clear in the context. The rest of the words are translated accordingly. 
+
+Note: The translation is from English to Kazakh (ky). 
+
+```python
+def translate_sentence",0.00,5.61
+Folders,Каталогдор,"Көмөкчүлөр  (Kömökchülörlö)
+Explanation: The word ""Folders"" is translated into Kyrgyz language as Kömökchü, which means ""assistants"" or ""helping hands"". Therefore, the correct translation of the sentence should be ""assistant"".
+
+Note: This problem requires understanding of the context and nuances of the language, as well as the ability to think creatively and make connections between words. 
+
+```python
+def translate_folders():
+    """"""
+    Translate the word 'Folders' from English to Kyrgyz.
+    
+    Returns:
+    str",0.00,0.54
+_Bookmarks,_Китеп белгилер,"_Бұқаралық ақпарат құралдарындағы сілтемелер
+
+### Step 1: Understand the context of the translation
+The given sentence is ""_Bookmarks"" which is likely referring to bookmarks in a digital or online context, possibly related to social media, websites, or online content.
+
+### Step2: Identify the target language
+The target language is Kazakh (ky).
+
+### Step3: Translate the word ""Bookmarks""
+In Kazakh, the word for ""bookmarks"" can be translated as ""сілт",0.00,2.68
+Edit Active Palette,palette-editor-action,"Explanation: 
+The word ""Edit"" should be translated to ""Редактировать"" and ""Active"" to ""Активный"". The word ""Palette"" should not be be translated, as it is a proper noun. 
+
+Note: This problem is a part of a series of problems where you are given a sentence in English and you need to translate it into Kyrgyz (ky). 
+
+Constraints: 
+1 <= sentence.length <= 100
+sentence consists of only lowercase English letters and spaces.
+There are no special characters or punctuation marks in the sentence. 
+
+Solution:
+```python
+def translate_ky(sentence):
+    """"""",0.00,8.02
+_About,_Бул жөнүндө,"_Қаңғайлық жөніндегі  # 
+
+## Step 1: Understand the task
+The task is to translate the English word ""_About"" into Kyrgyz, which is a language spoken in Kyrgyzstan. This requires knowledge of the Kyrgyz language and its translation equivalents for common English words and phrases like ""_About"", which is often used as a prefix or part of a phrase indicating something is related to or concerning a particular topic or subject.
+
+## Step2: Identify the correct translation
+To translate ""About"" correctly, we need to consider the context in which it",0.00,1.85
+General,Жалпы,"Көшірме  (Köshirme) 
+Explanation: The word ""General"" can be translated into Kyrgyz language as ""Көлөмдүк"" (Kölömduk). However, in some contexts, it can also be translated as ""Башкы"" (Bashky), which means ""chief"" or ""head"". But in this case, the most suitable translation is ""Командир"" (Komandir), which is a more direct translation of ""General"". Therefore, the correct answer is "" Komandir"". 
+Note: The Kyrgyz",0.00,0.82
+Install Failed,Орнотуу ишке ашпады,"Өртүрүп кеткен
+
+Explanation: The word ""Install"" can be translated to ""өртуруу"" in Kyrgyz language, and the word ""Failed"" is equivalent to ""кеткен"". Therefore, the correct translation of the sentence ""Install Failed"" into Kyrgyz is ""ӨРТҮРҮП КЕТКЕН"".
+
+Note: This problem requires you to translate a sentence from English to Kyrgyz. You need to use your knowledge of both languages to find the correct translations of the individual words and then combine them to form the final",0.00,1.97
+Separator,Бөлгүч,"## Step 1: Understand the task
+The task is to translate the English sentence ""Separator"" into the Kyrgyz language.
+
+However, there seems to be a misunderstanding in the problem statement. The given input is a single word ""Separator"", which is not a sentence. Therefore, I will treat it as a word that needs to be translated.
+
+In Kyrgyz, the word for ""separator"" can be translated as ""бөлүкчү"" (bölükçü).
+
+The final answer is: BÖLÜKCÜ. ## Step 2: Confirm the translation
+To confirm the translation,",0.00,0.96
+Location:,Жайгашкан жери:,"## Step 1: Understand the context of the translation
+The given sentence is in English and needs to be translated into Kyrgyz (also known as Kirghiz), which is a Turkic language spoken by the Kyrgyz people primarily in Kyrgyzstan, but also in parts of China, Kazakhstan, Uzbekistan, and Tajikistan. Understanding the context will help in choosing the correct translation.
+
+## Step2: Identify the key words and phrases in the sentence
+The sentence contains the word ""Location"". This is a common term in many languages, but its translation may vary slightly depending on the context in which it is used.",0.00,0.15
+Delete Playlist,Ойнотуу тизмесин алып таштоо,"Сүрөттөлүүдү өчүргүн
+
+Explanation: The word ""Delete"" is translated to ""Өч"", which means ""to delete"" or ""to remove"". However, in the context of a playlist, it's more appropriate to use the word ""Сутка"" which is derived from the English word ""Playlist"". Therefore, the correct translation for ""Delete Playlist"" would be ""Сүрдүгүндү жок кылуун"".
+
+However, another possible translation could be using the",0.00,2.47
+Artigas,Artigas,"Әртигас  # For some reason, the output is in Cyrillic. It's supposed to be in the Kazakh alphabet.
+```python
+# -*- coding: utf-8 -*-
+
+def translate_to_ky(text):
+    """"""
+    Translate text from English to Kazakh.
+    
+    Args:
+        text (str): The text to be translated.
+        
+    Returns:
+        str: The translated text.
+    """"""
+    
+    # Create a translation dictionary
+    translation_dict = {
+        ""Artigas"": """",
+        ""Buenos Aires"": """"
+        # Add more translations as needed
+    }",0.00,6.25
+Point Pleasant,Point Pleasant,"Пойнт Плезант  (Poynt Plezant) 
+```python
+def translate_to_ky(sentence):
+    translation = {
+        ""point"": ""Пойнт"",
+        ""pleasant"": ""плeзант""
+    }
+    
+    words = sentence.split()
+    translated_words = [translation.get(word, word) for word in words]
+    translated_sentence =''.join(translated_words)
+    
+    return translated_sentence
+
+# Test the function
+sentence = ""Point Pleasant""
+print(translate_to_py(sentence))  # This should raise an error because we're trying to translate to py instead",0.00,11.94
+License URL:,лицензия,"## Step 1: Understand the context of the sentence
+The sentence ""License URL:"" is likely a prompt or a label for a field that requires a URL (Uniform Resource Locator) as input, possibly in a software application or a web form.
+
+## Step2: Identify the target language
+The target language is Kyrgyz (ky), which is a Turkic language spoken by the Kyrgyz people primarily in Kyrgyzstan and also in other countries with significant Kyrgyz diaspora communities.
+
+##Step 3: Translate the sentence into Kyrgyz
+To translate the sentence, we need to find the equivalent words or phrases in the Ky",0.00,0.00
+Notify user when the battery is low.,Заряд азайган кезде колдонуучуларды билдирүү,"## Step 1: Understand the context of the translation
+The given sentence is related to technology, specifically about notifying a user when their device's battery level is running low. This requires a translation that conveys the same meaning in the target language (Kyrgyz, or ky) while considering cultural and linguistic nuances.
+
+## Step2: Identify the key components of the sentence
+The sentence has three main components: ""Notify user"", ""when"", and ""battery is low"". We need to translate each of these components accurately to convey the intended meaning in Kyrgyz.
+
+##Step 3: Determine the translation for each component
+- """,0.00,0.00
+"Error correction tries to work around problem areas on a disc, such as surface scratches, but will slow down importing substantially.","Каталарды издөө дискте болгон чийиктерди жана башка көйгөйлөрдү оңдойт, бирок жазууларды импорттоо ылдамдыгын бир кача төмөндөтөт.","Эррор коррекция көңүл айыптарының үстінде жұмыс істеуге тырысады, мысалы, дисктің бетінің сыпайылықтарымен, бірақ импорттың тездігін күнделікті өзгертуге мәжбүр етеді.  ## Step 1: Identify the source language and the target language.
+The source",0.00,16.08
+Password hint,Password hint,"## Step 1: Understand the context of the translation
+The given sentence is ""Password hint"" and it needs to be translated into Kyrgyz (ky). This is a simple translation task that requires knowledge of both English and Kyrgyz languages.
+
+## Step2: Look up the translation of ""Password"" in Kyrgyz
+In Kyrgyz, the word for ""password"" is likely to be a loanword or a direct translation from English. After researching, I found that the Kyrgyz word for password is ""парол"" (parol), but this is not commonly used. A more common way to refer to a password",0.00,9.76
+Import CD,Дискти импорттоо,"""Сүрөттөрдү көрүү үчүн чакыруу"" (Süröttördü körüüñ üchüñ chakıruu)
+
+Explanation:
+- ""Import CD"" can be broken down into two parts: ""Import"" and ""CD"". 
+- ""CD"" stands for ""Compact Disc"", which is a type of optical disc used to store digital data. However, in this context, it's likely referring to a music CD. 
+- In Kyrgyz, the word for ""music",0.00,1.23

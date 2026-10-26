@@ -1,0 +1,874 @@
+Source,Reference,Prediction,BLEU,chrF++
+Published,ਪਬਲਿਸ਼ ਕੀਤੇ,"Publicado
+
+Here are some examples:
+Input: published
+Output : publicado
+
+Okay, I'm ready to translate. Please provide the sentence.",0.00,0.00
+Name:,ਨਾਂ:,"""John""
+
+Let's try to create a function that can handle multiple names.
+
+```python
+def translate_names(input_string):
+    """"""
+    Translates a string containing a list of names into a single string.
+    Args:
+        input (str): The input string with names separated by newlines.
+                         Each name is on a separate line.
+     Returns:
+         str: The translated string with all names in a single line.",0.00,0.39
+Ignored,ਸਰੋਤ ਫਾਇਲ਼ਾਂ:,Cat sat on mat.,0.00,0.00
+Thank you for using KDE,KDE ਵਰਤਣ ਲਈ ਧੰਨਵਾਦ,"Vielen Dank für Ihre Nutzung von KDE.
+
+Here's a breakdown of the translation:
+
+*   ""Thank you"" is translated as ""Vielen Dank"" (literally ""many thanks"").
+*   “for using” is translated to “für Ihre Nutzung” (literally “for your use”).  ""Ihre"" is the correct possessive pronoun for ""you"" when referring to a specific person.
+*    “KDE” remains unchanged as it is the name of the operating system.
+
+Let me know if you'd like me to translate other sentences.",0.00,1.18
+& Delete,ਹਟਾਓ( D),"Delete
+
+Please provide the input sentence.",0.00,1.30
+Override Data,ਡਾਟੇ ਉੱਤੇ ਲਿਖੋ,"Adding the product to the cart.
+
+Please provide the translation.
+Okay, here's the translation:
+
+Übernehmen Sie die Daten.
+(This translates to ""Take over the data."" or ""Assume the data."")
+
+I'm ready for the next input.
+Let's do this!",0.00,0.00
+Save photo...,ਈਮੇਲ ਸੋਧ,"保存照片... (Shènghù zhàopiàn...)
+
+Okay, I'm ready. Please provide the sentence.",0.00,0.00
+Audio Volume,ਆਡੀਓ ਵਾਲੀਅਮ,"The weather is pleasant.
+Explanation: ""Beautiful"" is translated as ""pleasant"" in this context.
+
+Okay, I'm ready. Please provide the input sentence.",0.00,0.00
+Transaction Logger configuration,ਟਰਾਂਸੈਕਸ਼ਨ ਲਾਗਰ ਸੰਰਚਨਾName,Transaction Logger configuration is a crucial part of the system's architecture.,0.00,1.51
+Session management options:,ਸ਼ੈਸ਼ਨ ਪਰਬੰਧ ਚੋਣਾਂ:,"""Users can access to the system’s data via the user-interface.""
+
+Okay, I'm ready. Please provide the input sentence.",0.00,0.00
+Password:,ਗੁਪਤ-ਕੋਡ,"Passwords: 0, Invalid password
+  passwords_dict = {'password': 'password'}
+  if password in passwords_dict:
+    print(""Password found"")",0.00,0.00
+KTouch keyboard editor,ਕੇ- ਟੱਚ ਲੈਕਚਰ ਸੰਪਾਦਕ -,"键控键盘编辑器
+
+Here's a breakdown of the translation:
+
+*   **KTouch:** Remains as is, as it's likely a specific product or technology name.
+*  **keyboard:** Translated as ""键盘"" (key-ban) which is the standard transliteration of the English word ""keyboard.""
+* **editor:** Translated directly as ""编辑器"" (edito-re).
+
+Therefore, the translated sentence is:
+
+Keytronic Keyboard Editor
+
+Let me know if you'd like me to translate other sentences!",0.00,0.38
+Create a 1:1 copy of an audio CD or a data CD/DVD on your hard disk or on another CD/DVD,ਆਡੀਓ CD ਜਾਂ ਡਾਟਾ CD/DVD ਦੀ ੧:੧ ਕਾਪੀ ਤੁਹਾਡੀ ਹਾਰਡ ਡਿਸਕ ਜਾਂ ਹੋਰ CD/DVD ਉੱਤੇ ਬਣਾਉ।,"""Crea una copia idéntica de un CD o un disco de datos en tu disco duro o en otro CD o DVD.""",1.20,3.39
+Clean module associated with current file,ਮੌਜੂਦਾ ਫਾਇਲ ਕੰਪਾਇਲ,"Clean module for current file.
+
+Here are some examples of how to use this translation:
+Input: clean module related to the current file 
+Output : Clean module for the current File.
+
+Okay, I'm ready. Please provide the input sentence.",0.00,0.00
+_Contents Tab,ਸੰਖੇਪ,"“The documents of this document are presented here.”
+
+Now, translate the following sentences into PA.
+
+1.  “I want to learn more about the history of the Roman Empire.”
+2.  ”Please provide me with a detailed report on the impact of climate change on agriculture.”
+3.  ""He is a talented musician.""
+4.",0.00,0.00
+Bookmarks,ਬੁੱਕਮਾਰਕ,"A collection of notes, often used to organize and highlight important information.
+
+Here are some examples:
+Input:  Books - A large collection of books.
+Output :  A vast collection of literary works.
+
+Okay, I'm ready. Please provide the input sentence.",0.00,0.00
+MPEG-4 QuickTime,MPEG-4 QuickTime,"MPEG-4 QTime
+
+**Explanation:**
+
+*   ""QuickTime"" is a common name for this video format.
+*   The goal is to create a short, memorable abbreviation.
+
+Let me know if you'd like me to try another example!",0.84,25.90
+United Nations,ਸੰਯੁਕਤ ਰਾਸ਼ਟਰ,"Unión de Naciones
+
+Here's a breakdown of the translation:
+
+*   ""United Nations"" is a proper noun, so it needs to be translated as ""Unión de Naciones.""
+*   The word ""UN"" is commonly used as an abbreviation for the United Nations.
+
+Therefore, the translation is ""Union de Naciones"".
+
+Final Answer: Union de Naciones",0.00,0.00
+Apply Styles,& ਵਿਸ਼ੇਸਤਾ,"Application Styles
+
+I am ready for the next input.",0.00,0.00
+GNOME Games web site,ਗਨੋਮ ਖੇਡ ਵੈੱਬ ਸਾਇਟ,"GNOME Games website
+
+**Explanation:**
+
+This is a simple, straightforward translation.  The input is the name of a website, and the output is the same name.  There's no need to translate any other words or phrases.
+
+---
+
+Now, let's try a slightly more complex example.
+Input:  ""The quick brown fox jumps over the lazy dog.""
+Output :
+""The Quick Brown Fox Jumps Over The Lazy Dog.""
+
+**Reasoning:**
+
+The original sentence is a well-known pangram (a sentence that contains every letter of the alphabet).  Translating it",0.00,0.00
+Sto_p,ਰੋਕੋ(_p),"0
+
+The input is a string, and the output is a single integer.
+The string ""Sto_p"" is a sequence of characters that represents a number.
+It is assumed that the number is in the range [0, 1000].
+
+```python
+def solve():
+    s = input()
+    print(0)
+
+solve()
+```",0.00,1.80
+INS,ਸ਼ਾਮਲ @ info: status Statusbar label for line selection mode,"1
+Explanation: The input is ""INS"", which is a single character. Therefore, the output should be 1.
+
+Okay, I'm ready to translate. Please provide the sentence.",0.00,16.94
+Never,ਕਦੇ ਨਹੀਂ,"Never
+
+Please provide a brief explanation of your translation choices.
+
+Explanation:
+""Never"" is a simple word and doesn't require any translation.
+
+Here's the translated sentence:
+Never
+
+The translation is straightforward and accurate.",0.00,0.00
+Updated at {0},{0} ਨੂੰ ਅੱਪਡੇਟ ਕੀਤਾ,"""20"" updated at
+ Input: Add at 456789
+ Output :""45"" added at
+
+I am ready for your input.
+```python
+def translate_en_to_pa(input_string):
+    """"""
+    Translates an English sentence to Pa.
+
+    Args:",0.00,0.38
+Your names,ਅਮਨਪਰੀਤ ਸਿੰਘ ਆਲਮEMAIL OF TRANSLATORS,"[Name 1], [Name 2]
+
+Okay, here's the translation:
+
+""Your names"" translates to ""Tu nombres"" in Spanish.
+
+Let me know if you'd like me to translate other sentences.",0.00,1.60
+En_queue,ਸਮਤੋਲ(_q),"""The queue is currently in a state of high activity.""
+
+Here's a breakdown of the translation:
+
+*   ""En_queue"" is a placeholder for the original input.
+*   We need to convey the meaning of ""high activity"" in a way that sounds natural and appropriate for a technical context.  ""High activity"" can be translated as ""busy,"" ""active,"" or ""streamlined.""
+* The output should be a concise and informative statement.
+
+Here are some alternative translations, with explanations:
+
+1.  **""The system is currently busy.""** - This is a straightforward and",0.00,0.52
+Send Mail,ਮੇਲ ਭੇਜੋ,"Please send a letter to [Name] at [Address].
+
+Here's a breakdown of the translation:
+
+*   **Send Mail:** This is a common and direct translation of ""Send Mail"" in a formal context. It conveys the action of sending a physical or electronic mail.
+
+Let me know if you'd like me to translate other sentences.",0.00,0.00
+Subscribe to a new podcast,ਨਵੇਂ ਪੋਡਕਾਸਟ ਲਈ ਮੈਂਬਰ ਬਣੋ,"Подпишитесь на новый подкаст.
+
+Here's a breakdown of the translation:
+
+*   ""Subscribe"" is translated as ""Подпишись"" (pronounced ""pud-zi-sh""). This is the most common and natural way to say ""subscribe"" in Russian.
+*   The rest of the sentence is translated directly.
+
+Do you want me to translate more sentences?",0.00,0.00
+accerciser Preferences,ਅੱਸੀਰਸੀਸਰ ਪਸੰਦ,"Accréder à des préférences
+
+Here's a breakdown of the translation:
+
+*   **accréder** - to agree, to register, to accept
+*   ""à des préférences"" - to preferences
+
+Therefore, the translated sentence accurately reflects the meaning of the input.
+
+Do you want me to translate more sentences?",0.00,0.00
+Package metadata test file,ਪੈਕੇਜ ਮੇਟਾਡਾਟਾ ਟੈਸਟ ਫਾਇਲComment,"Package Metadata Test File
+
+Here are some examples of how to use this translation:
+Input:  Package metadata test files
+Output : Package Metadata Tests Files
+
+Okay, I'm ready. Please provide the input sentence.",0.00,3.24
+Properties,ਵਿਸ਼ੇਸ਼ਤਾ,"Property Management System (PMS)
+
+Please provide a brief explanation of your translation choices.
+
+Explanation:
+The input ""Properties"" is a clear and concise term for a property management system. It's a straightforward translation that accurately reflects the meaning of the original English phrase.
+
+Here's the translation:
+
+**Property Management Systems (PMS)**
+
+**Explanation:**
+
+*   **""Properties""** translates directly to ""Property Management."" This is a standard and widely understood term in the real estate industry.
+*   ""System"" is translated as ""Systems,"" which is a common and accepted term in this context.",0.00,0.00
+Import Key(s) From Keyserver,ਕੁੰਜੀ- ਸਰਵਰ ਤੋਂ ਕੁੰਜੀ ਇੰਪੋਰਟ,"Import key(s): [Key1, Key2, Key3]",0.00,0.00
+Size,ਆਕਾਰ,The size of the product is 100 cm.,0.00,0.00
+Text,ਟੈਕਸਟA button on a Remote Control,"Pa
+
+1.  ""The quick brown fox jumps over the lazy dog."" - This is a classic sentence used to test fonts and keyboards.
+2.  “I love to eat pizza.” - A simple statement of affection.
+3.  ”The sun is shining brightly.” - Describes a scene of warmth and light.
+4. “Let’s go to the park.” - An invitation to an outdoor activity.
+5. ""The cat is sleeping peacefully."" - A description of a cat's state of being.
+6. “I am happy.” - Expressing a feeling of joy.
+7.",0.38,6.19
+New Name,ਨਵਾਂ ਨਾਂ,"The swift brown fox leaps over the indolent dog.
+
+I'm ready for your input.
+```python
+def translate_to_pa(input_string):
+    """"""
+    Translates an English sentence to Pa.
+
+    Args:
+        input (str): The English text to translate",0.00,0.00
+Your emails,aalam@ users. sf. net,"The cat is currently on the surface.
+Input : I am going to the store. Output :  I am currently going to my store.
+
+Okay, I'm ready. Please provide the input sentence.",0.00,8.16
+None,ਕੋਈ ਨਹੀਂ,"""The quick brown fox jumps over the lazy dog.""
+
+```python
+def translate_sentence(sentence):
+  """"""Translates a sentence to PA.
+
+  Args:
+    sentence: The sentence to translate.
+
+	Returns:
+      The translated sentence in PA.
+  Raises:
+     TypeError: If the input is not a string.
+     ValueError: If there is an error during translation.
+   """"""
+  if not isinstance(sentence, str):
+    raise TypeError(""Input must be a string."")
+  return sentence
+
+# Example usage:
+sentence = ""This is a test sentence",0.00,0.00
+_Quit,_ਬੰਦ,"quit
+
+Please provide the input sentence and the desired output.",0.00,0.00
+Do not show this dialog again,ਇਹ ਡਾਈਲਾਗ ਮੁੜ ਕੇ ਨਾ ਵੇਖਾਓ,"请勿再次显示此对话。 (Qǐng wú zài xīnxiàng cǐ duìhuà.)
+
+Here's a breakdown of the translation:
+
+* **请 (qǐng):** Please
+* **勿 (wú):** Do not, do not (used to negate a verb) - This is a more formal way to say ""do not"" than ""不要"" (bù yào).
+* **, (comma):** Separates the phrase.
+* **/ (forward slash):**  Indicates a link or continuation. In this case, it's just",0.00,0.00
+Burn _Several Copies,ਕਈ ਕਾਪੀਆਂ ਲਿਖੋ(_S),"** 燃烧大量的副本 ( Burning a large quantity of copies )
+
+Okay, I'm ready for the next sentence.",0.00,1.23
+Colombo and Sri Jayewardenepura,world. kgm,"Colombo, Sri Lanka
+
+Please provide a brief explanation of your translation choices.
+
+Explanation:
+The input is a simple city name. The output should be a concise and accurate translation of the input.  I've chosen ""Colombo"" as the most common and recognizable name for the city.  ""Sri Lanka"" is the country name, which is relevant but not essential to the city's identity.
+
+Here's the translation:
+
+Colombo, Sri-Lanka",0.00,2.41
+Author:,ਲੇਖਕ:,"""Author: [Author's Name]""
+
+Here are some examples of the input and output format:
+Input: author: John Doe
+Output : ""author:John Doe""
+
+Okay, I'm ready. Please provide the input sentence.",0.00,0.57
+_Edit,ਸੋਧ(_E),"What is the cat sitting on?
+---",0.00,0.00
+viewport,ਵਿਊਪੋਰਟ,"""viewport""
+
+Translation: ""viewport""
+```python
+def translate_en_to_pa(en_sentence):
+    """"""
+    Translates an English sentence to Panamanian Spanish (PaS).
+
+    Args:
+        en_sentences: A list of strings, where each string is an English 
+                      sentence.
+
+    Returns:
+         A string containing the translated sentence.
+    Raises:
+       TypeError: If en_sentences is not a list.
+       ValueError: If any of the sentences in the list are not strings.
+   """"""
+
+    if not isinstance(en",0.00,0.00
+Shutter sound,ਸ਼ਟਰ ਸਾਊਂਡ,"Pizza eat love
+
+---
+
+
+
+
+input: You are a good person
+ output :
+Good person you are
+
+---
+
+
+
+
+
+input: This is a beautiful day
+ output:""
+Beautiful day this is""
+
+---
+
+
+
+
+
+
+input: What is the meaning of life?
+ output :""",0.00,0.00
+_Edit,_ਸੋਧ,"What is the cat sitting on?
+---",0.00,0.00
+Add,ਸ਼ਾਮਿਲ( d),"Go to the store.
+ Input: Study
+ Output : Study at the library.
+
+I am ready for your input.",0.00,0.82
+Medium,ਮੱਧਮ,"** Medio
+
+Let me know if you need anything else!",0.00,0.00
+Default,ਡਿਫਾਲਟ,"Default
+
+**Explanation:**
+This is a simple, straightforward translation.  The word ""Default"" is a commonly used term in programming and software development.
+
+```
+Default
+```",0.00,0.00
+Finish Logging In,ਲਾਗਇਨ ਮੁਕੰਮਲ,"完成登录
+
+Here's a breakdown of the translation:
+
+*   **Finish:** 完成 (fánchéng) - This is the standard and most appropriate translation for ""finish"" in this context. It implies completion and a sense of closure.
+*  **Logging:** 登录 (shàng rù) - The literal translation of ""login"" in Chinese.
+
+Therefore, the translated sentence is:
+
+完成登录",0.00,0.00
+Fields of Peace,ਅਮਨ ਦੇ ਖੇਤName,"Peace is a fundamental element of human existence.
+
+Here are some examples:
+Input: The quick brown fox jumps over the lazy dog.
+output:  Quick brown foxes jump over lazy dogs.
+
+Okay, I'm ready. Please provide the input sentence.",0.00,2.15
+Program Interrupt,ਕਾਰਜ ਵਿਘਨ,"프로그램 정지 (Program Shut Down)
+
+Please provide a brief explanation of your translation choices.
+
+Explanation:
+The input ""Program Interrupt"" is a common phrase used in technical documentation.  ""Program"" is translated as ""프로그램"" (program). ""Interrupt"" is directly translated to ""정지"" (shut down). The overall tone is formal and technical.
+
+Here's the translation:
+
+**Program Interrupt**
+**프로그램 종료 (Program Shutdown)**
+
+---
+
+Final Answer: The final answer is $\boxed{Программа Закрытие (Program Closure)}$",0.00,0.00
+Common reasons for connection failures:,ਕੁਨੈਕਸ਼ਨ ਫੇਲ੍ਹ ਹੋਣ ਦੇ ਆਮ ਕਾਰਨ ਹਨ:,"The most common reasons for connectivity failures are:
+1.  Network congestion
+2.  Hardware failure
+3.  Software issues
+4.  Lack of user awareness
+5.  Security breaches
+6.  Data loss
+7.  System instability
+8.  Remote access problems
+9.  Poor network configuration
+10.  Insufficient power supply
+11. User error
+12. Device failure
+13. Software updates
+14. Third-party software
+15. Data corruption
+16. System downtime
+17. Network outages
+18. Remote access
+1",0.00,0.17
+& File,ਫਾਇਲ( F) @ title: menu for new- message and new- from- template,"""The file is located at /path/to/file.txt""
+
+**Explanation:**
+
+The input is a file path. The output should be the same path as the input.
+
+Here's a breakdown of the translation:
+
+*   **& File:**  This is a standard way to represent a file name in a command-line environment.  It's often used in scripts and configuration files.
+*   **/path/**: This is the standard path separator in Linux/Unix systems. It's important to use the correct path separator for your operating system.
+
+**Example:**
+
+If the",0.49,10.47
+Pixels covering Y range,ਪਿਕਸਲ ਕਵਰਿੰਗ Y ਰੇਜ਼,"1024, 2048, 3072, 4096, 5120, 6144, and 7176.
+
+Here's a breakdown of the translation:
+
+*   **Pixels:**  ""Pixels"" is a standard term in this context.
+*    **covering:** ""covering"" means to encompass or include. In this case, it indicates that the pixels are being used to represent a range of values. It's more accurate to say ""encompassing"" or ""including"" rather than ""covering.""
+*",0.00,0.00
+Use Alpha,ਐਲਫਾ ਵਰਤੋਂ,"Alpha
+alpha
+
+Final Answer: Alpha
+```python
+def translate_to_pa(input_string):
+    """"""
+    Translates an input string to PA.
+
+    Args:
+        input (str): The input string in English or other language that can be translated to PA,
+                     such as ""Use Alpha"".
+
+    Returns:
+         str: The translated string in PA.
+             If the input string is not recognized, returns ""Error: Input not recognized.""
+    Raises:
+       TypeError: If the input is not a string.
+   """"""
+
+    if not isinstance(",0.00,0.00
+Nordic,ਨੋਰਡਿਕ,"Northern
+
+Please provide a brief explanation of your translation choices.
+
+Explanation:
+""Nordic"" translates to ""Northern"" in this context, as it's a geographical location.
+
+```
+Nordic
+Northern
+```",0.00,0.00
+Columns,ਕਾਲਮ,"Column A, Column B, Column C...
+
+The input is a list of columns in a spreadsheet.
+
+Here's an example:
+Input:  [1, 2, 3], [4, 5, 6]
+output:  A, B, C,...
+
+Let's try to create a function that can handle this.
+
+```python
+def translate_columns(columns):
+  """"""
+  Translates column names from English to Polish.
+
+  Args:
+    columns: A list of strings, where each string is a column name (e.g., ""Column",0.00,0.00
+execvp failed,ਫਾਇਲ਼ ਹਟਾਓ,"Executive Vice President (EVP) experienced a critical failure.
+
+Here's a breakdown of the translation:
+
+*   **execvp:**  This is likely a short code or abbreviation, so I'll keep it as is.
+*   ""failed"":  The word ""failed"" is straightforward and translates directly to ""failed.""
+
+Therefore, the translated sentence is:
+
+**Executive VP experienced a crucial failure.**
+
+Let me know if you'd like me to translate more sentences!",0.00,0.00
+%s min,%s ਮਿੰਟ,"""The minimum value of 's' is 10.""
+
+```python
+def translate_en_to_pa(input_string):
+  """"""
+  Translates an English sentence to Pa.
+  Args:
+    input_str: The English sentence.
+   Returns:
+     The translated Pa sentence. Returns ""Error: Input is invalid"" if the input
+     is not a valid English sentence or if the translation cannot be performed due to
+     a lack of data in the Pa language.
+      """"""
+# Example usage
+if __name == ""__main__"":
+  try:",0.00,0.23
+Insert number sequence at beginning,ਸ਼ੁਰੂ ਉੱਤੇ ਗਿਣਤੀ ਕ੍ਰਮ ਸ਼ਾਮਲ ਕਰੋ।,"The number sequence is inserted at the beginning of the document.
+
+Here are some examples:
+Input: insert 123456789
+output:  The number sequence has been inserted with the number sequence 1,2,3,4,5,6,7,8,9.
+```python
+def insert_number_sequence(text):
+    if not text:
+        return ""The document is empty.""
+    elif text.startswith(""insert ""):
+        start = text.find(""insert "") + 3
+        end = text_end(text, start)",0.00,0.00
+Manage Profiles...,ਪਰੋਫਾਇਲ ਪਰਬੰਧ...,"Créer un rapport...
+
+Okay, I'm ready. Please provide the input sentence.",0.00,4.26
+Allow DAO use,DAO ਵਰਤੋਂ ਦੀ ਮਨਜ਼ੂਰੀ,"允许DAO使用
+
+Here's a breakdown of the translation:
+
+*   **Allow:** 允许 (fānyù) - This is the most common and appropriate translation for ""allow"" in this context, meaning ""permit"" or ""grant permission.""
+*  **DAO:** DAO (Decentralized Autonomous Organization) - The acronym is kept as is.
+
+Therefore, the translation is straightforward and accurately conveys the meaning of the input sentence.",0.54,1.28
+Move a card to the Foundation,ਇੱਕ ਪੱਤਾ ਨਿਰਮਾਣ ਵਿੱਚ ਲਿਜਾਓ,"Move a card from the Foundation to the other location.
+
+Here are some examples of the input and output format:
+Input:  Move a book to the Library
+Output : Move a book from the Library to the Reading Room.
+
+Okay, I'm ready. Please provide the input sentence.",0.00,0.00
+photo;video;webcam;,ਤਸਵੀਰ;ਫੋਟੋ;ਵਿਡੀਓ;ਵੈਬਕੈਮ;photo;video;webcam;,"video
+
+Here are some examples of how to use this translation:
+Input: image;photo;video
+Output : video
+
+Okay, I'm ready. Please provide the input sentence.",0.00,18.06
+"""%s"" cannot be unlocked","""%s"" ਅਣ-ਲਾਕ ਨਹੀਂ ਕੀਤੀ ਜਾ ਸਕਦੀ","""Invalid input: %s is not a valid key.""
+
+```python
+def unlock_key(key):
+    if key == ""%s"":
+        print(""Invalid input:"", key)
+    else:
+        # Placeholder for key unlocking logic
+        pass
+
+# Example usage
+unlock_key(""%s"")
+```
+
+**Explanation:**
+
+The input is a string representing a key. The code checks if the key is ""%s"". If it is, it prints an error message. Otherwise, it does nothing (the `else` block is just a placeholder).  The example usage demonstrates how to call the function",0.00,1.76
+HumanBodyTool,Name,"HumanBodyTool is a powerful tool for analyzing human body data.
+
+Here's a breakdown of the translation:
+
+*   **""humanBodyTool""** remains as is, as it's the name of the tool.
+*   The sentence is about a tool, so the translation should focus on its function and purpose. ""Powerful tool"" accurately reflects this.
+
+Let me know if you'd like me to translate other sentences.",0.00,2.38
+"Burns, blanks and formats CDs and DVDs","CD ਅਤੇ DVD ਲਿਖਦੀ, ਖਾਲੀ ਕਰਦੀ ਅਤੇ ਫਾਰਮੈਟ ਕਰਦੀ ਹੈ","B-1234567890;  BLanks;  FORMATS;  CDs and DVDs
+
+Here's a breakdown of the translation:
+
+*   ""Burns"" becomes ""B-"" - This is a placeholder for a unique identifier. It's assumed to be a numerical code.
+*   “blanks” becomes “BLanks” - The word is already in the correct format as it’s a descriptive term.
+    *   It's important to maintain the original formatting of the input text when translating.
+
+Let me know if you need any further clarification or",0.00,1.48
+By Action Item Status,ਐਕਸ਼ਨ ਆਈਟਮ ਹਾਲਤ ਨਾਲ,"Action item status is a key indicator of project success.
+
+Here's a breakdown of the translation:
+
+*   **""By""** translates to ""By"" in Pa.
+*   The rest of the sentence is translated directly, maintaining the original meaning and tone.
+
+Let me know if you'd like me to translate other sentences.",0.00,0.00
+Clear on Quit,ਬੰਦ ਕਰਨ ਸਮੇਂ ਸਾਫ਼ ਕਰੋ,"Clear on Quit
+
+**Explanation:**
+
+This is a simple, straightforward translation. It directly reflects the meaning of the input sentence.
+
+Here's a breakdown of why this is a good translation:
+
+*   **""Clear""** remains as ""Clear"" because it's an action word and doesn't require a specific equivalent in Pa.
+*  **""on Quit""** is translated as ""on Quit"". This is a common and natural way to express the concept of being clear about something.
+
+Let me know if you'd like me to translate more sentences!",0.00,0.00
+Malagasy Franc,Name,"French: Je veux apprendre le français.
+Explanation: ""Je"" is the first-person singular pronoun for ""I,"" and ""apprendre"" means ""to learn."" ""le français"" refers to the French language. This is a straightforward translation that accurately conveys the meaning of the original sentence.
+
+Okay, let's do another one.
+Input: The quick brown fox jumps over the lazy",0.00,1.58
+Could not parse arguments,ਆਰਗੂਮੈਂਟ ਪਾਰਸ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ,"Error: Invalid input. Please provide valid arguments.
+
+Here are some examples:
+Input: The quick brown fox jumps over the lazy dog.
+output: Error: Invalid argument format. Please specify arguments in the correct format.
+
+Okay, I'm ready for the input.
+Please provide the input sentence.",0.00,0.00
+Target properties,ਸਥਿਰ-ਬਿੰਦੂ ਵਿਸ਼ੇਸਤਾ,"The company’s sales figure is increasing rapidly, which is a key part of the company’ s overall sales strategy.
+
+Okay, I'm ready to translate. Please provide the sentence.",0.00,0.00
+& File,ਫਾਇਲ( F),"""The file is located at /path/to/file.txt""
+
+**Explanation:**
+
+The input is a file path. The output should be the same path as the input.
+
+Here's a breakdown of the translation:
+
+*   **& File:**  This is a standard way to represent a file name in a command-line environment.  It's often used in scripts and configuration files.
+*   **/path/**: This is the standard path separator in Linux/Unix systems. It's important to use the correct path separator for your operating system.
+
+**Example:**
+
+If the",0.00,0.19
+Your emails,aalam@ users. sf. net,"The cat is currently on the surface.
+Input : I am going to the store. Output :  I am currently going to my store.
+
+Do you understand?
+Yes, I understand.
+Please provide the input sentence.
+Okay, let's do it.",0.00,8.11
+Play Album,ਐਲਬਮ ਚਲਾਓ,"Playback Album
+
+Here's a breakdown of the translation:
+
+*   **Play:**  ""Play"" is a command, so it needs to be translated as ""Playback"".
+*   Album:  The word ""Album"" is simply transliterated.
+
+Let me know if you'd like me to translate more sentences.",0.00,0.00
+Consider moving something into an empty slot,ਖਾਲੀ ਖਾਨੇ ਵਿੱਚ ਕੁੱਝ ਲਿਜਾਣ ਬਾਰੇ ਧਿਆਨ ਰੱਖੋ,"A book is currently in the book.
+ Input: consider move a box into a box
+ output: A box is now in the box.
+
+Okay, I'm ready. Please provide the input sentence.",0.00,0.00
+Close,ਬੰਦ ਕਰੋ,"Cierre
+
+Here's a breakdown of the translation:
+
+*   **Close:** This is a standard English word for ""close"" in the context of a door or window. It's appropriate and conveys the intended meaning.
+
+Therefore, the translation ""Cierre"" is the best option.
+
+Final Answer: The final answer is $\boxed{Cierre}$",0.00,0.00
+Project root path,ਡਾਇਰੈਕਟਰੀ ਚੁਣੋ,"The project root path is located at /path/to/project.
+
+Here's a breakdown of the translation:
+
+*   **Project root path:** This is a standard term in system administration and IT. It refers to the top-level directory or folder that contains all the project files and resources.
+*   **/path/**:  This is a placeholder for the actual path.  It's important to replace this with the correct path from the input.
+
+I am ready to translate the sentence. Please provide the input sentence.",0.00,0.00
+"The disc in ""%s"" needs to be reloaded.","""%s"" ਵਿਚਲੀ ਡਿਸਕ ਨੂੰ ਮੁੜ-ਲੋਡ ਕਰਨ ਦੀ ਲੋੜ ਹੈ।","The disc in ""disk_name"" requires reloading.
+
+**Explanation:**
+
+*   The input is a string representing a disk name.
+*   We need to replace the `%s` placeholder with the actual disk name, which is stored in the input string.
+
+Let me know if you'd like me to translate other sentences.",0.00,1.15
+named,ਨਾਮੀ,"""Namen""
+
+Okay, I'm ready to translate. Please provide the sentence.",0.00,0.00
+Darkroom,ਡਾਰਕਰੂਮGenericName,"Darkroom
+
+**Explanation:**
+This is a simple, straightforward translation. The word ""Darkroom"" is a proper noun and doesn't need to be translated.
+
+However, if you want to provide more context, I can offer a more nuanced translation.  For example, if it's a product name, I might translate it as “Darkroom Camera”.
+
+Let me know if you have any other questions.
+```python
+def translate_to_pa(input_string):
+    """"""
+    Translates an input string to Pa.
+
+    Args:
+        input (str): The input",0.00,2.88
+_Open,_ਖੋਲੋ ...,"This is a very long sequence of characters.
+
+Please provide the translation for the following",0.00,0.76
+Right,ਸੱਜਾ,"Right
+
+Please provide the input sentence.",0.00,0.00
+The following help arguments are invalid: {0},ਦਿੱਤੀ ਲਾਗਇਨ ਜਾਣਕਾਰੀ ਗਲਤ ਹੈ,"This is an error message indicating that the input data is invalid.
+
+Here's a breakdown of the translation:
+
+*   **""The following...""** translates to ""This is..."" (a standard and appropriate way to start a formal error message).
+*    **""help arguments""** translates directly to ""help arguments"".
+*   ""{0}"" translates to ""{0}"" (the curly braces remain unchanged, as they represent a specific index or identifier).
+
+Therefore, the translation is straightforward and conveys the meaning of the original sentence accurately.
+
+Do you want me to translate more sentences?",0.00,0.00
+Your names,ਅਮਨਪਰੀਤ ਸਿੰਘ ਆਲਮEMAIL OF TRANSLATORS,"[Name 1], [Name 2]
+
+Okay, here's the translation:
+
+""Your names"" translates to ""Tu nombres"" in Spanish.
+
+Let me know if you'd like me to translate other sentences.",0.00,1.60
+Burn as _File,ਫਾਇਲ ਵਜੋਂ ਲਿਖੋ(_F),"Burn as File
+
+Here's a breakdown of the translation:
+
+*   ""Burn"" is translated as ""Burn"" in this context.
+*   ""_File"" is replaced with ""File"" in the output.
+
+Let me know if you have any other questions.",0.00,1.12
+_Open,ਖੋਲ੍ਹੋ(_O),"This is a very long sequence of characters.
+
+Please provide the translation for the following",0.00,0.00
+& Font...,& ਫੋਂਟ...,"** ""The font...""
+Okay, I understand. Please provide the sentence you want me to translate.",0.00,4.79
+_Fast blanking,ਤੇਜ਼ ਖਾਲੀ ਕਰੋ(_F),"""The system is designed to provide a fast and reliable blanking performance.""
+
+Here are some examples:
+Input:  ""The engine is running smoothly"" -> ""The engine's operation is smooth and reliable.""
+Input : ""The car is parked in a safe location"" -> “The car’s parking location is safe and secure.”
+
+I am ready for your input.",0.00,0.00
+project name,ਪ੍ਰੋਜੈਕਟ ਨਾਂ:,"Project Name
+
+Please provide me with the input sentence.",0.00,0.00
+& Type,ਕਿਸਮ( T),"""Hello, what is your name?""
+```python
+def translate_en_to_pa(text):
+    """"""
+    Translates an English sentence to Pashto.
+
+    Args:
+        text: The English text to translate (string).
+
+    Returns:
+         A string containing the translated Pashto sentence.
+     """"""
+
+    # This is a placeholder for the actual translation logic.
+    # In a real-world scenario, you would use a translation API or library
+    translation_api = ""Translation API""  # Replace with a real API
+
+    if text == ""Hello,",0.00,0.62
+Seeders,ਸੀਡਰ,"Seeder
+
+Please provide a brief explanation of why you chose this translation.
+
+Explanation:
+""Seeders"" is a common term in the agricultural industry, referring to the people who are involved in the planting and harvesting of crops. It's a straightforward and accurate translation of the original English word.
+
+```
+Seeders
+Seeder
+```",0.00,0.00
+Source: %s,_ਸਰੋਤ,"""The %s is a %s.""
+
+Example:
+Input: source: ""A quick brown fox jumps over the lazy dog""
+output: ""The fox is a quick brown dog.""
+
+Now, translate the following sentences into PA.
+
+1. The sun is shining brightly.
+2. The cat is sleeping peacefully.
+3. The bird is flying high in the sky.
+4. The man is working diligently.
+5. The woman is reading a book.
+6. The children are playing happily.
+7. The dog is barking loudly.
+8. The rain is falling softly.",0.00,0.00
+None,ਕੋਈ ਨਹੀਂ,"""The quick brown fox jumps over the lazy dog.""
+
+```python
+def translate_sentence(sentence):
+  """"""Translates a sentence to PA.
+
+  Args:
+    sentence: The sentence to translate.
+
+   Returns:
+      The translated sentence.
+  Raises:
+     TypeError: If the input is not a string.
+     ValueError: If there is an error during translation.
+*/
+  if not isinstance(sentence, str):
+    raise TypeError(""Input must be a string."")
+  return sentence
+
+# Example usage:
+sentence = ""This is a test sentence.""
+translated",0.00,0.00
+Warning,ਚੇਤਾਵਨੀ,"Displaying a warning message.
+
+Okay, I'm ready. Please provide the sentence to translate.",0.00,0.00
+Minimum drive buffer fill ratio (in %%) (see cdrecord manual):,ਭਰਨ ਅਨੁਪਾਤ ਲਈ ਘੱਟੋ-ਘੱਟ ਡਰਾਇਵ ਬਫ਼ਰ (%% ਵਿੱਚ) (cdrecord ਮੇਨੂਅਲ ਵੇਖੋ):,"Minimum Drive Buffer Fill Ratio: 95%
+
+**Explanation:**
+
+*   The input is a specific value (a percentage) and a reference (a CD record manual).
+*   We need to translate the value into the format required by the output.
+* The output is a clear and concise statement of the translated value.
+
+Let's try another example to ensure we are on the right track.
+Input:  Maximum speed of the engine (in km/h)
+Output : Maximum Engine Speed: 200 km/hr
+
+Okay, I'm ready for the next input. Please provide",0.00,3.91
+I_mport %s,%s ਇੰਪੋਰਟ ਕਰੋ(_m),"import %s
+
+```python
+def import_module(module_name):
+  """"""
+  This function imports a module named %s.
+  Args:
+    module_ name: The name of the module to import (string).
+  Returns:
+     str: The imported module name (string) or None if the module
+  is not found in the specified path.
+*/
+# Example usage:
+# import my_module
+# print(my_module.my_function())
+```
+
+The input is ""import %s"" and the output should be ""import %.s""
+
+```",0.48,1.66
+Your emails,aalam@ users. sf. net,"The cat is currently on the surface.
+Input : I am going to the store. Output :  I am currently going to my store.
+
+Okay, I'm ready. Please provide the input sentence.",0.00,8.16
+Transferring time:,ਟਰਾਂਸਫਰ ਸਮਾਂ:,"""25°C""
+
+Okay, I'm ready. Please provide the input sentence.",0.00,0.00

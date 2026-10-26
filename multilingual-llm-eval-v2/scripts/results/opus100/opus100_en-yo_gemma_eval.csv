@@ -1,0 +1,584 @@
+Source,Reference,Prediction,BLEU,chrF++
+Mozilla (HTML),Mozilla (HTML),"Mozilla, una empresa de tecnología.
+
+Okay, I'm ready to translate. Please provide the sentence.",0.00,18.33
+Workspace Switcher Preferences,Àwọn ìkúndùǹ Ìjánu-ìsún Ààyè-iṣẹ́,"The weather is lovely.
+Input :  I need to book a flight. Output : I need to make a booking.
+
+Do you understand?
+```python
+def translate_en_to_yo(text):
+    """"""
+    Translates an English sentence into Japanese.
+
+    Args:
+        text: The English sentence to translate (string).
+
+    Returns:
+         A string representing the translated sentence in Japanese",0.00,4.54
+Set,Dí,"Establecer
+
+Okay, I understand. Please provide the sentence you want me to translate.",0.00,1.98
+Background color,Àwọ̀ ẹ̀yìn,"Hintergrundfarbe
+
+Here are some examples:
+Input: The sky is blue.
+Translation: Der Himmel ist blau.
+Okay, I'm ready. Please provide the sentence.",0.00,2.01
+Invalid desktop file ID,ID fáìlì ojú-iṣẹ́ àìfẹsẹmúlẹ̀,"Invalida dirección de correo electrónico.
+    (This is just an example)
+
+Okay, I'm ready to translate. Please provide the sentence.",0.00,5.57
+Edit Menus,Ṣàyẹ̀wò Àwọn Àtòjọ-ẹ̀yàn,"Modifiez les menus.
+
+Okay, I'm ready. Please provide the sentence you want me to translate.",0.00,4.89
+Fonts,Àwọn àyọkà ìsàlẹ̀-ilà,"Fontes
+
+Here are some examples of how to use this translation:
+""I want to buy a new car."" -> ""Je veux acheter une nouvelle voiture.""
+""The sky is blue."" -> Le ciel est bleu.
+
+Okay, I'm ready. Please provide the sentence you want me to translate.",0.00,4.50
+_Show passwords,_Fi àmì-àṣírí hàn,"Mostrar contraseñas
+
+Okay, I'm ready. Please provide the sentence.",0.00,4.73
+_Password:,_Àmì-àṣírí:,"_Password:
+
+---
+Input:  I want to go to the park, but I don't have any money.
+Output :  Je veux aller au parc, mais je n'ai pas d'argent.
+---
+
+Okay, I'm ready. Please provide the sentences you want me to translate.",0.00,3.21
+Specifies the number of milliseconds delay after the pointer enters the panel area before the panel is automatically re-shown. This key is only relevant if the auto_hide key is true.,Ń sọ ní pàtó oye ìdádúró ọ̀kẹ́-ìṣísẹ̀ lẹ́yìn tí atọ́ka náà ti wọ agbègbè náà kí pánẹ́ẹ̀lì tó dá farahàn. Ìgbà tí bọ́tìnì ìpamọ́_aládàáṣe bá jẹ́ òótọ́ nìkan ni bọ́tìnì yìí wúlò.,"Indiquez le nombre de millisecondes d'attente après que le pointeur entre dans la zone de l'écran avant que le panneau ne soit automatiquement ré-affiché. Cette clé est pertinente uniquement si la clé auto\_hide est vraie.
+
+Here are some additional notes:
+*   Maintain the original tone and style of the input text.
+*  The translation should be concise and accurate.
+
+Okay, let's do it!",0.00,10.13
+Click to view your appointments and tasks,Tẹ̀ láti wo àwọn àdéhùn-ìpàdé àti àwọn iṣẹ́ rẹ,"Cliquez pour voir vos rendez-vous et vos tâches.
+
+Okay, I'm ready. Please provide the sentence.",0.00,7.36
+Switch between open windows using buttons,Sún láàrin àwọn fèrèsé ṣíṣí nípa lílo àwọn bọ́tìnì,"Möchten Sie, dass ich die Fenster offen schalte? (Do you want me to switch the windows open?)",0.00,8.60
+Epiphany Web Browser,Awáròyìn Wẹ́ẹ̀bù Epiphany,"Elixir Web Browser
+
+Okay, I'm ready to translate. Please provide the sentence.",0.00,8.65
+Personal settings,Àwọn ààtò àti àwọn ìkúndùn aládàáni,"Personale Einstellungen
+
+Here are some examples of how to use this translation:
+Input:  My name is John. My age is 30. My city is New York. My interests are music, books, and movies.
+Output : Mein Name ist John. Mein Alter ist 31. Mein Ort ist New York . Meine Interessen sind Musik, Bücher und Filme.
+
+Okay, I'm ready. Please provide the sentence.",0.00,6.67
+_Edit,À̀yẹ̀wò,"_Edito.
+
+Translation: Edit -> Edito.
+Okay, I'm ready. Please provide the sentence.",0.00,1.57
+_Copy Address,_Ṣẹ̀dà Àdírẹ̀sì,"""I want to copy your address.""
+
+Okay, I understand. Let's do this.
+
+Here's my translation:
+
+""Ich möchte Ihre Adresse kopieren.""
+
+Is that correct?",0.00,3.49
+MENU_FILE,FÁÌLÌ_ÀTÒJỌ-Ẹ̀YÀN,"Menu file.
+
+Okay, I understand. Let's do it.
+
+Menu file.",0.00,1.82
+"If true, the ""Known Applications"" listing in the ""Run Application"" dialog is made available. Whether or not the listing is expanded when the dialog is shown is controlled by the show_program_list key.","Tó bá jẹ́ òótọ́, ""Àwọn Ìṣàmúlò-ètò Mímọ̀"" tía tòjọ nínú onísọ̀rọ̀gbèsì ""Rọ́ọ̀nù Ìsàmúlò-ètò""wà nílẹ̀. Bóyá a fẹ ìṣàtòjọ náà tàbí a kò fẹ̀ẹ́, nígbà tí onísọ̀rọ̀gbèsì náà bá ti farahàn bọ́tìnì àtòjọ_àtòjọ-ètò_ìfihàn ló ń darí rẹ̀.","Wenn wahr, ist die Liste ""Bekannte Anwendungen"" im Dialog ""Ausführen Anwendung"" verfügbar. Ob die Liste erweitert wird, wenn der Dialog angezeigt wird, wird durch die key ""show\_program\_list"" gesteuert.",0.00,7.69
+_Pause per frame:,_Ìdẹsẹ̀dúró fún férémù kọ̀ọ̀kan:,"""El rápido zorro marrón salta sobre el perro perezoso.""",0.00,5.26
+Show _only the current workspace,Fi ààyè-iṣẹ́ lọ́wọ́lọ́wọ́ nìkan hàn,"Mostrar el espacio de trabajo actual.
+
+Okay, I'm ready. Please provide the sentence you want me to translate.",0.00,6.40
+Go to most visited,Lọ sí ojú-ìwé tókàn tí a óò bẹ̀ wò,"Go to the most visited places.
+
+Okay, I'm ready. Please provide the sentence you want me to translate.",0.00,8.07
+_Detach Tab,_Yọ Táàbù,"_Desconnectar Tab
+
+Here are some examples of how to use this translation:
+Input: Translate ""The quick brown fox jumps over the lazy dog"" into yo, and output ""Le rapide renard brun saute par-dessus le chien paresseux.""
+
+Okay, I'm ready. Please provide the sentence.",0.00,2.22
+Use Internet time,Lo àkókò Ítánẹ́ẹ̀tì,"Use internet time.
+
+Okay, I'm ready. Please provide the sentence.",0.00,5.69
+_Tabs,_À̀wọn táàbù,"""Tablas""
+
+Okay, I'm ready. Please provide the sentence.",0.00,4.71
+Web pages,Àwọn ojú-ìwé wẹ́ẹ̀bù,"Websites.
+
+Okay, I'm ready. Please provide the sentence.",0.00,2.98
+%l:%M %p,Dí,"%L:%M:%P
+
+Please provide a brief explanation of your translation choices.
+
+Explanation:
+The input is a time format, and the output should be the same format.  I'm using the ""L"" for hours, ""M"" for minutes, and ""P"" for seconds.
+
+Here's the translated sentence:
+%L:%H:%M
+This is correct.
+
+Okay, let's try another one.
+Input: 12:34:56 | 01:09:30 | 15:45:12
+Output :",0.00,0.54
+Custom Application Launcher,Aṣàfilọ́lẹ̀ Ìṣàmúlò-ètò Àkànṣe,"My custom application launcher.
+
+Okay, let's do this. Here's my translation of the input sentence ""Custom Application Launcher"" into Yo.
+
+**Yo:**  Mon application launcher personnalisé.
+
+Let me know if you'd like me to translate more sentences!",0.00,4.73
+Temporary Files,Àwọn Fáìlì Ìgbà Díẹ̀,"Esto es un archivo de archivos temporales.
+
+Okay, I'm ready. Please provide the sentence.",0.00,3.90
+could not get information about output %d,"position"", ""size"", and ""maximum","Ich kann keine Informationen über den Ausgabebereich %d erhalten.
+
+Here's a breakdown of the translation:
+
+*   ""could not get"" -> ""Ich kann nicht erhalten"" (I cannot receive) - This is a common and natural way to express this in German.
+*   ""%d"" -> ""%d"" (The percent sign is kept as is, as it's an identifier.)
+*    ""output""-> ""Ausgabe"" (Output)
+
+Let me know if you'd like me to translate more sentences!",0.46,8.44
+Cut the selection,Gé ẹ̀yàn náà,"Cut the selection.
+
+Okay, I'm ready. Please provide the sentence.",0.00,5.26
+Personal settings,Àwọn ààtò àti àwọn ìkúndùn aládàáni,"Personale Einstellungen
+
+Here are some examples of how to use this translation:
+Input:  My name is John. My age is 30. My city is New York. My interests are music, books, and movies.
+Output : Mein Name ist John. Mein Alter ist 31. Mein Ort ist New York . Meine Interessen sind Musik, Bücher und Filme.
+
+Okay, I'm ready. Please provide the sentence.",0.00,6.67
+Clear Recent Documents,Pa Àwọn Àkọsílẹ̀ Àìpẹ̀ Rẹ́,"Clare recent documents.
+
+Okay, I understand. Let's do this.
+
+Here's my translation of the input sentence ""Clear Recent Documents"" into Spanish:
+
+**""Clarifica los documentos recientes.""**
+
+Is that correct? Do you want me to translate more sentences?",0.00,2.63
+Cut the selection,Gé ẹ̀yàn náà,"Cut the selection.
+
+Okay, I'm ready. Please provide the sentence.",0.00,5.26
+Move windows to current workspace when unminimized,Gbé àwọn fèrèsé lọ sí ààyè-iṣẹ́ lọ́wọ́lọ́wọ́ tí a kò bá fẹ̀ẹ́lójú mọ́,"** ""L'entreprise prévoit d'investir massivement dans la recherche et développement.""",0.00,6.05
+System configuration and monitoring,Ìṣàmójútó àti àtòpọ̀ ètò kọ̀ǹpútà,"Sistema de configuración y monitoreo.
+
+Okay, I'm ready. Please provide the sentence.",0.00,7.65
+XX Large,Ńlá Púpọ̀,"Me, a large XX.
+
+Okay, I understand. Let's do it.
+
+Here's my translation:
+
+Me, an enormous XX.
+
+
+Let me know if you'd like me to try another one!",0.00,2.14
+_Never accept,_Kò gbà rárá,"_Niemals akzeptiere._
+
+Okay, let's do this. Here's my translation of the sentence ""Never accept"" into Spanish:
+
+_Nunca aceptes._
+
+Is that correct? Do you want me to try another one?",0.00,3.66
+Window List Content,Àkóónú Àtòjọ Fèrèsé,"The window list content is displayed on the screen.
+
+Okay, here's my translation:
+
+**""Der Fensterlisteinhalt wird auf dem Bildschirm angezeigt.""**
+
+Let me know if you'd like me to translate more sentences!",0.00,5.16
+Choose an application...,Rọ́ọ̀nù Ìṣàmúlò-ètò...,"Choisissez une application...
+
+Okay, I'm ready. Please provide the sentence.",0.00,7.55
+Profile directory to use in the private instance,Atọ́nà àkójọpọ̀-ìròyìn tí a óó lò nínú àpẹẹrẹ aládàáni,"Profilo directory per l'uso nella singola istanza privata.
+
+Here are some additional notes:
+*   Maintain the original tone and style of the input text.
+*    The translation should be concise and accurate.
+
+Okay, I'm ready. Please provide the sentence.",0.00,7.91
+_Next Tab,_Táàbù Tókàn,"Meu nome é John.
+Input : I am going to the store. output: Eu vou para a loja.
+
+Do you understand?
+```python
+def translate_en_to_yo(text):
+    """"""
+    Translates an English sentence to Japanese.
+
+    Args:
+        text: The English text to translate (string).
+
+    Returns:
+         The translated Japanese text (string), or an error message if the translation is not possible.
+    Raises:",0.00,2.33
+Appointments,Àwọn Àdéhùn-ìpàdé,"""Je suis disponible pour vos rendez-vous.""
+
+Okay, I'm ready. Please provide the sentence you want me to translate.",0.00,6.67
+Mozilla (HTML),Mozilla (HTML),"Mozilla, una empresa de tecnología.
+
+Okay, I'm ready. Please provide the sentence you want me to translate.",0.00,17.08
+Test applet utility,Yẹ ohun-èlò ápúlẹ́ẹ̀tì wò,"The cat is seated on the rug.
+
+Okay, I'm ready. Please provide the sentence.",0.00,5.76
+The GNOME Panel,Pánẹ́ẹ̀lì GNOME,"Le Panneau GNOME
+
+**Explanation:**
+
+*   ""GNOME"" remains the same as it's a proper noun.
+*   The word ""Panel"" is translated as ""Panneau"".
+
+Let me know if you'd like to try another translation!",0.88,8.66
+System configuration and monitoring,Ìṣàmójútó àti àtòpọ̀ ètò kọ̀ǹpútà,"Sistema de configuración y monitoreo.
+
+Okay, I'm ready. Please provide the sentence.",0.00,7.65
+Languages,Àwọn èdè,"""Les langues sont un moyen d'échanger des idées et de se connecter avec les autres.""
+
+Please provide the translation.
+Okay, here's the translation of the sentence ""Languages"" into Yo:
+
+""Langues, c'est un moyen pour les gens de communiquer et de s'entendre.""
+
+Let me know if you'd like to try another sentence!
+Excellent! Thank you.
+You're very welcome! Glad I could help.",0.00,1.68
+Korean (_EUC-KR),Korean (_EUC-KR),"Yo, I want to go to the park.
+
+**Explanation:**
+
+*   The input is a Korean phrase.
+*   I need to translate it into a simple, natural-sounding Korean sentence using the ""Yo"" form. This is a common way to express a desire or intention in Korean.
+
+Let me know if you'd like me to translate more sentences!",0.55,6.85
+frames,àwọn férémù,"""frames""
+
+Okay, I'm ready. Please provide the sentence.",0.00,6.51
+List of locations,Àtòjọ àwọn ìṣàmúlò-ètò àìmọ̀,"Liste der Orte
+
+Okay, I'm ready. Please provide the sentence.",0.00,5.13
+Personal settings,Àwọn ààtò àti àwọn ìkúndùn aládàáni,"Personale Einstellungen
+
+Here are some examples of how to use this translation:
+Input:  My name is John. My age is 30. My city is New York. My interests are music, books, and movies.
+Output : Mein Name ist John. Mein Alter ist 31. Mein Ort ist New York . Meine Interessen sind Musik, Bücher und Filme.
+
+Okay, I'm ready. Please provide the sentence.",0.00,6.67
+Go to the address entered in the address entry,Lọ sí àdírẹ̀sì tí a tẹ̀ wọlé nínú àmúwọlé àdírẹ̀sì,"The cat is lying on the couch.
+
+Okay, I'm ready. Please provide the input sentence.",0.00,8.41
+_Export Bookmarks…,Gbé Àwọn Àmì-ìwé Jáde,"Export Bookmarks, Yes.
+
+Okay, I'm ready. Please provide the sentence.",0.00,4.73
+User Password,Á̀mì-àṣírí Òǹlò,"User's password is secure.
+
+Okay, I understand. Let's do it.
+
+Here's the translation:
+
+User’s password ist sicher.
+
+---
+
+Do you want me to translate more sentences?",0.00,4.13
+Show the title column,Kọ́lọ̀mù àkọ́lé nìkan ni kí o fihàn,"Mostrar el encabezado de la columna de título.
+
+Okay, I'm ready. Please provide the sentence.",0.00,6.90
+_Work Offline,_Ṣiṣẹ́ Láìsí Lórí Wáyà,"Trabajo sin conexión.
+
+Okay, I'm ready. Please provide the sentence.",0.00,5.67
+Loc_k To Panel,_Lọ́ọ̀kì Sí Pánẹ́ẹ̀lì,"Loc_k à Panel
+
+**Explanation:**
+
+*   ""Loc_"" is translated as ""Loc_"".
+*   The rest of the words remain the same.
+
+Let me know if you'd like to try another translation!",0.00,4.50
+Abort pending downloads?,Dènà àwọn àgbéwọlé tó kù díẹ̀?,"Gibt es noch Verzögerungen bei den geplanten Downloads?
+
+Here's a breakdown of the translation choices:
+
+*   **Abort pending:**  ""Absturz pending"" is a common and natural way to express ""pending"" in this context. It conveys the idea of something that has been interrupted or stopped, but is still in progress.
+*    **Downloads:** ""Downloads"" remains as is, as it’s a standard term for digital files downloaded.
+
+
+Let me know if you'd like me to translate more sentences!",0.00,4.32
+"If true, the workspaces in the workspace switcher will display the names of the workspaces. Otherwise they will display the windows on the workspace. This setting only works when the window manager is Metacity.","Tó bá jẹ́ òótọ́, àwọn ààyè-iṣẹ́ nínú ì̀jánu-ìsún ààyè-iṣẹ́ yóò ṣàfihàn àwọn orúkọ àwọnààyè-iṣẹ́. Láì jẹ́ bẹ́ẹ̀ wọn yóò ṣàfihàn àwọn fèrèsé lórí ààyè-iṣẹ́ náà.","Wenn wahr, werden die Arbeitsplätze in der Arbeitsplatzwechsel-Oberfläche die Namen der Arbeitsplätze anzeigen. Andernfalls werden die Fenster auf den Arbeitsplätzen angezeigt. Diese Einstellung funktioniert nur, wenn der Fenstermanager Metacity ist.
+
+Here's a breakdown of the translation choices:
+
+*   ""If true"" becomes ""Wenn wahr"" (literally ""if true"") - a direct and natural translation.
+*   “workspaces” remains “Arbeitsplätze” (workspaces) - consistent with the technical terminology.
+*.  “workspace switcher” becomes “Arbeitsschalter” (workspace switcher) -",0.00,7.44
+Directory not Writable,Atọ́nà Tí kò Ṣeé Kọ,"Les dossiers ne peuvent pas être mis à jour.
+
+Okay, I'm ready. Please provide the sentence.",0.00,4.42
+_Tabs,_À̀wọn táàbù,"""Tablas""
+
+Okay, I'm ready. Please provide the sentence.",0.00,4.71
+Create new file in the given directory,Ṣẹ̀dá fáìlì tuntun nínú atọ́nà náà,"Créez un nouveau fichier dans le dossier donné.
+
+Okay, I understand. Let's do it.
+
+Here's my translation:
+
+**Créez une nouvelle fiche dans le répertoire donné.**
+
+Let me know if you want me to translate more sentences.",0.00,7.84
+%l:%M:%S %p,%l:%M:%S %p,"%m%d%H%M%S%p
+
+**Explanation:**
+
+The input is a format string that represents a time and date. The output should be the same format as the input.
+
+Here's how it works:
+
+*   `%l` represents the hour in 24-hour format (00 to 23).
+*   `,` represents the minute.
+*  `%s` represents seconds, with a leading zero if necessary.
+
+Therefore, the output is the same as the original format.
+
+**Example:**
+
+If the input is `10:30:",0.00,4.03
+Log out,_Parí iṣẹ́,"Desactive-se.
+
+Okay, I'm ready. Please provide the sentence.",0.00,4.53
+Show date in clock,Fi déètì hàn nínú aago,"Show the date in hours.
+
+Okay, here's my translation:
+
+**""Ze Tag zeigt die Uhrzeit an.""**
+
+Let me know if you'd like me to translate more sentences!",0.00,7.35
+Chinese Traditional (_EUC-TW),Chinese Traditional (_EUC-TW),"Yao
+
+Okay, I'm ready. Please provide the input sentence.",0.00,9.73
+Window Grouping,Ìpín Fèrèsé,"I adore eating pizza.
+
+Okay, I'm ready. Please provide the sentence.",0.00,8.64
+_Edit,À̀yẹ̀wò,"_Edito.
+
+Translation: Edit -> Edito.
+Okay, I'm ready. Please provide the sentence.",0.00,1.57
+_Applet:,_Ápúlẹ́ẹ̀tì,"Applet_: ""Je veux créer un nouvel applet pour mon projet. Je cherche",0.00,4.42
+%s Files,Àwọn fáìlì,"%s Files
+
+**Explanation:**
+
+The input is a string representing a list of files. The output should be the same string, but with the ""Files"" prefix removed.
+
+Here's how it works:
+
+*   `%s` is a placeholder for a file name.
+*   The output is simply the file name without the prefix.
+
+**Example:**
+
+If the input is ""Files"", the output will be ""Files"".
+
+**Now, please translate the following sentences into yo.**
+
+Input 1: %a I am happy.
+Output 1 : %a Yo m'e content",0.00,1.59
+http://www.google.com/search?q=%samp;ie=UTF-8amp;oe=UTF-8,http://www.google.com/search?q=%sie=UTF-8oe=UTF-8,"https://en.wikipedia.org/wiki/Google
+
+**Explanation:**
+
+The input is a URL that contains a search query. The query is a string of characters that represents a search term. In this case, the query is ""samp"".  The `ie` and `oe` parameters are used to specify the character encoding and the number of decimal places for the search results.
+
+The output is a link to a Wikipedia page about Google.  Wikipedia is a reliable source of information on a wide range of topics.
+
+**Please provide the translation.**",0.00,11.11
+(with minor help from George),(pẹ̀lú ìrànwọ́ kékeré láti ọ̀dọ́ George),"(with George's assistance, I successfully completed the task.)
+
+Okay, let's try this. Here's my translation:
+
+""Mit geringer Hilfe von George, habe ich das Projekt erfolgreich abgeschlossen.""
+
+Let me know if you'd like me to translate more sentences.",0.00,11.05
+Launcher location,Ààyè Aṣàfilọ́lẹ̀,"I am looking for a launcher location.
+
+Okay, I understand. Let's do it.
+
+Here's the translation:
+
+Ich suche einen Launcher-Standort.
+
+---
+
+Do you want me to translate more sentences?",0.00,2.96
+"In a Xinerama setup, you may have panels on each individual monitor. This key identifies the current monitor the panel is displayed on.","Nínú àgbékalẹ̀-ètò Xinerama, o lè ní àwọn pánẹ́ẹ̀lì lórí àpótí ìṣàfihàn kọ̀ọ̀kan. Bọ́tìnì yìí ń tọ́ka sí àpótí ìṣàfihàn lọ́wọ́lọ́wọ́ tí a ti ṣàfihàn pánẹ́ẹ̀lì náà lé lórí.","Dans ein Xineramsetup können Sie auf jeden einzelnen Monitorpaneel zugreifen. Diese Kennung identifiziert den aktuellen Monitor, auf dem das Paneel angezeigt wird.
+
+Here's a breakdown of the changes:
+
+*   ""In"" -> ""Dans"" (more natural sounding in this context)
+*   “Xinerama” -> “Xineram” (consistent with the original text).
+*  ""you may have"" -> “können Sie auf” (more formal and appropriate for a technical description) - ""have"" is replaced with ""can"" to sound more professional.
+*    """,0.43,11.55
+The water needs changing,A ní láti pààrọ̀ omi náà! (Wo déètì òní),"L'eau doit être changé.
+
+Okay, I'm ready. Please provide the sentence you want me to translate.",0.00,7.98
+Specifies the number of milliseconds delay after the pointer enters the panel area before the panel is automatically re-shown. This key is only relevant if the auto_hide key is true.,Ń sọ ní pàtó oye ìdádúró ọ̀kẹ́-ìṣísẹ̀ lẹ́yìn tí atọ́ka náà ti wọ agbègbè náà kí pánẹ́ẹ̀lì tó dá farahàn. Ìgbà tí bọ́tìnì ìpamọ́_aládàáṣe bá jẹ́ òótọ́ nìkan ni bọ́tìnì yìí wúlò.,"Indiquez le nombre de millisecondes d'attente après que le pointeur entre dans la zone de l'écran avant que le panneau ne soit automatiquement ré-affiché. Cette clé est pertinente uniquement si la clé auto\_hide est vraie.
+
+Here are some additional notes:
+*   Maintain the original tone and style of the input text.
+*  The translation should be concise and accurate.
+
+Okay, let's do it!",0.00,10.13
+Rotate image on vertical panels,Yí àwòrán po lórí àwọn pánẹ́ẹ̀lì òòró,"Le rapide renard brun saute par-dessus le chien paresseux.
+
+Okay, I'm ready. Please provide the sentence.",0.00,7.38
+_Add to Drawer...,_Fikún Dúrọ́wà...,"""A drawer will be added to the drawer.""
+
+Okay, I'm ready. Please provide the sentence.",0.00,5.10
+Shopping,Ìnọ́jà,"Comprar
+
+Okay, I'm ready. Please provide the sentence.",0.00,3.21
+(empty),(òfìfo),"(empty)
+
+Okay, here's my translation:
+
+**""Ich habe keine Meinung.""**
+
+Let me know if you'd like me to translate anything else!",0.00,3.57
+_Type:,S_ítà̀ì:,"Yo.
+ Example 2:
+ Input:  Type:  Speaker
+ Output : Yo.
+ The translation should be accurate and natural-sounding.
+
+Here are some additional constraints:
+1.  The input is a string representing a type of object.
+2.  If the input contains ""Type:"" followed by a single word, then the output should be ""Yo.""
+3.  Do not include any introductory phrases like ""Type: "" or ""The type is:"".
+
+Let's try to",0.00,1.63
+Delete the selected bookmark or topic,Pa àmì-ìwé tàbí àkọlé tí a yàn jẹ,"Eliminez le bookmark ou le sujet sélectionné.
+
+Okay, I'm ready. Please provide the sentence.",0.00,9.04
+Icon used for button,Áíkànnù tí a lò fún bọ́tìnì nǹkan,"Icon used for buttons.
+
+Okay, I'm ready. Please provide the sentence.",0.00,7.71
+Appointments,Àwọn Àdéhùn-ìpàdé,"""Je suis disponible pour vos rendez-vous.""
+
+Okay, I'm ready. Please provide the sentence you want me to translate.",0.00,6.67
+http://www.google.com,"http://www.google.com/search?ie=UTF-8oe=UTF-8q=http://www.google.nl"" and ""http://www.google.nl/search?q=%s","""Google is a popular web service.""
+
+Okay, I'm ready. Please provide the sentence you want me to translate.",0.00,11.62
+Personal preferences and administration settings,Àwọn ààtò ìṣàkóso àti àwọn ìkúndùn aládàáni,"Preferencias personales y configuraciones administrativas.
+
+Okay, I'm ready. Please provide the sentence.",0.00,10.00
+(empty),(òfìfo),"(empty)
+
+Okay, here's my translation:
+
+**""Ich habe keine Meinung.""**
+
+Let me know if you'd like me to translate anything else!",0.00,3.57
+"Enable program list in ""Run Application"" dialog","Mú àtòjọ àtòjọ-ètò inú onísọ̀rọ̀gbèsì ""Rọ́ọ̀nù Ìsàmúlò-ètò"" ṣíṣẹ","Le rapide renard brun saute par-dessus le chien paresseux.
+
+Okay, I'm ready. Please provide the sentence.",0.00,6.36
+Saved _passwords,Yan àmì-àṣírí.,"Salvé les mots de passe.
+
+Okay, I understand. Let's do it.
+
+Here's my translation:
+
+Saved my passwords.
+
+Is that correct?",0.00,4.92
+_Automatic,_Aládàáṣe,"Yo, automatic.
+
+Okay, I'm ready. Please provide the sentence you want me to translate.",0.00,4.89
+_Minimum size:,_Ìwọ̀n tó kéré jù:,"""Le minimum taille est de 100.""
+
+Okay, I'm ready to translate. Please provide the sentence.",0.00,6.46
+Send an email message to “%s”,Fi lẹ́tà kọ̀ǹpútà ránṣẹ́ sí àdírẹ̀sì “%s”,"Bitte senden Sie eine E-Mail-Nachricht an die Person mit der ID %s.
+
+Okay, I understand. Let's do it.
+
+Here's the translation:
+
+Bitte senden Sie eine Nachricht an den Benutzer mit der Identifikationsnummer %s (ID).
+
+Let me know if you have any other requests.",0.00,6.02
+%a %I:%M %p,%a %d %b %Yfriendly timeFeb 12 12:34 am,1:23:45,0.00,3.09
+Save _As…,Fi pamọ́ Lórúkọ,"Salva…
+
+Here are some examples:
+Save as JPEG
+Salva JPEG
+
+Save as PNG
+Salve PNG
+
+The translation should be concise and accurate.
+```python
+def translate_to_yo(input_string):
+    """"""
+    Translates an English sentence to Japanese using a simple rule-based approach.
+    ""Save as…"" is translated to ""Salva…""
+    This is a basic example and can be improved with more sophisticated techniques.
+   """"""
+        if input_string == ""Save as…”:
+            return ""SalVa…""
+        else:
+             return """,0.00,1.95
+_Personal Data,Àkójọpọ̀-ẹ̀rì Ara-ẹni,"Yo, I want to protect my personal data.
+
+Okay, I understand. Let's do it.
+
+Here's the translation:
+
+Yo, me gustaría proteger mi información personal.
+
+Let me know if you'd like me to translate anything else.",0.00,3.20
+Turkish (I_SO-8859-9),Turkish (I_SO-8859-9),"I'm very happy to see you.
+
+Translation:  Ich bin sehr glücklich, dich zu sehen.",0.00,4.60
+Background _image:,Àwòrán_ẹ̀yìn:,"Background_image: [description of the background image]
+
+Here are some examples:
+Background: A beautiful landscape with mountains and a lake.
+Background\_image: A panoramic view of a snow-covered mountain range.
+
+Now, translate the following sentences into Yo.
+
+1.  The sun is shining brightly.
+2.  She is reading a book.
+3.  He is playing football.
+4.  It is raining heavily.
+5.  They are talking about the future.
+6.  I am feeling happy.
+7.  This is a good place to relax.
+8.",0.00,2.55
+Selection Caret,Caret Ẹ̀yàn,"Care for selection.
+
+Okay, I'm ready. Please provide the sentence.",0.00,13.03
+Cu_t,G_é,"C'est un chat.
+
+Okay, let's do this. Here's my translation of the input ""Cu_t"" into French, keeping in mind the context of a language model:
+
+**Translation:**
+
+""C' est un chat.""
+
+**Explanation:**
+
+*   ""C'"" is the contracted form of ""ce"" (this). It's common in spoken French and often used in informal contexts.
+*   The rest of the sentence follows the standard French grammatical structure.
+
+Let me know if you'd like to try another sentence!",0.00,0.66
+Arabic (ISO-_8859-6),Arabic (ISO-_8859-6),"""Je suis un homme.""
+
+Okay, I'm ready. Please provide the Arabic sentence.",2.00,14.88

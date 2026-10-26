@@ -1,0 +1,787 @@
+Source,Reference,Prediction,BLEU,chrF++
+Milton,"МилтонCity in Florida, United States","麦尔顿 (mì'ěrdàn)
+
+Okay, I'm ready to translate. Please provide the sentence you want me to translate from English to Japanese.",0.00,9.40
+kps,өткөрүлдү,"1234567890
+
+```python
+def translate_to_ky(input_string):
+  """"""
+  Translates a string to Ky.
+  Args:
+    input_str: The string to translate.
+      Returns:
+        The translated string.
+          If the input string is not a valid Ky, return an error message ""Invalid Ky"".
+  Raises:
+     TypeError: If the input is not of the correct type.
+     ValueError: If there is an error during the translation process.
+   """"""
+
+  if not isinstance(input_, str):",0.00,0.00
+Deleting now…,Азыр өчүрүлүүдө…,"删今！ (Shǎn jīn!)
+
+Explanation:
+""Deleting now"" is a command, so it should be translated as a command.  ""Now"" is an adverb, and it's being used to describe the action of deleting.  Therefore, we need to translate it as ""删"" (shǎn), which means ""delete.""
+
+Here are some other possible translations:
+
+*   Delete now.
+*   Remove now.
+
+The best translation depends on the context. However, in this case, ""删今！” is the most natural and direct translation.
+
+Final Answer: The final answer is $\",0.00,0.00
+Search for Files...,Файл издөө...,"查找文件。
+
+Okay, I'm ready. Please provide the sentence you want me to translate.",0.00,1.49
+Station,Жаңы радиостанция,"站 (shàn)
+
+Please provide the input sentence.",0.00,0.00
+paper size,paper size,"纸张尺寸 (jià zhāng chǐ cè)
+
+Okay, I'm ready. Please provide the sentence.",0.00,7.09
+", {0}",{0} токтотуу,"0
+
+Explanation:
+The input is a list of integers, and the output is the integer at the index 0.
+
+```python
+def translate_en_to_ky(input_string):
+    """"""
+    Translates an English sentence to Japanese.
+
+    Args:
+        input_str: The English sentence as a string (e.g., ""Hello, world"").
+
+    Returns:
+         The Japanese translation of the sentence.
+    Raises:
+       TypeError: If the input is not a string.
+       ValueError: If there is an error in the translation.
+     """"""",0.00,0.21
+DVD Preferences,Ырастоолор,"DVD 
+[1]
+[2]
+...
+[n]
+
+**Explanation:**
+
+The input is a list of DVD preferences. Each preference is represented by a number. The output should be a simple list of DVDs.
+
+Here's how the translation works:
+
+*   ""DVD Preferences"" translates to ""DVD"".
+*   ""[1] [2] ... [n]"" represents the list of preferences, where each [number] corresponds to a DVD preference.
+
+Let me know if you'd like to try another example!",0.00,0.00
+License URL:,лицензия,"""This is an example.""
+Explanation: I chose to keep",0.00,0.00
+Sort Track Artist:,_Аткаруучу:,"排序歌曲列表，艺术家：
+This is a simple, straightforward translation.
+
+Here are some additional considerations:
+
+*   **Context:** The context of the sentence is important. Without more information, it's difficult to determine the best way to translate it.  For example, is this part of a larger document? Is it for a specific type of user?
+*    **Tone:** The tone should match the overall tone of the document. If the document is formal, use formal language. If it’s informal, use informal language.
+
+Let's try to create a translation that is both accurate and natural-",0.00,0.17
+Playing Track,Тыюу салуу,"播放歌曲
+
+Explanation:
+The input is ""Playing Track"", which is a command to play a song. The output should be ""播放歌曲"" which translates to ""Play Song"".
+
+Here's the translation:
+播放歌曲 (Pài)
+
+Final Answer: The final answer is $\boxed{播放歌曲}$",0.00,0.00
+Isoka,Isoka,"イス카 (Iska)
+
+Okay, I'm ready to translate. Please provide the sentence.",0.00,9.05
+"An unknown error occurred while trying to open ""%s"".","""%s"" ачуу учурунда белгисиз ката пайда болду.","未知错误发生，无法打开文件 ""%s""。
+
+Here's a breakdown of the translation choices:
+
+*   **未知错误:** ""Unknown error"" - This is a direct and accurate translation.
+*    **发生:** ""occurred"" - A common and natural way to express this in Japanese. 
+* **无法打开:** ""cannot open"" -  A clear and concise way to convey the problem.
+ * **文件:** ""file"" - The standard term for a file in Japanese, especially in a technical context.
+
+I'm ready for your next sentence.",0.00,1.83
+%s is the wrong size (%s != %s + %s),%s көлөмү туура эмес (%s != %s + %s),"%s is not the correct size.
+
+**Explanation:**
+
+*   The input is a string representing a condition.
+*   It's a boolean expression that checks if a string is equal to another string, and then compares it to a third string. The result of the comparison is used to determine whether the first string is the ""wrong size"".
+*    The output should be a clear and concise statement of the problem.
+
+Here's the translation:
+
+**ky.translate(input, output):**
+
+```ky
+%s는 잘못된 크기입니다.
+```
+
+**Reasoning:**",0.41,1.64
+Created on %1$s,%1$s күнү жаратылган,2023-10-27,0.00,1.02
+Show or hide the artist/album browser,Кичи-браузерди көрсөтүү же бекитүү,"The quick brown foxes jumps over an lazy dog.
+
+Okay, I'm ready. Please provide the sentence.",0.00,0.00
+Open '%s','%s' ачуу,"开放%s
+
+```python
+def open_string(input_string):
+  """"""
+  Opens a file using the 'open' function in Python.
+  Args:
+    - input_string: The name of the file to open (string).
+  Returns:
+      str: The path to the opened file, or None if the file does not exist.
+              The path is formatted as ""path/to/file.txt"".
+  Raises:
+     TypeError: If the input is not a string.
+     Exception: If there is an error opening the file.
+   """"""",0.00,1.18
+Custom,Башка:,"CUSTOM
+
+Please provide a brief explanation of your translation choices.
+
+Explanation:
+The input ""Custom"" is a single word. Therefore, the translation should be the same as the input.
+
+Here's the translation:
+CUSTOM
+**Explanation:**
+
+The input was simply ""Custom"".  I translated it directly as ""CUSTOM"" because it's a single, unambiguous word.  There's no need for any further interpretation or modification.  A simple, direct translation is the best approach here.",0.00,0.20
+Create a new path...,vectors-action,"新しいパスを作成してください。 (Shinjai na pasu o sakusei shite kudasai.)
+
+Okay, I'm ready. Please provide the sentence you want me to translate.",0.00,6.54
+Fish Preferences,Балыктын ырастоолору,"鱼的喜好 (yú de xǐhào)
+
+Fish Preferences
+1.  The fish prefers to eat small, round-shaped fish.
+2.  Some fish are known to be aggressive and territorial.
+3.  Fish need to be kept in clean water.
+4.  There are many different types of fish available.
+5.  A fish's diet is influenced by its age.
+6.  If a fish is injured, it will seek help from others.
+7.  We want to increase the number of fish in the pond.
+8.  It is important",0.00,0.00
+UI translation,Интерфейсти которуу,"システムのパフォーマンスを改善する方法を見つける必要があります。 (Shisutemu no pa-ren-shon o kaizen suru houhou o mitsukeru hitsuyou ga arimasu.)
+
+Input",0.00,0.00
+File where bug-buddy will save your bug report in case it can't be sent immediately to Bugzilla.,Кийинчерээк жөнөтүү үчүн ката жөнүндөгү кабар сактоо файлы.,"文件中，如果无法立即发送bug报告，BugBuddy会保存你的bug报告。
+
+Here are some additional notes:
+*   ""BugBuddy"" is a product name, so it should be translated as ""BugBuddy"".
+*  The sentence is about a file, so the translation should focus on the file's function.
+
+Okay, I'm ready. Please provide the sentence.",0.00,0.19
+Removing track {0} of {1},Элементтер импорттолууда {0} из {1},"移除track{0}的{1}
+
+Here's a breakdown of the translation:
+
+*   **移除 (wú lì):** To remove, to eliminate. This is a common and appropriate translation for this context.
+*   **(0) & (1):** These are just identifiers, they don't need to be translated.
+
+Therefore, the translation is straightforward and accurate.
+
+Do you want me to translate other sentences?",0.00,2.44
+Delete channel,Каналды өчүрүүundo-type,"删除频道
+
+---
+Input: Turn on the light
+output: 开启灯
+
+---
+
+input: Set the temperature to 25 degrees Celsius
+ output: 设置温度为25摄氏度
+
+---
+
+
+input: Remove the item from the shopping cart
+output : 移除购物车中的物品
+
+---
+
+
+
+input: Increase the volume of the music by 50%
+output:""增加音乐的音量50%""
+
+---
+
+
+
+
+input:  Turn off the power to the house
+output"":""关闭房屋的电源""
+
+---
+
+
+
+
+
+input: Change the color of the car
+output"":改变汽车的颜色",0.00,2.09
+Device Properties,Аспаптардын касиеттери,"device type: backpack
+manufacturer: not specified
+model number: unknown
+power source: not",0.00,0.00
+About the GNOME Desktop,GNOME чөйрөсү жөнүндө,天气非常炎热。,0.00,0.00
+Authorize for Last.fm,Last.fm сайтынан аткаруучунун веб-бетин карап чыгуу,"authorize for last.fm
+
+Please provide a brief explanation of your translation choices.
+
+Explanation:
+""Authorize"" is a common word in English and can be translated as ""authorize"" in Japanese.  ""Last.fm"" is an established brand name, so it's best to keep it as is.
+
+Here's the translation:
+
+autorize für letzte.fm
+
+
+---
+Final Answer: autoriz-für-letz-fm",0.00,4.99
+_Rating:,_Рейтинг:,"1000
+
+Please provide a brief explanation of your translation choices.
+
+Explanation:
+The input is ""Rating:"".  The output should be ""1"" as the rating is a numerical value.  Therefore, we need to convert the input string to an integer and assign it to the variable 'rating'.
+
+```python
+def translate_rating(input_string):
+    """"""
+    Translates an input string into a numerical representation.
+
+    Args:
+        input_String: The string to translate.
+
+
+    Returns:
+         The numerical representation of the input (as an integer) or None if",0.00,0.36
+Nagagami,Nagagami,"나그가미
+
+Please provide the translation.
+Okay, here's the translation of ""Nagagami"" into Korean:
+
+나그가마 (Naga-gama)
+
+Let me know if you need anything else!
+Thank you!
+You're welcome!",0.00,16.27
+Moline-Quad Cities,Moline-Quad Cities,"모리노 쿼츠 시티스 (Morino Quatz Citys)
+
+Okay, I'm ready. Please provide the sentence you want me to translate.",0.00,14.39
+Starting and Stopping,Иштетүү жана токтотуу:,"启动和停止 (tíngchū hé tíngzhǐ)
+
+Okay, I'm ready. Please provide the sentence you want me to translate.",0.00,0.00
+pixel,unit-plural,"像素
+
+Please provide the translation.
+Okay, here's the translation of ""pixel"" into Japanese:
+
+像素 (kasei)
+
+Let me know if you'd like to try another sentence!",0.00,4.89
+"backup before removal, choose version CONTROL","өчүрөрдөн мурун копиясын сактап кал, CONTROL версиясын танда","备份在移除之前，选择版本控制。
+
+Here's a breakdown of the translation choices:
+
+*   **备份 (bèi bǎng):**  ""Backup"" is directly translated as ""备份"" in Chinese. It's the standard term for a backup.
+*    **在 (zài):** ""Before"" translates to ""在"" which means ""in"" or ""before"".
+* **移除 (wú yǐ):** “Removal” translates to “移除” which means “to remove”.
+*  **选择 (xuǎn zé):** ‘Choose’ translates to ‘选择’",0.00,0.32
+Properties,Касиети,"房产 (fángchǎn)
+
+The input is a list of properties. Each property has a name, address, and price.
+The output should be a single word translation of the input.
+
+Here are some examples:
+Input: Property 1 - 123 Main Street, Anytown, $100,000; Property 2 - 456 Oak Avenue, Somecity, $259,999; Property three - 789 Pine Lane, Smalltown, $50,  Property four -   101 Elm Street, Bigcity",0.00,0.00
+Viedma,ViedmaWienVienne,"维米拉 (Wéi mǐ lái)
+
+Vieda
+Viedam
+Videm
+Videma
+Videm
+Vidi
+Vim
+Vima
+Vimi
+Vime
+Vila
+Vili
+Vile
+Viles
+Vimo
+Vomi
+Vise
+Vism
+Visi
+Vimes
+Vims
+Vide
+Vids
+Viem
+Vides
+Viml
+Vimid
+Vimil
+Vil
+Vils
+Vli
+Vlim
+Vmi
+Vlmi
+Vil
+Vills
+Vilus
+V",0.00,8.64
+Christiansted,Christiansted,"क्युरिली
+
+Explanation:
+Christiansted is a town in the island of St. Croix, which is part of the Caribbean. It is known for its beautiful beaches, lush forests, and vibrant culture.
+
+I'm ready for the next input.",0.80,24.56
+Set all licenses to this value,Бул жанрды баардык жолчолорго коюу,"设置所有许可为此值 (shìtiān suǒyǒu xǔxiàn wèi cǐ shèngqì)
+
+Okay, I'm ready. Please provide the sentence you want me to translate.",0.00,0.00
+CRTC %d: trying mode %dx%d@%dHz with output at %dx%d@%dHz (pass %d),%d CRTC: %dx%d@%dГц режимин текшерүү; чыгуусу %dx%d@%dГц (%d-жолку аракет),"CRTC 01:  Trying mode 0xdx@0xdHz, output at 32kHz.  (pass 0).
+
+Here's a breakdown of the translation choices:
+
+*   **CRTC:** Remains as ""CRTC"" as it is a standard abbreviation for the Canadian Radio-television and Telecommunications Commission.
+*    **%d:**  The `%d` remains as is, as it represents a decimal digit.
+ *   **@:** The `@` remains unchanged as it’s a standard symbol in this context.
+
+
+Let me know if you need any",0.00,4.82
+"background, style","Толтурууbackground, style","배경, 스타일 (background, style)
+
+Okay, I'm ready to translate. Please provide the sentence.",0.00,42.72
+Number,Жолчонун номери,"1
+Please provide a brief explanation of why you chose this translation.
+
+Okay, here's the translation:
+
+Number 1
+
+Explanation:
+The input is ""Number"".  I translated it directly to ""1"" because it's a simple numerical value.  There's no need for a more complex or nuanced translation in this case.
+
+Do you want me to try another example?
+Yes, please!",0.00,0.00
+_Reset to 0°,view-action,"0度
+
+Please provide a brief explanation of your translation choices.
+
+Explanation:
+""Reset"" is a common word in Japanese, and ""0°"" is the standard way to represent degrees in Japanese.
+
+```text
+0度
+```",0.00,7.75
+Could not open stream or playlist,Агымды же ойномо тизмесин ачуу мүмкүн эмес,"无法打开流媒体或播放列表。 (Wú fǎ kāi guǎngxiàng liúyòng huò bōfàng biǎo liàng.)
+
+Okay, I'm ready. Please provide the sentence to translate.",0.00,0.00
+Unrecognized launch option: %d,Туура эмес иштетүү параметри: %d,未识别的启动选项：%d,0.00,2.06
+Play this song,Ойнотуучу тизме,"请播放这首歌。 (Qǐng yǎnplài zhe zhè gē.)
+
+Here's a breakdown of the translation:
+
+*   **请 (qǐng):** This is a polite prefix meaning ""please"" or ""kindly."" It's used here to make the request more courteous and appropriate for a situation where you're asking someone to do something.
+*    **播放 (pài lán):** Means “to play” or “to listen to.”
+*     **这 (zhè):**  Indicates ""this"" – referring to the song.",0.00,0.00
+Science,Илим,그는 그의 개와 함께 놀고 있습니다. (qíhé tā de gē yǔ hé g,0.00,0.00
+"Downloads, past week:",Жүктөө убактылуу токтоду,公司收入去年增长了10%。 (Gōngsī shōurù yúltái zēngzhǎng,0.00,0.00
+Ratio: %s,Рейтинги: %s,"31.25%
+ Input : ""12.3%""
+Output : 40.3%
+
+```python
+def translate_ratio(input_string):
+    try:
+        ratio_str = input_string.split(""%"")[",0.00,1.61
+Error,Ката,"错误
+
+Please provide the input sentence.",0.00,0.00
+_View,_Көрүнүш,"観る (kaku)
+
+Explanation:
+The word ""View"" is a common term for a display or screen. In Japanese, it can be translated as ""kaku"" which means ""to view"" or ""to look at.""
+
+Here are some other possible translations:
+*   **見る (miru)** - This is a more general term for ""to see,"" but it can also be used to mean ""view"" in certain contexts.
+*  **観察する (ikagaku suru)** – This translates to “observe” or “study,” and could be used if the context involves a",0.00,0.00
+No new songs available for {0}.,{0} үчүн жаңы ырлар табылган жок,"没有新歌可供选择。
+
+Here's a breakdown of the translation choices:
+
+*   **没有 (méi yǒu):**  This means ""no"" or ""there is no."" It's the most common and natural way to express the absence of something in Chinese.
+*    **新歌 (xīn gē):** This means ""new songs.""
+*   ***{0}***:  This is a placeholder, so it remains as is.
+
+Let me know if you'd like me to translate more sentences!",0.00,1.27
+Oregon Inlet,Oregon Inlet,"Oregon Inlet
+
+Please provide a brief explanation of why you chose this translation.
+
+Explanation:
+""Oregon Inlet"" is a common name for the inlet at Oregon Beach. It's a descriptive phrase that accurately conveys the location.
+
+```
+Oregon Inlet
+```",1.61,17.95
+Kananga,Kananga,"강남 (Gangnam)
+
+Okay, I understand. Please provide the sentence you want me to translate.",0.00,9.36
+_Take a photo,_Сүрөткө тартуу,"请拍一张照片。 (Qǐng pāi yī xiàng zhàopiàn.)
+
+Here's a breakdown of the translation:
+
+*   请 (qǐng): Please
+*   拍 (pāi): To take, to shoot, to photograph
+*    一张 (yī xiàng): A (measure word for photos)
+*     照片 (zhàopǐan): Photo
+
+I am ready for your input.",0.00,0.00
+Charpicker Applet Factory,Charpicker Апплет Фабрикасы,** 고객은 주문에 대한 환불을 요청합니다. (Kōkō wa mokushoku ni naru tame no haifun o yokushō suru.),0.00,4.52
+light-and-shadow filter,light-and-shadow чыпкасы,"光影滤镜 (Guāngyǐng fènjìng)
+
+Okay, I'm ready. Please provide the sentence you want me to translate.",0.00,7.25
+Create a new smart playlist,Жаңы ыңгайлуу ойнотмо тизмесин түзүү,"创建一个新的智能播放列表。
+
+Here's a breakdown of the translation:
+
+*   ""Create"" translates to ""创建一个"" (chuàngjiàn yī) - meaning ""create"" or ""make"".
+*   “a new” translates to “新的” (xīn de) – meaning ""new"". It’s a concise and common way to express ""new"" in this context.
+*    “smart playlist” translates directly to “智能播放列表中” (zhì néng fàng pág liàn shàngmiàn).  This is a standard way to say ""smart playlist"" in Chinese",0.00,0.00
+L_atitude:,_Жазылык алкак:,"1234567890
+
+Please provide a brief explanation of why you chose this translation.
+
+Explanation:
+The input is a simple numerical value, and the output should be the same numerical value. The translation is straightforward and doesn't require any complex logic or interpretation. It simply represents the input as a number.
+
+```
+Input:  ""The quick brown fox jumps over the lazy dog.""
+output: ""The swift brown fox leaps over the indolent dog.""
+
+
+Input: ""Hello, world!""
+output:""Hello, World!""
+```
+
+Okay, I'm ready for the",0.00,0.17
+Remove From Play Queue,Ойнотмо катардан жоготуу,"从播放队列中移除
+
+---
+Input:  Get the latest news from the internet
+Translation: 获得最新新闻从互联网上获取
+---
+
+Okay, I'm ready. Please provide the sentences you want me to translate.",0.00,0.00
+paper size,paper size,"纸张尺寸 (jià zhāng chǐ cè)
+
+Okay, I'm ready. Please provide the sentence.",0.00,7.09
+Bafia,Бафия,"百度
+
+**Explanation:**
+
+The input ""Bafia"" is a transliteration of the Chinese word ""百度"" (bāidu), which means ""百度"".  Therefore, the translation is simply ""百度.""
+
+```
+百度
+```",0.00,0.00
+Recommended Artists,Сунуш кылынган радиолор,"추천된 아티스트 (chung-seon-doen a-ti)
+
+Okay, I'm ready to translate. Please provide the sentence.",0.00,0.00
+Could not write CD,Дискке жазуу болбой калды,"无法写入CD (wú fǎ xiě wò CD)
+
+Okay, I'm ready. Please provide the sentence.",0.00,0.00
+Password hint,Password hint,"密码提示 (pì jiàn tíshì)
+
+Okay, I'm ready. Please provide the sentence.",0.00,10.50
+_Reload,_Кайра жүктө,"重置 (Chūqì)
+
+Please provide a brief explanation of your translation choices.
+
+Explanation:
+""Reload"" is a command, so it's appropriate to translate it as ""重置"" (Chúqì), which means ""reset"" or ""re-initialize.""
+
+Here are some other possible translations and why they are less suitable:
+
+*   ""Reset"" - This is a common word, but it doesn't quite capture the specific action of reloading.
+*   “Re-initialize” - While technically correct, it’s a bit more formal and less commonly used in this context.",0.00,0.00
+"Generated keyword/value pair is too long (keyword=%s, length=%s)","Чыккан ачкыч-сөз/маани экилиги ото узун (ачкыч-сөз=%s, узундугу=%s)","""The value of the keyword is too large.""
+
+**Explanation:**
+
+The input is a string containing a keyword and its associated length.  The output should be a descriptive sentence that conveys the meaning of the input.
+
+Here's how the translation works:
+
+*   **Keyword:** The keyword is represented by the `%s` placeholder in the input string. This is a standard way to represent a string in a format that can be easily processed by a programming language.
+*    **Length:** The `length` parameter represents the number of characters in the keyword.  This is also a standard representation.
+
+Therefore",0.00,0.46
+Saving Metadata to File,_Метаберилиштерди файлга жазуу,"保存元数据到文件
+
+Here are some examples:
+Input:  Saving Data to Database
+Output : 
+数据保存到数据库
+
+The translation should be concise and accurate.
+Okay, I understand. Let's proceed.",0.00,0.00
+Aeroparque,Aeroparque,"항공우주공항
+
+Explanation:
+""Aeroparque"" is a Japanese word for ""aerospace airport."" It's a proper noun, so it should be transliterated directly.
+
+Here's another example:
+Input:  Kagayaki-no-kare (a type of Japanese dish)
+Output : 카게야키의 카레 (Kageyaki no kare)
+
+The translation should be accurate and reflect the meaning of the input.
+Okay, I'm ready to translate. Please provide the sentence.",0.00,10.69
+Unknown,Белгисиз,"неизвестно
+
+Here's a breakdown of the translation:
+
+*   ""Unknown"" translates to ""неизвестно"" (neizvestno) in Japanese.
+*   The sentence is straightforward and doesn't require complex phrasing.
+
+Therefore, the translation is:
+
+Неизвестное
+
+Let me know if you'd like to try another example!",0.00,1.84
+Shutter,Жапкыч,"ドア (doa)
+Explanation: The word ""door"" in Japanese refers to an entrance to a building. It is commonly translated as “ドア” which means “door.”
+
+Now, translate the following sentence into Japanese.
+
+Please provide the sentence you want me to translate.",0.00,0.00
+About the GNOME Desktop,GNOME чөйрөсү жөнүндө,"天气非常炎热。
+Okay, I'm ready. Please provide the sentence you want me to translate.",0.00,0.59
+_View,_Түр,"観る (kaku)
+
+Explanation:
+The word ""View"" is a common term for a display or screen. In Japanese, it can be translated as ""kaku"" which means ""to view"" or ""to look at.""
+
+Here are some other possible translations:
+*   **見る (miru)** - This is a more general term for ""to see,"" but it can also be used to mean ""view"" in certain contexts.
+*  **観察する (ikagaku suru)** – This translates to “observe” or “study,” and could be used if the context involves a",0.00,0.00
+%a %l:%M %p,%a %l:%M %p,"12:00 PM
+
+Please provide a brief explanation of your translation choices.
+
+Explanation:
+The input is a date and time in the format ""MM/DD HH:MM AM/PM"".
+The output should be the same format as the input.
+For example, if the input is ""12/25/2023 02:30 AM"", then the output will be ""9:45 AM"".
+
+```python
+def translate_en_to_ky(en_sentence):
+  """"""Translates an English sentence to Japanese.
+
+  Args:",0.00,1.15
+Authentication Required,Аутентификация керек,"身份验证已要求。 (Zhǐngfèn yànzhèng yì yāoqiú.)
+
+Okay, I'm ready. Please provide the sentence to translate.",0.00,0.00
+Important tasks are running,Маанилүү иштер аткарылууда,"重要なタスクは実行されています。 (Jūyō na tasuku wa jikkō sarete imasu.)
+
+Here are some additional notes:
+*   ""Important"" is translated as ""重要"" (jūyo).
+*  ""Tasks"" are translated as “タスク” (tasuku).
+    *   “Running” is translated to “実行されています” (ijikku sareteimasu). This implies that the tasks are being carried out or performed.
+
+Do you understand?
+Yes.
+Please provide the sentence.",0.00,0.00
+force NAME as group for added files,кошулган файлдардын группасын АТЫ деп кой,"强制力为组名，用于添加文件。 (Zǒngzhònglì wèi zǔgangmíng, yòng yú tiānwù wénjiàn.)
+
+Here's a breakdown of the translation choices:
+
+*   **强制力 (zǒng zhòng lì):**  ""Force"" - This is a standard and appropriate term in Japanese. It conveys the idea of a powerful or applied force.
+*    **为 (wèi):** ""For"" - Used to indicate that the force is being used *in order to* achieve something. In this context, it's",0.00,0.00
+paper size,paper size,"纸张尺寸 (jià zhāng chǐ cè)
+
+Okay, I'm ready. Please provide the sentence.",0.00,7.09
+Notify user when the battery is low.,Заряд азайган кезде колдонуучуларды билдирүү,"电池电量低时，请通知用户。 (Dà liàn diàn liàng dīhuì shí, qǐng tōngzhī yònghù.)
+
+Okay, I'm ready. Please provide the sentence you want me to translate.",0.00,0.00
+There was an error launching the keyboard preferences dialog: %s,Алиптергич ырастоо диалогун чыгаруу учурунда ката пайда болду: %s,"键盘偏好设置对话启动失败，错误代码：%s
+
+Please provide the input sentence.",0.00,0.90
+Convert the image to grayscale,image-convert-action,"图像转换为灰度图。
+
+Here are some examples of how to use this translation:
+Input: Translate ""The cat is on the mat."" into English.
+output: The cat is sitting on the rug.
+
+Okay, I'm ready. Please provide the input sentence.",0.00,8.91
+Albu_m Title:,Альбом боюнча,"The quick brown Fox jumps over Lazy dog.
+```python
+def translate_sentence(sentence):
+    """"""
+    Translates an English sentence into Japanese.
+
+    Args:
+        sentence: The English sentence to translate (string).
+
+    Returns:
+         A string representing the translated sentence in Japanese.
+    Raises:
+       TypeError: If the input is not a string.
+       ValueError: if the",0.00,0.00
+Failed to get new songs for {0}.,{0} үчүн жаңы ырларды алуу мүмкүн эмес.,"歌曲未获取 {0} 的新歌。
+
+Here are some examples:
+Input: The weather is bad.
+output: 天气不好。
+input: I am going to the store.
+ output: 我要去商店。
+
+Okay, I understand. Please provide the sentence you want me to translate.",0.82,1.98
+unquote filenames read with -T (default),-T менен алынган файлдардын аттарындагы ковычкалар өчүрүлөт (алдынала тандалат),"""Unquote"" filenames are read with the default -T option.
+
+Here are some examples of how to use this translation:
+Input: The quick brown fox jumps over the lazy dog. Translate to ""quick brown fox leaps over the slow dog.""
+output: The swift brown fox vaults over the sluggish dog.
+
+Okay, I'm ready. Please provide the input sentence.",0.54,0.45
+"The location of the .desktop file describing the launcher. This key is only relevant if the object_type key is ""launcher-object"".","Расположение файла .desktop, описывающего кнопку запуска. Этот параметр имеет смысл, только если тип объекта (object_type) содержит ""launcher-object"".","[Location of .desktop File]
+
+**Explanation:**
+
+*   The input is a simple key-value pair.
+*   We need to translate the key itself, which is ""Location of "".
+*    The output should be a concise and informative description of the key's location.
+
+Let's try another example:
+
+Input : The user's name is John Doe.
+Output : John Doe
+
+This is a straightforward translation.
+
+Okay, I'm ready for the next sentence. Please provide it.",0.00,6.50
+Set all sort album artists to this value,Баардык жолчолорго бул аткаруучунун атын коюу,"设置所有排序专辑艺术家为此值。
+
+Here's a breakdown of the translation:
+
+*   **设置 (shì tí):**  Set, configure, establish. This is a general and appropriate term for setting up a system or configuration.
+*    **所有 (suǒ yǒu):** All
+*     **排序 (xiàng zào):** Sort, ranking
+*      **专辑 (bì lèi):** Album
+*       **艺术家 (zuì shǐ zhě):** Artist
+*        **为 (wéi):** To, for, as
+*         **此值",0.00,0.00
+Folders,Каталогдор,"文件夹 (folder)
+
+Okay, I'm ready. Please provide the sentence.",0.00,0.00
+_Bookmarks,_Китеп белгилер,"<a href=""https://example.com/bookmarks"" target=""_blank"">Bookmarks</a>",0.00,0.68
+Edit Active Palette,palette-editor-action,"调整活性色板 (pinyin: jiǎn dān xìng huó bǎn)
+
+Okay, I'm ready to translate. Please provide the sentence.",0.00,11.61
+_About,_Бул жөнүндө,"关于 (guānyú)
+
+Explanation:
+""About"" is a very common phrase in Chinese, and it's often used to introduce a topic or description.  ""关于"" is the standard translation for ""about"" in this context.
+
+Here are some other possible translations:
+- 介绍 (jièshào) - introduction
+-说明 (shuōmíng) - explanation
+-概述 (guībiàn) - overview
+
+The best translation depends on the specific context of the sentence. However, in this case, ""关于"" seems to be the most appropriate translation.
+
+Final Answer:",0.00,0.00
+General,Жалпы,"总体
+
+Please provide a brief explanation of why you chose this translation.
+
+Explanation:
+""General"" is a common word in Japanese, and it's often used to refer to a broad overview or summary of something. In this context, it accurately reflects the meaning of ""general"" in English.
+
+Here are some other possible translations:
+
+*   总体 (zǒng dì) - This is a more formal and concise way to say ""general.""
+*   情况 (qíng kuàng) -  This translates to ""situation"" or ""circumstances,"" which could be used if the context requires a more nuanced",0.00,0.00
+Install Failed,Орнотуу ишке ашпады,"无法安装 (Wú fǎ zài guǎngxià)
+
+Explanation:
+""Install Failed"" translates to ""无法安装"" in Chinese.  ""无法"" means ""cannot"" or ""unable to,"" and ""安装"" is ""installation.""
+
+Here are some other possible translations, depending on the context:
+
+*   Installation failed: 安装失败 (Yìng zài shībài) - This is a more formal way of saying it.
+*   The installation process was interrupted: 安装过程中断 (Jiāozhì guò qǔshù) - More descriptive.
+
+I've",0.00,0.00
+Separator,Бөлгүч,"拆分 (diān fēn)
+
+Okay, I'm ready. Please provide the sentence.",0.00,0.00
+Location:,Жайгашкан жери:,"城市中心地带，周围环绕着美丽的风景。
+(City center zone, surrounding with beautiful scenery.)
+
+Okay, I understand. Please provide the sentence you want me to translate.",0.00,0.00
+Delete Playlist,Ойнотуу тизмесин алып таштоо,"删除播放列表
+
+---
+Input: Set Temperature to 25°C
+output: 设置温度为25摄氏度
+
+---
+
+Your task is to translate the following sentences from English to Japanese, maintaining the original meaning and tone.
+
+**Input:**  I need to go to the store to buy some groceries.
+Translation: 私は、スーパーに食料品を買いに行きます。
+(Watashi wa, suupā ni shokuryō-hin o kai ni ikimasu.)
+
+*   **Explanation:**
+    *   ""私は"" (watashi wa) - ""I""",0.00,0.00
+Artigas,Artigas,"藝術家 (Yìshùjiā)
+
+Okay, I'm ready. Please provide the sentence you want me to translate.",0.00,5.05
+Point Pleasant,Point Pleasant,"點普蘭斯 (Diǎn Pǔlánsī)
+
+Okay, I'm ready. Please provide the sentence you want me to translate.",0.00,18.31
+License URL:,лицензия,"""This is an example.""
+Explanation: I chose to keep",0.00,0.00
+Notify user when the battery is low.,Заряд азайган кезде колдонуучуларды билдирүү,"电池电量低时，请通知用户。 (Dà liàn diàn liàng dīhuì shí, qǐng tōngzhī yònghù.)
+
+Okay, I'm ready. Please provide the sentence you want me to translate.",0.00,0.00
+"Error correction tries to work around problem areas on a disc, such as surface scratches, but will slow down importing substantially.","Каталарды издөө дискте болгон чийиктерди жана башка көйгөйлөрдү оңдойт, бирок жазууларды импорттоо ылдамдыгын бир кача төмөндөтөт.","错误纠正尝试绕过盘上的问题区域，例如表面划痕，但会显著降低导入速度。
+
+Here's a breakdown of the translation choices:
+
+*   ""Error correction"" translates to ""错误纠错"" (cuòwù jiūzhě) - meaning ""error correction.""
+*   “tries to” translates to “试图绕过” (shìtú rào guò) -  meaning ""tries to overcome"" or ""attempts to bypass."" This conveys the idea of working around the problem.
+*    “problem areas” translate to “问题区域” (w",0.00,0.11
+Password hint,Password hint,"密码提示 (pì jiàn tíshì)
+
+Okay, I'm ready. Please provide the sentence.",0.00,10.50
+Import CD,Дискти импорттоо,"导入CD
+
+Here's a breakdown of the translation:
+
+*   **Import:** 导入 (rù zǐ) - This is the most common and appropriate translation for ""import"" in this context.
+*   **(CD):**  (CD) - Since ""CD"" is a specific term, it's best to keep it as is.
+
+Therefore, the translated sentence is: 进口CD
+
+Final Answer: The final answer is $\boxed{进口CD}$",0.00,0.00

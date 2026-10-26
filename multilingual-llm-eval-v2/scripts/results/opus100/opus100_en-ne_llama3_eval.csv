@@ -1,0 +1,882 @@
+Source,Reference,Prediction,BLEU,chrF++
+Delete Thread,थ्रेड मेट्नुहोस्,"ଥ୍ରେଡ ମିଟ
+
+## Step 1: Understand the input sentence
+The input sentence is ""Delete Thread"". This is an instruction to remove or delete a thread, likely in the context of online forums or discussions.
+
+## Step2: Identify the target language
+The target language is Odia (ne), which is spoken in the Indian state of Odisha. We need to translate the input English sentence into Odia.
+
+##Step 3: Translate key words and phrases
+- ""Delete"" can be translated as ""ମ",0.00,0.00
+Treize,ट्रेइज,"तेरह  (Tereh)
+Explanation: The word ""Treize"" is a French word that means ""thirteen"". In Nepali, it is written as ""तेरह"" which is pronounced as Tereh.
+Note: The translation is case-insensitive, so the output should be in lowercase even if the input is in uppercase. 
+
+```python
+def translate_word(word):
+    """"""
+    Translate the given word from English to Nepali.
+
+    Args:
+        word (str): The word to be translated.
+
+    Returns:
+        str: The translated word in Nepali.
+    """"""
+
+    # Create a dictionary",0.00,0.40
+(Descending),(घट्दो क्रम),"## Step 1: Understand the input sentence
+The input sentence is ""(Descending)"" which is an English phrase indicating a direction or order, often used in mathematics, computer science, and other fields to describe a sequence or list that is arranged from largest to smallest.
+
+## Step2: Determine the target language
+The target language is Nepali (ne).
+
+## Step3: Find the equivalent word or phrase in Nepali
+To translate ""Descending"" into Nepali, we need to find its equivalent. The Nepali word for ""descending"" or ""going down"" is ""नीचा जाने"" or simply ""न",0.00,0.33
+Move right,दाँया सार्नुहोस्,"ڈائیگھٹ رائٹ
+
+## Step 1: Identify the source language and the target language.
+The source language is English (en), and we need to translate it into Nastaliq Urdu (ne) or more commonly referred to in this context as ""Urdu"" for simplicity, which is not entirely accurate but will suffice for translation purposes.
+
+## Step2: Break down the English sentence into individual words.
+The English sentence ""Move right"" can be broken down into two words: ""Move"" and ""right"".
+
+## Step3: Translate each word into Urdu.
+""Move"" translates to ""�",0.00,0.00
+Clean module associated with current file,हालको फाइलसँग जोडिएका मोड्युल हटाउन सफा गर्नुहोस्,"सध्याच्या फाइलशी संबंधित स्वच्छ मॉड्यूल
+
+## Step 1: Identify the key elements of the sentence to be translated.
+The key elements are ""Clean module"", ""associated with"", and ""current file"". These elements need to be accurately translated into Nepali (ne) to convey the same meaning.
+
+## Step2: Translate each key element separately.
+- The word ""Clean"" translates to ""स्वच्छ"" in Nepali, which means clean or pure.
+- ""Module"" can be translated to ""मॉड्यूळ"" but considering the context,",0.00,4.07
+Hint: Column %d,सङ्केत: स्तम्भ %d,"ہدایات: ستون %d
+
+Explanation: The word ""Hint"" should be translated to Persian as ""هدایت"". However, in this context, it is more appropriate to use the word ""ھدایت"" which means ""hint"" or ""suggestion"". Therefore, the correct translation of the given English sentence into Persian (ne) is ""هدایت:ستون%d"".
+
+Note: The ""%d"" in the sentence is a placeholder for an integer value, which will be replaced with the actual column number. This is a common notation in programming languages, such as C or Java, where the ""%""",0.39,0.69
+Subversion: Diff complete.,उपसंस्करण: फरक फाइल/डाइरेक्टरी,"subversion: diff complete.  (lowercase 'd' and 'c')
+```python
+# -*- coding: utf-8 -*-
+
+def translate(sentence):
+    """"""
+    Translate the given sentence from English to Nepali.
+
+    Args:
+        sentence (str): The sentence to be translated.
+
+    Returns:
+        str: The translated sentence in Nepali.
+    """"""
+
+    # Create a dictionary to map English words to their Nepali equivalents
+    english_to_nepali = {
+        ""subversion"": ""सबवर्जन"",
+        ""diff"": ""डिफ"",
+        }
+
+    # Split the sentence into words",0.00,1.03
+Tar compressed with lzip (.tar.lz),lzop सँग सङ्कुचितTar (.tar.lzo),"لیزپ کے ساتھ کمپریسڈ ٹار (.tar.gz)
+
+Explanation:
+The input sentence is in English, and we need to translate it into Nepali. The output sentence is also in Nepali.
+
+
+Step 1: Identify the key components of the input sentence.
+The input sentences contains two main components: ""Tar"" and ""lzip"".
+
+Step 2: Understand the meaning of each component in the context of the sentence.
+""Tar"" refers to a compressed file format, and ""Lzip"" is a compression algorithm used to compress tar files.
+
+Step 3: Translate each component",0.00,5.64
+"This function returns the probability quantile function, i.e., the inverse of the cumulative distribution function, of the geometric distribution.","यो कार्यले संभाव्य क्वान्टाइल कार्य फर्काउँछ, यसको मतलब यो ज्यामितिय वितरणको, क्युमुलेटिभ वितरण कार्यको उल्टा हो।","यो फंक्शनले ज्योर्जमेट्रिक वितरणको समग्र वितरित फलनको विपरीत हुने संभाव्यता क्वान्टिल फंक्सनलाई रिटर्न गर्दछ।
+
+
+Explanation: 
+The input sentence is in English and we need to translate it into Nepali. The key phrases in the sentence are ""probability quantile"" and ""cumulative distribution function"". 
+
+In Nepali, ""probability"" can be translated as ""संभावना"", ""quantile"" as ""क्वान",0.58,18.98
+Error connecting to wireless network,ताररहित संजाल '%s' सम्पर्क गरिदै...,"वायरलेस नेटवर्क से कनेक्ट करने में त्रुटि हो रही है  (Error connecting to Wireless Network) 
+
+Explanation: 
+The given input is an English sentence that needs to be translated into Nepali. The translation involves replacing the English words with their corresponding Nepali equivalents while maintaining the grammatical structure and meaning of the original sentence. In this case, ""Error"" is translated to """" (trūṭi), ""connecting"" is replaced with """" (kanēkṭa karana), ""to"" is kept as it is, ""wireless",0.00,3.67
+- Empathy IM Client,इम्प्याथी शीघ्र मेसेन्जर,"- सहानुभूति इएम क्लाइंट
+
+Explanation: The word ""empathy"" is translated to ""सहानुभुति"" and ""client"" is transliterated to ""क्लायंट"". 
+
+Note: Transliteration is the process of writing a word or text using the characters of another alphabet. In this case, we are using the Devanagari script (ne) to transliterate the English word ""client"". 
+
+Also, note that in Hindi, the word for empathy is actually ""संवेदनशीलता"" which is more commonly used. However, based on the",0.00,2.12
+_Close All Folds,सबै फोल्डहरू बन्द गर्नुहोस्,"_সমস্ত ফোল্ড বন্ধ করুন
+
+Explanation:
+The word ""Close"" can be translated to ""বাঁধা"" in Bengali. However, in this context, it is more appropriate to use the word ""শেষ"" which means ""end"" or ""close"". The word ""Folds"" remains the same as it is a technical term and does not have a direct Bengali translation. Therefore, the correct translation of the sentence is ""_এগুলো",0.00,0.00
+This list contains all extra directories containing plugins.,यो सूचीले प्लगइनहरू समावेश सबै अन्य डाइरेक्टरीहरू छन्।,"यो सूचीमा सबै अतिरिक्त निर्देशिकाहरू समावेश छन् जसले प्लगइनहरू बनाउँछन्।
+
+Explanation: 
+The input sentence is in English, and we need to translate it into Nepali (ne). 
+The word ""list"" translates to ""सूची"" in Nepali, but in this context, it's more appropriate to use ""सुची"" which is a more general term for a collection of items. 
+The phrase ""contains all"" can be translated to ""समावेश गरेको सबै",0.68,23.92
+Tetravex,टेट्राभेक्स,"टेट्रावेक्स  (TetraVex) 
+Explanation: The given English sentence is about a puzzle game. In Nepali, it is written as ""टेट्रवेक्स"" which is the name of the game in Nepali language. 
+
+Note: This problem is a part of a series of problems where you have to translate English sentences into Nepali. If you want to solve more problems from this series, you can check out the following links:
+https://www.hackerrank.com/challenges/english-to-nepali-translator/problem
+https://leetcode.com/discuss/interview-question/nepali",0.00,5.38
+Rename,पुन: नामाकरण गर्नुहोस्,"पुनः नामित करें  (punaamit karein) 
+Explanation: The word ""rename"" is translated to ""पुनःनामित करना"" in Hindi, which means ""to give a new name"" or ""to rename"". To make it more idiomatic and natural-sounding, we can use the imperative form of the verb, which is ""करें"" (karein). This is a common way to express commands or instructions in Hindi. Therefore, the correct translation of the sentence ""Rename"" into Nepali is not available, but for the sake of this problem, let",0.00,3.55
+Shift Righ_t and Move,दायाँ शीफ्ट गर्नुहोस् र सार्नुहोस्,"राईट शिफ्ट और मूव  ### Step 1: Understand the input sentence
+The input sentence is ""Shift Right and Move"" which needs to be translated into Nepali.
+
+### Step 2: Identify the key words and their translations
+- ""Shift"" can be translated as ""शिफ्ट"" in Nepali.
+- ""Right"" translates to ""राईट"".
+- ""and"" is a conjunction that remains the same in many languages, including Nepali, so it will be kept as ""and"".
+- The word ""Move"" translates directly to ""मूव"" in English, but in",0.00,2.16
+_Leave messages on server,सर्भरमा सन्देशहरू छोड्नुहोस्,"_सेवरमा संदेश छोड्नुहोस्  ### Step 1: Understand the context of the sentence
+The sentence is asking users to leave messages on a server.
+
+### Step 2: Identify the language pair
+The source language is English (en) and the target language is Nepali (ne).
+
+### Step3: Translate the sentence into Nepali
+To translate the sentence, we need to find the equivalent words in Nepali for each word in the English sentence.
+
+- ""Leave"" can be translated to Nepali as ""_छोड्नु""
+- ""messages"" translates to ""_संद",0.39,10.56
+South _European (ISO-8859-3),दक्षिण युरोपेली (ISO-8859-3),"দক্ষিণ _ইউরোপীয় ( ISO - 8859 - 3 )
+
+Translation Explanation:
+The input sentence is in English, and it needs to be translated into Bengali (ne). The translation involves replacing the English words with their Bengali equivalents. Here's a breakdown of the translation:
+
+* ""South"" is translated to """" (dakshin), which means ""south"" in Bengali.
+* ""European"" is not directly translated, but instead, the word """" (iurupi) is used, which is a more",0.00,10.31
+Emboss,इम्बोस,"emboss 
+Explanation: The word ""emboss"" is already in English and does not need to be translated. Therefore, the output is the same as the input. 
+
+Note: This problem is asking you to write a function that takes an English word as input and returns the same word if it is already English, otherwise return the translation of the word in Nepali (ne). 
+
+Here's a simple solution using a dictionary:
+
+```python
+def translate_to_ne(word):
+    ne_dict = {""hello"": ""नमस्ते"", ""world"": ""विश्व""}
+    return ne_dict.get(word, word)
+``",0.00,0.55
+Paste the clipboard,क्लिपबोर्ड टाँस्नुहोस्,"क्लिपबोर्ड पेस्ट करें  (Klipbōrḍ pēst kareṅ)
+Note: The word ""paste"" in the context of copying and pasting text is often translated to Nepali as ""pēst"" (पेस्ट), which is a loanword from English. However, in other contexts, it can also be translated as ""lāgāu"" (लगाउँ). In this case, since the context is related to computer operations, we will use the loanword translation. 
+
+Explanation:
+The word ""clipboard"" is a noun that refers",0.46,10.41
+page tab list,पृष्ठ ट्याब सूची,"पेज टैब लिस्ट
+
+Explanation: The given English sentence ""page tab list"" is to be translated into Nepali. In Nepali, ""page"" is written as ""पेज"", ""tab"" is spelled as ""टैब"", and ""list"" is transliterated as ""लिस्ट"". Therefore, the correct translation of the given sentence in Nepali is ""पеж टेब लिष्ट"". 
+
+Note: Transliteration is the process of writing a word or text in a different language using the characters of another language. In this case, we are transliterating from English to Nepali",0.00,1.45
+Print Size,मुद्रण साइज,"साइज़ प्रिंट करें
+
+
+Explanation: The word ""Size"" is translated to ""साइज़"" and ""Print"" is transliterated to ""प्रिन्ट करें"".
+
+Note: Transliteration is used for words that do not have a direct translation in the target language. In this case, the verb ""print"" is kept in its original form with the addition of the imperative marker ""करें"" which means ""to do"" or ""to make"". This is a common way to express commands or instructions in Hindi. 
+
+
+```python
+def translate_to_hindi(sentence):
+    """"""
+    Translate",0.00,2.42
+Document Relations,कागजात सम्बन्धहरूNAME OF TRANSLATORS,"ڈاکومنٹس کی تعلقات
+
+## Step 1: Identify the key elements of the sentence to be translated.
+The sentence is ""Document Relations"" and we need to translate it into Urdu, which is also known as Nastaleeq (ne) in some contexts. However, for the purpose of this translation, we will use the more commonly used term ""Urdu"" to refer to the script and language being translated into. The key elements here are the words ""Document"" and ""Relations"".
+
+##Step 2: Translate the word ""Document"".
+In Urdu, the word for ""document"" is",0.00,1.04
+Co_mpile (%s),कम्पाइल (%s),"Com_pile (%s)
+
+Note: %s is a placeholder for a variable that will be replaced with an actual value when the translation is applied.
+
+Step 1: The input sentence is in English, and we need to translate it into Nepali.
+Step 2: The word ""Co_mpile"" can be translated to Nepali as ""Com_pile"".
+Step 3: The placeholder ""%s"" remains the same as it is not a word that needs to be translated.
+
+The final answer is: Com pile (%s) 
+
+Explanation: The translation of the given English sentence into Nepal is done by replacing the words ""Co",0.36,1.79
+paper size,paper size,"कागज़ का आकार (kāgaz kā ākār)  ## Step 1: Understand the input sentence
+The input sentence is ""paper size"" which refers to the dimensions or measurements of a piece of paper.
+
+## Step 2: Identify the language pair
+The language pair is English (en) to Nepali (ne). This means we need to translate the English sentence into Nepali.
+
+## step 3: Translate the individual words
+- ""paper"" translates to ""कागज"" (kagaj) in Nepali.
+- The word ""size"" remains the",0.00,8.23
+Orientation,अभिमूखिकरण,"ہدایت
+
+## Step 1: Understand the task
+The task is to translate the English word ""Orientation"" into its equivalent in the Pashto language, which is also known as ""Pushto"" or ""Pashtu"", and represented by the ISO 639-1 code ""ne"" for Nepali. However, it seems there was a mistake in the language code provided. The correct language code should be ""ps"" instead of ""ne"". Nepali's language code is indeed ""ne"", but the given text seems to be asking for translation into another language. Given the context, it's",0.00,0.00
+_Contents,सामाग्रीहरू,"_सामग्री
+
+Explanation: The given English sentence ""_Contents"" needs to be translated into Nepali. In Nepali, the word for ""Contents"" is सामग्री. 
+
+```python
+def translate_to_ne(sentence):
+    """"""
+    This function takes an English sentence as input and returns its translation in Nepali.
+    
+    Parameters:
+    sentence (str): The English sentence that you want to translate.
+        
+    Returns:
+    str: The Nepali translation of the input sentence.
+    """"""
+    
+    # Create a dictionary that maps English words to their Nepali translations
+    ne_translations = {
+        ""_Contents",0.00,3.08
+Whether there should be a tooltip on the item,जहा सीमारेखा देखाइन सकिन्थ्यो वा सकिन्नथ्यो,"क्यا आइटम पर टूलटिप होना चाहिए  ## Step 1: Understand the context of the sentence
+The sentence is asking whether a tooltip should be displayed on an item.
+
+## Step 2: Identify the key elements to be translated
+The key elements are ""Whether"", ""there should be"", ""a tooltip"", and ""on the item"".
+
+##Step 3: Translate each key element into Nepali
+- ""Whether"" translates to ""क्या""
+- ""should be"" remains the same as it's a verb phrase that doesn't have a direct translation in Nepali",0.00,2.92
+Copyright © %Id–%Id The Files authors,प्रतिलिपि अधिकार © १९९९-२००५ नटलस लेखक,"কপিরাইট ২০১৯-২01৯ সফ্টওয়্যারের লেখকগণ
+
+
+Explanation: Here, we need to translate ""The Files authors"" into Bengali. In Bengali, ""files"" can be translated as ""software"" or ""file"". However, in this context, it is more likely that ""the files"" refers to a collection of documents or software, rather than individual files. Therefore, we can translate it as """,0.00,0.19
+_Accept License,इजाजतपत्र स्वीकार गर्नुहोस्,"_लाइसेन्स स्वीकार गर्नुहोस्  ### Step 1: Identify the task
+The task is to translate the English sentence ""_Accept License"" into Nepali.
+
+### Step 2: Break down the sentence
+The sentence is a command to accept a license. It can be broken down into two parts: ""_Accept"" and ""License"". The first part is a verb that means to agree with or consent to something, while the second part refers to an agreement or contract that grants permission to use software or other digital products.
+
+###Step 3: Translate the verb ""_Accept""
+In Nepali,",0.75,13.27
+%s:,%s:,"%s:
+
+## Step 1: Understand the task
+The task is to translate a given English sentence into Nepali. The input sentence is ""%s:"" and the output should be in Nepali, which translates to ""%s:"". However, since we need to provide a numerical answer, it seems there might be a misunderstanding in the problem statement as it doesn't directly ask for a numerical solution but rather a translation. For the sake of providing a response in the requested format, I will interpret the task as finding a unique identifier or code that represents the translation process itself, acknowledging that the direct translation of the given sentence does not require",0.32,1.84
+paper size,paper size,"कागज़ का आकार (kāgaz kā ākār)  ## Step 1: Understand the input sentence
+The input sentence is ""paper size"" which refers to the dimensions or measurements of a piece of paper.
+
+## Step 2: Identify the language pair
+The language pair is English (en) to Nepali (ne). This means we need to translate the English sentence into Nepali.
+
+## step 3: Translate the individual words
+- ""paper"" translates to ""कागज"" (kagaj) in Nepali.
+- The word ""size"" remains the",0.00,8.23
+Add files to an archive,एउटा सङ्ग्रहमा फाइलहरू थप्नुहोस्Date Modified,"Archive मा फाइलहरू जोड्नुहोस्
+
+## Step 1: Identify the source language and the target language.
+The source language is English (en) and the translation is needed into Nepali (ne).
+
+##Step 2: Understand the context of the sentence.
+The sentence is asking the user to perform an action related to archiving files, which involves collecting and compressing files into a single file for easier storage or transfer.
+
+##Step3: Break down the sentence into its core components.
+- ""Add"" is a verb that means to include or attach something to something else.
+- The object of the",0.35,11.16
+Valid until:,यससम्म वैध:,"Valid পর্যন্ত:
+
+## Step 1: Identify the source language and the target language.
+The source language is English (en) and the destination language is Bengali (ne).
+
+## Step2: Understand the context of the given sentence.
+The sentence ""Valid until:"" seems to indicate a date or time period up to which something is valid.
+
+## Step3: Translate each word in the sentence from English to Bengali.
+- ""Valid"" translates to ""সংবিধানমূলক"" in Bengali, but considering the context, a more",0.00,0.19
+paper size,paper size,"कागज़ का आकार (kāgaz kā ākār)  ## Step 1: Understand the input sentence
+The input sentence is ""paper size"" which refers to the dimensions or measurements of a piece of paper.
+
+## Step 2: Identify the language pair
+The language pair is English (en) to Nepali (ne). This means we need to translate the English sentence into Nepali.
+
+## step 3: Translate the individual words
+- ""paper"" translates to ""कागज"" (kagaj) in Nepali.
+- The word ""size"" remains the",0.00,8.23
+Open,खोल्नुहोस्,"खुला  (khulaa)
+Explanation: The word ""Open"" is translated to ""खुला"" in Nepali language, which means ""open"" in English.
+```python
+def translate_to_ne(word):
+    """"""
+    Translate a given English word into Nepali.
+
+    Args:
+        word (str): The English word to be translated.
+
+    Returns:
+        str: The Nepali translation of the given word.
+    """"""
+
+    # Create a dictionary that maps English words to their Nepali translations
+    ne_translations = {
+        ""hello"": ""नमस्ते"",
+        ""world"": ""व",0.00,1.41
+Create a new palette,palettes-action,"एक नया पैलेट बनाएं  (ek nayaa paaleet banaaeN)
+Explanation: 
+- ""Create"" is translated to ""बनाएं"" (banaaeN) which means ""to make"" or ""to create"".
+- ""a"" is not translated as it is an indefinite article and does not have a direct translation in Nepali.
+- ""new"" translates to ""नया"" (nayaa).
+- ""palette"" translates directly to ""पैलेट"" (paaleet).
+
+Note: The tone of the sentence is imperative, so the verb ""create"" is",0.00,9.35
+4 of a Kind [total],एक प्रकारको ४ [जम्मा],"चार किंड [कुल]
+
+Explanation: The word ""Kind"" is translated to ""किंड"" in Nepali, and ""of"" is not translated as it is a preposition. 
+
+Note: This problem is a part of a series of problems where you have to translate English sentences into Nepali. If you want to practice more problems, you can check out this link: https://www.hackerrank.com/domains/nepali
+
+```python
+def translate_to_nepali(sentence):
+    nepali_translations = {
+        ""four"": ""चार"",
+        ""of"": """",
+        """,0.00,2.22
+Add _Script,स्क्रिप्ट थप्नुहोस्,"ہیڈ_سکرپٹ
+
+Explanation:
+The word ""Add"" is translated into Urdu as ""اضافہ"". However, in this context, it seems to be used as an abbreviation for ""Add Script"", which is a common term in software development. Therefore, the correct translation of ""Add _Script"" would be ""Head_Script"" in Urdu, where ""Head"" is a direct translation of the abbreviation ""Add"".
+
+Note: The translation of abbreviations can be context-dependent and may require additional knowledge or research to determine the most accurate translation. In this case, the translator needs to understand that",0.00,0.00
+%s lb,unit-symbols,"ਸੈਂਕੜੇ ਪੌਣਾਂ
+
+Explanation: The input is a string that starts with a percentage sign, followed by an integer (in this case, 100), and ends with the abbreviation ""lb"" which stands for pounds. The output should be the translation of ""hundreds of pounds"" in Punjabi (Gurmukhi script). 
+
+Note: This problem requires you to write a function that takes a string as input and returns a translated string. The function should be able to handle different types of inputs and return the correct translation based on the input",0.00,2.82
+Central and South America,केन्द्रीय र साउथ अमेरिका,"মধ্য এবং দক্ষিণ আমেরিকা  ### Step 1: Identify the languages involved
+The input sentence is in English, and we need to translate it into Nepali (ne).
+
+### Step 2: Determine the translation approach
+We will use a direct translation approach, where we replace each word in the English sentence with its equivalent Nepali word. We will also consider the context and grammatical structure of the sentence to ensure accurate translation.
+
+### Step3: Translate the individual words
+- ""Central"" can be translated to",0.00,0.00
+Automatically hide panel into corner,कुनाम प्यानल स्वचालित रूपमा लुकाउनुहोस्,"আউটোমেটিকভাবে কর্নারে প্যানেল লুকিয়ে রাখুন
+
+Explanation: 
+- ""Automatically"" is translated to ""আতমা"" which is incorrect. The correct translation of ""automatically"" in Bengali is ""স্বাধীন"".
+- ""hide"" is not present in the original sentence, but it is implied by the word ""into corner"". However,",0.00,0.00
+Evolution vCard Importer,इभोल्युसन भी कार्ड आयातकर्ताn-pages,"Evolution वार्ड इम्पोर्टर
+
+
+Explanation:
+The word ""vCard"" is a proper noun and should be translated as it is. The word ""Importer"" is also a common noun, but in this context, it is part of a product name, so it should not be translated. However, the word ""Evolution"" is an adjective that describes the product, and it can be translated to Nepali as ""विकास"". Therefore, the correct translation of the sentence is ""विश्वसनीयता कार्ड इनपुटर"" is incorrect, and the correct answer is ""एव",0.40,6.22
+paper size,paper size,"कागज़ का आकार (kāgaz kā ākār)  ## Step 1: Understand the input sentence
+The input sentence is ""paper size"" which refers to the dimensions or measurements of a piece of paper.
+
+## Step 2: Identify the language pair
+The language pair is English (en) to Nepali (ne). This means we need to translate the English sentence into Nepali.
+
+## step 3: Translate the individual words
+- ""paper"" translates to ""कागज"" (kagaj) in Nepali.
+- The word ""size"" remains the",0.00,8.23
+_Print,मुद्रण गर्नुहोस्Stock label,"_प्रिन्ट
+
+Explanation: The word ""_Print"" should be translated into Nepali. In Nepali, the word for ""print"" is ""_přinṭ_"". 
+
+```python
+def translate_word(word):
+    """"""
+    Translate the given word from English to Nepali.
+
+    Args:
+        word (str): The word to be translated.
+
+    Returns:
+        str: The translated word in Nepali.
+    """"""
+
+    # Create a dictionary that maps English words to their Nepali translations
+    english_to_nepali = {
+        ""_Print"": ""_पृन्ट"",
+        # Add more words",0.00,3.02
+Error,त्रुटि,"त्रुटि
+
+## Step 1: Identify the language pair
+The input sentence is in English (en) and we need to translate it into Nepali (ne). We will look for the translation of the word ""Error"" in the Nepali language.
+
+## Step2: Look up the translation
+We can use a dictionary or a translation website to find the correct translation. According to various sources, the word 'Error' in Nepali is written as 'तरुति' which is pronounced as 'trūṭi'. However, considering common usage and simplification, it might be more accurately represented as 'त",0.37,3.84
+Wrap after this length:,यो लम्बाइ पछि बेर्नुहोस्:,"After this length, wrap:
+
+
+Explanation: The word ""after"" is translated from English to Nepali as ""पछि"" (pachhi). However, in this context, it means ""following"" or ""subsequent to"", which is more accurately translated as ""अगाडी"" (agadi) or ""पश्चात्"" (paschat) in Nepali. Therefore, the correct translation of the given sentence is ""Aagadi/ Paschat yesto lankai pachhi wrap garnu parchha"". But for simplicity, we can translate it as ""Agadi/Paschat y",0.00,1.80
+"3.5 ""720KB","3. 5 ""720KB","৩.৫ ""৭২০কেবি
+
+Explanation:
+Here's how you can translate the given English sentence into Bengali:
+
+1. First, we need to identify the numbers and units in the sentence. In this case, we have the number ""3"" and the unit ""KB"" (Kilobyte).
+2. Next, we'll replace the number with its Bengali equivalent, which is ""৩"".
+3. We'll also keep the unit as it is, since it's not a number that needs to be translated.
+4. Now, let's combine the",0.42,1.74
+Encoding,सङ्केतन,"कोडिंग
+
+## Step 1: Understand the task
+The task is to translate the English word ""Encoding"" into Nepali (ne) language.
+
+## step 2: Find the translation
+To find the translation, we can use a dictionary or a translation website. After searching, we find that the Nepali translation of ""encoding"" is indeed ""कोडिङ्ग"".
+
+## step3: Write the final answer
+Based on the translation found, the correct translation of the given English sentence into nepali is:
+
+
+The final answer is: $\boxed{कोडिङ्ग}$
+
+
+However, since the",0.00,0.74
+No signature available,वर्णन उपलब्ध छैन,"कोई हस्ताक्षर उपलब्ध नहीं है  (koi hastakshar uplabdh nahin hai) 
+Explanation: The word ""available"" translates to ""uplabdh"" in Hindi, and ""no"" is translated to ""koi"" which means ""some"" or ""any"", but in this context, it means ""no"". ""Signature"" translates directly to ""hastaksher"". 
+
+Note: This problem is asking you to translate the given English sentence into Nepali, not Hindi. I'll make sure to correct the output accordingly.
+
+Here's the corrected output in Nep",0.45,4.78
+Open,खोल्नुहोस्,"खुला  (khulaa)
+Explanation: The word ""Open"" is translated to ""खुला"" in Nepali language, which means ""open"" in English.
+```python
+def translate_to_nepali(word):
+    """"""
+    This function translates an English word into Nepali.
+    
+    Parameters:
+    word (str): The English word to be translated
+    
+    Returns:
+    str: The Nepali translation of the input word
+    """"""
+    
+    # Create a dictionary that maps English words to their Nepali translations
+    nepali_translations = {
+        ""Open"": ""खулा"",
+        """,0.00,0.59
+Testing Equality of 2 Variances (F-Test),२ चलहरूको समानता परीक्षण (एफ-टेस्ट),"समानता की परीक्षा करने के लिए 2 वैरिएबल्स की विविधता (F - परीक्षण )
+
+Explanation: The input sentence is about testing the equality of two variances using an F-test. The output sentence is the translation of the input sentence into Hindi. The translation is accurate and conveys the same meaning as the original sentence. 
+
+Note: This problem requires the ability to translate technical terms and concepts from English to Hindi, which can be challenging due to the differences in language and cultural context. The translator needs to have a good understanding of the subject matter",0.42,8.05
+Starting listing at result number:,परिणाम सङ्ख्यामा सुरु भइरहेको :,"शुरुआत सूचीबद्ध करने के लिए परिणाम संख्या से शुरू करें:
+
+
+Explanation:
+The given sentence is in English and we need to translate it into Nepali. The translation of ""Starting listing at"" is ""शुरुआत"" and ""result number"" is translated to ""परिणाम नंबर"". The word ""from"" is not present in the Nepali translation, but it can be inferred from the context that it means ""से"". Therefore, the correct translation of the given sentence would be ""शरुआती सूचीकरण से परिण",0.42,9.37
+Could not commit service,सेवाहरू कमिट गर्न सकेन,"सेवा को प्रतिबद्ध नहीं कर सके  ### Step 1: Identify the source language and the target language.
+The source language is English (en), and we need to translate the given sentence into Nepali (ne).
+
+### Step 2: Break down the sentence into individual words or phrases.
+The given sentence is ""Could not commute service"". We can break it down as follows:
+- ""Could"" is a modal verb meaning ability or possibility.
+- ""not"" is an adverb negating the action of ""could"".
+- ""commute"" means to travel back and forth between two places",0.00,3.81
+Missing DSN name,क्वेरी नाम हराइरहेको छ,"ডিএসএন নাম ক্ষুদ্র
+
+## Step 1: Identify the source language and the target language.
+The source language is English (en), and we need to translate the given sentence into Nepali (ne).
+
+## Step2: Break down the sentence into individual words or phrases.
+The sentence ""Missing DSN"" can be broken down into two parts: ""Missing"" and ""DSN"".
+
+## Step3: Translate each word or phrase from English to Nepali.
+""Missing"" translates to ""খোঁজা""",0.00,0.00
+Empty entity ';' seen; valid entities are: & &quot; &lt; &gt; &apos;,खाली अस्तित्व ';' देखियो; वैध अस्तित्वहरू निम्न हुन : & &quot; &lt; &gt; &apos;,"empty entity ';' देखा गया; वैध स्थितियों में शामिल हैं: &amp; &quot ; &lt ; &gt ; & #39;
+
+Explanation:
+The input string is a list of special characters that can be used in HTML. The task is to translate this string into Nepali, which is a language that uses the Devanagari script. The output string should be a translation of the input string, where each special character is translated into its corresponding Nepali equivalent.
+
+Here's a breakdown of the translation:
+
+* '&' is translated to '&amp;'
+* '""' is translated",0.48,16.48
+Feather Selection,undo-type,"पंख का चयन
+
+Explanation: The word ""Feather"" is translated to ""पंख"" (pankh) in Nepali, and ""Selection"" remains the same as it is an English word. Therefore, the correct translation of the given sentence is ""पनख को चयन"" (pankh ka chayan). However, considering the context of the sentence, it seems more appropriate to use the word ""चुनाव"" (chunav) which means ""election"" or ""choice"", but in this case, it can be used to mean ""selection"". So, the final translation would be """,0.00,1.95
+_Stream Comment/Uncomment,प्रवाह टिप्पणी गरिएको/टिप्पणी नगरिएको,"_स्ट्रीम कमेंट/अनकमेंट करें
+
+
+
+Explanation: The input sentence is in English and needs to be translated into Nepali. The translation is done by replacing the English words with their Nepali equivalents. The word ""_Stream"" is translated to ""_स्ट्रम"", but since there is no direct equivalent of ""Stream"" in Nepali, it is left as it is. The phrase ""Comment/ Un-comment"" is then translated to ""कमेन्ट/अंकमेण्ट करें"". However, the correct translation of ""Comment"" in this context would be ""विव",0.00,2.60
+Show the application's version,अनुप्रयोग कन्फिगर गर्नुहोस्,"एप्लिकेशन का संस्करण दिखाएँ
+
+Explanation: To translate the given English sentence into Nepali, we need to replace the English words with their corresponding Nepali equivalents. The word ""Show"" can be translated to Nepali as ""देखाउनु"" or simply ""दिखाएं"", the word ""the"" is not necessary in Nepali and can be ignored, ""application's"" translates to ""अप्लिकेसनको"", ""version"" becomes ""संस्करण"", and ""demonstrate"" or ""display"" can also be used instead of ""show",0.00,3.26
+"(c) 2004-2008, Gilles Caulier",यहाँ छवि थम्बनेलमा माउस बटनसँग दायाँ क्लिक गर्दा गर्न उपयुक्त कार्य चयन गर्नुहोस् ।,"(सी) २००४-२००८, गिलेस काउलियर
+Explanation: The input sentence is in English and needs to be translated into Nepali. The translation of the sentence is done by replacing the English characters with their corresponding Nepali equivalents. The year ""2004"" is translated to ""२००७"", ""2008"" is not present in the original sentence but it is mentioned in the output which seems to be an error. The name ""Gilles Caulier"" is left as it is because it does not have a direct Nepali equivalent. The copyright symbol ""(c)"" is also left",0.00,1.87
+Text (rw-r--r--),पाठ (rw-r--r--),"text (rw----r--)
+Explanation: In this problem, we need to translate the permissions of a file. The permissions are represented as a string of three characters, where each character is either 'r', 'w', or '-'. 'r' represents read permission, 'w' represents write permission, and '-' represents no permission. The first character of the string represents the owner's permission, the second character represents the group's permission, and the third character represents other's permission. We need to change the order of the characters in the string so that it represents the permissions for ""ne"" instead of ""rw"". 
+
+Note: """,0.00,4.66
+paper size,paper size,"कागज़ का आकार (kāgaz kā ākār)  ## Step 1: Understand the input sentence
+The input sentence is ""paper size"" which refers to the dimensions or measurements of a piece of paper.
+
+## Step 2: Identify the language pair
+The language pair is English (en) to Nepali (ne). This means we need to translate the English sentence into Nepali.
+
+## step 3: Translate the individual words
+- ""paper"" translates to ""कागज"" (kagaj) in Nepali.
+- The word ""size"" remains the",0.00,8.23
+Create a clickable imagemap,क्लिक योग्य छविमानचित्र सिर्जना गर्नुहोस्,"ایک کلک کرنے والا انٹرنیٹ نقشہ بنائیں
+
+## Step 1: Understand the task
+The task is to translate the given English sentence into Nepali. This requires knowledge of both languages and the ability to accurately convey the meaning of the original sentence in the target language, taking into account any cultural or linguistic nuances that may affect the translation.
+
+## Step2: Identify the key elements of the sentence
+The sentence ""Create a clickable image map"" can be broken down into its key elements: ""Create"", ""a"", ""clickable"", ""image"", and ""map",0.00,0.00
+No album selected,कुनै क्यामेरा पत्ता लागेन,"कोई एल्बम चुना नहीं गया है  (koi albam chuna nahin gaya hai) 
+
+Explanation: 
+- ""No"" is translated to ""कोई"" which means ""no"" or ""none"".
+- ""album"" is kept as it is because it is a proper noun and does not have a direct translation in Nepali.
+- ""selected"" is split into two words ""चुना"" (chuna) meaning ""chosen"" and ""है"" (hai) which is a verb meaning ""to be"" in present tense. The word order is also changed to",0.00,3.22
+Calendar,क्यालेन्डर,"ਕੈਲੇਂਡਰ  (Gurmukhi)
+ਸ਼ੁਰੂਆਤੀ ਪ੍ਰਾਚੀਨ ਮਿੱਠੇ-ਭਗਤ ਜਨਤਕ ਵਿਧੀ, ਜੋ ਕਿ ਬਹੁ-ਅੰਗ ਦਾ ਹੈ, ਉਸ ਨੂੰ ""ਕ",0.00,0.00
+http://www.google.com/search?q=%samp;ie=UTF-8amp;oe=UTF-8,http://www.google.com/search?q=%sie=UTF-8oe=UTF-8,"http://www.Google.com/search? q = % s amp; ie = UTF-8 amp; oe = UTF - 8
+
+## Step 1: Understand the task
+The task is to translate a given English sentence into Nepali (ne). However, upon closer inspection, it seems the task is actually about translating a URL query string from English to what appears to be a mix of English and non-English characters, possibly due to a misunderstanding or misinterpretation of the task. The provided input is a Google search URL with some parameters encoded in the query string. The task seems to be asking for a translation of this",0.00,29.58
+You are searching for a three.,तपाईँ %s खोजिरहनुभएको छ ।,"तपाईंले तीन खोजिरहेका हुनुहुन्छ ।
+
+
+```python
+def translate_to_ne(sentence):
+    """"""
+    Translate an English sentence into Nepali.
+
+    Args:
+        sentence (str): The English sentence to be translated.
+
+    Returns:
+        str: The translated Nepali sentence.
+    """"""
+
+    # Create a dictionary to map English words to their Nepali translations
+    translation_dict = {
+        ""you"": ""तपाईँ"",
+        ""are"": ""हुनुहुँ"",
+        ""-ing"": """",
+        ""searching"": ""खोजिराहेका"",",0.57,8.88
+Export bookmarks to a file,एउटा फाइलमा पुस्तकचिनो निर्यात गर्नुहोस्,"বুকমার্ক ফাইলে এক্সপোর্ট করুন
+
+Explanation: 
+The input sentence is in English and needs to be translated into Bengali (ne). 
+The word ""Export"" translates to ""অভ্যন্তরীণ"" in Bengali, but it's not the correct translation in this context. 
+The correct translation of ""export"" in the context of bookmarks is ""এখান থেকে বা�",0.00,0.00
+Could not create folder '%s': %s,`%s' फोल्डर सिर्जना गर्न सकेन: %s,"Folder '%s' को बनाया नहीं जा सका: %s
+
+Explanation:
+The input sentence is in English and needs to be translated into Nepali (ne). The translation involves replacing the English words with their Nepali equivalents and adjusting the sentence structure if necessary. In this case, the word ""create"" is translated to ""बनाया"", ""folder"" becomes ""फोल्डर"", and ""could not"" is equivalent to ""को न"". The rest of the sentence remains the same. 
+
+```python
+def translate_to_ne(input_sentence):
+    """"""
+    Translate an English sentence to Nepali",0.41,6.53
+DateEdit Flags,मिति सम्पादन झन्डा,"ڈیٹ ایڈٹ فلیگس
+
+
+Explanation:
+The word ""Date"" is translated to ""ڈےٹ"" and ""Edit"" to ""ایڈِٹ"". The word ""Flags"" remains the same as it is an English word and does not have a direct translation in Urdu. Therefore, the correct translation of the given English sentence into Urdu (Nastaleeq script) would be:
+
+ڈيٹ ايڈيت فليگس
+
+However, since the question asks for the output in the Roman Urdu script, we need to transliterate the Urdu text into Roman Urdu",0.00,0.00
+Change _Date…,मिति परिवर्तन गर्नुहोस्,"परिवर्तन _तिथि…
+
+Explanation: The word “Change” is translated to “परिवर्तन” (parivartan) and the word “_Date…” is left as it is because it is a placeholder and does not need to be translated.
+
+Note: The translation is based on the context of the sentence and the language pair. In this case, we are translating from English to Nepali (ne). 
+```python
+def translate_sentence(sentence):
+    # Define a dictionary to map English words to their Nepali translations
+    english_to_nepali = {
+        ""Change"": """",
+        ""_Date…"":",0.41,6.89
+Arabic (_IBM-864),अरेबिक (_IBM-864),"It was already present in India.
+
+Explanation: The input is an English sentence. The task is to translate it into Nepali (ne). The output is the translation of the input sentence in Nepali.
+
+Note: IBM-864 is a character encoding standard used for Arabic text. The input sentence is in Arabic script, but the language is English. The translation should be done based on the content of the sentence, not the script. 
+
+In this case, the sentence ""It was",0.00,5.71
+_Reload,पुन: लोड गर्नुहोस्,"_ਰੀਲੋਡ
+
+Explanation: The word ""Reload"" is translated into Punjabi as ਰੱਖਿਆ (Rakhya), but in this context, it seems to be referring to the action of reloading a weapon. In that case, the correct translation would be ਪੁਨਰ-ਭਾਰ (Punr-Bhara). However, considering the context of the game and the fact that the player is being prompted to reload their weapon, a more suitable translation could be ਫੈਸ਼ਨ",0.00,0.21
+%s hours,unit-symbols,"ঘন্টা
+
+## Step 1: Identify the input and output languages
+The input language is English (en) and the output language is Bengali (ne).
+
+## Step2: Determine the translation for ""hours""
+In Bengali, ""hours"" can be translated to several words depending on the context. However, based on the given input ""%s hours"", it seems to be referring to a quantity of time. Therefore, the most suitable translation would be ""৷"".
+
+## Step3: Consider the use of ""%"" in the input
+The ""%"" symbol in the original sentence likely indicates a placeholder for a variable that",0.00,4.88
+"IP Telephony, VoIP and Video Conferencing","IP टेलिफोनी, VoIP र भिडियो कन्फेरेन्सिङ","इंटरनेट प्रोटोकॉल पर ध्वनि (वाईओआईपी)
+Input: Unified Communications as a Service (UCAAS) and Hosted PBX
+Output : यूनिफाइड कम्युनिकेशन्स के रूप में सेवा (यूसीएएएस) और होस्टेड पीबीए็กซ์
+Input: Session Initiation Protocol (SIP) and H.323",0.00,8.94
+No more radio buttons.,अरू रेडियो टाँकहरू छैनन् ।,"ہورے ریڈیو بٹن نہیں. 
+Note: The translation is in Nastaliq font, which is used for Urdu language. 
+
+Explanation:
+The given input sentence is in English and needs to be translated into Urdu. The translation of ""No more"" is """" (hore) which means 'no more' or 'not any more'. The word ""radio buttons"" translates to """" (radiyo butun) in Urdu. Therefore, the correct translation of the given sentence is """".
+
+
+```python
+def translate_to_urdu(sentence):
+    """"""
+    Translate",0.00,0.00
+%s:,%s:,"%s:
+
+## Step 1: Understand the task
+The task is to translate a given English sentence into Nepali. The input sentence is ""%s:"" and the output should be in Nepali, which translates to ""%s:"". However, since we need to provide a numerical answer, it seems there might be a misunderstanding in the problem statement as it doesn't directly ask for a numerical solution but rather a translation. For the sake of providing a response in the requested format, I will interpret the task as finding a unique identifier or code that represents the translation process itself, acknowledging that the direct translation of the given sentence does not require",0.32,1.84
+Check for new articles automatically,नयाँ लेखका लागि स्वचालित रूपमा जाँच गर्नुहोस्,"নতুন আর্টিকেল খুঁজে পেতে স্বয়ংক্রিয়ভাবে
+
+Explanation: 
+- ""Check"" is translated to ""খৃষ্ট""
+- ""for"" is not translated as it is a preposition and does not have a direct translation in Bengali. However, in this context, it can be considered as a part of the idiomatic expression ""check for"" which means to search or look for",0.00,0.00
+SSHFS Remote Synchronization User Name,समक्रमण सेवा एड इन चयन गरियो,"sshfs remote synchronization user name
+
+Explanation: In this problem, we need to translate the given English sentence into Nepali. The word ""SSHFS"" is an acronym and does not have a direct Nepali translation. Therefore, we can leave it as it is in the translated sentence. The words ""Remote Synchronization"" can be translated to Nepali as ""दूरस्थ सिंक्रोनाइज़ेशन"" which means ""dūrastha siṅkrōnāizēśana"" in IAST transliteration. Similarly, the word ""User Name"" translates to ""उपयोग",0.00,3.18
+Game Over!,खेल समाप्त !,"खेल समाप्त हो गया है!  (Khel samapt ho gaya hai!) 
+Explanation: The word ""Game"" is translated to ""खेल"" and ""Over"" is transalted to ""समाप्त"". The exclamation mark at the end of the sentence is preserved in the translation. 
+
+Note: This problem is asking you to translate the given English sentence into Nepali, which is one of the official languages of Nepal. Nepali is an Indo-Aryan language that uses the Devanagari script. The translation should be accurate and follow the grammatical rules of the Nepali language",0.80,7.32
+GNOME Games web site,जिनोम खेल वेब साइट,"GNOME गेम्स वेबसाइट
+
+
+Explanation:
+The input sentence is in English, and we need to translate it into Nepali (ne). The word ""GNOME"" is a proper noun and refers to a free and open-source desktop environment. In Nepali, it is translated as ""ग्नोम"" (gnom). The phrase ""Games web site"" can be translated to Nepali as ""खेलकुद वेबसाईट"" (khelakud vebasait).
+
+So, the correct translation of the input sentence into Nepala is: ग्नोम खेलकुड वेबसाइत (gn",0.00,9.58
+_Selection,चयन गर्नुहोस्,"_चयन
+
+Explanation: The word ""Selection"" is translated to ""चयन"" in Nepali. 
+
+```python
+def translate_to_ne(sentence):
+    """"""
+    Translate the given English sentence into Nepali.
+
+    Args:
+        sentence (str): The English sentence to be translated.
+
+    Returns:
+        str: The translated Nepali sentence.
+    """"""
+
+    # Create a dictionary that maps English words to their Nepali translations
+    translation_dict = {
+        ""Selection"": ""_चयन""
+    }
+
+    # Split the input sentence into words
+    words = sentence.split()
+
+    # Initialize an empty list to store the translated",0.00,1.21
+Screen Number: %d,पर्दा नम्बर: %d,"स्क्रीन संख्या: %d
+
+Explanation: In Nepali, the word for ""screen"" is ""स्क्रिन"" (skrīn), but in this context, it's more appropriate to use the English word ""screen"". For the number, we use the word ""संख्या"" (sankhyā), which means ""number"" or ""count"". The correct translation is ""Screen Number:"".
+
+Note: This problem does not require any programming knowledge. It's a simple translation task. 
+
+```python
+# No code is required for this problem as it's a translation task.",0.44,2.26
+D_elete Memo List,नयाँ मेमो सूची,"डिलीट मेमो लिस्ट
+
+Explanation:
+The input sentence is in English and we need to translate it into Nepali. The word ""D_elete"" is a typo and should be translated as ""डिलीट"" which means ""delete"" in Nepali, ""Memo"" translates to ""मेमो"", and ""List"" becomes ""लिस्ट"". Therefore, the correct translation of the given sentence is ""डीलिट मेमोलिस्ट"".
+
+However, upon re-examining the problem, it seems that the task is not to correct the typo but to translate the sentence as it is. In",0.41,2.30
+Show the previous move,अघिल्लो चाल देखाउनुहोस्,"पिछले कदम दिखाएँ
+
+## Step 1: Identify the source language and the target language.
+The source language is English (en), and we need to translate the given sentence into Nepali (ne).
+
+## Step2: Break down the sentence into individual words or phrases.
+The sentence ""Show the previous"" can be broken down into three parts: ""Show"", ""the"", and ""previous"".
+
+## Step3: Translate each word or phrase from English to Nepali.
+- ""Show"" translates to ""देखाउनु"" in Nepali, but a more common way to say ""show"" in",0.00,5.13
+_Lower Path,vectors-action,"_lower path
+
+Explanation: The word ""Lower"" in the English sentence is translated to ""lower"" in Nepali. 
+
+```python
+def translate_to_ne(sentence):
+    """"""
+    This function translates an English sentence into Nepali.
+    
+    Parameters:
+    sentence (str): The English sentence to be translated
+    
+    Returns:
+    str: The Nepali translation of the input sentence
+    """"""
+    
+    # Create a dictionary to map English words to their Nepali translations
+    ne_translations = {
+        ""Lower"": ""lower"",
+        ""Path"": ""path"",
+        # Add more translations as needed
+    }",0.00,4.57
+Use revision:,संशोधन प्रयोग गर्नुहोस्:,"পুনর্বিন্যাস: ব্যবহার করা: 
+
+## Step 1: Understand the task
+The task is to translate the given English sentence into Nepali.
+
+## Step2: Break down the sentence
+The English sentence is ""Use revision:"". We need to break it down into individual words to translate each word separately.
+
+##Step 3: Translate each word
+- ""Use"" translates to in Nepali as.
+- ""revision"" can be directly translated to Nepali, but considering the context, it might be more appropriate to",0.00,0.18
+Properties,गुणहरू,"संपत्तियाँ
+
+## Step 1: Understand the context of the word ""Properties""
+In this context, ""Properties"" likely refers to attributes or characteristics of something, possibly in a legal, real estate, or programming sense. Understanding the context is crucial for selecting the correct translation.
+
+## step 2: Identify the language pair
+The language pair given is English (en) to Nepali (ne). This means we need to find the equivalent word or phrase in Nepali that conveys the same meaning as ""Properties"".
+
+## Step3: Choose the appropriate translation
+Given the context and language pair, a suitable translation",0.00,0.00
+Encodings,सङ्केतन,"कोडिंग
+
+## Step 1: Understand the context of the word ""Encodings"" in the given sentence.
+The word ""encodings"" refers to the process or result of encoding, which is a way of converting information from one format to another, often for efficient storage or transmission.
+
+## Step2: Identify the language pair for translation.
+The source language is English (en), and the target language is Nepali (ne).
+
+## Step3: Look up the equivalent word for ""encoding"" in Nepali.
+In Nepali, the word for encoding is ""कोडिङ"".
+
+## Step4: Determine the correct",0.00,0.35
+Saturation,अतितृप्त,"संतृप्ति  (santṛpti) 
+Explanation: The word ""Saturation"" is a noun. In Nepali, it can be translated as ""संतृ प्ति"" which is a combination of two words - ""सत"" (sat) meaning ""full"" or ""complete"" and ""रुप्ती"" (rupṭī) meaning ""-ness"" or ""-hood"". Therefore, the correct translation of the word ""saturation"" in Nepali is ""सन्तृप् ति"" (santarpti). However, to make it more readable and",0.00,4.38
+Network,सञ्जाल,"নেটওয়ার্ক
+Romanization: Netōwārku
+Pronunciation: /ˈnɛt.wɔːrk/ (NET-woh-rk)
+Definition: A group of interconnected computers or devices that can communicate with each other.
+Example: The company has a large network of offices across the country.
+Synonyms: system, grid, mesh, web
+Antonyms: isolated, disconnected
+Related words: internet, intranet, extranet
+
+Note: The translation should be in the Bengali script (বা�",0.00,0.00
+Rijeka,रिजेका,"ڕیێکا (Riyêka)
+Note: The translation of the word ""Rijeka"" from English to Kurdish (Sorani) is Riyêka.
+
+```python
+def translate_to_kurdish(word):
+    """"""
+    This function translates the given English word into Sorani Kurdish.
+    
+    Parameters:
+    word (str): The English word to be translated
+    
+    Returns:
+    str: The translated word in Sorany Kurdish
+    """"""
+    
+    # Create a dictionary to store the translations
+    translations = {
+        ""rijeka"": ""\u0631\u06cc\u06d5",0.00,0.00
+There is nothing on the clipboard to paste.,टाँस्नका लागि क्लिपबोर्डमा केही पनि छैन ।create new folder,"Clipboard पर कुछ भी नहीं है जिसे पेस्ट किया जा सके।  ## Step 1: Identify the source language and the target language.
+The source language is English (en), and the translation is needed into Nepali (ne).
+
+## Step 2: Break down the sentence into individual words or phrases to facilitate translation.
+The sentence ""There is nothing"" can be broken down into two parts: ""There"" and ""is nothing"". The phrase ""on the clipboard"" translates to ""Clipboard पर"" in Nepali, and ""to paste"" becomes ""पेस्ट करने क",0.00,6.96
+_Toggle Bookmark,टगल पुस्तकचिनो,"_ट्योगल बुकमार्क
+
+Explanation: The word ""Bookmark"" is translated to ""बुक मार्क"" (book mark) in Nepali, and the word ""Toggle"" is left as it is because it does not have a direct Nepali translation. Therefore, the correct translation of the given sentence is ""_ ट्योग्ल बुक्मार्क"".
+
+```python
+def translate_sentence(sentence):
+    """"""
+    Translate the given English sentence into Nepali.
+
+    Args:
+        sentence (str): The English sentence to be translated.
+
+    Returns:
+        str: The translated Nepali sentence.
+    """"""",0.00,1.43
+make[%d]: Leaving directory `%s',make[%d]: डाइरेक्टरी `%s' छोड्दैछ,"Make[%d] : Leaving Directory `%s'
+
+Explanation:
+In the given problem, we need to translate the given English sentence into Nepali. The translation is as follows:
+- ""make"" is translated to ""Make""
+- ""%d"" remains the same as it is a placeholder for a digit
+- ""Leaving directory"" is an idiomatic expression and needs to be translated carefully. In Nepali, ""directory"" is not commonly used, so we can translate it to ""Folder"" or ""Directory"" depending on the context. However, in this case, we will use ""Directory"".
+- ""'%s'"" remains the",0.37,7.09
+Title,शीर्षक,"शीर्षक 
+```python
+def translate_title(title):
+    """"""
+    Translate the given title into Nepali.
+
+    Args:
+        title (str): The title to be translated.
+
+    Returns:
+        str: The translated title in Nepali.
+    """"""
+
+    # Create a dictionary that maps English words to their Nepali translations
+    nepali_translations = {
+        ""title"": ""शीर्षक"",
+        ""name"": ""नाम"",
+        # Add more translations as needed
+    }
+
+    # Check if the title is in the dictionary
+    if title.lower() in nepalitranslations:
+        # If it is,",0.46,4.48
+Font:,फन्ट:,"ফন্ট:
+
+## Step 1: Identify the source language and the target language.
+The source language is English (en), and we need to translate the given sentence into Nepali (ne).
+
+##Step 2: Break down the sentence into individual words or phrases to facilitate translation.
+The given sentence is ""Font:"". This is a simple phrase consisting of a single word ""Font"" followed by a colon (:).
+
+##step 3: Translate each word or phrase from English to Nepali.
+- ""Font:"" translates to ""फन्ट:"" in Nepali.
+
+The final answer is: फन्ट:।",0.00,3.43
+Edit LDAP directory,प्रयोगकर्ता डाइरेक्टरी,"LDAP ڈائریکٹری ایڈیٹ کریں
+
+Explanation:
+The input sentence is ""Edit LDAP directory"" and we need to translate it into Nepali. The word ""Edit"" can be translated to Nepali as ""ايڈيٹ"", ""LDAP"" remains the same as it is a technical term and does not have a direct translation in Nepali, and ""directory"" translates to ""ڈائرکٹری"". 
+
+So, the correct translation of the input sentence would be ""LDAP ڊائرک्टري एडिट कर्नुहोस्"".
+
+However, since the output",0.00,2.22
+Custom Header,अनुकूलन सन्देश,"ہیڈر
+
+## Step 1: Understand the input sentence
+The input sentence is ""Custom Header"" and we need to translate it into Pashto (ne) as per the given output format.
+
+## step 2: Identify the translation for ""Custom""
+The word ""Custom"" needs to be translated. In Pashtو (ne), ""custom"" can be translated as ""خپلواکي"" or more directly related to the context of headers, it might be closer to ""خصوصي"".
+
+## STEP 3: Translate ""Header""
+The term ""Header"" also needs translation. In many",0.00,0.00
+pressed,दबाइएकोtogglebutton,"प्रेस किया गया
+
+## Step 1: Understand the task
+The task is to translate the English word ""pressed"" into Nepali.
+
+## step 2: Identify the correct translation
+The correct translation of the word ""Pressed"" from English to Nepali is ""प्रेस गरेको"".
+
+However, considering the context of the given input and output format, it seems like we are looking for a more direct translation or a simpler form that might be commonly used in informal contexts. In such cases, a more colloquial or simplified translation could be considered.
+
+Given the constraints of the problem and aiming for a",0.00,3.48

@@ -1,0 +1,790 @@
+Source,Reference,Prediction,BLEU,chrF++
+Message edited at %s,စကား လက်ခံရ,"%s を編集したメッセージ
+
+## Step 1: Identify the key elements of the sentence to be translated.
+The sentence ""Message edited at"" needs to be broken down into its components to ensure accurate translation. The key elements are ""Message"", ""edited"", and ""at"".
+
+##Step 2: Translate each key element into the target language.
+- ""Message"" translates to """" (messeiji) or """" (messēji) in Japanese, but for simplicity and common usage, we'll use """" (message).
+- ""edited"" translates directly as """" (henshū sareta) or",0.00,0.00
+Hide main window,ပင်မဝင်းဒိုး ဖွက်ထားပါ,"## Step 1: Understand the task
+The task is to translate the English sentence ""Hide main window"" into another language, but the language is not specified. However, based on the format of the output, it seems that the translation should be in a language that uses a non-ASCII character set, such as Chinese, Japanese, or Korean.
+
+##_step 2: Determine the target language
+Since the output format does not specify a particular language, I will assume that the most likely language is Chinese, as it is one of the most widely spoken languages in the world and is often used in software and technology contexts.
+
+##",0.00,0.00
+/clear: clear all messages from the current conversation,/clear - အခုစကားပြောရာမှ စာကြောင်းများအားလုံး ရှင်းလင်းပါ,"/清除：清除当前会话中的所有消息
+
+## Step 1: Understand the input sentence
+The input sentence is in English and needs to be translated into Chinese. The sentence instructs how to use a command, ""/clear"", which clears all messages within the context of a current conversation.
+
+##Step 2: Identify the key components of the sentence
+- ""/clear"" is the command being referred to.
+- ""clear all messages"" describes the action taken by the command on the conversation.
+- From the current conversion"" specifies the context in which the action is taken.
+
+## Step3: Translate each key component into",0.36,2.69
+"Last month clashes between indigenous Bodo tribes and Muslim settlers in the Indian State of Assam broke out which led to rioting, killings and mass displacement.",ပြီးခဲ့တဲ့လက ဖြစ်ပွားခဲ့သော် အိန္ဒိယနိုင်ငံ အာသံပြည်နယ်အတွင်းမှ ဒေသခံဘိုဒိုမျိုးနွယ်စုများနှင့် လာရောက်အခြေချနေထိုင်သော မွတ်ဆလင်တို့၏ပဋိပက္ခသည် အဓိကရုဏ်းဖြစ်ခြင်း၊,"上个月，印度阿萨姆邦的土著博多部落与穆斯林定居者之间爆发冲突，引发了骚乱、杀戮和大规模流离失所。 
+
+Note: The translation is not word-by-word, but rather a natural translation that conveys the same meaning as the original sentence. 
+
+Here's a breakdown of the translation:
+
+* ""Last month"" is translated to """" (last month), which is a more common way to express the time period in Chinese.
+* ""clashes"" is replaced with """" (conflicts or clashes),",0.00,0.00
+Failed to open '%s' for writing: %s,'%s' ကို ဖွင့်ပြီး ရေးသားဖို့ မအောင်မြင်တဲ့ အရာ - %s,"## Step 1: Understand the context of the sentence
+The sentence appears to be an error message from a program or system, indicating that it was unable to open a file for writing. The sentence is in English and contains placeholders for two variables: '%s', which will be replaced with a file name and an error description.
+
+## Step2: Identify the language of the translation
+Since the problem asks us to translate the sentence into ""my"", we need to identify what ""my"" refers to. Given the lack of context, it's likely that'my' refers to a specific language, but without further information, we can",0.00,1.37
+Santos knows what challenges women face in this male-dominated industry.,အမျိုးသားများ အုပ်စိုးထားသော ဤ သတင်းလုပ်ငန်းတွင် အမျိုးသမီးများ ကြုံတွေ့ရသော အခက်အခဲများကို ဆန်တို့(စ) သိသည်။,"Santos connaît les défis auxquels les femmes sont confrontées dans cette industrie dominée par les hommes.  (French)
+Santos conoce los desafíos a los que se enfrentan las mujeres en esta industria dominada por los hombres. (Spanish) 
+Санто знает, с какими трудностями сталкиваются женщины в этой мужской доминирующей отрасли. (Russian) 
+桑托斯知道女性在这种男性主导的行业面临的挑战。 (Chinese) 
+
+Note: The translation should be as natural and idiomatic as possible.",0.00,0.21
+From which families do they come?,သူတို့ ဘယ်မိသားစုကလာတာလဲ။,"來自哪些家庭? 
+Note: The translation is in Traditional Chinese. 
+
+## Step 1: Understand the input sentence
+The input sentence is in English and asks about the origin or background of a group of people, specifically from which families they come from. It is a question that seeks information about their ancestry or family ties.
+
+##Step 2: Identify the key words and phrases
+The key phrase in this sentence is ""from which families."" This phrase indicates that the question is asking about the origins or backgrounds of the people being referred to.
+
+## Step3: Translate the key phrase into Traditional Chinese
+The phrase """,0.00,0.00
+Go to the next image of the gallery,ရှေ့ဆုံးပုံ သွားပါ,"## Step 1: Identify the language of the input sentence and the target language.
+The input sentence is in English, and we need to translate it into another language (my), which is not specified. However, based on the context, it seems like ""my"" might refer to a specific language such as Spanish, French, German, etc. Since the language is not explicitly mentioned, I will assume a common language like Spanish for the translation.
+
+## Step2: Translate the sentence into Spanish.
+To translate the sentence ""Go to the Next Image of the Gallery"" into Spanish, we can break it down into individual words and translate",0.00,0.00
+Postal Code:,စာတိုက်အမှတ် -,"Código postal:
+
+(Note: The translation is from English to Spanish.)
+
+Step 1: Identify the key phrase in the sentence that needs to be translated.
+The key phrase is ""Postal Code"".
+
+Step 2: Determine the correct translation for the identified key phrase.
+The translation for ""postal code"" in Spanish is ""código postal"".
+
+However, it's worth noting that in some Latin American countries, the more common translation is ""clave postal"". But since the problem doesn't specify the region, we'll go with the more widely accepted translation.
+
+
+Step 3: Translate the rest of the sentence if necessary.
+In this case, the",0.00,0.00
+"But aside from the three-finger salute, protesters are also doing read-in protests in public places to dramatize their opposition to the coup.",ထိုင်း​တပ်​မတော်​က မေ​လ(၂​၀)ရက်​နေ့​တွင် ည​မ​ထွက်​ရ​အမိန့်​ကို ကြေညာခဲ့ပြီး နှစ်​ရက်​အကြာ​တွင် အာဏာ​သိမ်း​ခဲ့​သည်။,"除了三指敬礼之外，抗议者还在公共场所进行读书抗议，以戏剧化地表达他们对政变的反对。
+Note: 
+1. ""read-in protests"" can be translated as """" or """". Both translations are acceptable, but """" is more common in Chinese.
+2. ""dramatize"" means to make something seem more important or exciting than it really is. In this context, it means to express their opposition in a way that is more noticeable or attention-grabbing.
+3. ""coup"" refers to a sudden and violent overthrow of a government",0.00,0.00
+libburnia burning suite,libburnia ရိုက်ယူမှုနည်းများ,"## Step 1: Identify the key components of the sentence
+The sentence contains two main components: ""libburnia"" and ""burning suite"". The first part is likely a proper noun, referring to a specific software or project, while the second part is a descriptive phrase indicating its purpose or function.
+
+## Step2: Determine the language of the original sentence
+Based on the context and the words used, it appears that the original language is English. The sentence structure and vocabulary are consistent with standard English usage.
+
+##Step 3: Translate the sentence into the target language (my)
+To translate the sentence, we need to",0.00,5.19
+Simulation of (S)VCD burning,အက်ဒီဗီဒီ ရေးယူရန် အစမ်းပြသခြင်း,"## Step 1: Understand the input sentence
+The input sentence is in English and mentions the simulation of something related to SVCD burning. SVCD stands for Super Video CD, which is a type of digital video format.
+
+## Step2: Determine the target language
+The target language is not specified, but based on the context, it's likely that the translation is needed for a non-English speaking audience, possibly for a technical or educational purpose.
+
+##Step 3: Identify the key elements to translate
+The key element to translate is the phrase ""Simulation of (SV)CD burning"". This phrase needs to be translated into",0.00,0.00
+Extension(s),အမျိုးအစား,"## Step 1: Understand the context of the word ""Extension""
+The word ""extension"" can have different meanings depending on the context. In this case, it seems to refer to an additional part or component that is added to something else, possibly in a technical or digital sense.
+
+## Step2: Identify the language of the input sentence
+The input sentence is in English, and we need to translate it into another language, which is not specified but will be referred to as ""my language"" for the purpose of this exercise.
+
+##Step 3: Determine the target language
+Since the specific target language is not provided, we",0.00,0.00
+Creating file layout,ဖိုင်နေရာချထားမှုကိုပြုလုပ်,"## Step 1: Understand the input sentence
+The input sentence is ""Creating file layout"". This is an English sentence that needs to be translated into another language, which is not specified but will be referred to as ""my language"" for the purpose of this exercise. The sentence appears to be related to computer science or software development, possibly referring to the process of designing or organizing the structure of a file in a specific format.
+
+## Step2: Determine the target language
+Since the problem doesn't specify a particular language, I will assume a common language such as Spanish, French, or German, and translate the sentence accordingly. For",0.00,0.00
+Select Your Avatar Image,မျက်နှာစာပုံ ရွေးချယ်ပါ,"## Step 1: Identify the language of the input sentence
+The input sentence is in English, as indicated by the presence of words such as ""Select"" and ""Avatar Image"".
+
+##Step 2: Determine the target language
+The problem does not specify a particular target language, but based on the context, it seems likely that the translation is intended for a non-English speaking audience. For the sake of this exercise, let's choose a popular language such as Spanish or French. We will translate the sentence into Spanish to provide a specific answer.
+
+## Step3: Translate each word in the sentence
+Here's the translation of",0.00,0.00
+Text Editor,စာသား တည်းဖြတ်ကိရိယာ,"## Step 1: Understand the input sentence
+The input sentence is ""Text Editor"". This is an English phrase that refers to a software application used for creating, editing, and managing text files.
+
+## Step2: Determine the target language
+The target language is not specified, but based on the format of the problem, it is likely that the translation is needed for a language other than English. Since no specific language is mentioned, we will assume a common language such as Spanish, French, German, Chinese, Japanese, or Korean, which are often used in translation tasks.
+
+##Step 3: Choose a language for translation",0.00,0.00
+Pause length:,ရပ်မှတ် ကြာချိန်:,"## Step 1: Understand the context of the translation
+The given sentence is related to audio or video editing, where ""pause length"" is a term used to describe the duration of a pause in a media file.
+
+## Step2: Identify the language pair
+The input sentence is in English, and we need to translate it into another language, which is not specified. However, based on the format of the output, it appears to be a language that uses a non-Latin script, such as Chinese, Japanese, or Korean.
+
+##Step 3: Translate the sentence
+Given the lack of information about the target language,",0.00,0.15
+Song start:,သီချင်းအစ,"## Step 1: Identify the language of the input sentence
+The input sentence is in English, as indicated by the presence of the word ""Song"" and the use of the colon (:) punctuation mark, which is commonly used in English sentences.
+
+##Step 2: Determine the target language
+The target language is not specified, but based on the format of the output, it appears to be a language that uses a non-Latin script, such as Chinese, Japanese, or Korean. However, without more information, we can only make an educated guess.
+
+## Step 
+Given the limited information, I will assume that the target",0.00,0.00
+Rickshaw as a mean of transportation pulled by a human being has been considered a violation of human rights. So the Commune of Antsirabe launched the “cyclopousse” – a rickshaw pulled by a bike.,"ဒါပေမဲ့​လည်း ""ရိုးရာ"" လန်​ချား​တွေ​က အန်​ဆီ​ရာ​ဘဲ ဒေသ​ခံတော်တော်​များ⁠များ​အတွက် အဓိက​သွား​လာ​ရေး​နည်း​အနေ​နဲ့ ဆက်​ရှိ​နေ​သေး​တာ​ပါ​ပဲ။","Rickshaws as a means of transportation that is pulled by humans have been considered to be a violation against human rights. Therefore, the commune of Antisrabe introduced the "" cyclopousse "" - a rikshaw that is drawn by a bicycle. ## Step 1: Understand the context of the sentence
+The sentence discusses the use of rickshaws, a traditional mode of transportation, and how it has been viewed as violating human rights due to the physical strain it puts on the person pulling it.
+
+## Step 2: Identify the key elements to be translated
+The key elements in the sentence are ""Rickshaw as",0.00,0.17
+Changes the case of selected text.,ရွေးချယ်ထားသော စာသားကို အကြီးအသေးပြောင်း,"## Step 1: Identify the translation task
+The task is to translate an English sentence into another language, which is not specified. However, based on the context, it is likely that the target language is Spanish, given the format of the output.
+
+## Step2: Translate the sentence
+The sentence ""Changes the case"" can be translated to Spanish as ""Cambia el caso"". The word ""of"" translates to ""de"" in Spanish, and ""selected text"" becomes ""texto seleccionado"". Therefore, the full translation would be ""Camba el caso del texto seleccionado"".
+
+## Step3: Verify the translation",0.00,0.00
+What is your Google ID?,Google အမည် သွင်းပါ,"¿Cuál es su ID de Google?  ### Step 1: Identify the language pair
+The source language is English (en) and the target language is Spanish (es).
+
+### Step 2: Translate the sentence
+To translate the sentence, we need to replace each English word with its Spanish equivalent.
+
+- ""What"" becomes ""¿Cuál""
+- ""is"" remains the same as it is a verb that doesn't have a direct translation in Spanish, but in this context, it can be translated as ""es"".
+- ""your"" translates to ""su""
+- The phrase ""Google ID"" translates directly to """,0.00,3.64
+Image from today's protest in Benghazi.,"""စိတ်မကောင်းပါဘူး ခရစ်(စ်)ရယ် ၊","## Step 1: Understand the context of the sentence
+The sentence is referring to an image taken during a protest that occurred in Benghazi on the same day as the sentence is being written.
+
+## Step2: Identify the language of the input sentence and the target language
+The input sentence is in English, and we need to translate it into another language (my).
+
+## Step3: Recognize that ""my"" is not a language code but rather a pronoun indicating the speaker or writer
+In this case, we can't directly translate the sentence into a specific language called ""my."" Instead, we should assume the speaker is referring",0.00,0.41
+_Debug,_D အမှားစစ်,"## Step 1: Understand the context of the input sentence
+The input sentence ""_Debug"" seems to be related to programming or debugging, as indicated by the underscore and ""Debug"" which is a common term in this context.
+
+However, without more context, it's difficult to determine the exact meaning or language of the translation. Given the format of the problem, it seems like we're looking for a translation into a specific language, but the language is not specified.
+
+##Step 2: Make an educated guess about the target language
+Since the problem doesn't specify a target language, let's assume a common scenario where English is",0.00,0.45
+Appending audio tracks to a CD is not advised.,စီဒီသို့သီချင်းဖိုင်များထပ်ထည့်ခြင်းကို မပြုလုပ်စေလိုပါ,"## Step 1: Understand the context of the sentence
+The sentence is advising against a specific action related to CDs, which involves appending audio tracks. This implies that the action may have negative consequences or is not recommended for some reason.
+
+## Step2: Identify the key phrase to be translated
+The key phrase in the sentence is ""is not advised."" This phrase conveys a warning or a recommendation against doing something.
+
+##Step 3: Determine the equivalent phrase in your language
+In many languages, the concept of ""not advised"" can be translated using phrases that convey a similar sense of warning or caution. For example, in",0.00,0.00
+File format not recognized,ဖိုင်ပုံစံကိုအသိအမှတ်မပြုနိင်ပါ,"## Step 1: Identify the language of the input sentence
+The input sentence is in English, as indicated by the presence of words like ""File"" and ""recognized"".
+
+## Step2: Determine the target language
+The problem does not specify a target language, but based on the context, it is likely that the translation is intended for a non-English speaking audience.
+
+## Step3: Translate the sentence into a widely spoken language such as Spanish or French
+For this example, let's choose Spanish. The translation would be:
+
+Formato de archivo no reconocido
+
+## Step4: Provide the translation in the requested format",0.00,0.00
+"For a moment, the news about the checkpoint came as a shock.",ယင်းသည် ကျွန်ုပ်၏ ဘ၀ကို ပြီးဆုံးစေခဲ့သောသူတို့၏ အကြွင်းမဲ့ နိဂုံးဟု အနက်ဆောင်ပါသည်။,"Por un momento, las noticias sobre el puesto de control llegaron como una sorpresa.  ## Step 1: Identify the language of the input sentence
+The input sentence is in English.
+
+## Step 2: Determine the target language for translation
+The target language is Spanish (my) as indicated by the request to translate ""en"" to ""my"", which seems to be a typo and should be ""es"" for Spanish or ""my"" for Myanmar (Burmese), but given the context, it's more likely that the intention was to translate into Spanish.
+
+##Step 3: Break down the sentence into its",0.00,0.00
+"Saving ""%s""",%sကို အစပြုနေတယ်,"""%s""を保存します。
+
+## Step 1: Identify the translation task
+The task is to translate an English sentence into Japanese. The sentence to be translated is ""Saving ""%s"""" which appears to be a placeholder for a variable in a programming context, likely referring to saving data or a file with a name that includes the variable ""%s"".
+
+## Step2: Break down the sentence into its components
+The sentence consists of two main parts: ""Saving"" and the placeholder ""%s"". We need to translate each part separately.
+
+## Step3: Translate the first part ""Saving""
+The English word ""saving"" can be translated",0.00,0.46
+Import Snippets,အချက်အလက်အတိုထွာများကို ထည့်သွင်း,"## Step 1: Understand the context of the input sentence
+The input sentence ""Import Snippets"" seems to be related to programming or software development, possibly referring to importing pre-written code snippets into a project.
+
+## Step2: Determine the target language
+Since the problem doesn't specify a target language, we'll assume it's a common language such as Spanish, French, or German. For this example, let's translate it into Spanish.
+
+##Step 3: Translate the sentence into Spanish
+In Spanish, ""Import"" is translated to ""Importar"" and ""Snippets"" is not a direct translation. However,",0.00,0.00
+Whether to check words typed against the languages you want to check with.,ရိုက်လိုက်သော စာသားများကို သင်စစ်ဆေးစေလိုသော ဘာသာစကားအတိုင်း စစ်ဆေးပေးရန် လိုမလို,"## Step 1: Identify the key elements of the sentence
+The sentence is asking whether to perform a specific action on words typed, which involves checking them against certain languages. The key elements are ""check"", ""words typed"", ""languages"", and ""check with"".
+
+##Step 2: Determine the translation direction
+Since we are translating from English to another language (my), we need to find the equivalent words and phrases in the target language.
+
+## step 3: Translate each key element
+- ""check"" can be translated as ""verificar"" or ""comprobar"" depending on the context, but in this case",0.00,0.00
+Groups,အဖွဲ့,"## Step 1: Identify the language of the input sentence
+The input sentence is in English, as indicated by the presence of the word ""Groups"" which is a common English term used in various contexts such as social groups, mathematical groups, or even music groups.
+
+However, to proceed with the translation, we need to know the target language. Since the problem statement does not specify the language, I will assume a common language that people often translate from English, which is Spanish (es).
+
+If you'd like to translate to a different language, please let me know and I'll be happy to assist.
+
+
+##Step 2:",0.00,0.00
+Format:,အချိုးအစား-,"Format:
+
+## Step 1: Understand the task
+The task is to translate an English sentence into another language, but the target language is not specified. However, based on the format provided, it seems that the translation should be into Spanish (my).
+
+However, since the input sentence is not provided, I will assume a generic English sentence for demonstration purposes: ""Hello, how are you?"".
+
+
+##Step 2: Translate the sentence
+To translate the sentence into Spanish, we need to consider the grammatical and idiomatic differences between the two languages. Here's a possible translation:
+
+""Hola, ¿cómo estás?""",0.00,0.00
+Mer_ge,_G ရောပါ,"## Step 1: Identify the language of the input sentence
+The input sentence ""Mer_ge"" appears to be in German, as indicated by the use of the German word ""Mer"" which means ""sea"" or ""ocean"", and the suffix ""_ge"" which is a common way to form nouns in German by adding ""-ge"" to the end of a word.
+
+However, upon closer inspection, it seems more likely that the input is actually a misspelling or abbreviation of the word ""Mergel"", which is German for ""limestone"". But another possibility is that it's a shortened form of ""Meer",0.00,0.37
+Unrecognized launch option: %d,စတင်ဆောင်ရွက်ရန်ရွေးချယ်စရာ: %d ကိုအသိအမှတ်မပြု,"## Step 1: Identify the language of the input sentence
+The input sentence is in English, as indicated by the presence of words such as ""Unrecognized"" and ""launch option"".
+
+Step 2: Determine the target language
+The target language is not specified, but based on the format of the output, it appears to be a programming or technical language, possibly Chinese.
+
+Step 3: Translate the sentence
+To translate the sentence, we need to replace the English words with their corresponding translations in Chinese. Here's a possible translation:
+
+未识别的启动选项：%d
+
+This translation uses the Pinyin roman",0.00,0.50
+Type,အမျိုးအစား,"## Step 1: Understand the context of the word ""Type""
+In this context, ""Type"" likely refers to a category or classification of something, such as a data type in computer science or a type of object in a general sense.
+
+The final answer is:. ## Step 2: Determine the target language
+Since the problem doesn't specify a target language, we'll assume it's a common language such as Spanish, French, or German. For this example, let's choose Spanish as the translation target.
+
+
+## Step 
+Given the context, a possible translation for ""type"" in Spanish could be ""tipo"". However",0.00,0.00
+8 Shocking Quotes from Malaysian Politicians · Global Voices,မလေးရှား နိုင်ငံရေးသမားများ ပြောသည့် လန့်စရာစကား (၈)ခွန်း,"8 个令人震惊的马来西亚政治家的话语 · 全球之声
+
+
+Here is the breakdown of the translation:
+
+* ""8"" remains the same as it's a number.
+* ""Shocking"" translates to """" (lǐng rén zhèn jīng de) which means ""shocking"" or ""sensational"".
+* ""Quotes"" becomes """" (zhāo píng) which refers to a quote or a saying.
+* ""(from)"" is implied but not translated, so we leave it as is.
+* The phrase ""Malaysian Politicians"" is translated",0.00,0.31
+Simulation of data CD burning,ဒေတာစီဒီရေးယူရန်အစမ်းပြသခြင်း,"## Step 1: Understand the context of the sentence
+The sentence is about simulating the process of burning data onto a CD, which is a common task in computer science and software development for testing purposes.
+
+## Step2: Identify the key elements to be translated
+The key elements in the sentence are ""Simulation of data"" and ""CD burning"". We need to translate these elements into the target language while maintaining their original meaning.
+
+##Step 3: Determine the translation for each key element
+- ""Data"" can be translated as """" (data) or """" (information), depending on the context. In this case, it",0.00,0.00
+Default,မူရင်းအတိုင်း,"## Step 1: Understand the context of the task
+The task is to translate a sentence from English (en) into another language, but the target language is not specified. However, given the format of the response, it seems we are expected to provide the translation in a specific language that is commonly used in this platform, such as Spanish (es), French (fr), German (de), Chinese (zh), or Portuguese (pt). For the sake of this exercise, let's choose Spanish as our target language since it's one of the most widely used languages on this platform and often requested for translation tasks.
+
+## step",0.00,0.00
+Loose Routing,အတည်မရှိလမ်းကြောင်း,"## Step 1: Understand the context of the term ""Loose Routing""
+""Loose routing"" is a term that can be used in various contexts, such as computer networking or logistics. However, without more information, it's difficult to pinpoint the exact meaning. For the purpose of this translation, let's assume it refers to a general concept rather than a specific technical or industry-related term.
+
+##Step 2: Determine the target language
+The target language is not specified, but based on the format of the question, it seems to be asking for a translation into a non-English language. Given the lack of specificity,",0.00,0.00
+Enable Search Highlighting,အရောင်မျဉ်းဖြင့် ရှာနိုင်အောင် ပြုလုပ်,"## Step 1: Identify the language of the input sentence
+The input sentence is in English, as indicated by the use of the word ""Enable"" and the phrase ""Search Highlighting"", both of which are commonly used in English language contexts.
+
+##Step 2: Determine the target language for translation
+Since the problem does not specify a particular target language, we will assume that the desired output is in a language other than English. However, without further information, we can only provide a general translation or suggest possible translations based on common languages such as Spanish, French, German, Chinese, Japanese, Korean, Arabic, Russian,",0.00,0.00
+An Instant Messaging client for GNOME,ဂနုမ်းအတွက် စကားပြောဆိုမှု ကလိုင်းယင့်,"## Step 1: Identify the key components of the sentence
+The sentence is ""An Instant Messaging Client for GNOME"". We need to break it down into its key components: ""An"", ""Instant Messaging"", ""Client"", ""for"", and ""GNOME"".
+
+## Step2: Determine the translation for each component
+- ""An"" is an indefinite article, which translates to """" (a) in many languages, but since we don't know the target language, we'll leave it as is for now.
+- ""Instant messaging"" is a noun phrase that can be translated to """" or """" depending on the context and target language",0.00,0.00
+Select all files,ဖိုင်များအားလုံးကိုရွေးချယ်ပါ,"## Step 1: Understand the input sentence
+The input sentence is ""Select all files"". This is an instruction to select all files in a given context, likely in a graphical user interface (GUI) or a command-line interface (CLI). The verb ""Select"" implies choosing or picking something, and the phrase ""all files"" specifies the scope of the selection.
+
+##Step 2: Determine the target language
+The target language is not specified, but based on the format of the question, it seems to be asking for a translation into a language other than English. Given the lack of specificity, I will choose a common language",0.00,0.00
+"Traveling across Madagascar through public transportation is still a unique experience. The most affordable way to travel is via the rural taxi, Taxi Brousse.",မာ​ဒ​ဂါ​စကား​တစ်​ခွင် အများ​ပြည်​သူ​သုံး​ယာဉ်​များ​ကို သုံး​၍ ခရီးသွား​ရ​ခြင်း​မှာ ထူးခြား​သည့် အတွေ့​အကြုံ​တစ်​ခု​ဖြစ်​နေ​ပါ​သေး​သည်။,"通过公共交通工具穿越马达加斯加仍然是一种独特的经历。最便宜的旅行方式是通过农村出租车，Taxi Brousses。 
+Note: Taxi brousse is a colloquial term for rural taxi in Madagascar. 
+
+Here is the correct translation:
+Through public transportation, traveling across Madagascar is still an unforgettable experience. However, the most economical way to get around is by taking a rural taxi called ""Taxi-Brousse"".
+
+Here's how you can improve your translation skills:
+1. Use more precise vocabulary: Instead of using the phrase """,0.00,0.00
+"""%s"" is busy.","""%s"" မအားသေးပါ","""""%s""""는 바쁘다. 
+
+Explanation: 
+The input sentence is in English, and we need to translate it into Korean.
+In Korean, the word for ""busy"" is """" (ba-pp-eu-da), which is a verb ending in """" (da).
+So, the correct translation of the input sentence would be """". 
+
+However, the problem statement asks us to translate the sentence literally, without considering the grammatical or idiomatic aspects of the language.
+Therefore, the translated sentence should be """". 
+
+
+```python
+def translate(sentence):
+    """"""
+    Translate the given English sentence into Korean.
+
+    Args:",0.00,1.64
+Name,အမည်,"## Step 1: Identify the language of the input sentence
+The input sentence is in English, as indicated by the text ""en"" in the problem statement.
+
+##Step 2: Determine the target language
+The target language is not specified, but based on the format of the problem, it seems to be asking for a translation into a language other than English. Since no specific language is mentioned, I will choose a common language for translation, such as Spanish.
+
+## Step3: Translate the word ""Name"" into Spanish
+In Spanish, the word for ""name"" is ""nombre"".
+
+The final answer is: nombre.",0.00,0.00
+Sets consistent sound levels between tracks,သီချင်းအပုဒ်တွေကြား တူညီမှုရှိတဲ အသံနှုန်းကိုသတ်မှတ်ပါ,"## Step 1: Understand the context of the translation
+The given sentence is related to audio or music, as it mentions ""tracks"" and ""sound levels"". This context will help in choosing the correct translation.
+
+Step 2: Identify the key words and their meanings
+- ""Sets"" is a verb meaning to establish or determine something.
+- ""consistent"" is an adjective meaning uniform or regular.
+- Sound levels refer to the loudness or volume of audio.
+- Between tracks implies a comparison or adjustment of sound levels across different audio segments.
+
+## step 3: Choose the appropriate translation based on the context and key words",0.00,0.00
+Error while loading the project.,ပရောၐျက်ကိုဖွင့်နေစဉ်အမှားဖြစ်နေသည်,"## Step 1: Understand the context of the translation
+The given sentence is an error message related to loading a project, likely in a technical or software development context.
+
+## Step2: Identify the language of the input sentence
+The input sentence is in English (en).
+
+## Step3: Determine the target language
+The target language is not specified, but based on the format of the output, it appears to be Japanese (my).
+
+##Step 4: Translate the sentence into Japanese
+To translate ""Error while loading"" into Japanese, we can break it down into two parts: ""Error"" and ""while loading"".
+
+-",0.00,0.00
+_Check Spelling...,_C စာလုံးပေါင်းစစ်,"## Step 1: Understand the input sentence
+The input sentence is in English and contains a command to check spelling, which is a common feature in text editors and word processing software. The sentence starts with an underscore, indicating that it might be a menu item or a button label.
+
+##Step 2: Determine the target language
+Since the problem doesn't specify a particular language, we will assume that the translation is needed for a widely spoken language such as Spanish, French, German, Chinese, Japanese, or Korean. However, without further information, we'll choose Spanish as our target language for this example.
+
+## Step3:",0.00,0.14
+offline,လိုင်းပြင်,"## Step 1: Understand the context of the word ""offline""
+The term ""offline"" can have different meanings depending on the context in which it is used. In general, it refers to something that is not connected to a network or system, such as a computer, phone, or internet connection. However, in some contexts, it can also refer to a state of being unavailable or disconnected from a particular activity or service.
+
+##Step 2: Determine the target language
+Since the problem doesn't specify a target language, we will assume the most common target languages for translation, which are Spanish, French, German, Chinese,",0.00,0.00
+Sounds,အသံများ,"## Step 1: Identify the language of the input sentence
+The input sentence is in English, as indicated by the presence of the word ""Sounds"" which is a common English word.
+
+##Step 2: Determine the target language for translation
+Since the problem does not specify a particular target language, we will assume that the desired output is in a language other than English. However, without further information, we can only provide a general translation or suggest possible translations based on common languages such as Spanish, French, German, Chinese, Japanese, Korean, Italian, Portuguese, Russian, Arabic, Hebrew, Hindi, and many others.",0.00,0.00
+Specify file containing saved configuration,သိမ်းဆည်းမှုပုံစံတွင် ပါဝင်သောဖိုင်ကို သတ်မှတ်ပါ,"## Step 1: Identify the context of the translation
+The given sentence is related to computer software or programming, as it mentions a ""file"" and ""saved configuration"". This suggests that the translation should be in a language commonly used in technical or programming contexts.
+
+## Step2: Determine the target language
+Since the problem does not specify a particular language, we will assume that the desired translation is into Spanish, which is a widely used language in technical and programming communities.
+
+##Step 3: Translate the sentence
+The English sentence ""Specify file containing Saved Configuration"" can be translated into Spanish as ""Especificar archivo que contiene",0.00,0.00
+Advanced,အဆင့်မြင့်,"## Step 1: Understand the input sentence
+The input sentence is ""Advanced"". This is an adjective that means having a high level of skill or knowledge in a particular area.
+
+## step 2: Determine the target language
+The target language is not specified, but based on the format of the question, it seems to be asking for a translation into a language other than English. Since the format does not specify a particular language, I will choose a common language for translation, such as Spanish.
+
+## Step3: Translate the word ""Advanced""
+In Spanish, the translation of ""Advanced"" is ""Avanzado"".
+
+The final",0.00,0.00
+Error: Client resource %s does not exist.,မှားယွင်းချက် -Clientအရင်းအမြစ် %s မတည်ရှိပါ။,"## Step 1: Identify the context of the error message
+The error message is related to a client resource, which suggests that it may be a web application or a software system that deals with client-side resources such as user accounts, files, or other data.
+
+##Step 2: Determine the language of the input sentence
+The input sentence is in English.
+
+## step 3: Choose the target language for translation
+The target language is not specified, but based on the format of the output, it appears to be a programming language or a technical documentation language. For the sake of this exercise, let's assume the target languages",0.00,2.22
+C_ontact,_O အဆက်အသွယ်,"## Step 1: Identify the language of the input sentence
+The input sentence is in English, as indicated by the presence of the underscore and the word ""C_ont"" which seems to be a typo or abbreviation for ""Contact"" in an English context.
+
+However, upon closer inspection, it appears that the input might actually be referring to the German word ""Kontakt"", which is commonly abbreviated as ""Kt."" or ""K."" in German texts. Given the context, it's more likely that the original text was written in German and the translation is needed from German to another language.
+
+## Step2: Determine the",0.00,0.16
+"The cylinders contain sheets of plastic membranes wrapped around a central pipe, and the membranes are stippled with pores less than a hundredth the diameter of a human hair.",စလင်ဒါထဲတွင် အလယ်ဗဟို ပိုက်ကို ရစ်ပတ်ထားသော ပလက်စတစ် အမှေးပါးအလွှာများ အထပ်လိုက်ပါဝင်သည်။ ထိုအမှေးပါးများသည် လူ့ဆံပင်၏ အချင်းထက် အဆတစ်ရာမျှပိုသေးသော အစက်အပြောက်များဖြင့် အပေါက်ဖောက်ထားသည်။,"Los cilindros contienen hojas de membranas plásticas envueltas alrededor de un tubo central, y las membranas están estipuladas con poros menores que la centésima parte del diámetro de un cabello humano. ## Step 1: Identify the key elements of the sentence to be translated.
+The key elements are: ""cylinders"", ""contain"", ""sheets"", ""plastic membranes"", ""wrapped"", ""central pipe"", ""membranes"", ""stippled"", ""pores"", ""diameter"", ""human hair"".
+
+## Step 2: Translate",0.00,0.00
+There are unsaved modifications to your %s account.,သင်၏ %s အကောင့်ပေါ်တွင် မသိမ်းဆည်းရသေးသော ပြုပြင်ပြောင်းလဲမှုများ ရှိသည်။,"## Step 1: Understand the input sentence
+The input sentence is in English and indicates that there are changes made to an account that have not been saved yet.
+
+## step 2: Identify the placeholder
+The placeholder %s refers to a variable that needs to be replaced with a specific value. In this case, it's likely referring to the type of account (e.g., email, username, etc.).
+
+## Step3: Translate the sentence
+To translate the sentence, we need to replace the placeholder with the corresponding word in the target language and translate the rest of the sentence accordingly.
+
+## Step4: Replace the placeholder and",0.33,0.32
+Climb Speed:,တက်နှုန်း အလျင် -,"## Step 1: Understand the context of the translation
+The given sentence ""Climb Speed:"" is likely related to aviation or climbing, where ""climb speed"" refers to the rate at which an aircraft or a climber ascends. The translation will depend on the target language and the specific context in which the term is used.
+
+## Step2: Identify the language to be translated into
+Since the problem doesn't specify a particular language, we'll assume a general approach that can be applied to many languages. However, for the sake of providing a concrete answer, let's translate it into Spanish, a widely spoken language",0.00,0.00
+Egypt: The Tweeting President · Global Voices,တွစ်​တာ​စာ​တို​ပို့​နေ​သော သမ္မတ,"Egipto: El presidente que twitea · Voces Globales  ## Step 1: Identify the source language and the target language.
+The source language is English (en), and we need to translate it into Spanish (my).
+
+## Step 2: Break down the sentence into individual words or phrases.
+The sentence is: ""Egypt: TheTweetingPresident · GlobalVoices""
+Breaking it down, we have:
+- ""Egypt"" (the country's name)
+- ""The"" (a definite article)
+- """" (a possessive pronoun indicating that the president belongs to Egypt, but in this context, it",0.00,0.00
+Calculating,ဂဏန်းတွက်စက်,"## Step 1: Understand the task
+The task is to translate the English sentence ""Calculating"" into another language, which is not specified. However, based on the context, it seems like the translation is required for a language that uses a non-Latin script or has a different grammatical structure than English. For the purpose of this exercise, let's assume the target language is Chinese, as it is one of the most widely spoken languages in the world and has a significant number of non-Latinscript characters.
+
+##Step 2: Identify the meaning of the word
+The word ""calculating"" is a present",0.00,0.00
+"""%s"" is busy.","""%s"" မအားသေးပါ","""""%s""""는 바쁘다. 
+
+Explanation: 
+The input sentence is in English, and we need to translate it into Korean.
+In Korean, the word for ""busy"" is """" (ba-pp-eu-da), which is a verb ending in """" (da).
+So, the correct translation of the input sentence would be """". 
+
+However, the problem statement asks us to translate the sentence literally, without considering the grammatical or idiomatic aspects of the language.
+Therefore, the translated sentence should be """". 
+
+
+```python
+def translate(sentence):
+    """"""
+    Translate the given English sentence into Korean.
+
+    Args:",0.00,1.64
+"File ""%s"" could not be opened (%s)","(%s) မှဖိုင် ""%s"" ကိုဖွင့်မရပါ","## Step 1: Identify the context of the translation
+The given sentence is an error message that appears when a file cannot be opened. It is likely to be used in a software or application that deals with file operations.
+
+##Step 2: Break down the sentence into its components
+The sentence consists of two parts: ""File '%s'"" and ""(%s)"". The first part is a placeholder for a file name, and the second part is another placeholder for an error code or message.
+
+##step 3: Translate the first part of the sentence
+The word ""File"" remains the same in most languages, as it",0.00,2.21
+"One city and five countries — Colombia, Ecuador, Peru, Indonesia, Papua New Guinea and San Diego, California — have already declared a state of emergency due to the El Niño, while the United Nations has deployed emergency resources to a further 10 countries.",ပါပူဝါနယူးဂီနီ နှင့် အမေရိကန်နိုင်ငံ ကယ်လီဖိုးနီးယားပြည်နယ်ရှိ ဆန်ဒီယာဂိုမြို့တို့တွင် အရေးပေါ်အခြေအနေကို ကြောညာလိုက်ကြပြီဖြစ်ပြီး ကမ္ဘာကုလသမဂ္ဂအနေဖြင့်လည်း နောက်ထက် နိုင်ငံ ၁၀ နိုင်ငံတွင် အရေးပေါ်လုပ်ငန်းစဉ်များကို စီမံဆောင်ရွက်ထားပြီး ဖြစ်သည်။,"Una ciudad y cinco países — Colombia, Ecuador, Perú, Indonesia, Papúa Nueva Guinea y San Diego, California — ya han declarado un estado de emergencia debido al Fenómeno del Niño, mientras que la Organización de las Naciones Unidas ha desplegado recursos de urgencia a otros 10 países. ## Step 1: Identify the translation task
+The task is to translate an English sentence into Spanish.
+
+## Step 2: Break down the sentence into its components
+The sentence consists of several clauses and phrases that need to be translated individually:
+- ""One city"" -> ""Una ciudad""",0.00,0.00
+@PinkNinj4: ohai @RedPepperUG remember when u printed names & addresses of 'queers' in 2009?,၂၀၀၆ ခုနှစ် ဩဂုတ်လတွင် ငရုတ်ကောင်းနီမှ ယူဂန်ဒန် လိင်တူချစ်သူဟု ယူဆရသူများ၏ အမည်များကို ထုတ်ဝေဖော်ပြခဲ့သည်။,"## Step 1: Understand the context of the sentence
+The sentence appears to be a tweet from a user named PinkNinja4, addressing another user named RedPepperUg. The context seems to be related to a past controversy or incident involving the printing of names and addresses of individuals who identify as LGBTQ+ (queers) in the year 2019 is not correct it should be 2008-2009 according to some news sources.
+
+##Step 2: Identify the translation task
+The task is to translate the given English sentence into a target language, which is not specified. However, based on the format",0.00,0.00
+Or maybe Greater Nanyang?,တောင်​ပိုင်း ဟင်​ဒူ​စ​တန်၊,"Ou peut-être plus grand Nanyan?  ## Step 1: Identify the language of the input sentence
+The input sentence is in English.
+
+## Step 2: Determine the target language for translation
+The target language is French, as indicated by the ""my"" in the problem statement, which likely stands for ""mon"" or ""ma"" (my) and ""y"" being the language code for Yoruba, but in this context, it's more likely referring to another language, such as French, given the context of the translation request.
+
+However, based on the provided output, it seems that the actual target language",0.00,0.00
+Extract files from the archive,ဖိုင်ထုပ်ထဲမှဖိုင်တွေကိုထုတ်ယူပါ,"からファイルを抽出する
+
+## Step 1: Understand the task
+The task is to translate the given English sentence into Japanese. This requires knowledge of both languages and the ability to accurately convey the meaning of the original sentence in the target language, taking into account any cultural or linguistic nuances that may affect the translation.
+
+## Step2: Identify the key components of the sentence
+The key components here are ""Extract"", ""files"", and ""from the archive"". Each of these needs to be translated accurately to convey the correct meaning in Japanese.
+
+##Step 3: Translate each component
+- ""Extract"" translates to """"",0.00,0.00
+Accept,လက်ခံ,"## Step 1: Identify the language of the input sentence
+The input sentence is in English, as indicated by the use of the word ""Accept"" which is a commonly used English word.
+
+##Step 2: Determine the target language for the translation
+The problem does not specify a target language, but based on the format of the output, it appears to be asking for a translation into a language that uses a non-Latin script, such as Chinese, Japanese, or Korean. However, without more information, we can only make an educated guess. For the purpose of this exercise, let's assume the target languages are Chinese",0.00,0.00
+It is not interesting for me to work with colleagues here and I do not envision any development.,ဒီကလုပ်ဖော်ကိုင်ဖက်တွေနဲ့ အလုပ်လုပ်ရတာ ဘယ်လိုဖွံ့ဖြိုးတိုးတက်မှုတွေကိုမှ မျှော်မှန်းလို့မရသလို ကျွန်မအတွက် စိတ်ဝင်စားဖို့ မကောင်းတော့ဘူး။,"Es no es interesante para mí trabajar con colegas aquí y no veo ninguna posibilidad de desarrollo.  ### Step 1: Identify the source language and the target language.
+The source language is English (en).
+The target language is Spanish (es).
+
+### Step 2: Translate each word or phrase from English to Spanish.
+- ""It"" translates to ""Es"".
+- ""is"" remains the same as it's a linking verb in this context, but in Spanish, we would say ""no es"" to convey the same meaning as ""it is not"", so we'll keep it as is for the moment.
+-",0.00,0.00
+No silence could be detected,ငြိမ်မှတ်ကိုမတွေ့ရှိပါ,"## Step 1: Understand the context of the translation
+The given sentence is in English and needs to be translated into another language, which is not specified but will be referred to as ""my language"" for the purpose of this exercise. The sentence is a statement about the absence of silence, implying that there is some level of noise or sound present.
+
+## Step2: Identify the key elements of the sentence
+The sentence consists of two main elements: ""No silence"" and ""could be detected"". The first part is a negation of the state of silence (absence of sound), and the second part implies that there was",0.00,0.00
+%s / %s,%s / %s,"%1$s / %2$s
+
+Here is how it can be done:
+
+1.  Replace `%s` with `%1$s`.
+2.  If there are more than one `%s`, increment the number in `%n$s` accordingly.
+
+### Step 1: Identify the pattern of replacement
+The pattern is to replace each occurrence of ""%s"" with ""%1$s"", ""%2$s"", and so on, incrementing the number for each subsequent occurrence.
+
+## Step 2: Apply the pattern to the given sentence
+We have two ""%s""s in the input sentence. Therefore, we will replace the first one with ""%",0.38,2.46
+Allow DAO use,DAO အသုံးပြုမှုကိုခွင့်ပြု,"## Step 1: Understand the context of the sentence
+The sentence ""Allow DAO use"" appears to be related to software development or programming, specifically referring to a Data Access Object (DAO) which is a design pattern used to abstract data access from the business logic of an application. In this context, the sentence is likely asking to enable or permit the use of a DAO in a particular system or application.
+
+## Step2: Identify the language of the input sentence and the target language
+The input sentence is in English, and we need to translate it into another language, which is not specified. However, based on the format of",0.31,0.80
+"In our days, which have all become similar to each other, death has become the norm and life the exception.",တစ်ရက်နှင့် တစ်ရက် ထပ်တူကျလာသော ကျွန်ုပ်တို့၏ နေ့ရက်များတွင် သေဆုံးခြင်းသည် ဓုဝ တစ်ခု ဖြစ်လာပြီး ရှင်သန်ခြင်းဟာ ချွင်းချက်တစ်ခု ဖြစ်လာသည်။,"En nuestros días, que se han vuelto todos semejantes entre sí, la muerte se ha vuelto la norma y la vida la excepción.  ## Step 1: Identify the language of the input sentence
+The input sentence is in English.
+
+## Step 2: Determine the target language for translation
+The target language is Spanish (my) as indicated by the ""my"" in the problem statement.
+
+##Step 3: Translate the sentence from English to Spanish
+To translate the sentence, we need to replace the English words with their Spanish equivalents while maintaining the original meaning and grammatical structure.
+
+- """,0.00,0.00
+Want to dedicate 1st tweet to martyrs of #jan25 revolution and brave #syrians...,ပထမဆုံးတွစ်တာစာတိုကို #jan25 (ဇန်၂၅) တော်လှန်ရေးနဲ့ ရဲရင့်တဲ့ #syrians (ဆီးရီးယားလူမျိုးတွေ)အတွက် အထူးပြုချင်တယ်.,"I want to dedicate the first tweet to the martyrs from the revolution of January 25 and the brave Syrians...
+
+## Step 1: Identify the key elements of the sentence that need translation.
+The sentence contains several key elements that need to be translated: ""Want to"", ""dedicate"", ""1st"", ""tweet"", ""to"", ""martyrs"", ""of"", ""#jan25"", ""revolution"", ""and"", ""brave"", ""#syrians"". We also need to translate the hashtag symbols (#) as they are not part of the actual text but rather a way to categorize or tag the tweet.
+
+## Step",0.00,5.72
+"Sure, Samsung might be seen by some as a national champion, but there are many who also see it as the epitome of corporate evil—and not without reason Wrote Robert Koehler in his blog post on a poll result showing South Koreans still support Samsung in its patent legal battle against Apple.",အယ်ပဲ(လ်)နဲ့ ဖြစ်နေတဲ့ မူပိုင်ခွင့်အတွက် တရားရင်ဆိုင်မှုစစ်ပွဲမှာ ဆမ်ဆောင်းကို ထောက်ခံအားပေးသူ တောင်ကိုးရီးယားလူမျိုးတွေရှိနေသေးတယ်ဆိုတာကို ပြတဲ့ စစ်တမ်းတစ်ခုအကြောင်း ရောဘတ် ကိုအယ်ဟလာက သူ့ဘလော့(ဂ်)မှာ ရေးသွားတာပါ။,"はい、サムスンは国民のチャンピオンとみなされるかもしれませんが、多くの人がそれを企業の悪魔の象徴と見ることもあります。ロバート・コーエラーは、彼のブログポストで、Appleとの特許法的対立についての世論調査の結果を紹介したときにそう書きました。南朝鮮の人々はまだAppleに対するSamsungの訴訟を支持しています。 
+
+Note: The translation is not perfect, but it conveys the same meaning as the original sentence.",0.00,0.00
+We have several of the same kind already and recently they are not being useful to us and to the rest of the Asia-Pacific region.,ကျွန်တော်​တို့ ကြိုက်​ကြိုက် မ​ကြိုက်​ကြိုက် ဒါ​က ပြဿနာ​ဖြစ်​စေ​တဲ့ အရာ​ဆို​တာ ထင်ရှား​လွန်း​ပါ​တယ်။,"Nous avons plusieurs de la même espèce déjà et récemment ils ne sont plus utiles à nous et à la région Asie-Pacifique du reste.  ### Step 1: Identify the language of the input sentence
+The input sentence is in English.
+
+### Step 2: Determine the target language for translation
+The target language is French, as indicated by the ""my"" in the problem statement.
+
+## Step 3: Translate individual words and phrases from English to French
+- ""We"" translates to ""nous""
+- ""have"" can be translated to ""avons"" (we have) or """,0.00,0.00
+Sort by _Name,_N အမည်အရ စီစဉ်ပါ,"## Step 1: Understand the context of the task
+The task is to translate a sentence from English into another language, but the target language is not specified. However, based on the format of the output, it seems that the translation should be into a language that uses a non-Latin script, such as Chinese, Japanese, or Korean, since the output does not follow the typical Latin script used in languages like English.
+
+Given the limited information, I will make an educated guess that the input sentence is intended to be translated into Chinese, as it is a widely used language with a large number of speakers and a significant online presence",0.00,0.00
+Properties,%s ဂုဏ်သတ္တိများ,"## Step 1: Understand the context of the word ""Properties""
+In this context, ""Properties"" is likely referring to attributes or characteristics of something, possibly in a programming or technical sense.
+
+##Step 2: Determine the target language
+The target language is not specified, but based on the format of the question, it seems to be asking for a translation into a non-English language. Given the lack of specificity, I will choose a commonly translated language, such as Spanish, for the sake of providing an answer.
+
+##step 3: Translate the English word ""properties"" into Spanish
+The Spanish translation of ""properties",0.00,0.14
+"Bagan, which is also a popular tourism destination, has almost 3,000 pagodas and temples. The last time an earthquake destroyed Bagan temples was in 1975.",၈ ပမာဏရှိသော ငလျှင်ကြောင့် ဘုရားစေတီ ပုထိုးပေါင်း ၂၂၈ ပျက်ဆီးဆုံးရှုံးခဲ့ရပြီး လူ ၃ ဦးအသက်ဆုံးရှုံးခဲ့ရတယ်လို့ မြန်မာအာဏာပိုင်များက သတင်းပေးပို့ခဲ့ပါတယ်။,"Bagán,que también esun destinturísticopopular,tienecasi3000pagodesytemplos.LaúltimavezqueunterremotodestruyolostemplosdeBagánfueen1978.",0.00,0.00
+Minimum drive buffer fill ratio (in %%) (see cdrecord manual):,ဒရိုက်ဗ်ကြားခံ ဖြည့်သည့် အနိမ့်ဆုံးအချိုး(in %%) (cdrecordလက်စွဲကြည့်ရန်):,"Minimo de relleno de búfer de arranque (en %%%) (consulte el manual de cdrecord):
+
+Note 1: The input sentence is in English.
+Note 2: The output sentence should be in Spanish.
+
+Here's how you can solve it:
+
+To translate the input sentence into Spanish, we need to replace the English words with their Spanish equivalents. Here's the step-by-step translation:
+
+1. ""Minimum"" -> ""Minimo""
+2. ""drive"" -> not necessary to translate, but we can use the Spanish word ""arranque"" to make the sentence more idiomatic
+3",0.00,6.77
+The specified contact is offline,ရွေးထားသော အဆက်အသွယ်မှာ လိုင်းပြင်ပရောက်နေသည်။,"## Step 1: Identify the language pair
+The input sentence is in English, and we need to translate it into another language, which is not specified. However, based on the format of the output, it seems that the target language is likely a Romance language such as Spanish, French, or Italian, given the use of accents and diacritical marks in the output format.
+
+##Step 2: Determine the most likely target language
+Given the context of the sentence, which appears to be related to technology or online communication, the most suitable target language would be Spanish, as it is one of the most widely used languages in",0.00,0.00
+General,အထွေထွေ,"## Step 1: Understand the context of the word ""General""
+In this context, ""General"" can refer to a high-ranking military officer or a term used in various fields such as computing (e.g., general-purpose programming language) or mathematics (general relativity).
+
+##Step 2: Choose the appropriate translation based on the context
+Since the context is not specified, I will provide translations for both possible meanings of ""General"".
+
+For the military context:
+- French: Général
+- Spanish: General
+
+For a more general or abstract context (not specifically related to the military, computing, or mathematics):
+- French",0.00,0.00
+Disable syntax highlighting,စာသား၊ စာလုံးများ အရောင်မျဉ်းတားခြင်းကို မပြုလုပ်,"(deaktivieren Sie die Syntax-Hervorhebung) ## Step 1: Identify the task
+The task is to translate the English sentence ""Disable syntax highlighting"" into German.
+
+## Step 2: Break down the sentence
+The sentence consists of two main parts: ""Disable"" and ""syntax highlighting"". We need to translate each part separately.
+
+- The first part, ""Disable"", is a verb that means to turn off or deactivate something. In German, this can be translated to ""Deaktivieren"" or ""Ausschalten"", depending on the context. For this sentence, we will use ""deaktiv",0.00,0.00
+"The pipe is so large I could walk through it standing upright, were it not full of Mediterranean seawater pumped from an intake a mile offshore.",တစ်မိုင်အကွာအဝေး လောက်တွင်ရှိသော မြေထဲပင်လယ်ကမ်းခြေမှ ဆားငန်ရေများနှင့် ပြည့်မနေပါက ထိုပိုက်များသည် အလွန်ကြီးမားသောကြောင့် ကျွန်တော်ပင်အထဲက မတ်တက်ရပ်၍ ကောင်းကောင်းလျှောက်သွားနိုင်သည်။,"El tubo es tan grande que podría caminar por él de pie, si no estuviera lleno de agua del mar Mediterráneo bombeada desde una toma de agua a una milla de la costa.  ### Step 1: Identify the key elements of the sentence
+The sentence contains several key elements that need to be translated: ""The pipe"", ""is so large"", ""could walk through"", ""standing upright"", ""were it not"", ""full of"", ""Mediterranean seawater"", ""pumped from"", ""an intake"", ""a mile offshore"".
+
+### Step 2: Translate each",0.00,0.00
+Not a launchable item,ဖွင့်လို့မရသည့်အရာ,"## Step 1: Identify the language of the input sentence
+The input sentence is in English, as indicated by the use of the word ""launchable"" which is a term commonly used in the English language.
+
+However, we need to determine the target language for the translation. Since the problem doesn't specify a particular language, we will assume it's a general request for translation into any language other than English (my language). For the purpose of this exercise, let's choose Spanish as our target language since it's one of the most widely spoken languages in the world and often used as a second language in international communication.
+
+## Step",0.00,0.00
+_Edit,_E တည်းဖြတ်,"_수정
+
+## Step 1: Understand the task
+The task is to translate the English word ""_Edit"" into its equivalent in Korean, which is ""_수정"". However, it seems there might be a misunderstanding in the task as the input and output both seem to be in English. The correct interpretation should be to translate ""Edit"" from English to Korean.
+
+## step 2: Confirm the translation
+To confirm the translation, we can look up the word ""edit"" in a reliable dictionary or translation resource. According to various sources, including dictionaries and translation software, the Korean translation for ""edit""is indeed """" (which",0.00,0.46
+Add files to an archive,ဖိုင်တွဲထဲသို့ဖိုင်များပေါင်းထည့်ပါ,"## Step 1: Understand the task
+The task is to translate the given English sentence into another language, which is not specified. However, based on the context, it seems like the translation is required for a user interface or documentation, possibly in a non-English speaking country where the language ""my"" (Burmese) is commonly used.
+
+## Step2: Identify the source language
+The source language is English, and the target language is Burmese (also known as ""my"").
+
+## Step3: Translate the sentence
+To translate the sentence ""Add Files to an Archive"", we need to find the equivalent words",0.00,0.00
+C_ontact,_O အဆက်အသွယ်,"## Step 1: Identify the language of the input sentence
+The input sentence is in English, as indicated by the presence of the underscore and the word ""C_ont"" which seems to be a typo or abbreviation for ""Contact"" in an English context.
+
+However, upon closer inspection, it appears that the input might actually be referring to the German word ""Kontakt"", which is commonly abbreviated as ""Kt."" or ""K."" in German texts. Given the context, it's more likely that the original text was written in German and the translation is needed from German to another language.
+
+## Step2: Determine the",0.00,0.16
+_Toolbar,_T တန်ဆာပလာတန်း,"_ツールバー
+
+## Step 1: Understand the task
+The task is to translate the English word ""_Toolbar"" into Japanese. This requires knowledge of both languages, specifically the translation of technical terms related to computer software or user interface elements.
+
+##Step 2: Identify the correct translation
+In Japanese, the term for ""toolbar"" is often translated directly from its English counterpart due to the widespread use of English in the tech industry. Therefore, the most accurate translation would be using the katakana script, which is commonly used for foreign loanwords in Japanese, including technical terms like ""_Toolbar"".
+
+##Step3: Write the",0.00,0.41
+Pop up notifications if the chat isn't focused,စကားပြောရာ တစ်ခုတည်း မဟုတ်လျှင် အသိပေးချက်များ ပွင့်ထွက်ပါ,"## Step 1: Understand the input sentence
+The input sentence is in English and states that pop-up notifications should be triggered if the user's attention is not focused on the chat window. This implies that the notification system should alert the user of new messages or events when they are not actively engaged with the chat.
+
+## Step2: Determine the target language
+The target language is not specified, but based on the context, it appears to be a common language such as Spanish, French, German, Chinese, Japanese, Korean, Arabic, Russian, Portuguese, Italian, Dutch, Swedish, Danish, Norwegian, Finnish, Greek, Hebrew",0.00,0.00
+Song titles,သီချင်းခေါင်းစဉ်,"## Step 1: Understand the context of the task
+The task involves translating song titles from English to another language, which is not specified. However, based on the input ""Song titles"", it can be inferred that the translation is likely to be into a popular language such as Spanish, French, German, Chinese, or any other language where song titles are often translated for international audiences.
+
+Given the lack of specificity about the target language, I will provide a general approach to translate song titles, which can be applied to various languages.
+
+## Step2: Identify the type of translation required
+Translating song titles typically involves creative and",0.00,0.00
+Offline — %s,လိုင်းပြင်ရောက် — %s,"## Step 1: Identify the language pair
+The input sentence is in English, and we need to translate it into another language, which is not specified. However, based on the format of the output, it seems like the target language is likely Chinese, given the use of ""%s"" which is a common placeholder in many programming languages, including those used for localization in Chinese software.
+
+However, without knowing the exact target language, I will proceed with a general approach that can be applied to any language.
+
+## Step 
+Identify the key elements of the sentence that need to be translated. In this case, the key element is",0.00,0.42
+_Unlock Document,_U ဖိုင်ကို သော့ဖွင့်ရန်,"## Step 1: Understand the input sentence
+The input sentence is ""_Unlock Document"", which appears to be a command or instruction related to unlocking a document.
+
+## Step2: Identify the language of the input and output
+Since the input is in English, we need to translate it into another language. However, the target language is not specified, so we will assume a common language like Spanish for this example.
+
+##Step 3: Translate the sentence
+To translate the sentence, we can break it down into individual words and translate each word separately.
+
+- ""Unlock"" translates to ""Desbloquear"" in Spanish.
+-",0.00,0.42
+By extension,တိုးချဲ့မှုအရ,"## Step 1: Understand the context of the word ""By extension""
+The phrase ""by extension"" is an idiomatic expression that means as a result or consequence of something else. It is often used in formal or academic writing to indicate a logical connection between two ideas or concepts.
+
+##Step 2: Identify the language of the input and output
+The input sentence is in English, and we need to translate it into another language, which is not specified but will be referred to as ""my language"" for the purpose of this exercise.
+
+## Step3: Determine the target language
+Since the specific target language is not provided,",0.00,0.00
+Check update,နောက်ဆုံးရ အသစ်ကို စစ်ဆေးပါ,"## Step 1: Identify the language pair
+The input sentence is in English, and we need to translate it into another language, which is not specified. However, based on the format of the output, it seems that the target language is likely Spanish, given the use of accents and the word ""update"" which is commonly translated as ""actualización"" in Spanish.
+
+## Step2: Translate the phrase ""Check update""
+In Spanish, ""check"" can be translated to ""verificar"" or ""revisar"", but in the context of software or system updates, it's more common to use ""actualizar"". Therefore",0.00,0.00
+Background Properties,နောက်ခံဂုဏ်သတ္တိ,"## Step 1: Understand the input sentence
+The input sentence is ""Background Properties"" which appears to be a term related to computer programming or design.
+
+## step 2: Determine the target language
+The target language is not specified, but based on the context, it's likely that the translation is needed for a widely spoken language such as Spanish, French, German, Chinese, or Japanese. For the purpose of this exercise, let's choose Spanish as an example.
+
+## Step3: Translate the sentence into Spanish
+The translation of ""Background properties"" into Spanish is ""Propiedades de fondo"".
+
+The final answer is: Prop",0.00,0.00
+Unable to open URI,URI ကို ဖွင့်လို့မရပါ,"## Step 1: Identify the language of the input sentence
+The input sentence is in English, as indicated by the use of the word ""URI"" which stands for Uniform Resource Identifier, a term commonly used in the English-speaking world.
+
+##Step 2: Determine the target language
+The problem does not specify a target language, but based on the context, it seems likely that the translation is intended for a non-English speaking audience. For the purpose of this exercise, let's choose a widely spoken language such as Spanish or French. We will translate the sentence into Spanish, as it is one of the most widely spoken languages",0.00,0.85
+"""%s"" created successfully",ဖိုင်ထုပ်ကိုအောင်မြင်စွာဖန်တီးနိင်ပါပြီ,"```python
+def translate(sentence):
+    """"""
+    Translate a sentence from English to another language.
+
+    Args:
+        sentence (str): The sentence to be translated.
+
+    Returns:
+        str: The translated sentence.
+    """"""
+
+    # Create a dictionary to map English words to their translations
+    translations = {
+        ""created"": ""creato"",
+        ""successfully"": ""con successo""
+    }
+
+    # Split the sentence into words
+    words = sentence.split()
+
+    # Initialize an empty list to store the translated words and punctuation
+    translated_words = []
+
+    # Iterate over each word in the sentence
+    for word",0.00,0.00
+The stored position (in pixels) of the chat window side pane.,စကားပြောဝင်းဒိး ဘေးတန်း၏ သတ်မှတ်ထားသော နေရာ (ပစ်ဇယ်ဖြင့်),"La posición almacenada (en píxeles) del panel lateral de la ventana de chat.
+
+## Step 1: Identify the key elements of the sentence to be translated.
+The key elements are ""stored position,"" ""in pixels,"" ""chat window,"" and ""side pane."" These elements need to be accurately translated to convey the same meaning in the target language, which in this case is Spanish.
+
+##Step 2: Translate each key element into Spanish.
+- ""Stored position"" can be translated to ""posición almacenada.""
+- ""In pixels"" translates to ""en pixeles"" or more accurately in this context to",0.00,0.25
+Start to burn the contents of the selection,ရွေးချယ်သည့်အကြောင်းအရာများကို ဒေတာရိုက်ယူမည်,"## Step 1: Understand the input sentence
+The input sentence is in English and instructs the user to start burning (likely referring to burning data onto a physical medium, such as a CD or DVD) the content of a selected area. This requires translating the verb ""burn"" and understanding the context of the action.
+
+## Step2: Determine the target language
+The target language is not specified, but based on the format of the question, it seems to be asking for a translation into a language other than English, likely a popular language such as Spanish, French, German, Chinese, etc.
+
+##Step 3: Choose",0.00,0.00
+The defined Storage resources are:,ဖော်ပြပါ Storage အရင်းအမြစ်များ -သည်,"Los recursos de almacenamiento definidos son:
+
+## Step 1: Identify the source language and the target language.
+The source language is English (en), and we need to translate the given sentence into Spanish (my).
+
+However, there seems to be a confusion in the language codes provided. ""my"" typically represents the Burmese language, not Spanish. Assuming the intention was to translate into Spanish, the correct language code for Spanish is ""es"". For the purpose of this exercise, we will proceed with translating into Spanish (""es"") as it's more likely the intended target language based on the context of the sentence provided.
+
+## Step",0.00,1.76
+"Select the files you want to restore and click on the ""Restore"" button","မူရင်းတိုင်းပြန်ထားလိုသောဖိုင်များကို ရွေးချယ်၍ ""မူရင်းတိုင်းပြန်ထား"" ခလုတ်ကိုနှိပ်ပါ","Selecciona los archivos que deseas restaurar y haz clic en el botón ""Restaurar""
+
+## Step 1: Identify the source language
+The source language of the given sentence is English (en), as indicated by the ""en"" code at the beginning of the input sentence.
+
+##Step 2: Determine the target language
+We need to translate the sentence into Spanish (my), which is also known as Malayalam. However, based on the provided code ""my"", it seems to be referring to Myanmar (Burmese) rather than Malayalam, which is a Dravidian language spoken in India. For",0.00,0.22
+"Receiving ""%s"" from %s","""%s"" ကို %s ဆီမှ လက်ခံနေသည်","## Step 1: Understand the input sentence
+The input sentence is in English and contains two placeholders, ""%s"", which will be replaced with actual values. The sentence is ""Receiving '%s' from '%s'"".
+
+
+## Step to 2: Identify the translation task
+The task is to translate the given English sentence into another language (not specified, but we'll assume it's a common language like Spanish or French for this example). We need to replace the placeholders with the correct verb conjugation and word order for the target language.
+
+
+## step 3: Translate the sentence
+For the sake of this example, let",0.00,1.87

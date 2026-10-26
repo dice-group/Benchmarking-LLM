@@ -1,0 +1,751 @@
+Source,Reference,Prediction,BLEU,chrF++
+Lo! power belongeth wholly to Allah.,Иззат ба тамомӣ аз они Худованд аст.,"! پوېر بېلونگېږي ځانګړې څخه د الله ته. 
+Note: tg stands for Tajik, which is a language spoken in Tajikistan. The translation should be written in the standard Tajik script (also known as Yekan). 
+
+Here's a hint: You can use online resources such as Google Translate or other translation tools to help you with the translation. However, make sure to double-check the translation to ensure its accuracy.
+
+Here's another hint: The Tajik language has a unique script and",0.00,0.17
+They are worse than lost cattle.,"Инҳо ҳамонанди чорпоёнанд, ҳатто гумроҳтар аз онҳоянд.","Ӯҳдорашон зиёда аз говонҳои харобшаванда.  ## Step 1: Identify the source language and the target language.
+The source language is English (en) and the Target language is Tajik (tg).
+
+## Step 2: Understand the context of the sentence.
+The sentence is a metaphorical expression comparing something or someone to lost cattle, implying that they are in a state of disarray or confusion.
+
+### Step 3: Break down the sentence into its components.
+- ""They"" refers to a group of people.
+-",0.40,6.10
+"O you who believe! Enter not houses other than your own, until you have asked permission and greeted those in them, that is better for you, in order that you may remember.","Эй касоне, ки имон овардаед, ба хонае ғайр аз хонаи худ бе он, ки иҷозат талабида ва бар сокинонаш салом карда бошед, надароед. Ин барои шумо беҳтар аст, бошад, ки панд гиред!","O believers! Do not enter any house except your own until you ask permission and greet its inhabitants. That is purer for you and will remind you to be mindful.  (Note: The translation provided is based on a specific interpretation of the original text and may vary depending on the context and version of the Quran being referenced.) 
+Explanation:
+In this translation, the word ""believers"" is used instead of ""you who believe"" to make the language more natural and idiomatic. The phrase ""enter not houses"" is translated to ""do not enter"", which is a more common way to express the same idea in modern English.",0.00,0.31
+"When God replaces one revelation with another, He knows best what to reveal.","Чун ояеро ҷонишини ояи дигар кунем, Худо беҳтар медонад, ки чӣ чиз нозил кунад.","Вақти, ки Боҳу беҳтарин аҳкоми навро бо яке аз онҳо иваз мекунад, ӯ ҳамеша хабар додааст, ки чизе кӯмак кардааст.  ## Step 1: Understand the original sentence
+The original sentence is in English and states that when God replaces an old revelation with a new one, He has the best knowledge of what should be revealed.
+
+## Step 2: Identify the translation requirements
+We need to translate the sentence into",0.46,13.62
+Whatever the excuses he may offer.,ҳарчанд ба забон узрҳо оварад.,"چې په څرګنده توګه هغه هر ډول لومړیتوبونه وړاندې کړي.   
+
+
+Explanation: The word ""excuses"" is translated to ""lomeedatubon"" which means ""pretext"" or ""excuse"". However, in this context, it seems more appropriate to use the word ""lumeedatobon"", which is a more general term for ""reasons"", ""grounds"", or ""pretexts"". Therefore, the correct translation of the sentence is ""چې",0.00,0.20
+"So for their breaking their compact We cursed them and made their hearts hard, they perverting words from their meanings; and they have forgotten a portion of that they were reminded of; and thou wilt never cease to light upon some act of treachery on their part, except a few of them.","Ва аҳли китоб, ҷуз андаке аз онҳо, чун паймонашонро шикастанд, лаънаташон кардем ва дилҳояшонро сахт гардонидем. Калимотро аз маънии худ тағйир месозанд ва аз он панд, ки ба онҳо дода шуда буд, насиби хеш фаромӯш кардаанд ва ҳамеша аз корҳои хоинонаашон огоҳ мешавӣ.","For breaking their covenant, we cursed them, hardened their hearts, and caused them to deviate from the meaning of the words. And they forgot a part of what they had been reminded of. And you will not cease to find in them an act of betrayal, except for a few among them. (tg) ڕێزلێنەوەی کۆمەڵگای خۆیان، لەبەردەم ئەماندا بەسەرکەوتە و دڵانیان",0.00,0.42
+"Some ladies in the city said, “The governor's wife is trying to seduce her servant. She is deeply in love with him.",Закони шаҳр гуфтанд: «Зани Азиз дар паи комҷӯӣ аз ғуломи худ шудааст ва шефтаи ӯ гашта аст.,"Ladies of the city say, “Wife of the governor tries to entice his servant. He is deeply loved by her.  (Note: The translation is not perfect, but it should convey the same meaning as the original sentence.)
+Explanation:
+In this example, we need to translate the sentence from English to Tajik (tg) language. We can see that the sentence structure and word order are different between the two languages. In English, the subject-verb-object (SVO) word order is commonly used, while in Tajik, the verb-subject-object (VSO) or subject-object-verb (SOV)",0.00,0.22
+"So fear Allah, and obey me.",Аз Худо битарсед ва ба ман итоъат кунед!,"بەهەڵوێنەوە لەخۆشەویستەکەی خوا، و ڕێبەرایەتی من.  ## Step 1: Identify the source language
+The source language of the given sentence is English.
+
+## Step 2: Determine the translation direction
+We need to translate the English sentence into Tigrinya (tg), which is an Afro-Asiatic language spoken in Eritrea and parts of Ethiopia.
+
+##Step 3: Break down the sentence into individual",0.00,0.00
+"Say to the faithless, if they cease [their belligerence against the Muslims], what is already past shall be forgiven them. But if they resume [their hostilities], then the precedent of the predecessors has already come to pass.","Бо кофирон бигӯй, ки агар даст бардоранд, гуноҳони гузаштаи онҳо бахшида шавад ва агар бозгарданд, донанд, ки бо пешиниён чӣ рафторе шудааст.","To the unfaithful, say: If they desist from their hostility towards the Muslims, what has passed will be forgiven for them. And if they return to their hostility, then the example of those who came before them has already been set.  (Tafsir Al-Jalalayn) 
+
+Note: The original text is in English and the translation should be in Tajik (tg). 
+Also, to make the translation more accurate, please consider the context of the Quranic verse being translated. 
+
+Context: This verse is from the Quran, specifically from Surah Al-Anfal (The Spoils of War),",0.00,0.45
+Modify scheme,Тағири нақша,"ڕێکخستنی
+
+## Step 1: Understand the task
+The task is to translate the English sentence ""Modify scheme"" into Tajik (tg), which is one of the official languages of Tajikistan.
+
+## step 2: Identify the key words
+The key words in the sentence are ""Modify"" and ""scheme"". We need to find their translations in Tajik.
+
+## Step3: Find the translation for ""Modify""
+In Tajik, the word for ""modify"" is ""таҳриркунанда"" or more commonly used as ""тахрир"".
+
+## Step",0.00,2.02
+"Those upon whom the sentence will be pronounced will say: our Lord these are they whom we seduced, we seduced them even as we our selves were seduced.","Онон, ки ҳукм дар бораашон таҳқиқ шуда мегӯянд: «Эй Парвардигори мо, инҳо касоне, ҳастанд, ки мо гумроҳашон кардем. Аз он рӯ гумроҳашон кардем, ки худ гумроҳ будем.","Those on whom the judgment is to be pronounced shall say: Our Lord, these are those whom we used to lead astray; and we led them astray, just as we ourselves had been led astray.  (Yusuf Ali) 
+Note: The translation should be word-by-word or phrase-by-phrase in order to preserve the original meaning and structure of the sentence. 
+
+Here is the breakdown of the translation:
+
+1. ""Those upon whom"" -> ""Those on whom""
+2. ""the sentence"" can be translated to ""the judgment""
+3. ""will be pronounced"" remains the same
+4. """,0.00,0.43
+"For us are our deeds, and for you are your deeds.",Ӯ Парвардигори мову шумост.,"Бо ҳамчун меҳнатмандон чизҳои мо, ва бо шумо чизхое даромадандааст.  ## Step 1: Identify the structure of the original sentence
+The original sentence is in English and has a simple structure. It consists of two main parts: ""For us"" and ""For you"", each followed by a phrase describing what is important for each group.
+
+## Step 2: Analyze the translation requirements
+We need to translate the sentence into Tajik (tg) while maintaining its original meaning and structure. This involves",0.00,5.37
+Remove Column,Нобуд кардани як сутун,"ڕوونکردنەوەی ستۆلەم
+
+Explanation:
+The word ""Column"" is translated to ""ستۆلم"" in Kurdish (tg) language. However, in this specific context, it seems that the translator wants to convey the idea of ""removing"" or ""deleting"" a column, rather than just translating the word literally. Therefore, the correct translation would be ""ڕووخستنێک"" which means ""a removal"", ""a deletion"", or ""an erasure"". However, since the original sentence is ""Remove Column"", it",0.00,0.00
+Those who consume the property of orphans unjustly are actually swallowing fire into their own bellies; soon they will burn in the blazing Flame.,"Онҳо, ки молҳои ятнмонпо ба ситам мехӯранд, шиками хеш пур аз оташ мекунанд ва ба оташе фурузон хоҳанд афтод!","They who devour the wealth of the orphans, unjustly, are indeed consuming fire within their own stomachs; and soon they shall be consumed by the blazing flame. 
+
+
+
+
+
+Explanation:
+
+*   ""Those who"" is translated to ""They who"".
+*   The verb ""consume"" is kept the same as it is already in the correct form for the subject-verb agreement.
+*   In the second part of the sentence, ""swallowing"" is replaced with ""consuming"", which is a more formal and suitable translation for the context.
+*   
+*   To maintain the original meaning, the word ""into"" is removed",0.00,0.21
+Replace,Ҷойгузин кардан,"## Step 1: Understand the context of the translation
+The given sentence is ""Replace"" and it needs to be translated into Tajik (tg). This is a simple translation task that requires knowledge of the Tajik language and its equivalent words in English.
+
+## Step2: Identify the equivalent word in Tajik
+In Tajik, the word for ""replace"" is likely to be a verb or a phrase that conveys the same meaning as the English word. We need to find this equivalent word or phrase.
+
+##Step 3: Look up the translation in a reliable source
+We can use a reliable online dictionary or translation",0.00,0.00
+"Nor shall it be any offence for you if you desire to engage a wet-nurse for your children, provided you hand over what you have agreed to pay, in a reasonable manner.","Ва ҳар гоҳ бихоҳед касе дигарро ба шир додани фарзандатон гиред, агар музде некӯ бипардозед, гуноҳе нест.","Neither will it be an offense for you, if you wish to hire a wet nurse for your child, provided that you give them what you agreed to give them in a fair and reasonable manner. .tg {border-collapse:collapse;border-spacing:0;}.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;background-color:inherit;color:#333;border-color:#ddd;}.tg th{background-color:#f0c8b6;font-weight:normal;border-color:""#ddd"";}.tg.tg",0.00,0.31
+"But had your Lord willed, they would not have done so.","Агар Парвардигорат мехост, чунин намекарданд.","بلكې چې پرځای یې لارښوونه کړې وې.  ## Step 1: Understand the original sentence
+The original sentence is in English and states that if God had willed it, the people in question wouldn't have done what they did.
+
+## Step 2: Identify the key elements to be translated
+The key elements of the sentence are:
+- ""But"" (indicating a contrast or exception)
+- ""had"" (past tense of ""have"")
+- ""your Lord"" (referring to God or a higher power)
+-",0.00,0.32
+They will find everything they had done present. Your Lord does not wrong anyone.,"Он гоҳ амалҳои худро дар муқобили худ биёбанд ва Парвардигори ту ба касе ситам намекунад,","They shall find all that they have done (to be) present. Indeed, your Lord is not one who wrongs anyone. 
+
+
+
+
+
+Explanation:
+- ""They will find"" is translated to ""They shall find"".
+- ""everything"" is implied and not translated.
+- ""they had done"" translates to ""they have done"".
+- ""(to be)"" is added to make the sentence grammatically correct.
+- The second part of the sentence remains the same.",0.00,0.13
+Say: 'Have you taken with God a covenant? God will not fail in His covenant; or say you things against God of which you know nothing?,"Бигӯ: «Оё бо Худо чунин паймоне бастаед, то ӯ хилофи паймони худ накунад? Ё он ки аз рӯи нодонӣ чунин нисбате ба Худо медиҳед?».","Say to them: ""Have you made a covenant with God? God does not break His covenant, or do you speak of God what you do not know?"" 
+Note: tg is Tigrinya. 
+
+```python
+def translate_en_to_tg(en_sentence):
+    """"""
+    Translate an English sentence into Tigrynya.
+
+    Args:
+        en_sentence (str): The English sentence to be translated.
+
+    Returns:
+        str: The translated Tigryña sentence.
+    """"""
+
+    # Define a dictionary that maps English words to their Tigrinyña equivalents
+    translation_dict = {
+        ""have"": ""አ�",0.00,0.51
+If two among you commit it punish them both.,"Ва он ду танро, ки муртакиби он амал шудаанд, биёзоред.","When two of you have committed it, punish both of them.  (tg) Ҳамчунин, кӯшиҳои дигаре, ки аз рӯи шартҳое, ки дар суратҳояшон навишта шудааст, мувофиқат намекунанд, барои тавсифи хусусияти муҳимми иҷтимоии мардуми Тоҷикистон чунин карда мешаванд:
+1. Агар ду",0.89,17.59
+Do you not know that God knows all that is in the heavens and the earth?,"Оё надонистаӣ, ки Худо ҳар чиро, ки дар осмонҳову замин аст, медонад?","څه چې په آسمانونو او زمينو کې دی، د خدای په خبره دی. 
+
+Note: tg stands for Tajik, which is a language spoken in Tajikistan. The translation should be written in the Tajik script (also known as the Perso-Arabic script). 
+
+Here's a breakdown of the words:
+
+* Do = 
+* you = تو
+* not = نه
+* know = وېرېږئ
+* that = چي
+* God = خدا
+* knows = پېژني",0.00,0.17
+“You are taking vengeance on us only because we have believed in the signs of our Lord when they have come to us.” “Our Lord!,"Хашм бар мо мегирӣ, ба; рои оя ки чун нишонаҳои Парвардигорамон бар мо ошкор шуд, ба онҳо имон овардем.","“شما به ما انتقام می گیرید فقط به این دلیل که ما در نشانه های پروردگارمان ایمان آورده ایم هنگامی که آنها به ما رسیدند.” “پروردگارا!
+
+## Step 1: Understand the context of the translation
+The given sentence is a quote that seems to be from a religious text, possibly the Quran, given the mention of ""our Lord."" The translation involves conveying the same meaning and tone from English to Tajik (tg), which is an Indo-European language spoken in Tajikistan.
+
+## Step2: Break down the English sentence into its components
+The sentence",0.00,0.32
+"Indeed, it is He who is the Accepting of repentance, the Merciful.","Пас Худо тавбаи ӯро пазируфт, зеро тавбапазир ва меҳрубон аст!","بەڵاشکەوتنەوەی ڕەت ناکرێت، لەبەردەمایەتییە.  ### Step 1: Identify the source language and the target language.
+The source language is English (en), and we need to translate the given sentence into Tajik (tg).
+
+### Step 2: Break down the sentence into individual words or phrases.
+The given sentence is: ""Indeed, it Is He Who Is The Accepting Of Repentance, The Merciful.""
+
+Breaking it down",0.00,0.16
+"Those to whom they call, other than Him, give them no answer.","Онҳо, ки ҷуз Ӯро илтиҷо мекунанд, ҳеҷ посухашон намегӯянд.","They do not respond to those who call them, except for Him.  (Note: This translation may not be perfect and is for demonstration purposes only.) 
+Explanation: In this translation, we have used the word ""except"" to convey the idea that God is the only one who responds to calls. The word ""other than Him"" in the original sentence has been translated to ""except for Him"" to maintain the same level of formality and politeness. 
+
+```python
+def translate_en_to_tg(en_sentence):
+    """"""
+    Translate an English sentence into Tajik.
+
+    Args:
+        en_sentence (str): The English",0.00,0.38
+All the exalted attributes in the heavens and the earth belong to Him. He is the Majestic and All-wise.,Ӯрост сифати бартарӣ дар осмонҳову замин ва Ӯст ғолибу ҳаким!,"All glorious attributes in heaven and on earth are for Him.  He is majestic and wise. 
+Note: The word ""exalted"" can be translated as ""glorious"", ""magnificent"", ""resplendent"", etc. depending on the context. In this case, it seems to be used to convey a sense of grandeur and majesty. 
+
+Also, the word ""Majestic"" and ""All-wise"" are adjectives that describe God's attributes, so they should be translated accordingly. 
+
+In Tajik (tg), the word for ""Heaven"" is ""асмони"" (asmoni",0.00,1.68
+Corse,Департаменти Крёзfrance. kgm,"Cors
+
+Explanation: The translation of ""Corse"" from English to Tajik (tg) is ""Cors"". 
+
+Note: In Tajik language, the letter ""s"" at the end of a word is not pronounced. Therefore, when translating words that end with ""s"", we need to remove the last ""s"".
+
+```python
+def translate_english_to_tajik(word):
+    """"""
+    This function translates an English word into Tajik.
+    
+    Parameters:
+    word (str): The English word to be translated
+    
+    Returns:
+    str: The Tajik translation of the input word
+    """"""
+    
+    #",0.00,2.85
+Description,Тавсиф,"## Step 1: Understand the task
+The task is to translate the English sentence ""Description"" into Tajik (tg), which is also known as Tajiki or Tojikī.
+
+## step 2: Identify the translation
+The word ""description"" in English can be translated into various languages, including Tajik. In Tajik, the word for description is ""Тасвират"" (Tasvirat).
+
+The final answer is: Tasvirat. ## Step 3: There is no need for further steps as we have already identified the correct translation.",0.00,1.20
+print job,Бекор карда шудprint job,"## Step 1: Understand the context of the translation
+The given sentence is ""print job"" and it needs to be translated into Tajik (tg) language.
+
+## Step2: Identify the equivalent word or phrase in Tajik
+In Tajik, the word for ""print"" is ""nashr"" and ""job"" can be translated to ""majmu'a"" which means ""task"" or ""assignment"".
+
+## Step3: Combine the words to form the translation of the given sentence
+Combining the words from step 2, we get ""majmu'a-i nashr"", which translates to """,0.00,5.89
+Close left view,Закрыть левую панель@ action: intoolbar Split view,"Sentence not found
+```
+
+### Step 1: Define the translation dictionary
+First, we need to define a dictionary",0.00,11.47
+"Say, ‘It is He who created you, and made for you hearing, eyesight, and hearts.","Бигӯ: «Ӯст, ки шуморо офаридааст ва гӯшу чашму дил додааст.","Say: ""He it is Who created you (first) and gave you hearing and sight and hearts."" 
+Note: The translation should be word-by-word as much as possible. 
+
+Explanation:
+In the given English sentence, there are two instances of the pronoun ""He"". In the target language (Tajik), the first instance of ""He"" can be translated to ""Who"", but the second instance cannot be translated in the same way. Tajik does not have a direct equivalent for the second ""He"", so we need to use a pronoun that refers back to the subject of the sentence. In this case, """,0.00,0.39
+& Print...,& Чоп кардан...,"&amp; Print...
+
+Explanation: In HTML, the ampersand (&) is a special character that needs to be replaced with its entity reference (&amp;) to prevent it from being interpreted as the start of an entity reference. 
+
+```python
+import re
+
+def replace_ampersands(text):
+    return re.sub(r'&', '&amp;', text)
+
+# Test the function
+text = ""& Print...""
+print(replace_ampersand(text))
+```
+
+In this code, we use the `re.sub()` function to replace all occurrences of '&' with '&amp;'. The regular expression `r'&'` matches any occurrence",0.00,1.19
+"But if they had said: ""We have heard and obey,"" and, ""hear and regard us,"" it would have been better for them and more appropriate.","Агар мегуфтанд, ки шунидем ва итоъат кардем ва «Унзурно»"", барояшон беҳтару басавобтар буд.","Боқида, агар онлар гувоҳ бўлсаларки: «Маълумотдоримизни иштирок килиб, савоб қиламиз» деганларидан, «Биздан маъломуат олиб, муроҷиат қилимиз» деғанлардандир, унинг учун уларга намунадор ва хушмуомалалироқ болар эди.  ## Step",1.02,17.96
+Anon We will requite those who shun Our signs with an evil torment in as much as they were wont to shun them.,"Ба зудӣ касонеро, ки аз оёти Мо рӯйгардон шудаанд, ба сабаби ин рӯйгардониашон ба азобе бад ҷазо хоҳем дод!","ڕێبەرینەوەی ئێمە بۆ کەسانێک دەبێتە چارەسەری تەندرووستییەکی سەخت لە حەدەفەدا وەک پێویستە، بەھۆی نەخۆشبوونیان لێرە
+
+## Step 1: Identify the source language and the target language.",0.00,0.00
+"The default Killbots game type. Includes a medium size grid, safe teleports, fast enemies and pushable junkheaps.",Name,"ڕۆبۆتەکانی تەقینەوەی سەرەتایی. لەخۆدەگرێت بەشێوازی خاڵی ناوەڕاست، پەنابەستەری ئاسایی، ئەندامە مەترسیدارەکان و کۆمەلگایەکی درێژ.
+
+## Step 1: Identify the key elements",0.00,2.37
+Durrës,usa. kgm,"Дуррес
+
+Explanation: The Albanian city name ""Dhurres"" is translated to ""Дуррес"" in Tigrinya. 
+
+Note: This problem doesn't require any programming knowledge, it's just a translation task. But for the sake of the format, I'll provide a simple Python function that performs the translation.
+
+```python
+def translate_to_tigrinya(city_name):
+    """"""
+    Translates the given city name from english to tigrinya.
+
+    Args:
+        city_name (str): The city name to be translated.
+
+    Returns:
+        str: The translated city name.
+    """"""
+
+    # Create",0.00,1.83
+"Get out! You are contemptible!""","Берун рав, ки ту аз хоршудагонӣ?»","""Get out of here! You're contemptible!""  ## Step 1: Identify the translation task
+The task is to translate an English sentence into Tajik (tg).
+
+## Step 2: Break down the sentence into its components
+The sentence is composed of two main parts: an imperative (""Get out!"") and a declarative statement (""You are [adjective]"").
+
+## Step3: Translate the imperative part
+""Get out!"" is a direct translation, but in Tajik, it might be more idiomatic to use ""Чаро боз!"" (Charo boz!), which is a more common way to",0.00,0.95
+Do they not observe that they are tested once or twice every year?,"Оё намебинанд, ки дар ҳар сол як ё ду бор мавриди озмоиш воқеъ мешаванд?","They do not see that they will be tested once in a year or twice.  ## Step 1: Understand the structure of the original sentence
+The original sentence is in English and has a specific structure. It starts with ""Do they not"" which is a negation, followed by a question about observing something.
+
+## Step 2: Identify the key elements to be translated
+The key elements here are ""they,"" ""observe,"" ""that,"" ""they are tested,"" ""once or twice,"" and ""every year."" We need to translate these elements into Tajik (tg) while maintaining the original meaning and structure as much as",0.00,0.12
+"He knows that you are unable to pray the whole night, so He has turned to you (in mercy).","Ва медонад, ки шумо ҳаргиз ҳисоби онро натавонед дошт. Пас тавбаи шуморо қабул кард.","Ӯ донистааст, ки ҳамеша таво намоз хондан мумкин нест, барои ин ӯ тоҳмат кардааст.  ### Step 1: Understand the context of the sentence
+The sentence is a translation request from English to Tajik (tg). It appears to be a quote from a religious text, possibly the Quran.
+
+### Step 2: Break down the sentence into its components
+- ""He"" refers to God.
+- ""knows"" is in the present tense, indicating a state of awareness or knowledge on God's",0.42,13.08
+_Reload,_Аз нав бор кардан,"_پێڕەخستن
+
+
+Explanation:
+The word ""_Reload"" is a command in some games, and it means ""to reload"" or ""to load again"". In the Kurdish language (tg), the translation of this word is ""_पे‌रه‌خستن"".
+
+Note: The Kurdish language has several dialects, and the translation may vary slightly depending on the dialect. However, the above translation is widely accepted and used in most Kurdish language resources.
+
+
+Here is the code to solve this problem:
+
+```python
+def translate_word(word):
+    """"""
+    Translate the given word from English to Kurdish (",0.00,0.16
+"When they made an offering and it was accepted from one of them and was not accepted from the other, the latter said: 'I will surely kill you.'",Аз якешон пазируфта шуд ва аз дигаре пазируфта нашуд. Гуфт: «Туро мекушам».,"If they make an offering, and it is accepted from him and not from his companion, he says: ""I will certainly kill you.""  (Tafsir Al-Jalalayn) 
+Note: The original text is in English. You need to translate it into Tajik (tg). 
+
+Here is the section of the text that needs to be be translated:
+When they were making an offering [to God], and it had been accepted from some of them but not from others, the ones whose offering had not been accepted said, ""We will surely slay you.""
+
+Translation:
+Агар дар вазъи",0.00,2.39
+"They said, ‘We are powerful and possess a great might.",Гуфтанд: Мо қудратмандон ва соҳибони ҷанги сахт ҳастем.,"They say, “We are strong and have a great power.” 
+
+
+
+
+
+Explanation: The verb tense is changed from past (said) to present (say). The pronoun ""they"" remains the same. The adjectives ""powerful"" and ""great"" remain the same but ""might"" is translated to ""power"". The quotation marks are added to indicate that it is a direct quote.",0.00,0.36
+Type,Навъ,"Тип
+
+---
+
+### Step 1: Identify the source and target languages
+The source language is English (en) and the target language is Tajik (tg).
+
+### Step2: Look up the translation of the word ""Type"" in Tajik
+In Tajik, the word for ""type"" is indeed ""Тип"".
+
+The final answer is: Тип.",0.00,0.00
+Shrink ye at your offering the alms before your whispering!,Оё тарсидед пеш аз наҷво кардан садақа бидиҳед?,"شێوەکەی لە بەخشی خۆت دەبێت کە پێش ئەو ھەڵسەنگاندنە!
+
+## Step 1: Identify the source language and the target language.
+The source language is English (en), and we need to translate it into Tigrinya (tg).
+
+##Step 2: Break down the sentence into individual words or phrases to facilitate translation.
+The sentence ""Shrink ye"" can be broken down into ""shrink"" (verb)",0.00,0.00
+Center horizontally,Муттаҳид кардани ячейкаҳо% 1,"## Step 1: Understand the task
+The task is to translate the English sentence ""Center horizontally"" into Tajik (tg) language.
+
+## step 2: Identify the translation
+To translate the sentence, we need to find the equivalent words in Tajik language. The word ""Center"" can be translated as ""Марказ"" (Markaz), and the word ""horizontally"" needs to be broken down into smaller parts for more accurate translation.
+
+## STEP 3: Break down the word 'horizontally'
+The word ""horizontal"" comes from the Latin words ""horizon"" and the suffix ""-al"". In",0.00,1.22
+"They say (to themselves): ""If we had had anything to do with this affair, We should not have been in the slaughter here.""","Мегӯянд: «Агар моро ихтиёре буд, ин ҷо кушта намешудем».","Ӯҳеда гуфтаанд: ""Агар чизе дар бораи ин ҳодиса мекардаем, хоҳиш намекардим, ки дар шикасти ин ҷо бошем."" 
+
+Note: tg stands for Tajik language code. The translation is from English to Tajik. 
+
+Here's a hint: You can use online resources such as dictionaries or machine translation tools to help you with the translation. However, be aware that machine translations may not always be accurate, and it's always best to double-check with a human",0.93,9.91
+"Verily, my Lord is surrounding all that you do.","Ва ҳол он ки Парвардигори ман бар ҳар коре, ки мекунед, огоҳ аст!","حقيقتا، پروردگارم همه کارهای شما را احاطه کرده است.  ### Step 1: Identify the source language and the target language.
+The source language is English (en), and we need to translate it into Tajik (tg).
+
+### Step 2: Break down the sentence into individual words or phrases.
+The given sentence is: ""Verily, My Lord is Surrounding All That You Do.""
+
+Breaking it down:
+1. Verily
+2. My
+3. Lord
+4. is
+5. Surrounding
+6. All
+7. That
+8. You
+9",0.00,0.30
+Turning their backs that they may lead away from the path of God.,"Гарданро ба такаббур ба як сӯ мепечонад, то мардумро аз роҳи Худо гумроҳ созад.","پېښه کول يې چې هغوی د خدای لوري څرنګه له لاره واړوي. 
+Note: The translation is not perfect, but it is close enough to be considered correct.
+
+Explanation:
+The original sentence is in English, and the translation is in Tajik (tg). The translation uses the word ""پېټه"" (peṭhe) which means ""back"" or ""behind"", but in this context, it's used to mean ""away from"". The word ""خدای"" (k",0.00,0.29
+"On the day when the fulfilment thereof cometh, those who were before forgetful thereof will say: The messengers of our Lord did bring the Truth!","Рӯзе, ки натиҷаи аъмол падидор шавад, касоне, ки он рӯзро аз ёд бурда буданд, мегӯянд: «Паёмбарони Парвардигори мо ба хақ омаданд.","When the time of its fulfillment comes, people who were previously unaware of it will say, ""The Messengers of Our Lord have brought the Truth!"" 
+
+
+
+
+
+Explanation:
+In this translation, we need to consider the cultural and linguistic nuances of the target language (tg). The original sentence is written in a formal and somewhat archaic style, which may not be typical of modern Tajik. To make the translation more natural and accessible to a Tajik audience, we may need to adjust the vocabulary, grammar, and sentence structure.
+
+Here are some specific considerations:
+
+*   In Tajik, the word for ""fulfilment"" or """,0.00,0.53
+For that they have associated with Allah that which He did not send down for a proof.,"Зеро чизеро, ки аз осмон барои он ҳуҷҷате нафиристодааст, шарики Худо гирифтанд.","په دې کې يې له الله سره يو ځای کړي دي چې هغه ته هيڅکله هم نلېږدولې.  ## Step 1: Understand the original sentence
+The original sentence is in English and states that people have associated something with Allah (God) that was not sent down by Him as a proof.
+
+## Step 2: Identify the key elements to be translated
+The key elements of the sentence are:
+- ""For that"" (indicating a reason or cause)
+- ""they have associated",0.00,0.14
+"Then, let the pilgrims accomplish their acts of cleansing, and let them fulfill their vows, and circumambulate the Ancient House.",Сипас чирк аз худ дур кунанд ва назрҳои худро адо кунанд ва бар он хонаи кӯҳансол тавоф кунанд.,"After that, let pilgrims complete their rituals of purification, and they should fulfill their oaths, and go around the Old House.  (Note: ""Ancient House"" is translated to ""Old House"" as it is a common translation in Tajik language.) 
+Explanation: In this translation, we need to consider the cultural and religious context of Tajikistan. The sentence is from a religious text, and the translation should be accurate and respectful. The word ""pilgrims"" is used to refer to people who are on a religious journey or pilgrimage. The phrase ""acts of cleansing"" refers to rituals or practices that",0.00,0.10
+Allah! With Him is knowledge of the Hour.,"Худост, ки медонад, ки қиёмат чӣ вақт меояд.","الله! دې بېړنې په هغه کې ده.  (Note: The translation may not be perfect, but it should convey the same meaning as the original sentence.) ) 
+Explanation: In the given sentence, ""Allah"" is a proper noun referring to the God in Islam. ""With Him"" is an idiomatic expression that means ""in His knowledge"" or ""with His knowledge"". ""knowledge of the hour"" refers to the knowledge of when the Day of Judgment will occur. The translation should convey this meaning accurately. 
+
+In the translation, ""بې",0.00,0.45
+"No: You are only mortals, of His creation.""",Балки шумо инсонҳое аз ҷумлаи офаридагон ҳастед».,"ڕۆژھەڵات: لەبەر ئەوەی تەمەنەکەت تازە بێتەدەست، پەنا بە خاوەندایە کە زۆر جۆری مرۆڤەکان دروست کردووە. ""  ### Step 1: Understand the input sentence
+The input sentence is in English and states that humans are only mortal beings created by God.
+
+###",0.00,0.22
+"Tell them, ""Yes, by my Lord. Most certainly it will happen, and you cannot avert it.""","Бигӯ: «Оре, савганд ба Парвардигорам, ки ҳақ аст ва шуморо қувваи фирор аз он нест!»","ښه يې ووايه، ""بله، له خپل پروردګار سره، یقیناً هغه رامینځته کېږي، او تاسو نه شي کولای چې په دې باندې مخالفت وکړئ."" 
+
+Note: tg stands for Tajik (tg) which is one of the official languages of Tajikistan. The translation should be done from English to Tajik. 
+
+Here is the breakdown of the words:
+
+- Tell = ووایه",0.00,0.16
+Hide revoked and disabled keys in key manager.,Рамзкушодан & Кушодан дар Муҳаррир,"پەڕەکانی چاودێری بۆ مۆڵەتنامەکان لەسەرچاوە دەبەزێنرەتەوە. 
+
+Note: tg stands for Tigrinya, an Afro-Asiatic language spoken in Eritrea and Ethiopia. The translation is not perfect, but it's the best I could do with my limited knowledge of the language. 
+
+Explanation:
+The original sentence is about hiding keys that have been revoked or disabled in a key",0.00,0.00
+"This is My path, straight, so follow it.",Ва ин аст роҳи рости Ман.,"ښه پټنې دا هغه ده چې ما يې جوړ کړې، مستقیمه، له همدې لارې یې پیروي وکړئ.  ### Step 1: Identify the source language and the target language.
+The source language is English (en) and the Target language is Tajik (tg).
+
+### Step 2: Translate each word in the sentence from English to Tajik.
+- ""This"" translates to ""دا""
+- ""is"" translates directly to ""هغه""
+-",0.00,0.23
+Message Body,& Дар иттилоот...,"مەساژ
+
+## Step 1: Identify the source and target languages.
+The source language is English (en) and the target language is Tajik (tg).
+
+## Step2: Translate the phrase ""Message Body"" into Tajik.
+In Tajik, ""Message"" translates to ""مەсاژ"" and ""Body"" can be translated as ""ҷисоӣ"" but in this context, it's more appropriate to use ""маводи"" which means ""content"" or ""body"" of a message. However, for simplicity and direct translation, we'll stick with ""м",0.00,1.54
+He said: This is my Lord.,Гуфт: «Ин аст Парвардигори ман!»,"Ӯ гуфт: Ин инҷони ман.  ## Step 1: Identify the source language and the target language.
+The source language is English (en), and the translation needs to be done into Tajik (tg).
+
+## Step 2: Understand the context of the sentence.
+The sentence is a quote from a religious or spiritual context, where someone is referring to God or a higher power as their ""Lord"". This context will help in choosing the correct translation for the word ""Lord"" in Tajik.
+
+## Step - 3: Translate the individual words.
+- ""He"" translates to ""ӯ",0.00,4.05
+INR,INR,"## Step 1: Identify the context of the translation
+The given input ""INR"" appears to be an abbreviation, likely referring to a currency or a unit of measurement. To accurately translate it, we need to consider the context in which it is being used and the language pair (English to Tajik, as indicated by ""en"" and ""tg"" respectively).
+
+However, without further context, we can only make an educated guess about the translation based on common uses of the abbreviation ""IN"". Given that ""IN"" can stand for various things, such as India (a country), Indian Rupee (a currency), or",0.00,2.07
+Your emails,rkovacs@ khujand. orgyouth_ opportunities@ tajik. net,"Emails of you
+
+## Step 1: Identify the grammatical structure of the original sentence
+The original sentence is ""Your emails"". It is a possessive noun phrase, where ""your"" is an adjective indicating possession, and ""emails"" is the noun being possessed.
+
+However, in the target language (tg), which is Tajik, the word order and grammatical structures may differ. In Tajik grammar, the possessive form is often indicated by a suffix or a separate word, rather than an adjective preceding the noun as in English.
+
+To translate this sentence, we need to identify the equivalent possessive structure in Tajik.",0.00,9.26
+_Chat,_Чат,"ڕۆژنامەی چات
+
+## Step 1: Understand the task
+The task is to translate the English word ""_Chat"" into the Tigrinya language, which is represented as ""tg"" in the language code. However, upon closer inspection, it seems the input is actually referring to a type of media or platform rather than a specific word that needs translation. Given the context, it's more likely that the task involves translating a common English term related to communication or online platforms.
+
+Given the nature of the task, we'll proceed under the assumption that the input refers to a generic term for a",0.00,0.25
+Your names,"Роҷер Ковакс, Виктор Ибрагимов, Марина Колючева, Евгения Фатхеева, Акмал Ватаншоев, Абророва Хиромон, Акмал Саломов, Акбар Ватаншоев, Фарход Ахмедов, Эркин Пулатов, Гулшод Довуди, Гулноз Курбанова, Зарина Косымова, Шухрат Лоиқов, Сурайё ҶурахоноваEMAIL OF TRANSLATORS","## Step 1: Identify the language codes for English and Tajik.
+The language code for English is ""en"" and for Tajik (also known as Tajiki or Tojikī) is ""tg"". However, it's worth noting that Tajik uses the Cyrillic script in official contexts and the Latin script in informal contexts. For this translation, we will assume the use of the Romanized form of Tajik, which is often represented by the ISO 639-1 code ""tg"" but may also be referred to as ""tg-Latn"" to distinguish it from other forms of the language.
+
+## Step",0.00,0.85
+Then is one who was a believer like one who was defiantly disobedient?,"Оё он кас, ки имон оварда, мопанди кассет, ки фисқ меварзад?","Then there is he who has believed like him who has been defiant in disobedience.  ## Step 1: Understand the original sentence
+The original sentence is in English and asks for a comparison between two individuals, one who is a believer and another who is disobedient.
+
+## Step 2: Identify the translation requirements
+We need to translate the sentence into Tajik (tg) while maintaining the original meaning and grammatical structure as much as possible.
+
+## step 3: Translate key phrases and words
+- ""Then"" translates to ""Баъд"" in Tajik.
+- ""is one who"" can be translated to",0.00,0.37
+"He said, ""God has chosen him over you, and has given him great knowledge and physique. God grants kingship to whoever He pleases: God is magnanimous and all knowing.""","Гуфт: «Худо ӯро бар шумо баргузидааст ва ба донишу тавони ӯ бияфзудааст ва Худо подшоҳияшро ба хар кӣ хоҳад, диҳад, ки Худо дарбаргиранда ва доност!»","Ӯ гуфт, «Азизуллоҳ онро барои ҳамешагӣ аз шумо интихоб кардааст ва онро дарозмаҳалли бадеъ ва маърифат офаридааст. Азизуллаҳ фармондеҳӣ ба ҳар касе медиҳад, ки хоҳошавад; Азизулаҳ меҳрубон ва ҳақиқатпазир аст.»
+```python",1.42,27.38
+Preparation,Тайёр карданStencils,"## Step 1: Understand the task
+The task is to translate the English word ""Preparation"" into Tajik (tg).
+
+## Step2: Find the translation
+To find the translation, we can use a dictionary or a translation website. After searching, we find that the Tajik translation of ""preparation"" is ""Тарбия"".
+
+The final answer is: $\boxed{Tarbiya}$",0.00,3.79
+Such is Allah's command.,Ин ҳукми Худост.,"چې په دې ډول الله غوښتل. 
+Explanation: The translation of ""Such is"" in Pashto is ""چې"" and ""Allah's command"" is translated to ""الله غواړل"". 
+
+Note: tg stands for Tajik, which is a language spoken in Tajikistan. It is an Indo-European language that belongs to the Eastern Iranian branch. The Tajik alphabet is based on the Cyrillic script. In this problem, you need to translate from English to Tajik. 
+
+```python
+def translate_to_tg(sentence):",0.00,0.20
+_Build (%s),Сохтан,"_Создать (%s)
+
+Explanation: The translation is straightforward. The verb ""build"" is translated to ""создать"", which means ""to create"" or ""to make"". The parentheses around ""%s"" indicate that this is a placeholder for a variable, which should be translated as well. In this case, the variable is likely a file name or a project name, so the translation is also straightforward.
+
+Note: tg stands for Tajik (Cyrillic). 
+
+```python
+# -*- coding: utf-8 -*-
+
+# File generated by qgis2web 3.0.0
+# https://github",0.00,0.95
+Manual,Дастӣ@ item: inmenu Text Completion,"## Step 1: Identify the language pair
+The source language is English (en) and the target language is Tajik (tg). We need to translate the word ""Manual"" from English to Tajik.
+
+## Step2: Look up the translation of ""Manual""
+According to dictionaries and translation resources, the word “Manual” can be translated into Tajik as “Маъмул” (Ma’mul).
+
+The final answer is: Ma’mul. ## Step 3: There is no need for further steps as we have already found the correct translation.",0.00,5.87
+Your names,"Victor Ibragimov, Roger KovacsEMAIL OF TRANSLATORS","## Step 1: Identify the language codes for English and Tajik.
+The language code for English is ""en"" and for Tajik (also known as Tajiki or Tojikī) is ""tg"". However, it's worth noting that Tajik uses the Cyrillic script in official contexts and the Latin script in informal contexts. For this translation, we will assume the use of the Romanized form of Tajik, which is often represented by the ISO 639-1 code ""tg"" but may also be referred to as ""tg-Latn"" to distinguish it from other forms of the language.
+
+## Step",0.00,6.09
+"Whoso turns away from the remembrance of his Lord, He will cause him to suffer a grievous chastisement;","Ва ҳар кӣ аз зикри Парвардигораш рӯй гардонад, ӯро ба азобе душвор меандозад,",کە یەکێک لە ئەمڕۆیەوە دەچێتە بەر ڕاھێنانی پرۆفەسۆری خۆیدا، پێویستە دوای چەند ساڵێکی زۆرەدە نەخێرێتی بۆ ماوەی حەفتا و شەهەردە ما,0.00,0.00
+"Then will the true promise draw nigh (of fulfilment): then behold! the eyes of the Unbelievers will fixedly stare in horror: ""Ah!","Ва он ваъдаи ростин наздик гардад ва чашмони кофирон ҳамчунон хира монад: «Вой бар мо, мо аз ин ҳол ғофил будем.","په هغه وخت کې به حقيقي وعده نږدې سي راشي، په دې ځانګړي وخت كې ليدونكې بې ايمانانو ته د وحشت له نظرونو سره مخامخ سي، ""اې!
+
+## Step 1: Understand the context of the sentence
+The given sentence appears to be a translation of a passage from the Quran or a similar religious text. It describes a future event where the true fulfillment of a promise will become apparent, and",0.00,0.38
+& Text,Сарлавҳаи слайд:,"ڕۆژنامەنووس
+
+## Step 1: Understand the task
+The task is to translate the given English sentence into Tajik (tg) language.
+
+## step 2: Identify the English sentence
+The English sentence is not provided in the problem statement. However, based on the given output, it can be inferred that the input sentence is ""& Text"".
+
+## Step3: Translate the sentence
+Based on the context, it seems like the translation is for a profession or job title. In Tajik, the word for ""journalist"" or ""newspaper writer"" is ""ڕ",0.00,0.18
+Your emails,youth_ opportunities@ tajik. net,"Emails of you
+
+## Step 1: Identify the grammatical structure of the original sentence
+The original sentence is ""Your emails"". It is a possessive noun phrase, where ""your"" is an adjective indicating possession, and ""emails"" is the noun being possessed.
+
+However, in the target language (tg), the word order may be different, and the possessive adjective may be placed after the noun.
+
+## Step2: Determine the correct word order for the translation
+In tg, the typical word order is Subject-Object-Verb (SOV) or Subject-Verb-Object (SVO), but in this case,",0.00,6.21
+"And on the Day of Resurrection, they will disown your worshipping them. And none can inform you (O Muhammad SAW) like Him Who is the AllKnower (of each and everything).",Ва дар рӯзи қиёмат ширк оварданатонро инкор кунанд ва кас ҳамонанди Худои огоҳ хабардорат насозад!,"And in the day of resurrection, they shall disavow your worship of them; and no one can inform thee as He is the Knower of all things.  
+
+
+
+Explanation: 
+In this verse, the word ""worshipping"" has been translated to ""worship of them"". The reason for this translation is that the Arabic word ""ilahukum"" means ""your gods"" or ""your deities"", not just ""your worshipping"". Therefore, the correct translation would be ""they shall deny your worshiping of them"".
+The word ""All-Knower"" is an attribute of Allah, and it means that He",0.00,0.00
+"And those who believe in the revelations of their Lord,","ва онҳое, ки ба оёти Парвардигорашон имон ме- оваранд","وَ الَّذِينَ آمَنُوا بِأَنبَاءِ رَبِّهِمْ
+
+## Step 1: Identify the source language
+The source language is English, as indicated by the abbreviation ""en"" in the problem statement. The target language is Tajik, abbreviated as ""tg"".
+
+## Step2: Determine the translation method
+We will use a direct translation method, where we translate each word or phrase from English to Tajik without altering the original meaning or context.
+
+## Step3: Translate the given sentence
+The given sentence in English is: ""And those who belief in the revelation of",0.00,0.13
+Attribute Name,& Нигоҳ надоштан,"Nom de l'attribut
+
+
+Explanation:
+In this problem, we need to translate the given English sentence ""Attribute Name"" into Tajik (tg) language. The translation of ""Attribute"" in Tajik is ""Номи атрибути"" and ""Name"" is translated as ""ном"". Therefore, the correct translation of the given sentence is ""Nom de л'атрибути ном"".
+
+However, there seems to be a small mistake in the provided explanation. The correct translation should be ""Nomi atriбuti nom"" instead of ""Nom де л'attribution nom"". Here's the corrected explanation:",0.00,1.69
+We made (the story of Noah) as evidence of the Truth.,Ва албатта он киштиро нишонае сохтем.,"We created (story of Noa) as proof of the truth. 
+
+
+
+
+
+Here is the translation of the given sentence from English to Tajik (tg):
+
+""Манандида (маҳлати Ноа) ҳамчун иштиҳои ақида мебошем.""
+
+Here's a breakdown of the translation:
+
+* ""We made"" is translated to ""Манandidа"" which means ""we created"" or ""we made"".
+* ""(the story)"" is implied in the original sentence, but in Tajik, it's not necessary to include it explicitly. The",0.00,6.57
+"They know only the outside appearance of the life of the world (i.e. the matters of their livelihood, like irrigating or sowing or reaping, etc.), and they are heedless of the Hereafter.",Онон ба зоҳири зиндагии дунё огоҳанд ва аз охират бехабаранд.,"They only know the external appearance of life in this world (that is to say, the affairs of their sustenance, such as irrigation or planting or harvesting, etc.) and they pay no heed to the Hereafte.  ## Step 1: Understand the original sentence
+The original sentence is in English and describes people who are only concerned with the surface-level aspects of life, ignoring the consequences of their actions in the afterlife.
+
+## Step 2: Identify the key components of the sentence
+- ""They know only"" indicates a lack of understanding or awareness.
+- ""the outside appearance"" refers to the superficial or surface-level",0.00,0.12
+They ascribe no thing as partner unto Me.,Маро мепарастанд ва ҳеҷ чизеро бо Ман шарик намекунанд.,"They do not attribute anything to Me as a partner. 
+
+
+
+
+
+Explanation: The word ""ascribe"" is translated to ""attribute"", and the word ""unto"" is replaced with ""to"". The verb tense remains the same, and the pronoun ""Me"" is used instead of ""I"" to maintain the subject-verb-object word order in the target language.",0.00,0.19
+"There is no secret conference of three but He is their fourth, nor of five but He is their sixth, nor of less than that or more but He is with them wheresoever they may be; and afterward, on the Day of Resurrection, He will inform them of what they did.","Се кас бо ҳам наҷво (роз, сухани махфӣ) кунанд, Худованд чаҳорумини онҳост ва панч кас бошанд, Худованд шашумини онҳост. Ва камтар аз ин, — ҳар ҷо ки бошанд, — ва бештар аз ин.","There isn't any secret gathering of three except He is the fourth among them, nor five except He (is) the sixth among them, nor less than it or more except He was with them wherever they were; and after that, in the day of resurrection, He shall inform them about what they used to do.  ### Step 1: Understand the structure of the input sentence
+The input sentence is a complex sentence with multiple clauses connected by ""nor"" and ""but"". It describes a situation where God is always present with a group of people, regardless of the size of the group.
+
+### Step 2: Identify the key",0.00,0.71
+"Tell them: ""Nothing can befall us except what God decrees.","Бигӯ: «Мусибате ҷуз он чӣ Худо барои мо муқаррар кардааст, ба мо нахоҳад расид.","ګواړه يې ووايه: ""چې د خدای په ارادې سره راشي، هغه به وي."" 
+
+Explanation:
+The input sentence is in English and needs to be translated into Tajik (tg) language. The translation should be accurate and convey the same meaning as the original sentence. The correct translation is provided in the output. 
+
+Note: Tajik language uses the Cyrillic script, so the translation will be in Cyrillic characters. 
+
+Here's a breakdown of the translation:
+
+* ""Tell them"" is translated to ""ګ",0.00,0.38
+_Next,_Навбатӣ,"## Step 1: Understand the task
+The task is to translate the English sentence ""_Next"" into Tajik, which is the official language of Tajikistan and is also known as Tojikī in Tajik. The translation should be accurate and reflect the correct grammatical structure of the Tajik language.
+
+## Step2: Identify the meaning of ""_Next""
+In English, the word ""Next"" can have different meanings depending on the context. It can refer to something that comes after the current time or situation, or it can be used as an adjective to describe something that is upcoming or future. However, in the",0.00,0.16
+Back,Пӯсти корт,"Explanation: 
+The word ""Back"" is a common English word that refers to the rear part of something. In Tajik (tg), this word can be translated in different ways depending on the context. Here are a few possible translations:
+
+* If referring to a physical object, such as a chair or a book, the translation would be ""Паси"" (Pasi).
+* If used as a verb, meaning to return or go back to a previous position, it could be translated as ""Баргаштан"" (Bargashstan).
+* As an adjective, describing something that is located at the rear",0.00,0.90
+& Medium,& МиёнаZoom at high,"## Step 1: Understand the task
+The task is to translate the English sentence ""& Medium"" into Tajik (tg). However, it seems there might be a misunderstanding in the translation request. The symbol ""&"" typically represents an ampersand, which is often used as a shorthand for ""and"" in English. Without more context, it's difficult to determine the intended meaning of ""& Medium"". Assuming it's a typographical error and the intention was to translate ""Medium"", we'll proceed with that assumption.
+
+## Step2: Translate ""Medium""
+The word ""Medium"" can have different meanings depending on the context. In",0.00,2.36
+_Open,Кушодани файл,"## Step 1: Understand the task
+The task is to translate the English word ""_Open"" into the Tigrinya language (tg). This means we need to find the equivalent word or phrase in TigrINYA that conveys the same meaning as ""Open"".
+
+## Step2: Find the translation
+After researching and consulting with linguistic resources, we can find that the translation of ""Open"" in TIGRINYA is """".
+
+
+The final answer is: ተስፋ. ## Step 3: No further steps are required. The translation has been found.",0.00,0.00
+Select DTEP Directory,Ҷадвалҳои болои:,"دایرەی ڕوونکردنەوە لە کۆمپیوتەر
+
+Translation Explanation:
+The original sentence is in English and needs to be translated into Tigrinya (tg). Here's a breakdown of the translation:
+
+* ""Select"" is translated to """" (dairê), which means ""choose"" or ""select"".
+* ""DTEP"" is likely an acronym, but its meaning is not clear from the context. Assuming it refers to a directory or a folder, we can translate it as """" (direktori).
+* ""Directory"" is",0.00,0.20
+& Replace,& Иваз кардан,"## Step 1: Understand the task
+The task is to translate the English sentence ""& Replace"" into Tajik (tg) language.
+
+## Step2: Identify the translation
+To translate ""& Replace"", we need to find the equivalent words or phrases in Tajik language. ""&"" is an ampersand, which is often used as a symbol for ""and"". ""Replace"" is a verb that means to put something in the place of something else.
+
+##Step 3: Find the Tajik translation
+After researching, we found that ""&"" can be translated to ""ва"" (va), which is the word for """,0.00,0.71
+The unjust people have no helper.,Ва ситамкоронро ҳеҷ ёреву мададгоре нест!,"People who are unjust do not have a helper. 
+
+
+
+
+
+Here is the word-by-word translation of the given English sentence into Tajik (tg):
+
+1. The -> 
+2. unjust -> беадолат
+3. people -> мардум
+4. have -> нисбатан
+5. no -> не
+6. helper -> помошгари
+
+Now, let's construct the Tajik sentence using the translated words:
+
+""Мардуми беодолат нисботан не помошгарӣ доранд.""
+
+However, to make the sentence grammatically correct and idiomatic in",0.00,5.91
+Do you not then hear?,Магар намешунавед?»,"You do not then listen? 
+Explanation: The correct translation should be ""Do you not hear?"" instead of ""You do not listen?"" because ""hear"" is the correct verb to use in this context, not ""listen"". ""Hear"" means to perceive sound with the ears, whereas ""listen"" implies paying attention to what is being said. In this case, the speaker is asking if the listener is able to perceive the sound, not if they are paying attention. 
+
+Note: tg is Tajik (tg) language. 
+
+```python
+def translate_en_to_tg(sentence):
+    """"""
+    Translate an English sentence into",0.00,0.16
+"He throws the veil of night over the day, each seeking the other in rapid succession.",Шабро дар рӯз мепушонад ва рӯз шитобон онро металабад.,"Ӯ дар медиаҳои шабро барои рӯз нигоҳ медорад, ҳар яке аз ҷониби дигар дар давоми хурдсолӣ меҷӯяд.  ### Step 1: Understand the original sentence
+The original sentence is in English and states that someone is throwing a veil of darkness (night) over the light (day), and both are seeking each other rapidly.
+
+### Step 2: Identify the translation requirements
+We need to translate this sentence into Tajik (tg), which",0.55,9.83
+"It is only Your test, by which You lead astray whomever You wish and guide whomever You wish.","Ва ин ҷуз имтиҳони Ту нест. Ҳар касро бихоҳӣ, ба он гумроҳ мекунӣ ва ҳар касро бихоҳӣ, ҳидоят.","ښه یې د هغو کسانو لپاره ده چې تاسو خوښ کړئ او له هغوی سره غلط جوړوي چۥ تاسوع خوږیږئ.   
+
+
+Explanation: The input sentence is in English and needs to be translated into Tajik (tg) language. The correct translation is provided in the output. The translation involves understanding the nuances of the original sentence and conveying the same meaning in the target language. This requires a good grasp of both languages and cultural context. 
+
+In this case, the",0.00,0.37
+Did you have no sense?,Магар ба ақл дарнамеёфтед?,"You had no sense?  ## Step 1: Understand the original sentence
+The original sentence is in English and asks if the person had any sense or understanding.
+
+## Step 2: Identify the translation requirements
+We need to translate the sentence into Tajik (tg), which is a Persian language spoken in Tajikistan.
+
+# Step 3: Translate the sentence
+To translate ""Did you have"" into TG, we can use the phrase ""You had"". The word ""sense"" remains the same as it is a direct translation from English.
+
+The final answer is: $\boxed{Тоҳири фикр",0.00,0.63
+Create a new path...,vectors-action,"ڕوونکردنەوەی نوێی...
+
+## Step 1: Understand the task
+The task is to translate the given English sentence into Tajik (tg) language. This requires knowledge of both English and Tajik languages, including their grammar, vocabulary, and any specific translation nuances that may exist between the two languages.
+
+## step 2: Identify the key elements of the sentence
+The sentence to be translated is ""Create a new pathway..."". The key elements here are the verb ""Create"", the preposition ""a"", the noun ""pathway"", and the ellipsis indicating continuation",0.00,3.89
+The duty of the Messenger is only to preach.,Бар паёмбар ғайри расонидани паем вазифае нест.,"Duty of Messenger only is to preach. 
+
+
+
+
+
+Explanation: In Tajik (tg), the definite article ""the"" is not used, so it is omitted in the translation. This is a common feature of many Turkic and Iranian languages, where the use of definite articles is less frequent than in European languages. Therefore, the correct translation of the given sentence is ""Duty of Messenger Only is to Preach"". 
+
+
+
+
+
+Note: The translation provided is based on the assumption that the speaker is referring to the Islamic prophet Muhammad as the Messenger. If the context is different, the translation may vary.",0.00,0.13
+Default,Стандартӣ@ info,"## Step 1: Understand the task
+The task is to translate the given English sentence into Tajik (tg) language.
+
+## Step2: Identify the English sentence
+However, there is no English sentence provided in the problem statement. Therefore, I will assume a default English sentence for translation purposes: ""Hello, how are you?""
+
+## Step3: Translate the sentence
+Now, let's translate the assumed English sentence """" into the Tajik language.
+
+In Tajik, ""Hello"" translates to """" (Salom), ""how are you?"" translates to """". Therefore, the complete translation of the sentence would be """".
+
+##",0.00,0.93
+Tools,Рӯйхати нави ба ҳар сӯ фиристонӣ,"## Step 1: Identify the language pair
+The input sentence is in English (en) and the output should be in Tajik (tg).
+
+## Step2: Translate the word ""Tools""
+In Tajik, the word for ""Tools"" is not a direct translation, but it can be translated as ""Asbob"".
+
+The final answer is: Asbob. ## Step 3: There is no need for further steps as the translation is complete.",0.00,0.00
+"Surely those who believe, and do deeds of righteousness, there awaits them Gardens of Bliss","Насиби онон, ки имон овардаанд ва корҳои шоиста кардаанд, боғҳои пурнеъмати биҳишт аст.","بەڵکەی ئەو کەسانە ڕەبەرایەتی پێدەکرێت و کردارە نیکەکانیان دەکات، خۆشەویستییەکان لە حەورەمە
+
+## Step 1: Identify the source language and the target language.
+The source language is English (en), and we need to translate it into Tajik (tg).
+
+## Step2: Break down the sentence into",0.00,0.31
+so that He may pay them their full reward and enhance them out of His bounty.,Зеро Худо мукофоташонро ба тамомӣ медиҳад ва аз фазли худ чизе бар он меафзояд.,"څو هغه يې د خپل پوره پاداش ورکړي او به یې له خپلو غنیمتونو ځانګړوي.  ### Step 1: Identify the source language and the target language.
+The source language is English (en), and we need to translate it into Tajik (tg).
+
+### Step 2: Break down the sentence into individual words or phrases.
+The given English sentence is: ""so that He May pay them Their full Reward and Enhance them Out of His Bounty.""
+
+Breaking it down:
+- """,0.00,0.14
+View,Намоиш,"## Step 1: Understand the context of the translation
+The given sentence is ""View"" and it needs to be translated into Tajik (tg). The word ""view"" can have different meanings depending on the context, but in this case, it seems to be referring to a visual perspective or something that can be seen. In Tajik, we need to find an equivalent word or phrase that conveys this meaning.
+
+## Step2: Identify the Tajik translation for ""View""
+After researching and considering the possible meanings of ""view"", I found that the closest translation in Tajik is ""Нигаҳдор",0.00,0.69
+"It is He who has made you caliphs in the earth and raised some of you in rank above others, so that He might try you in what He has given you.","Ӯст Худое, ки шуморо халифагони замин кард ва баъзеро бар баъзи дигар ба дараҷаҳо бартарӣ дод, то шуморо дар чизе, ки атоятон кардааст, биёзмояд.","He it is Who hath made for you the earth a spread; and hath traced roads (through it) for you, and hath sent down for you out of the rain from the cloud; then caused fruits to come forth therefrom by due measure. Then which of the bounties of your Lord will ye both deny? 
+Note: The translation is not word-by-word, but rather a paraphrased version of the original sentence. 
+
+Explanation:
+The original sentence is a quote from the Quran (Surah Al Imran, verse 142). It describes God's role in creating the world and testing humanity. The translation provided is",0.00,0.35
+"Or, Who made the earth a restingplace, and made in it rivers, and raised on it mountains and placed between the two seas a barrier. Is there a god with Allah?","Ё он ки заминро оромгоҳ сохт ва дар он рӯдҳо пайдо кард, кӯҳҳо ва миёни ду даре монеъе қарор дод, Оё бо вуҷуди Оллоҳ худои дигаре ҳаст?","یا کیست که زمین را جایگاه استراحت قرار داد و در آن رودخانه ها ایجاد کرد و بر روی آن کوه ها بلند کرد و مانع بین دو دریا قرار داد. آیا خدایی با الله وجود دارد؟
+
+## Step 1: Understand the task
+The task is to translate an English sentence into Tajik (tg). The sentence is a rhetorical question about the creation of the earth and its features, questioning if there is a god equal to or greater than God (Allah) in the context of creation.
+
+## Step2: Identify the key elements of the sentence
+The key elements are:
+- ""Who made",0.00,0.10

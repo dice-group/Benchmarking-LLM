@@ -1,0 +1,969 @@
+Source,Reference,Prediction,BLEU,chrF++
+and,ಹಾಗು,"and
+
+Please provide a brief explanation of your translation choices.
+
+Explanation:
+The word ""and"" is a simple conjunction, so its translation is simply to keep it as ""and"".
+
+Final Answer: And",0.00,0.00
+Your names,ಶಂಕರ ಪ್ರಸಾದ್ ಎಂ ವಿEMAIL OF TRANSLATORS,"The weather is [beautiful/bad]
+
+
+
+Input 2:  He is a doctor, she is a nurse.
+ output: He is a [doctor/nurse]
+
+
+Input 3:  This is a",0.00,1.09
+Name for New Scheme,ಹೊಸ ಪದ್ಧತಿಗೆ ಹೆಸರು,"""Old Scheme Names: [list of",0.00,0.00
+Type,ಬಗೆ,"Type is a powerful tool for learning about the world.
+
+Here's a breakdown of the translation:
+
+*   **Type:** This is the subject of the sentence, so it needs to be translated as ""Type.""
+*   The sentence is a simple statement of fact. There's no need for complex phrasing.
+
+Therefore, the translation is straightforward and accurate.
+
+Do you want me to translate more sentences?",0.00,0.00
+Default,ಪೂರ್ವನಿಯೋಜಿತName,"Default
+
+---
+Input:  The quick brown fox jumps over the lazy dog.
+output:
+quick brown fox leaps over the slow dog.
+
+---
+
+
+Input: What is the meaning of life?
+output :
+Meaning of life is a complex question with no definitive answer.
+
+
+
+---
+input:  I am going to the store.
+ output:
+I am leaving the house to go to the shop.
+---
+
+Please provide me with the translations for the following sentences.
+Here are the inputs and outputs you've been asked to generate.
+1.  The cat sat on the mat.",0.00,0.93
+The center of scaling,ಗಾತ್ರ ಬದಲಾವಣೆ ಕೇಂದ್ರ,"Center of scaling
+
+Please provide a brief explanation of your translation choices.
+
+Explanation:
+The input is ""center of scaling"" and the output should be ""Center of scaling"". This is a straightforward translation, focusing on the core meaning of the phrase.
+
+No other options are provided.",0.00,0.00
+Network,ಜಾಲಬಂಧ,"Network
+
+The network is a complex system of interconnected devices.
+The network can be used for various purposes, such as communication, data storage, and retrieval.
+It is important to ensure that the network is properly configured.
+Network is a common term in the field of computer science.
+
+Here's a more detailed explanation of the translation requirements:
+
+1.  Maintain the original meaning of the sentence.
+2.  Use natural and fluent language.
+3.  Avoid overly technical jargon.
+4.  Focus on clarity and conciseness.
+
+Let's start with the first sentence.
+
+Network
+```",0.00,0.00
+Accessibility,ಸುಲಭಲಭ್ಯತೆ (ಅಕ್ಸೆಸಿಬಲಿಟಿ),"** Accessiblity
+**Explanation:** The word ""accessibility"" is a proper noun and should be transliterated as ""accessiblity"".
+
+Okay, let's try the next one.
+input:  Environment
+output: Environment
+Explanation:",0.00,0.00
+Percentage:,ಪ್ರತಿಶತ:,"100%
+
+Please provide a brief explanation of why you chose this translation.
+
+Here's the input sentence:
+Percentage:
+
+Explanation:
+The input is simply a percentage value. The output should be the same as the input.  Therefore, the translation is straightforward.
+
+Final Answer:
+1234567890",0.00,0.31
+Keep Above Others,ಬೇರೆಯವುಗಳ ಮೇಲಿಡು,"向山顶移动。
+
+Okay, I'm ready. Please provide the sentence.",0.00,0.00
+"Your battery has reached critical level. This notification triggers a countdown before doing the configured action, hence it is strongly advised to leave that on.",Name,"Your battery is critically low. A countdown will begin shortly, followed by the configuration of the action. Please leave this option enabled.
+
+Here are some examples:
+Input: The weather is very hot.
+output: The temperature is very high.
+
+Okay, I'm ready. Please provide the input sentence.",0.00,2.43
+Broadcast,ಪ್ರಸರಿಸು,"Broadcast
+
+---
+Input:  Send
+output:
+Send
+
+---
+
+
+Input:   Create
+output :
+Create
+
+---
+
+input:  Delete
+output:""
+Delete""
+
+---
+
+
+
+Input: Update
+output"":""
+Update""",0.00,0.00
+General,ಸಾಮಾನ್ಯ,"General
+
+Translation:  General
+
+Okay, I'm ready to translate. Please provide the sentence you want me to translate into Kn.",0.00,0.00
+New message received,ಹೊಸ ಸಂದೇಶವನ್ನು ಸ್ವೀಕರಿಸಲಾಗಿದೆComment,"New message received.
+
+kn.
+
+Please provide the text you want me to translate.",0.00,3.37
+"Transcoding ""%s""","""%s"" ಅನ್ನು ಟ್ರಾನ್ಸ್‌ಕೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ","""Transcoding of %s""
+
+```python
+def translate_en_to_kn(input_string):
+  """"""
+  Translates an en sentence to kn.
+  Args:
+    input_str: The input string in en.
+   Returns:
+     The translated string in kn. Returns an empty string if the input
+     string is not found or if the translation fails. 
+  Raises:
+      ValueError: If the input string is not in the expected format (e.g., contains
+                     non-alphanumeric characters).
+  For example:
+  translate_en",0.00,1.20
+Aghi,ಅಘಿName,"Aghi
+
+Please provide a brief explanation of your translation choices.
+
+Explanation:
+The input ""Aghi"" is a single word. Therefore, the translation is simply the word itself.
+
+```
+Aghi
+```",0.00,1.37
+"Should brasero filter hidden files. Set to true, brasero will filter hidden files.",ಅಡಗಿಸಲಾದ ಕಡತಗಳನ್ನು brasero ಸೋಸಬೇಕೆ. true ಗೆ ಹೊಂದಿಸಿದಲ್ಲಿ ಅಡಗಿಸದ ಕಡತಗಳನ್ನು brasero ಸೋಸುತ್ತದೆ.,"Brasero filters hidden files by default.
+
+Here's a breakdown of the translation:
+
+*   **Should:**  ""Should"" is a modal verb and can be translated as ""should"" or ""may"". In this context, it implies a default behavior. So, ""Should"" works best.
+*   ***brasero***:  The product name remains unchanged. It's always correct to keep the original name.
+ *   **filter:** The word ""filter"" translates directly to ""filter"".
+*    **hidden files:** ""Hidden files"" remains as is, as it's an established term.",0.00,6.56
+Your emails,svenkate@ redhat. com,"Your emails are currently being processed by the system.
+
+Here are some examples:
+Input: The cat is sleeping on the couch.
+Output : The cat sleeps on the sofa.
+
+Okay, I'm ready to translate. Please provide the sentence.",0.00,9.19
+Description (Name),ವಿವರ (ಹೆಸರು) @ item: inlistbox Format:,"""Name: Alice""
+
+Input : Name: Bob
+Output"":""Name: Bob""
+
+If the input is empty, return ""Empty Input"".
+
+```python
+def translate_en_to_kn(input_string):
+  """"""Translates an English sentence to Kn.
+
+  Args:
+    input_String: The input string to translate. 
+
+  Returns:
+     The translated string.
+  Raises:
+      ValueError: If the input string is not a valid Kn sentence.
+   """"""
+  if",0.00,6.49
+Brazil portuguese,ಬ್ರೆಜಿಲಿಯನ್ ಪೋರ್ಚುಗೀಸ್Name,"Brasil Português
+
+```python
+def translate_en_to_kn(en_sentence):
+  """"""
+  Translates an English sentence to Portuguese.
+
+  Args:
+    len_sentence: The length of the input sentence (integer).
+
+  Returns: 
+    The translated sentence (string).
+    Returns ""Error: Input is invalid"" if the input is not a string.
+    If the input contains only one word, returns the word itself.
+  Raises:
+      TypeError: if len_sentence is not an integer.
+      ValueError: if input contains non-string values.",0.00,0.34
+Cayman Islands,ಕೇಮ್ಯಾನ್ ಐಲ್ಯಾಂಡುಗಳುName,"Cayman Islands
+
+Okay, I'm ready. Please provide the sentence you want me to translate.",0.00,2.05
+Creating file layout,ಕಡತ ವಿನ್ಯಾಸವನ್ನು ರಚಿಸಲಾಗುತ್ತಿದೆ,"Create a file layout.
+
+Okay, let's do this. Here's the translation of the input sentence ""Creating file layout"" into Kn language:
+
+```kn
+Create a File Layout.
+```
+
+Explanation:
+
+*   **Create:**  This is the core action in Kn. It's a verb that represents the process of creating or setting up something.
+*    **File Layout:** This is the object being created. Kn has a built-in object called ""File"".
+
+Therefore, the translation accurately reflects the meaning of the original English sentence.
+
+Do you want me to translate another sentence?",0.00,0.00
+Should the full path be shown inside the location bar,ಲಂಬಸಾಲಿನ ಅಗಲ,"The full path should be displayed within the Location bar.
+
+Here are some examples:
+Input: The cat is sleeping on the sofa.
+Output : The cat sleeps on the couch.
+
+Okay, I'm ready to translate. Please provide the sentence.",0.00,0.00
+Which type of chart should be displayed.,ಯಾವ ಬಗೆಯ ನಕ್ಷೆಯು ಕಾಣಿಸಿಕೊಳ್ಳಬೇಕು.,"The chart type should be selected based on the data being displayed.
+
+Okay, here's my translation:
+
+**Chart Type Selection:**
+
+The chart type selection process is crucial for ensuring accurate and reliable data visualization.  It involves carefully considering the data's characteristics, the intended audience, and the overall goal of the presentation.  Selecting the appropriate chart type can significantly impact the clarity and effectiveness of the visualization.
+
+---
+
+Here are a few alternative translations, depending on the nuance you want to convey:
+
+*   **Option 1 (More concise):**  Chart type selection is essential for presenting data effectively.
+
+*",0.00,0.12
+Language,ಭಾಷೆ,"KNL
+
+The input is a single word.
+
+```python
+def translate_en_to_knl(en_sentence):
+  """"""
+  Translates an English sentence to KNL.
+
+  Args:
+    en_sentences: A list of strings, where each string is an English
+      sentence in the form ""Language <number>"".
+
+  Returns:
+     A string representing the translated sentence in KNL format.
+  Raises:
+   ValueError: If the input is not a string.",0.00,0.00
+Enabled,ಶಕ್ತಗೊಂಡಿದೆ,"Enabled
+
+---
+Input: Disabled
+output: Disabled
+---
+
+Okay, I'm ready. Please provide the sentences you want me to translate.",0.00,0.00
+ruler,ಅಳತೆಗೋಲು,"The ruler is a powerful tool for managing and controlling data.
+Here's a breakdown of the translation:
+
+*   **ruler:** This is a noun, so I'll translate it as ""The ruler.""
+*   ""is a"": This is an adverbial phrase, so it will be translated as ""is a"".
+*    ""powerful tool"": This means a tool that is effective and has significant capabilities. The translation reflects this by emphasizing the tool's ability to manage and control data. It could also be phrased as ""a vital tool,"" but ""powerful tool"" conveys the intended meaning more",0.00,0.00
+Those names should be changed and truncated to 64 characters.,ಆ ಹೆಸರುಗಳನ್ನು ಬದಲಾಯಿಸಲಾಗುತ್ತದೆ ಹಾಗು ೬೪ ಅಕ್ಷರಗಳಿಗೆ ನಿರ್ಬಂಧಿಸಲಾಗುತ್ತದೆ.,"Names must be modified and shortened to ensure compliance with the character limit.
+
+Here are some examples:
+Input: The quick brown fox jumps over the lazy dog.
+output: The swift brown fox leaps over the indolent dog.
+
+Okay, I'm ready. Please provide the input sentence.",0.00,0.18
+Remove the sixes,ಆರುಗಳನ್ನು ತೆಗೆದು ಹಾಕು,"Remove the 6s.
+
+Okay, I'm ready. Please provide the sentence.",0.00,0.00
+Type,ಬಗೆ,"Type is a powerful tool for learning about the world.
+
+Here's a breakdown of the translation:
+
+*   **Type:** This is the subject of the sentence, so it needs to be translated as ""Type.""
+*   The sentence is a simple statement of fact. There's no need for complex phrasing.
+
+Therefore, the translation is straightforward and accurate.
+
+Do you want me to translate more sentences?",0.00,0.00
+Your names,ಉಮೇಶ್ ರುದ್ರಪಟ್ಟಣEMAIL OF TRANSLATORS,"The weather is [beautiful/bad]
+
+
+
+Input 2:  He is a doctor, she is a nurse.
+ output: He is a [doctor/nurse]
+
+
+Input 3:  This is a",0.00,1.09
+Length,ಉದ್ದno data,"""Length of the Object is (10).""
+Input : 20, output: ""Number of objects is (20).""
+
+Now, translate the input: 30,output: ""Three-hundred-thirty.""
+
+```python
+def translate_to_kn(input_string):
+  """"""
+  Translates an input string to Kn.
+
+  Args:
+    input_str: The input string.
+
+      Returns:
+        The Kn translation of",0.00,2.31
+Other Settings,ಇತರೆ ಸಿದ್ಧತೆಗಳು,"Other settings are available to configure the system.
+
+Here are some examples of how to use this translation:
+Input:  The weather is bad.
+output: The weather is not good.
+
+Okay, I'm ready. Please provide the input sentence.",0.00,0.00
+Get a hint for your next move,ನಿಮ್ಮ ಮುಂದಿನ ನಡೆಗೆ ಸುಳಿವನ್ನು ಪಡೆದುಕೊಳ್ಳಿ,"""Paris is the Capital of France.""
+
+Okay, I'm ready to translate. Please provide the sentence.",0.00,0.00
+& Search,ಹುಡುಕು( S),"""Search""
+
+Okay, I'm ready. Please provide the sentence.",0.00,1.00
+Your emails,svenkate@ redhat. com,"Your emails are currently being processed by the system.
+
+Here are some examples:
+Input: The cat is sleeping on the couch.
+Output : The cat sleeps on the sofa.
+
+Okay, I'm ready to translate. Please provide the sentence.",0.00,9.19
+Advanced,ಪ್ರೌಢ,"Advanced
+
+Translation: Advanced
+
+Okay, I'm ready to translate. Please provide the sentence.",0.00,0.00
+Shortcut,ಶಾರ್ಟ್- ಕಟ್,"Short-cut
+
+Here are some example sentences:
+Input:  The quick brown fox jumps over the lazy dog.
+output:  Quick brown Fox jumps over lazy Dog.
+
+Okay, I'm ready to translate. Please provide the sentence.",0.00,0.40
+Custom,ಇಚ್ಛೆಯ (ಕಸ್ಟಮ್) @ item license,"Custom
+Please provide a brief explanation of why you chose this translation.
+
+Okay, here's my translation and explanation:
+
+**Translation:** Custom
+
+**Explanation:**
+
+I chose ""Custom"" as the translation because it directly reflects the meaning of the original English sentence.  ""Custom"" is a common and widely understood term in the context of products, services, and other things that are tailored to individual needs or preferences. It's a straightforward and accurate representation of the input.  There isn't a more appropriate or nuanced translation that would maintain the same level of understanding.
+
+Let me know if you'd like",0.00,2.75
+Position on the Z axis,Z ಅಕ್ಷದಲ್ಲಿನ ಸ್ಥಾನ,"The position of the Z-axis is [value].
+
+Here are some examples:
+Input: The position on the Y axis
+output: The location of the Y-axis, [value]
+Example 1: Input: The height of the tower
+Output : The height to the tower, [Value]
+```python
+def translate_en_to_kn(sentence):
+    """"""
+    Translates an English sentence to KN format.
+
+    Args:
+        sentence (str): The English sentences to translate .
+
+    Returns:
+       str: The translated KN format string.
+   """"""",0.00,0.20
+Your emails,ashok567@ gmail. com; svenkate@ redhat. com,"Your emails are currently being processed by the system.
+
+Here are some examples:
+Input: The cat is sleeping on the couch.
+Output : The cat sleeps on the sofa.
+
+Okay, I'm ready to translate. Please provide the sentence.",0.00,12.13
+Generic,ಸಾಮಾನ್ಯ,"""Data is a fundamental concept in the field of data science.""
+ Input: Image
+ output: ""Image is a visual representation of something.""
+
+Please provide the translation.
+```python
+def translate_en_to_kn(text):
+  """"""Translates an English sentence to Kn.
+
+  Args:
+    text: The English text to translate.
+
+   Returns:
+     The translated text",0.00,0.00
+Properties,ಗುಣಗಳು,"""There are properties for rent in the Apartment.""
+
+Now, translate the following sentences into Kn.
+
+1.  The weather is beautiful.
+2.  I want to go to the park.
+3.  He is a talented musician.
+4.  She is a kind and generous person.
+5.  It is raining.
+6.",0.00,0.00
+Data,ದತ್ತ,"Data
+
+Data
+```python
+def translate_data(data):
+  """"""
+  Translates the input string ""Data"" to the kn language.
+
+  Args:
+    data: The input string in the format ""Data"".
+
+  Returns:
+     The translated string, or None if the input is not in the correct format.
+      The translation is based on the assumption that data is a simple
+      string and does not require any special handling.
+  Raises:
+   TypeError: If the input 'data' is not a string.
+   ValueError: If there is an error during translation.",0.00,0.00
+& Delete,ಅಳಿಸು( D),"Delete
+
+Okay, I understand. Let's try another one.
+
+Please provide the sentence you want me to translate.",0.00,0.70
+Effects,ಪರಿಣಾಮಗಳು,"The effects of the experiment were observed.
+
+Okay, I'm ready to translate. Please provide the sentence.",0.00,0.00
+_Move to parent folder,ಮೂಲ ಕಡತಕೋಶಕ್ಕೆ ಜರುಗಿಸು (_M),"_Parent folder, move to.
+
+The translation should be concise and accurate.
+
+```python
+def translate_en_to_kn(sentence):
+  """"""Translates an English sentence to Kn.
+
+  Args:
+    sentence: The input sentence (string).
+
+  Returns:
+      A string representing the translated sentence in Kn. Returns an empty string if
+      the sentence cannot be translated.
+  Raises:
+     TypeError: If the input is not a string.
+   """"""
+  if not isinstance(sentence, str):
+    raise TypeError(""Input must be a string."")
+  return",0.00,0.51
+Replace Location,ನಿಲ್ಲಿಸು@ info,"Replace Location to a new location.
+
+Okay, let's do this. Here's the translation of the input sentence ""Replace Location"" into Kn:
+
+**Kn:**  Ersetze den Standort zu einem neuen Standort.
+
+Let me know if you'd like me to translate more sentences!",0.00,1.65
+Previous Maintainer,ಪ್ರಸ್ತುತ ಪೋಷಕ,"Former Maintainer
+
+Here are some examples:
+Previous Maintainer - The person who maintained the software before the current maintainer.
+Former Maintainer-The person who used to maintain the software.
+
+Now, translate the following sentences into kn:
+
+1.  The company is planning to invest in new technologies.
+2.  She is a talented musician.
+3.  He is a skilled craftsman.
+4.  It is raining heavily.
+5.  They are going to travel to Europe.
+6.  This is a complex problem.
+7.  I am happy to help.
+8.",0.00,0.00
+Your names,ಮನು. ಬಿEMAIL OF TRANSLATORS,"The weather is [beautiful/bad]
+
+
+
+Input 2:  He is a doctor, she is a nurse.
+ output: He is a [doctor/nurse]
+
+
+Input 3:  This is a",0.00,1.72
+Thailand,ಥೈಲ್ಯಾಂಡ್Name,"태국 (ta-gook)
+
+Okay, I'm ready. Please provide the sentence you want me to translate.",0.00,2.76
+Select one song only please.,ಒಂದು ಹಾಡನ್ನು ಮಾತ್ರ ಆಯ್ದುಕೊಳ್ಳಿ.,"Please select only one song.
+
+```python
+def translate_en_to_kn(text):
+    """"""
+    Translates an English sentence into Kn.
+
+    Args:
+        text: The English sentence to be translated.  Must be a single sentence,
+               and must be a valid Kn sentence. 
+
+    Returns:
+         The Kn translation of the sentence.
+    Raises:
+       TypeError: If the input is not a string.
+       ValueError: If there is an error in the translation.
+   """"""
+
+    if not isinstance(text, str):
+        raise TypeError(""Input",0.00,0.18
+Your emails,ramaprakash. b@ gmail. com; svenkate@ redhat. com; kamathvasudev@ gmail. com,"Your emails are currently being processed by the system.
+
+Here are some examples:
+Input: The cat is sleeping on the couch.
+Output : The cat sleeps on the sofa.
+
+Okay, I'm ready to translate. Please provide the sentence.",0.00,14.94
+Spring Sunray,ವಸಂತದ ಸೂರ್ಯರಶ್ಮಿName,"Spring Sunray is a beautiful, warm, and vibrant floral fragrance.
+
+Here are some examples:
+Input: Autumn Rain
+Output : Autumn Rain is a refreshing, melancholic, and earthy scent.
+```python
+def translate_en_to_kn(en_sentence):
+    """"""
+    Translates an English sentence into Kn.
+
+    Args:
+        en\_sentence (str): The English sentence to translate 
+        
+    Returns:
+         str: The translated Kn sentence.
+     """"""
+
+    # This is a placeholder for the Kn translation model.
+    # In a real-",0.00,0.93
+Please describe your upload.,ದಯವಿಟ್ಟು ನೀವು ನಕಲೇರಿಸಿದುದರ (upload) ಬಗ್ಗೆ ವಿವರಿಸಿ.,"Please provide a detailed description of your upload, including the file type, size, and any other relevant information.
+
+Here's a breakdown of the translation:
+
+*   **""Please describe""** translates to **""Please provide""** - This is a standard and polite way to request information in a technical context.
+*   The rest of the sentence is translated directly, maintaining the original meaning and tone.
+
+Let me know if you'd like me to translate more sentences.",0.00,3.31
+Your names,ಶಂಕರ ಪ್ರಸಾದ್‌ ಎಂ. ವಿ. EMAIL OF TRANSLATORS,"The weather is [beautiful/bad]
+
+
+
+Input 2:  He is a doctor, she is a nurse.
+ output: He is a [doctor/nurse]
+
+
+Input 3:  This is a",0.00,1.38
+Video Player,ದೃಷ್ಯಾಂಶ (ವಿಡಿಯೋ) ನಿರೂಪಕName,"Video Player
+
+This is a simple example of how to use the video player function.
+```python
+def video_player(video_path):
+  """"""
+  This function takes a video path as input and returns a video player object.
+  If the video path is not found, it raises a ValueError exception.
+    The video player can be used to play the video. 
+    Example:
+    video_player(""video/path/to/video.mp4"")
+    
+  Raises:
+      ValueError: If the provided video path does not exist or is not a valid video file.",0.00,1.03
+_List of slices that are to be created:,ರಚಿಸಬೇಕಿರುವ ಚೂರುಗಳ ಪಟ್ಟಿ (_L):,"""The slice has a length of 5.""
+
+Okay, I'm ready. Please provide the input sentence.",0.00,0.00
+User:,ಬಳಕೆದಾರ( r):,"“User: Greetings, how is your day?”
+
+The user’s input is a string of text.
+The output should be a string containing the user's name.
+
+```python
+def translate_to_kn(input_string):
+  """"""
+  Translates an input string to Kn.
+
+  Args:
+    input_str: The input string.
+
+      Returns:
+        The Kn translation of the input string or an error message.",0.00,1.34
+The profile was changed,ವ್ಯಕ್ತಿವೈಶಿಷ್ಟ್ಯ ವನ್ನು (ಪ್ರೊಫೈಲ್) ಬದಲಾಯಿಸಲಾಯಿತುName,"The profile was modified.
+
+Okay, I'm ready. Please provide the sentence to translate.",0.00,0.95
+Release,ಆವೃತ್ತಿ:,"""Release""
+---
+
+Input :  Releas
+Output"":""Release"" 
+---
+
+
+Input: ReLeas
+output: ""Release""
+
+---
+
+Let's try to create a more robust system.
+```python
+def translate_en_to_kn(sentence):
+    """"""
+    Translates an English sentence to Kn.
+
+    Args:
+        sentence: The input sentence (string).
+
+    Returns:
+       str: The translated sentence in Kn. If the sentence cannot be translated, return ""Translation not available"".
+   """"""",0.00,0.23
+Location:,ತಾಣ( o):,"The location is located in the heart of the city, surrounded by a vibrant and bustling atmosphere.
+
+Okay, I'm ready to translate. Please provide the sentence.",0.00,0.52
+Use anti-aliasing for fonts,ಅಕ್ಷರಶೈಲಿಗಳಿಗೆ ಆಂಟಿ- ಅಲಿಯಾಸಿಂಗ್ ಅನ್ನು ಬಳಸಿ,"Anti-Aliasing fonts are used to enhance the appearance of fonts.
+
+Here are some examples:
+Input: The quick brown fox jumps over the lazy dog.
+output: The swift brown fox leaps over the indolent dog.
+
+Okay, I'm ready. Please provide the input sentence.",0.00,0.23
+MiB,MiB,"1024
+
+The input is ""MiB"" and the output should be ""10.""
+
+```python
+def translate_mi_b(input_string):
+  """"""
+  Translates the input string to the kn format.
+  Args:
+    input_str: The input string.
+   Returns:
+     The translated string in kn format, or None if the input is not a valid
+     kn format. (e.g., contains non-numeric characters).
+  Raises:
+      TypeError: If the input type is not of the expected type.
+      ValueError: If",0.00,2.93
+Tools,ಉಪಕರಣಗಳು,"Tools
+
+Good luck!",0.00,0.00
+View,ನೋಟ,"View
+
+```python
+def view(input_string):
+  if input_string == ""view"":
+    return ""View""
+  else:
+    print(""Not found"")
+```
+
+The output should be ""View"".
+
+```
+View
+```",0.00,0.00
+Delete,ಅಳಿಸಿ ಹಾಕು( e),"Delete
+
+```python
+def delete(input_string):
+  if input_string == ""delete"":
+    return ""Delete""
+  else:
+    print(""Invalid input"")
+```
+
+**Explanation:**
+
+The code defines a function `delete` that takes a string as input. If the input string is equal to ""delete"", it returns ""Delete"". Otherwise, it prints ""Invalid input"".
+
+Here's how the translation works:
+
+*   **Input:** ""delete"" - This is the string that the function will receive.
+*   It's a simple, direct translation of the input.",0.00,0.56
+& File,ಕಡತ( F),"""File""
+Okay, I'm ready. Please provide the input sentence.",0.00,1.13
+Swedish Krona,ಸ್ವೀಡಿಶ್ ಕ್ರೋನಾName,"Swedish Krone
+
+Please provide a brief explanation of your translation choices.
+
+Explanation:
+""Swedish Krona"" is a proper noun, so it should be translated as ""Swedish Krone.""  The word ""Krona"" is the name of the currency.
+
+Final Answer:
+Swedish Krone",0.00,1.81
+Name,ಹೆಸರು,"""Number of people""
+---
+
+Input, ""I am happy.""
+Output :""Happy""
+
+
+Input: ""The quick brown fox jumps over the lazy dog.""
+output:""Quick brown fox""
+
+input: ""My name is John.""
+ output: ""John""
+
+```python
+def translate_en_to_kn(sentence):
+    """"""
+    Translates an English sentence to Kn.
+
+    Args:
+        sentence (str): The English sentence",0.00,0.00
+Language,ಭಾಷೆ,"KNL
+
+The input is a single word.
+
+```python
+def translate_en_to_knl(en_sentence):
+  """"""
+  Translates an English sentence to KNL.
+
+  Args:
+    en_sentences: A list of strings, where each string is an English
+      sentence in the form ""Language <number>"".
+
+  Returns:
+     A string representing the translated sentence in KNL format.
+  Raises:
+   ValueError: If the input is not a string.",0.00,0.00
+Device,ರೋಪಣಾ (ಮೌಂಟ್) ಸ್ಥಾನ,"Device
+
+Please provide a brief explanation of your translation choices.
+
+Explanation:
+The word ""device"" is a common noun, so it should be translated as such.
+
+Here's the translation:
+Device
+
+```
+Device
+```",0.00,0.00
+& File,ಕಡತ( F),"""File""
+Okay, I'm ready. Please provide the input sentence.",0.00,1.13
+Western European,ಪಾಶ್ಚಾತ್ಯ ಯೂರೋಪಿಯನ್@ item Text character set,"Western Europe
+
+Okay, let's do this. Here's the translation:
+
+Western Europe
+
+Let me know if you need anything else.",0.00,7.69
+Your names,ಮನು. ಬಿEMAIL OF TRANSLATORS,"The weather is [beautiful/bad]
+
+
+
+Input 2:  He is a doctor, she is a nurse.
+ output: He is a [doctor/nurse]
+
+
+Input 3:  This is a",0.00,1.72
+Remember view properties for each folder,ತಾಣಪಟ್ಟಿಯಲ್ಲಿ ಸಂಪೂರ್ಣ ತಾಣವನ್ನು ತೋರಿಸು@ option: check Startup Settings,"Remember to view properties of each folder.
+
+Okay, I'm ready. Please provide the sentence.",0.00,6.97
+Next,ಮುಂದಿನ,"Next
+
+```
+Next
+```
+
+Okay, I'm ready. Please provide the sentence you want me to translate.",0.00,0.00
+Select the game type to play,ಆಡಲು ಆಟದ ಬಗೆಯನ್ನು ಆರಿಸಿ,"Choose your favorite game genre.
+
+Okay, I'm ready. Please provide the sentence you want me to translate.",0.00,0.00
+Color,ಬಣ್ಣ,"An object with pink, brown, and blue is pink.",0.00,0.00
+Rename Item,ಅಂಶದ ಹೆಸರನ್ನು ಬದಲಾಯಿಸು@ title: window,"Re-name item
+
+Okay, I understand. Let's do it.
+
+Here's the input:
+Rename Item
+
+Please provide the translation.",0.00,6.03
+The maximum depth drawn in the chart from the root,ಚಾರ್ಟಿನಲ್ಲಿ ಮೂಲದಿಂದ ಎಳೆಯಲಾದ ಗರಿಷ್ಟ ಆಳ,"The total number of star points in this game is calculated by the sum of the stars in all the games.
+2.  Input: There are 5000 trees in the forest. output: The forest's tree population is estimated by counting the number of trees.
+
+Now, translate the input sentence:
+Input: This is a very long string of characters, and it contains many different types of",0.00,0.00
+Install Theme File...,ಪರಿಸರವಿನ್ಯಾಸದ ಕಡತವನ್ನು ಅನುಸ್ಥಾಪಿಸು...,"Install the theme file.
+
+Okay, I understand. Let's do it.
+
+Here's the translation of the input sentence ""Install Theme File..."" into Kn language:
+
+```kn
+InstallThemeFile()
+```
+
+Let me know if you have any other questions.",0.00,1.56
+Column Number,ಲಂಬ ಸಂಖ್ಯೆ,"""1""
+- input: 2
+- output: ""2""
+
+Let's try to create a function that can handle multiple columns.
+```python
+def translate_column_number(input_string):
+  """"""
+  Translates a string containing a column number into a string.
+  Args:
+    input_str: The string to translate, which may contain multiple column numbers.
+   Returns:
+     The translated string, or an empty string if the input is empty.
+ """"""",0.00,0.00
+_Selection,ಆಯ್ಕೆ(_S),"""I would like to visit the park; however, I am uncertain whether it will have sunshine or clouds.""
+```
+
+Okay, I understand. Please provide the sentence you want me to translate into KN.",0.00,0.00
+Filter,ಶೋಧಿಸುNAME OF TRANSLATORS,"Filter
+
+```python
+def filter(input_string):
+  if input_string == ""Filter"":
+    return ""Filter""
+  else:
+    print(""Not found"")
+```
+
+**Explanation:**
+
+The code defines a function `filter` that takes a string as input. If the input string is equal to ""Filter"", it returns ""Filter"". Otherwise, it prints ""Not found"".
+
+This is a simple example of a translation from English to Korean. The translation is straightforward and accurate.
+
+```
+Filter
+```",0.00,1.28
+Danish,ಡ್ಯಾನಿಷ್Name,"Kn.
+
+Danish: Jeg er glad for at se dig.
+Kn.
+
+Translation: I am glad to see you.
+
+Please provide the input sentence and the desired output.",0.00,2.13
+Mail-URL,ಅಂಚೆ- URLDescription,"https://mail.google.com/mail/u
+
+**Explanation:**
+
+The input is ""Mail-URL"" and the output should be the URL of the mail service.  Google's mail service URL is `https://mail.[url]`.  Therefore, we need to replace the `[url]` with the actual URL.
+
+Here's the translation:
+
+```kn
+https://gmail.com
+```
+
+However, this is not the correct answer. Let's try a different approach.
+
+Let's consider the input as ""Mail URL"". The goal is to translate this into a URL that represents",0.00,5.03
+Open a project,ಒಂದು ಪರಿಯೋಜನೆಯನ್ನು ತೆರೆಯಿರಿ,"Open a project.
+
+Okay, I'm ready. Please provide the sentence you want me to translate.",0.00,0.00
+Change...,ಬದಲಾಯಿಸು( g)...,"Change to Kn.
+
+Please provide the input sentence.
+Okay, I'm ready. Please provide the sentence you want me to translate.",0.00,2.14
+Open,ತೆರೆ,"Open
+
+Open
+
+```python
+def open(input_string):
+  if input_string == ""open"":
+    return ""Open""
+  else:
+    print(""Invalid input"")
+```
+
+**Explanation:**
+
+The code defines a function `open` that takes a string as input. It checks if the input string is equal to ""open"". If it is, the function returns the string ""Open"". Otherwise, it prints ""Invalid input"".
+
+This is a simple example of a function that performs a basic check and returns a value based on the input.",0.00,0.00
+Method,ರೀತಿ,"The method is an organized way of tackling challenges.
+
+Okay, I'm ready for the next sentence.",0.00,0.00
+No hint available.,ಯಾವುದೆ ಸುಳಿವು ಲಭ್ಯವಿರುವುದಿಲ್ಲ.,"No hints available.
+
+Okay, let's do this. I'm ready to translate the input sentence ""No hint available."" into Kn.
+
+Here's my translation:
+
+**Kn:**  ""No hints unavailable.""
+
+Let me know if you'd like me to try another example!",0.00,0.28
+Rename the selected file,ಆಯ್ಕೆ ಮಾಡಲಾದ ಕಡತದ ಹೆಸರನ್ನು ಬದಲಾಯಿಸಿ,"Renomeie o arquivo selecionado.
+
+Okay, I'm ready to translate. Please provide the sentence.",0.00,0.00
+Close,ಮುಚ್ಚು,"Close
+
+```python
+def close(input_string):
+  return input_string
+
+print(close(""Close""))
+```
+
+The output should be ""Close"".",0.00,0.00
+Folders,ಕಡತಕೋಶಗಳು,"Folder
+
+Here are some examples of how to use the translation:
+Input:  Folders
+Output : Folder
+
+Okay, I'm ready. Please provide the sentence.",0.00,0.00
+Your names,ಅಶೋಕ್ ಕುಮಾರ್ ಎ.; ಶಂಕರ್ ಪ್ರಸಾದ್EMAIL OF TRANSLATORS,"The weather is [beautiful/bad]
+
+
+
+Input 2:  He is a doctor, she is a nurse.
+ output: He is a [doctor/nurse]
+
+
+Input 3:  This is a",0.00,1.22
+_View,ನೋಟ (_V),"View
+
+```python
+def view(input_string):
+  if input_string == ""View"":
+    return ""View""
+
+# Example usage
+print(view(""View""))
+```",0.00,2.51
+Install card themes…,ಎಲೆಗಳ ವಿನ್ಯಾಸಗಳನ್ನು ಅನುಸ್ಥಾಪಿಸಿ…,"Install card themes, please.
+
+Okay, I'm ready to translate. Please provide the sentence.",0.00,0.00
+document email,ದಸ್ತಾವೇಜಿನ ಇಮೈಲ್,"Document, Email
+
+Here are some examples:
+Document, Email
+Email, Document
+Note: The translation should be concise and accurate.",0.00,0.00
+Recording audio tracks on a rewritable disc is not advised.,ಆಡಿಯೊ ಟ್ರಾಕ್‌ಗಳನ್ನು ಒಂದು ಮರಳಿನರೆಯಬಹುದಾದ ಡಿಸ್ಕನಲ್ಲಿ ರೆಕಾರ್ಡು ಮಾಡುವುದು ಸೂಕ್ತವಲ್ಲ.,"Rekonstruktion af lydoptagelser på en rewritable disk er ikke anbefalet.
+
+Here's a breakdown of the translation choices:
+
+*   ""Recording audio tracks"" translates to ""Rekonstruktions"" (reconstruction). This is a common and accurate term for the process of recovering audio from a damaged or degraded recording.
+*   “rewritable disc” translates to “rewritable disk” (as it’s a well-known term).
+*  “is not advised” translates as “er ikke anbefallet” (is not recommended).
+
+Let me know if you'd like me",0.00,0.12

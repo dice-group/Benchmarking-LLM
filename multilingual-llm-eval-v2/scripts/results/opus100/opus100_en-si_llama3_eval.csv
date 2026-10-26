@@ -1,0 +1,857 @@
+Source,Reference,Prediction,BLEU,chrF++
+Because I believed in destiny and fate..,"මම මගේ ඉරනමයි, දෛවයයි විශ්වාස කරා..","Kwa sababu nimeamini katika uwezekano na matukio..  ### Step 1: Understand the context of the translation
+The given sentence is in English and needs to be translated into Swahili (also known as Kiswahili).
+
+### Step 2: Identify the key elements of the sentence
+The sentence mentions ""destiny"" and ""fate"", which are abstract concepts related to the future or predetermined course of events. The phrase ""because I believed"" indicates a reason or motivation for something.
+
+### Step3: Determine the equivalent words or phrases in Swahali
+In Sw",0.00,0.58
+You will get know slowly.,මම සේරම ඔයාට හෙමිහිට කියන්නම්.,"Unaweza kukumbuka kwa muda mrefu.  ### Step 1: Understand the original sentence
+The original sentence is in English and says ""You will get to know slowly.""
+
+### Step 2: Identify the translation requirements
+We need to translate the sentence into Swahili (also known as Kiswahili), which is a Bantu language spoken in various countries, including Tanzania, Kenya, Uganda, and the Democratic Republic of the Congo.
+
+## Step 3: Translate each word or phrase
+- ""You"" translates to ""Unaweza""
+- ""will"" can be translated to ""k",0.00,0.16
+"Buckle up, guys. I am increasing the speed.",මම වේගය උපරිම කරනවා.,"Kuweka kamba, wanaume. Ninaongeza kasi.  ## Step 1: Identify the language pair
+The given sentence is in English and needs to be translated into Swahili (also known as Kiswahili).
+
+## Step 2: Break down the sentence into individual words or phrases
+The English sentence is: ""Buckle Up, Guys. I Am Increasing The Speed.""
+Breaking it down into individual components:
+1. ""Up""
+2. ""Guys""
+3. ""I""
+4. ""Am""
+5. ""Increasing""
+6. ""The""
+7. ""Speed""
+
+##",0.00,0.19
+I'm going to the bathroom again.,මට නාන කාමරේකට යන්න ඕන,"Mimi nienda kwenye bafu tena.  # Corrected translation
+Explanation: ""Mimi"" is the first person singular pronoun in Swahili, equivalent to ""I"" in English. ""Nienda"" means ""I am going"" or ""I'm going"". ""Kwenye"" is a preposition meaning ""to the"". ""Bafu"" is another word for ""bathroom"". ""Tena"" is an adverb meaning ""again"".
+The correct translation of the given sentence should be ""Ninaienda kwa mara nyingine."" which is more idiomatic and",0.00,0.00
+Convey my regards to the minister,ඇමතිතුමාට ස්තුතියි කළා කියන්න,"Kumbuka kwa waziri
+
+## Step 1: Understand the context of the translation
+The given sentence is a request to convey a message or regards to a specific person, in this case, a minister. The translation should maintain the same level of formality and politeness as the original sentence.
+
+## Step ""Kumbuka"" is a Swahili word that means ""note"" or ""remember,"" but in this context, it can be used to convey the idea of passing on a message.
+
+
+The final answer is: $\boxed{Note to the Minister}$No, that's not correct. I made a mistake",0.00,0.00
+"""He died in a place he didn't need to be,""","""එයා මලේ එයා නොසිටිය යුතු තැනක දී,","""Alikuwa amekufa katika mahali ambapo haalazimiki kuwa, ""
+
+## Step 1: Identify the source language and the target language.
+The source language is English (en), and we need to translate the given sentence into Swahili (sw), which is also known as Ki-Swahili or simply ""si"" in the context of language codes like ISO 639-1.
+
+## Step2: Break down the sentence into individual words or phrases to facilitate translation.
+The given English sentence is broken down as follows:
+- ""He"" = subject pronoun
+- ""d",0.00,0.32
+How did it get inside?,කොහොමද උන් ඇතුලට ආවෙ?,"Kwa nini kilichokuja ndani?  ### Step 1: Identify the source and target languages
+The source language is English, and the target language is Swahili (also known as Kiswahili).
+
+### Step 2: Determine the translation approach
+We will use a direct translation approach, where we translate each word or phrase in the source sentence into the corresponding words or phrases in the target sentence. This approach is suitable for simple sentences like the one provided.
+
+## Step 3: Translate individual words and phrases
+- ""How"" can be translated to ""Nini""
+- ""did"" is not",0.00,0.15
+"Hey, Rinky.",කබීර්...,"Hee, Riniki.  # Corrected translation
+Explanation: In Sinhala, ""Hey"" is translated to ""Hee"" and ""Rinky"" to ""Riniki"".
+Note: This problem doesn't require any code to solve it. It's a simple translation task. 
+
+However, for the sake of completeness, here is a Python solution:
+
+```python
+def translate_sentence(sentence):
+    sinhala_translations = {
+        ""hey"": ""hee"",
+        ""rinky"": ""riniki""
+    }
+    
+    words = sentence.split()
+    translated_words = []
+    
+    for word in words:
+        if",0.00,0.61
+"Sait, look at them","ලොක්කා, මේ බලන්න","sait, kuona wao  ### Step 1: Identify the language pair
+The given sentence is in English and needs to be translated into Swahili (also known as Kiswahili).
+
+### Step 2: Break down the sentence into individual words
+The English sentence is: ""Sait, Look at them""
+Individual words: 
+- Sait (proper noun or name)
+- Look (verb)
+- at (preposition)
+- them (pronoun, object of the preposition ""at"")
+- (comma separating the imperative from the rest of the sentence)
+- (imperative form of the verb",0.00,0.18
+- [Guitar riff] -♪ Battlesaurs ♪,♪ බැල්ට්සෝරස් ♪,"-[Gitar rif] -Battlesaurs 
+Note: The translation of ""guitar riff"" is ""gitar rif"" in Swahili. 
+
+```python
+def translate_sentence(sentence):
+    """"""
+    This function translates a given sentence from English to Kiswahili (Swahili).
+    
+    Parameters:
+    sentence (str): The sentence to be translated.
+    
+    Returns:
+    str: The translated sentence.
+    """"""
+    
+    # Create a dictionary to store the translations
+    translations = {
+        'guitar': 'gitaru',
+        'riff': 'rif'
+    }",0.00,0.00
+"-Would you like me to connect you? -Yes, please.",-සම්බන්ධ කරන තුරු කරුණාකර රැදී සිටින්න.,"-Ningeku nayo kuunganisha nawe? -Ndiyo, tafadhali.  ## Step 1: Identify the language pair
+The given sentence is in English and needs to be translated into Swahili (also known as Kiswahili).
+
+## Step 2: Break down the English sentence into its components
+The English sentence consists of two parts:
+- The first part is a question: ""-Would you...""
+- The second part is also a question but with a request: ""-...connect you?""
+- The third part is an affirmative response: ""-Yes,..."".
+- The fourth part",0.00,0.30
+Army... of the 12 Monkeys.,හමුදාව... .. වානරයන් 12 දෙනාගේ.,"Jeshi... la 12 Mnyama.  # Forgiven
+
+## Step 1: Understand the context of the translation
+The given sentence is in English and needs to be translated into Swahili (also known as Kiswahili), which is a Bantu language spoken in various countries, including Tanzania, Kenya, Uganda, and the Democratic Republic of the Congo. The context appears to be related to a film or movie title, specifically ""Twelve Monkeys"" (1995), a science fiction film directed by Terry Gilliam based on Chris Marker's 1962 short film ""La Jetée"".
+
+## Step",0.38,1.84
+- What?,- මොකක්?,"- Kwa nini?  ### Step 1: Understand the context of the translation
+The given sentence is in English and needs to be translated into Swahili (also known as Kiswahili).
+
+### Step 2: Identify the key elements of the sentence
+The sentence is a simple question, ""What?"" which is a common expression used to ask for clarification or more information about a situation or topic that has been mentioned but not fully understood. In this case, it's likely being used in a conversation or dialogue where someone is asking for an explanation or further details about something that was just mentioned.
+
+### Step3:",0.33,0.32
+I'm sorry. I think I'm lost. Are you from Los Angeles?,"මම හිතන්නෙ මම අතරමං වෙලා, ඔයා ලොස් ඇන්ජලීස් වල කනෙකෝද?","Ndiyo, nimepoteza njia. Ninachukulia kuwa niko hapa kwa ajili ya kusafiri kwenda Los Angeles.  ### Step 1: Identify the source language and the target language.
+The source language is English (en), and the given target language is Swahili (si).
+
+### Step 2: Break down the English sentence into individual words or phrases to facilitate translation.
+- ""I'm sorry"" can be translated to ""Ndiyo"" which means ""yes"" or ""I agree"", but in this context, it's more appropriate to translate it as """,0.00,0.14
+"Uh, I felt something touch me. Something strange.",මට මහ අමුතු හැඟීමක් ආවා.,"Hii, nilikuwa nimechukua kitu kinachokutana nami. Kitu gani kisichojulikana.  ## Step 1: Understand the input sentence
+The input sentence is in English and needs to be translated into Swahili (si).
+
+## Step 2: Break down the sentence into its components
+The sentence has two main parts: ""I felt"" and ""something touch me."" The second part can be broken down further into ""something"" and then ""strange.""
+
+## Step3: Translate each component into Swawhili
+- ""I"" translates",0.00,0.18
+Look over there..,අර පැත්ත බලන්න..,"Kuona hapa..  # English translation of ""Look over there"" in Swahili
+## Step 1: Identify the language pair to be translated from and to.
+The language pair is English (en) to Kiswahili (si).
+
+## Step2: Determine the correct translation for the given sentence.
+To translate the sentence, we need to consider the context and the meaning of each word. ""Look"" can be translated to ""Kuona"", which means ""to see"" or ""to look at"". ""Over there"" is an adverbial phrase that indicates a direction or location, and it can be",0.00,0.53
+John Daggett's body was found in a dumpster an hour ago.,පැයකට කලින් ජෝන් ඩැගට් ගේ මළසිරුර හම්බවුනා කුණුදාන තැන තිබිලා.,"Kwa saa moja iliyopita, mwili wa John Daggetti ilitambuliwa kwenye chombo cha kuondoa maji.  ## Step 1: Identify the source language and the target language.
+The source language is English (en), and we need to translate the given sentence into Swahili (si).
+
+## Step 2: Break down the sentence into individual words or phrases.
+The sentence is: ""John Daggett' sbodywasfoundinadumpsteranhourago.""
+We can break it down into:
+- ""John""
+- ""Daggett's""
+-",0.00,0.14
+"No, Mom, it was an accident.","නෑ අම්මේ, ඒක අනතුරක්∙","Hapana, Mama, ulikuwa ni ajali.  # English translation of ""Hapana"" is ""No"", but in Swahili, ""hapana"" means ""not at all"" or ""in no way"". A more accurate translation would be ""Si"" (meaning ""no"") or ""Hakuna"" (also meaning ""no""). However, for the sake of this problem, we will use ""HAPANA"" as the correct answer. 
+Note: This problem is asking for a translation of a sentence from English to SiSwati (a Bantu language spoken in Swaziland), not",0.00,0.19
+"Listen, we both know that cancer is a shit show.",අහන්න. අපි දෙන්නම දන්නවා දැන් පිළිකාවේ උපරිම මට්ටම කියලා.,"Kumbuka, tunajua yote kwamba ugonjwa wa saratani ni shughuli mbaya.  ### Step 1: Understand the context of the sentence
+The sentence is an informal conversation between two people, likely friends or acquaintances, where one person is expressing their frustration or disappointment about cancer.
+
+### Step 2: Identify the key elements to be translated
+The key elements in the sentence are:
+- ""Listen"" (an imperative verb)
+- ""we both know"" (a phrase indicating shared knowledge)
+- ""(cancer)"" (the noun being referred to)
+- ""...is a shitshow",0.00,0.26
+Then what about the short guy?,එහෙනම් මිට්ටා?,"Kisha nani kuhusu mwanamume mdogo?  ## Step 1: Identify the language pair
+The given sentence is in English and needs to be translated into Swahili (also known as Kiswahili).
+
+## Step 2: Break down the sentence into its components
+The sentence ""Then what about"" can be broken down into two parts: ""then"" and ""what about"". The second part ""about"" is an idiomatic expression that means ""concerning"" or ""regarding"". The third part ""the short guy"" refers to a person who is short in height.
+
+## Step",0.00,0.18
+"No, I - I would have doubted me too.","- නෑ, මටත් මම ගැන සැකයක් තිබුන.","Hapana, mimi - mimi pia nitadai.  ## Step 1: Understand the context of the sentence
+The given sentence is in English and appears to be a statement of self-doubt or uncertainty.
+
+## Step 2: Break down the sentence into its components
+The sentence consists of two parts: ""No, I"" and ""I would have doubtful me too."" The first part is a negation, while the second part expresses a hypothetical situation where the speaker might have doubted themselves as well if they were in someone else's shoes.
+
+### Step 3: Identify the key elements to translate",0.35,0.46
+And boys too...,පිරිමි ලමයිනුත් ඉන්නවා කිව්වා ...,"Na watoto pia...  ### Step 1: Identify the language pair
+The given sentence is in English, and we need to translate it into Swahili (also known as Kiswahili).
+
+### Step 2: Break down the sentence
+The English sentence is ""And boys too..."". We need to break it down into individual words or phrases to facilitate the translation process.
+
+- ""And"" is a conjunction used to connect words, phrases, or clauses.
+- ""boys"" refers to male children or young men.
+- The phrase ""too"" is an adverb used to indicate also or very.
+
+### Step",0.00,0.92
+Ok Alright then you and your cameraman will remain in custody until you come out with the truth.,"හරි, ඔයා ඇත්ත නොකිව්වොත් ඔයයි ඔයාගේ කැමරා කාරයයි දෙන්නම අත්අඩංගුවට ගන්නවා","Kwa hakika basi wewe na mtayarishaji wa picha yako utabaki katika kizuizini chako hadi ukapata ukweli. ## Step 1: Understand the context of the sentence
+The sentence is a statement made by someone in a position of authority, likely a law enforcement officer, to an individual who is being questioned or investigated.
+
+## Step 2: Identify the key elements of the translation
+The key elements to translate are:
+- ""Ok"" which is an expression of agreement or confirmation
+- ""Alright then"" which indicates that a decision has been made
+-",0.00,0.12
+-I wish I had 10 more like you.,-අනේ මට තව උඹ වගේ 10ක් හිටියනම්.,"-Ningeku nyingi zaidi kama wewe.  ## Step 1: Understand the context of the sentence
+The sentence is an expression of admiration or appreciation for someone, implying that the speaker wishes they had more people like the person being addressed.
+
+## Step 2: Identify the key elements to be translated
+The key elements in the sentence are ""I wish,"" ""had,"" ""10 more,"" and ""like you."" These elements need to be accurately translated into Swahili (si) to convey the same meaning.
+
+##Step 3: Translate ""I"" to Swahilli
+In Sw",0.00,0.79
+I just blew a shot at your grandma's memory.,මං උබේ ආච්චිගේ මතකයට ෂොට් එකක් දුන්නා.,"Naweza kufikiria kuwa nimekuwa na uwezekano mkubwa wa kushindwa, lakini hata hivyo, sio kwamba nilishindwa.  (I can think of a much greater chance of failure, but even so, it is not that I failed.) 
+Note: The translation should be as close to the original sentence as possible, while still being grammatically correct and idiomatic in Swahili. 
+
+Here is the sentence broken down into individual words and their parts of speech:
+
+1. I (subject pronoun)
+2. just (ad",0.00,0.16
+Now. Choose.,තෝරා ගන්න..,"Sasa. Chagua.  ## Step 1: Understand the task
+The task is to translate the given English sentence ""Now. Choose."" into Swahili (si).
+
+## Step 2: Identify the words to be translated
+The two words that need translation are ""Now"" and ""Choose"".
+
+### Step 3: Translate ""Now""
+In Swahilli, ""Now"", can be translated as ""Sasa"". This is because ""sasa"" directly means ""now"" or ""at this moment"" in Swahilii.
+
+### step 4: Translating ""Choose""
+The word ""Choose""",0.00,0.41
+"Just hold on. Come on, get her out.",එන්න එයාව එලියට ගමු.,"Kwa hivyo tafadhali uendelee. Sasa, toa mwanamke hiyo.  ### Step 1: Identify the translation task
+The task is to translate an English sentence into Swahili (si).
+
+### Step 2: Break down the sentence into individual words or phrases
+The English sentence is: ""Just hold on."" ""Come on,"" ""get her out.""
+Breaking it down:
+- ""Just"" is an adverb meaning ""only"" or ""merely"".
+- ""hold"" is a verb meaning ""to grasp or keep something in one's hands"".
+- The phrase",0.00,0.19
+It started out as a scrapbook and just kind of mutated.,ඒක පටන් ගත්තේ ලිපි අලවන පොතක් හැටියට ඒවගේම ඩිංගක් වෙනස් වීමකට භාජනය උනා∙,"Kwanza ilianza kama kitabu cha picha na kisha kuzidishwa. ## Step 1: Identify the source language and the target language.
+The source language is English, and the translation is needed into Swahili (also known as Kiswahili).
+
+## Step 2: Break down the sentence into individual words or phrases to facilitate translation.
+The sentence is: ""It started out"" - This phrase can be translated to ""Iliongezeka"" or ""Ilianzia"" depending on the context, but in this case, we will use ""ilianza"".
+
+## Step",0.00,0.00
+I decided what I'm gonna do.,මං කරන්න යන එක තීරණය කළා.,"Nimeamua nini nitafanya.  ## Step 1: Identify the translation task
+The task is to translate an English sentence into Swahili (si).
+
+## Step 2: Break down the sentence into individual words
+The English sentence is: ""I decided what am I going to do.""
+Breaking it down:
+- I: subject pronoun
+- decided: verb
+- what: interrogative adverb
+- am: auxiliary verb (part of the verb phrase ""am going to"")
+- going: present participle
+- to: infinitive marker
+- do: main verb
+
+However, the original",0.00,0.17
+I want to express my true feelings.,මට මගේ ඇත්ත හැඟීම් පෙන්නන්න ඕන.,"Naweza kuwa na hamu ya kuonyesha hisia zangu za kweli.  ## Step 1: Understand the original sentence
+The original sentence is in English and states the speaker's desire to express their true feelings.
+
+## Step 2: Identify the translation requirements
+We need to translate the sentence into Swahili (also known as Kiswahili), which is a Bantu language spoken in various countries, including Tanzania, Kenya, Uganda, and the Democratic Republic of the Congo.
+
+##Step 3: Translate key phrases and words
+- ""I want"" can be translated to ""Nawe",0.00,0.15
+Good night.,සුභ රාත්‍රියක්.,"Kwa usiku mzuri.  # Corrected translation
+Explanation: The correct translation of ""Good night"" in Swahili is indeed ""Kwa Usiku Mzuri"", not ""Mchana mzuri"". 
+The word ""Usiku"" means night, and ""Mzuri"" means good. Therefore, the correct translation is ""For a good night"". 
+
+Here is the corrected code:
+
+```python
+def translate_to_swahili(sentence):
+    translations = {
+        ""good"": ""mzuri"",
+        ""night"": ""usiku""
+    }
+
+    words = sentence.split()
+    translated_words =",0.00,0.19
+I'm a Patriot!,මම දේශප්‍රේමීයෙක්!,"Nguvu za Kitaifa!  (Note: ""Patriot"" is translated to ""Nguvu ya Kitaalamu"" in Swahili, but in this context, it's more appropriate to translate it to ""Mwananchi Mwenye Uaminifu"" or ""Mtumwa wa Taifa"". However, since the translation is not provided in the options, we will go with the most common translation which is ""Wananchi"" and add the adjective ""Mkuu"" to make it more suitable for the context. Therefore, ""I'm a patriot"" translates to ""Sio",0.00,0.19
+"The same laughter Welcome, my son",එන්න මල්ලි,"Laughter that is the same, welcome my son  ### Step 1: Understand the context of the translation
+The given sentence is in English and needs to be translated into Sinhala (si).
+
+### Step 2: Identify the key components of the sentence
+The sentence consists of two main parts: ""The same laughter"" and ""welcome my son"". We need to translate each part separately.
+
+### Step3: Translate ""The Same Laughter""
+In Sinhala, ""the same"" can be translated as ""ekem ekem"" or more literally ""same same"". However, a more idiomatic translation would be ""sama",0.00,0.00
+I fought my way back for you.,මම ඔයා වෙනුවෙන් ඉන්නවා∙,"Naweza kukabiliana nayo tena kwa ajili yako.  ## Step 1: Identify the source language and the target language.
+The source language is English (en), and we need to translate it into Swahili (si).
+
+## Step 2: Break down the sentence into individual words or phrases.
+The sentence ""I fought"" can be broken down into ""I"" (subject) and ""fought"" (verb). The phrase ""my way back"" is an adverbial phrase indicating the manner in which the action of fighting was done. Finally, ""for you"" is a prepos",0.00,0.00
+- You will get the rest of your money... and don't call me ever again.,වැඩේ කෙරුනට පස්සෙ තමුන්ගේ සල්ලි ලැබෙයි. අදින් පස්සෙ කවදාවත් මට කෝල් කරන්න එපා.,"- Wewe utapokea sehemu lingine ya pesa zako... na usijaribu kufikiria mimi tena.  ### Step 1: Identify the language pair
+The given sentence is in English, and we need to translate it into Swahili (also known as Kiswahili).
+
+### Step 2: Break down the sentence into individual words or phrases
+To translate the sentence accurately, let's break it down into its individual components:
+- ""You"" = wewe (Swahili)
+- ""will"" = utapata (future tense of ""to get",0.00,0.26
+Voice...,කටහඩ..,"Sauti...  #English #Swahili
+
+## Step 1: Understand the task
+The task is to translate the English sentence ""Voice..."" into Swahili. This requires knowledge of both languages and the ability to accurately convey the meaning of the original sentence in the target language.
+
+## Step2: Identify the key elements of the sentence
+The key element in this sentence is the word ""Voice"", which is a noun referring to sound or speech. The ellipsis (...) at the end indicates that the sentence is incomplete or trailing off.
+
+##Step 3: Find the equivalent word for ""Voice"" in Swahilli",0.00,0.50
+The sales of double-bed dips down.,ද්විත්ව ඇඳන් විකිණුම් අවපාතය පහළ යනව.,"Mafanikio ya kingo mbili za kitanda kimepungua.  ### Step 1: Identify the language pair
+The given sentence is in English and needs to be translated into Swahili (also known as Kiswahili).
+
+### Step 2: Break down the sentence into its components
+- ""The"" is an article that can be omitted in translation.
+- ""sales"" translates to ""mavuno"" or ""mafanikio"" depending on the context, but in this case, ""mafunikio"" seems more appropriate.
+- Of is a preposition that translates to various words depending on",0.00,0.15
+I let you in. Now please let the girl go.,මම ඉන්නම්∙ අනේ මේ කෙල්ලට යන්න දෙන්න∙,"Naweza kuwapa mtoto huyo. Sasa, tafadhali uwe na huruma kwa msichana huyu.  ### Step 1: Identify the translation task
+The task is to translate an English sentence into Swahili (si).
+
+### Step 2: Break down the sentence into individual words or phrases
+The English sentence is: ""I let you In. Now Please let the Girl go.""
+
+Breaking it down:
+- ""I"" translates to ""Naweza""
+- ""let"" can be translated to ""kuwapa"" which means ""to give"" or ""to allow",0.00,0.00
+"Get out of there, Kerns!",ඔතනින් ඉක්මනට අයින් වෙනවා කර්න්ස්!,"Kuweza kuondoka huko, Kern!  ### Step 1: Identify the language pair
+The given sentence is in English and needs to be translated into Swahili (also known as Kiswahili).
+
+### Step 2: Break down the sentence into individual words or phrases
+The English sentence is: ""Get out of that place, Kern!""
+Individual words/phrases: 
+- Get
+- out
+- of
+- that
+- place
+- Kern!
+
+### Step3: Translate each word or phrase into its equivalent in the target language (Swahili)
+- Get -> Kuwa / Kuwe",0.00,0.16
+Don't let him play you as well.,ඔයාට එයත් එක්ක සෙල්ලන් කරන්න දෙන්න එපා..,"Hapana ushikilie naye pia.  ## Step 1: Identify the source language and the target language.
+The source language is English, and the translation is needed into Swahili (also known as Kiswahili).
+
+## Step 2: Break down the sentence into individual words or phrases to facilitate translation.
+The sentence ""Don't let"" can be broken down into two parts: ""don't"" (a contraction of ""do not"") and ""let"". The phrase ""him play you"" translates to ""naye kucheza nanyi"" in Swahiki, where ""n",0.00,0.31
+If the powder's...,වෙඩිබෙහෙත්...,"Kama mafuta ya...  ## Step 1: Identify the language pair
+The language pair for this translation is English (en) to Swahili (si).
+
+## Step 2: Understand the context of the sentence
+The sentence appears to be part of a medical or scientific text, as it mentions ""powder's"".
+
+## Step3: Translate the phrase ""If the""
+The translation of ""If"" is ""Kama"" and ""the"" translates to ""matako"" but in this context, it can also be translated to ""ya"" which means ""of"" or ""belonging to"".",0.00,1.15
+You just killed how many people in that church.,"මොකක්, අර පල්ලියේ ඇතුලෙදි ඔයා කීයක් මැරුවද?","Unaweza kuwafanya nini kwa watu hao waliouawa katika kanisa hilo?  ## Step 1: Understand the context of the sentence
+The sentence is a question asking about the number of people killed in a church.
+
+## Step 2: Identify the key elements to be translated
+The key elements are ""You just killed"", ""how many people"", and ""in that church"". These elements need to be accurately translated into Swahili (si) to convey the same meaning as the original sentence.
+
+## step 3: Translate each key element
+- ""You"" translates to",0.00,0.29
+Let Bhabhi feel at least once that she is the daughter-in-law of this family.,අක්කට මේ ගෙදර ඉන්න දෙන්න ටිකක් හරි එයා මේ ගෙදර ලේලි.,"बभी को कम से कम एक बार महसूस करना चाहिए कि वह इस परिवार की बहू है।  ## Step 1: Understand the context of the sentence
+The sentence is about expressing a desire for someone (Bhabhi) to feel a certain way about herself in relation to a family.
+
+## Step 2: Identify the key elements of the translation
+The key elements are:
+- ""Let"" which is an imperative verb meaning ""to allow"" or ""to make someone do something"".
+- ""feel"" which means to have a particular emotion or sensation.
+-",0.00,0.15
+'They were submerged in sorrow',"‍ශෝ‍ක‍යෙන්‍ ‍දි‍ය‍වී ‍ය‍න ‍මේ ‍ජ‍න‍යා‍ව, ‍ වේ‍දා‍ල ‍ජා‍ති‍යේ ‍අත්‍ ‍මි‍ටෙන්‍ ‍මු‍ද‍වා,","'Walikuwa wamechomwa kwa hasira'  (Note: The translation is not perfect, but it conveys the same meaning as the original sentence)
+```python
+def translate_to_swahili(sentence):
+    """"""
+    Translate an English sentence into Swahili.
+
+    Args:
+        sentence (str): The English sentence to be translated.
+
+    Returns:
+        str: The translated sentence in Swahi.
+    """"""
+
+    # Define a dictionary that maps English words to their Swahli equivalents
+    translation_dict = {
+        'they': 'wao',
+        'were': 'walikuwa',",0.00,0.24
+Watching you like this...,ඔයාව මේ විදිහට බලන්න...,"Kuona kwako kama hivyo...  ### Step 1: Identify the language pair
+The given sentence is in English and needs to be translated into Swahili (also known as Kiswahili).
+
+### Step 2: Break down the sentence into individual words or phrases
+- ""Watching"" can be translated to ""Kuona"" which means ""to see"" or ""to watch"".
+- ""you"" translates to ""kwako"" which is the object form of the second person singular pronoun.
+- The phrase ""like this"" can translate to ""kama hiyo"" but considering the context,",0.00,1.04
+Do you remember the authentic aboriginal walkabout?,∙∙∙සත්‍ය අදිවාසික සංචාරයන් ගැන එහෙම?,"Unaweza kuwa unajua njia halisi ya wakazi wa asili? ## Step 1: Understand the context of the sentence
+The sentence is asking if someone remembers the authentic Aboriginal walkabout, which is a traditional form of travel and spiritual journey in Australian Aboriginal culture.
+
+## Step 2: Identify the key elements to be translated
+The key elements are ""Do you remember"", ""the authentic"", ""aboriginal"", and ""walkabout"". We need to translate these elements into Swahili (si) while maintaining the original meaning.
+
+##Step 3: Translate each element
+- ""do you remember",0.00,0.14
+You're ruining Ranjana's life.,හිතුවක්කාරකම. ඔයා රංජනාගෙ ජීවිතේ විනාශ කරනව.,"Unaweza kufanya maisha yake ya ranjana kuwa mbaya.  ### Step 1: Understand the input sentence
+The input sentence is in English and states that someone is ruining another person's life, specifically Ranjama's life.
+
+### Step 2: Identify the translation requirements
+We need to translate the sentence into Swahili (si), which is a Bantu language spoken in Tanzania and other parts of East Africa. We will need to consider the grammatical structure and vocabulary of the target language when translating the sentence.
+
+###Step 3: Determine the translation of key phrases
+- ""You",0.00,0.26
+Why?,ඇයි?,"Kwa nini?  ### Step 1: Identify the language pair
+The input sentence is in English, and we need to translate it into Swahili (also known as Kiswahili).
+
+### Step 2: Determine the translation method
+We will use a direct translation method, where we replace each word or phrase in the English sentence with its equivalent in Swawhili. We will also consider the grammatical structure of the sentence.
+
+### Step3: Translate the sentence
+The English sentence is ""Why?"" which is an interrogative sentence that asks for a reason or explanation. In Swaahili, the",0.00,0.26
+I know.,මං දන්නවා,"Naweza kujua.  ### Step 1: Understand the input sentence
+The input sentence is ""I know."" which is in English.
+
+### Step 2: Identify the translation requirements
+We need to translate the sentence into Swahili (also known as Kiswahili), which is a Bantu language spoken in various countries, including Tanzania, Kenya, Uganda, and the Democratic Republic of the Congo. The translation should be accurate and natural-sounding in the target language.
+
+###Step 3: Determine the translation of key words and phrases
+- ""I"" translates to ""naweza"" in Swah",0.00,0.00
+Thieves! Fire! Murder!,"හොරු, පහර දෙන්න..","Waziri! Mafunzo! Ukiukaji wa maisha!  ### Step 1: Identify the language codes for English and Swahili.
+The language code for English is ""en"" and for Swahali is ""si"".
+
+### Step 2: Determine the translation of each word in the input sentence.
+- ""Thieves"" translates to ""Waziri""
+- ""Fire"" translates directly to ""mafunzo"" which means ""fire"" or ""training"" but in this context, it's more likely to be translated as ""fire"".
+- ""Murder"" translate to ""Ukiuk",0.00,0.58
+I'll pay in full cash.,මම ගෙවන්නම්.,"Naweza kulipa kwa pesa kamili.  ### Step 1: Identify the source language and the target language.
+The source language is English (en) and the translation is needed into Swahili (si).
+
+### Step 2: Break down the sentence into individual words or phrases.
+The sentence ""I'll pay"" can be broken down into:
+- I'll (contraction of ""I will"")
+- pay (verb)
+
+And the phrase ""in full cash"" translates to:
+- in (preposition)
+- full (adjective)
+- cash (noun)
+
+So, the breakdown of the sentence is:",0.00,0.19
+Why do you say?,ඔයා ඇයි එහෙම කිව්වේ?,"Kwa nini unasema hivyo?  ## Step 1: Identify the translation task
+The task is to translate an English sentence into Swahili.
+
+## Step 2: Break down the sentence into individual words or phrases
+The English sentence is ""Why do you ask?"" which can be broken down into:
+- ""Why"" (an interrogative word)
+- ""do"" (a verb, in this case, a auxiliary verb for the main verb ""ask"")
+- ""you"" (the subject of the sentence, referring to the person being addressed)
+- ""(say/ask)"" (the main verb,",0.00,0.18
+Wretched hoodlums! They literally prayed to this heirloom in Hindu fashion,සීනුව ගහලා පුජාවක් කරලා මල්මාලේ අරගෙන ගිහින්,"Hoodlums wretched! Heirloom hii katika fasihi ya Kihindi waliomba kweli kwa njia hiyo  ## Step 1: Identify the language pair
+The given sentence is in English and needs to be translated into Swahili (also known as Kiswahili).
+
+## Step 2: Break down the sentence into its components
+The sentence consists of two main parts: an exclamation directed at ""hoodlums"" and a description of their actions towards an ""heirloom"".
+
+## Step3: Translate the first part of the sentence
+The word ""Wretched""",0.00,0.00
+Allegations against me is a major conspiracy,මගේ පැත්තට ඇඟිල්ල දික් කරන එක තමයි කරන ලොකුම ද්‍රෝහී කම,"Njia za kushawishi dhidi yangu ni mkanganyiko mkubwa  ## Step 1: Understand the input sentence
+The input sentence is in English and states that allegations against the speaker (me) are considered a significant conspiracy.
+
+## Step 2: Identify the key components of the sentence
+- ""Allegations"" refers to accusations or claims made against someone.
+- ""against me"" indicates the target of these allegations.
+- The phrase ""is a major"" describes the nature of the allegations, implying they are significant or substantial.
+- Finally, ""conspiracy"" suggests a plot or secret plan",0.00,0.00
+-Parithi..,-පරිති..,"- Parithi..
+
+## Step 1: Understand the task
+The task is to translate an English sentence into Sinhala. However, the provided English sentence seems incomplete as it only contains a hyphen followed by some characters and then another hyphen. This does not form a grammatically correct or meaningful sentence in English.
+
+Given the nature of the input, it seems there might be a misunderstanding or a typo in the problem statement. Normally, we would proceed with translating a complete sentence from English to Sinhala (Sinhala: සිංහල). However, without a proper sentence to translate,",0.00,0.80
+"They're getting to you, dude.",එයාලා ඕවා දෙන්නේ බං.,"Wanafikiria kwamba wanaingia kwenye mawazo yako, dada.  # Corrected translation
+Explanation: The correct translation of ""dude"" in Swahili is ""dada"", which is a term of endearment similar to ""buddy"" or ""pal"". 
+
+Note: This problem requires the ability to understand the nuances of language and culture, as well as the knowledge of idiomatic expressions and colloquialisms. The translator needs to be able to put themselves in the shoes of the person speaking and understand the tone and intent behind the words. In this case,",0.00,0.16
+"""I went out of my way to help him.""",මේ හැමදෙයක්ම මටම පෙන්නේ ඇයි.,"""Nilikuwa nimefanya kazi yangu kwa ajili ya kuwahudumia."" 
+Note: The translation is in Swahili. 
+
+Explanation:
+- ""I"" is translated to ""nilikuwa"" (first person singular past tense).
+- ""went"" is not directly translated, but its meaning is conveyed through the verb ""fanya"" which means ""to do"" or ""to make an effort"".
+- ""out"" is implied by the phrase ""of my way"", so it's not necessary to translate it.
+- ""of"" is also implied by ""my way"", and is",0.00,0.18
+I have enough resources to spend on my own and build,ඔයාගේ ඉල්ලීමට අවසර ලැබෙනවා,"Naweza kutumia rasilimali zangu kwa ajili yangu mwenyewe na kujenga
+
+## Step 1: Identify the source language and the target language.
+The source language is English (en), and we need to translate the given sentence into Swahili (si).
+
+##Step 2: Break down the sentence into individual words or phrases.
+The given sentence is: ""I have enough resourcesto spendon my ownand build""
+
+##Step3: Translate each word or phrase from English to Swawhili.
+- ""I"" translates to ""Naweza""
+- ""have",0.00,0.00
+"Mother, people are crying because you have not announced the death of Baahubali",- අම්මා.. - බාහුබලීගේ මරණයට හරිහමන් පිළිතුරක් නොලැබුන නිසා කාක්කු වගේ මිනිස්සු කෑ ගහනවා.,"Mama, watu wanaogopa kwa sababu umehesabu mauti ya Baahubaali
+Note: The translation is in Swahili (si) language. 
+
+```python
+def translate_to_swahili(sentence):
+    """"""
+    Translate the given sentence from english to swahili.
+
+    Args:
+        sentence (str): The sentence to be translated.
+
+    Returns:
+        str: The translated sentence.
+    """"""
+    
+    # Split the sentence into words
+    words = sentence.split()
+
+    # Create a dictionary to store the translations
+    translations = {
+        ""Mother"": ""M",0.00,0.37
+"No, I think this is about us.","නෑ, මම හිතන්නෙ මේක අපි ගැන දෙයක්.","Hapana, nimeamini hii ni kuhusu sisi.  ## Step 1: Identify the language pair
+The given sentence is in English and needs to be translated into Swahili (also known as Kiswahili).
+
+## Step 2: Break down the sentence into individual words or phrases
+The English sentence is: ""No, Ithink this isabout us.""
+Breaking it down:
+- ""No"" is an adverb meaning ""not"" or ""none"".
+- ""I think"" is a phrase indicating the speaker's opinion or belief.
+- ""this"" refers to a specific thing or",0.00,0.34
+We just took a job upgrading an ancient nuclear power plant.,අපිට වැඩක් හම්බ උනා පරණ න්‍යෂ්ටික බලාගාරයක.,"Sasa tumepata kazi ya kuimarisha jengo la umeme wa zamani la nishati ya gesi. 
+Note: The translation is in Swahili, which is also known as kiSwahili or Kiswahili. It is a Bantu language spoken by various ethnic groups in Tanzania and other parts of East Africa. 
+
+Here's a breakdown of the translation:
+
+* ""We"" is translated to ""Sasa"" (which means ""now"" or ""at this time"", but in this context, it's used as a pronoun to refer to the speaker and the listener)
+* """,0.00,0.16
+Something tells me he might be past listening to reason.,මොකක්දේ මට කියනවා එයා හේතු වලට කන් දීම නවත්වලා කියලා.,"Nini kinaambia ni kwamba anaweza kuwa amepoteza uwezo wa kusikiliza hoja.  ## Step 1: Understand the original sentence
+The original sentence is in English and states that something suggests that a person might no longer be able to listen to reason.
+
+## Step 2: Identify the key components of the sentence
+- ""Something tells me"" is an idiomatic expression indicating a feeling or intuition.
+- ""he might be"" is a conditional phrase expressing uncertainty about the person's current state.
+- The main verb is ""listening to reason,"" which means being open to logical",0.00,0.13
+I'll kill you. You have my word.,"මං ඔබව මරනවා, ඔයා මගේ වචනය තියාගන්න.","Naweza kuua wewe. Unapata neno langu.  ### Step 1: Understand the context of the sentence
+The sentence is a threat, where the speaker is promising to harm the listener if they don't comply with something.
+
+### Step 2: Identify the key phrases and their translations
+- ""I'll kill"" can be translated to ""Naweza kuuwa"" in Swahili, which means ""I can kill"" or ""I will kill"".
+- ""you"" remains the same as it's a direct object pronoun.
+- ""have my word"" translates to ""Unapata",0.00,0.33
+Next thing I know I'm zip tied to the banister and he's taking Andrej and Jovana into the bedroom.,ඊලඟට මම දන්නේ මාව වැටට තියලා තදින් බැඳලා හිටිය බවයි ඒ වගේම ඔහු අන්ඩ්රේවයි ජොවානාවයි නිදන කාමරේට අරන් ගිහින්.,"Mwisho mwa siku hiyo, nilijua kuwa niliwekwa kwenye barabara ya zip na aliyekuwa akichukua Andrej na Jovanahuko ndani ya chumba cha kinga. ## Step 1: Understand the context of the sentence
+The sentence is describing a situation where the speaker is being restrained and taken into a bedroom by someone, along with two other people named Andrej (also spelled as Andrei or Andrey in some languages) and Jova(n)a.
+
+## Step 2: Identify the key elements to translate
+The key elements",0.00,0.11
+– Mr. Gandalf? – Hmm?,"මිස්ටර් ගැන්ඩල්ෆ්, මෙන්න ඔයා ඉල්ලපු විදියටම රෙඩ් වයින් වීදුරුවක්.","– mr. gandalf? -hmm?  ## Step 1: Understand the context of the translation
+The given sentence appears to be a dialogue between two characters, likely from a fantasy story, given the name ""Gandalf"" which is a character from J.R.R. Tolkien's Middle-earth legendarium.
+
+## Step 2: Identify the languages involved
+The original sentence is in English, and we need to translate it into Sindarin (Si), one of the fictional languages spoken by the Elves in Tolkien's works.
+
+## step 3: Determine the appropriate translation method
+Since Sindarin is a constructed language",0.00,0.24
+"Varun, please, don't start now. Varun, please.",වරුන් දැන් මේක ඇදලා ගන්න එපා වරුන් යන්න,"Varun, kwa maneno yako, sasa hivi si wakati wa kuanza.  Varun, tafadhali.  (Note: The translation is in Swahili, not SiSwati.) 
+
+Explanation: The input sentence contains two instances of the name ""Varun"" and the phrase ""please"". The translation should maintain the same structure as the original sentence, with the name and phrase appearing in the same order and position. The translated sentence should also be grammatically correct and idiomatic in the target language. In this case, the translation uses the Swahilian equivalent of """,0.00,0.00
+"By the way, our aim is same.",අපේ අරමුණ එකමයි.,"Kwa hivyo, lengo letu ni sawa.  ### Step 1: Identify the source language and the target language.
+The source language is English (en), and the translation needs to be done into Swahili (si).
+
+### Step 2: Break down the sentence into individual words or phrases.
+The sentence ""By the way"" can be broken down into two words: ""By"" and ""the way"". The phrase ""our aim is"" can also be considered as one unit. The last part of the sentence ""same"" is a single word.
+
+### Step3: Translate each word or phrase into",0.00,0.18
+I'm in L.A. Tell her.,මම LA වල. - එයාට කියපන්.,"Ndiyo, niko Los Angeles. Usikumbushe.  ### Step 1: Identify the language pair
+The given sentence is in English and needs to be translated into Swahili (also known as Kiswahili).
+
+### Step 2: Break down the sentence into its components
+- ""I'm"" is a contraction of ""I am"".
+- ""in L.A."" refers to being in Los Angeles.
+- ""Tell her"" is an imperative sentence asking someone to convey a message to a female person referred to by the pronoun ""her"".
+
+### Step3: Translate each component separately
+- The",0.38,1.04
+People have hearts everywhere.,-හදවත් තියෙන මිනිස්සු හැම තැනම ඉන්නවා.,"Mwanadamu wana moyo kila mahali.  ### Step 1: Identify the source language and the target language.
+The source language is English (en), and the translation needs to be done into Swahili (si).
+
+### Step 2: Break down the sentence into its components.
+The sentence ""People have hearts"" can be broken down into:
+- Subject: People
+- Verb: have
+- Object: hearts
+
+The phrase ""everywhere"" is an adverb that indicates the location of the hearts.
+
+###Step 3: Translate each component of the sentence separately.
+- ""People"" translates to",0.00,0.29
+- What?,- මොකක්?,"- Kwa nini?  ### Step 1: Understand the context of the translation
+The given sentence is in English and needs to be translated into Swahili (also known as Kiswahili).
+
+### Step 2: Identify the key elements of the sentence
+The sentence is a simple question, ""What?"" which is a common expression used to ask for clarification or more information about a situation or topic that has been mentioned but not fully understood. In this case, it's likely being used in a conversation or dialogue where someone is asking for an explanation or further details about something that was just mentioned.
+
+### Step3:",0.33,0.32
+They do this everyday.,මුන් මේ වැඩේ හැමදාම කරනවා.,"Wanafanya haya kila mchana. 
+```python
+def translate_to_swahili(sentence):
+    """"""
+    Translates an English sentence into Swahili.
+    
+    Args:
+        sentence (str): The English sentence to be translated.
+        
+    Returns:
+        str: The translated sentence in Swahi.
+    """"""
+    
+    # Split the sentence into words
+    words = sentence.split()
+    
+    translations = {
+        ""they"": ""walikuwa"",
+        ""do"": ""wanafanya"",",0.00,0.21
+"Besides, these kids look up to me..",අනික මේ ළමයි මට කැමතියි..,"Zaidi ya hayo, watoto hawa wanapenda kuona nafasi yangu.  ## Step 1: Understand the context of the sentence
+The sentence is a translation request from English to Swahili, which is a Bantu language spoken in Tanzania and other parts of East Africa.
+
+## Step 2: Break down the sentence into its components
+- ""Besides"" is an adverb that means ""in addition"" or ""furthermore"".
+- ""these kids"" refers to a group of children.
+- ""look up to"" is a phrasal verb that means to admire or respect someone",0.00,0.34
+You wouldn't have got beaten if I wasn't with you.,මම ඔයා එක්ක හිට්යේ නැත්නම් ඔයා ගුටි කන්නේ නැහැනේ.,"Kwa kuwa nilikuwa naye, hauwezi kushindwa.  ## Step 1: Identify the subject and verb in the English sentence.
+The subject of the sentence is ""you"" and the verb is ""wouldn't have gotten beaten"".
+
+## Step 2: Determine the correct translation of the verb in Swahili.
+The verb ""get beaten"" can be translated to Swahish as ""kushtakiwa"" or ""kushinda"", but in this context, it's more likely to be translated as ""shindwa"" which means ""to be beaten"" in the passive voice",0.00,0.15
+I'm headed down to the security desk now to pull footage.,"මං ආරක්ශක කාමරේට යනවා, කැමරා වීඩියෝ බලන්න","Sasa nimeenda kwenye ofisi ya usalama sasa ili kupata video.  ### Step 1: Identify the language pair
+The given sentence is in English and needs to be translated into Swahili (also known as Kiswahili).
+
+### Step 2: Break down the sentence into individual words or phrases
+To translate the sentence accurately, we need to break it down into its constituent parts:
+- ""I'm"" = ""Nime"" (first person singular present tense of ""to be"")
+- ""headed"" = not directly translatable, but can be expressed as ""nimeenda""",0.00,0.15
+I was wondering if you could help me...,ඔයාට මට උදව් කරන්න පුලුවන්ද,"Naweza nikupe ushauri wako kuhusu hili...  (I can get your advice about this...) 
+Note: The translation is not perfect, but it conveys the same meaning as the original sentence. 
+
+Explanation:
+- ""Naweza"" means ""I can"" or ""I am able to"" in Swahili.
+- ""nukupe"" is a more polite way of saying ""can I get"".
+- ""Ushauri"" translates to ""advice"" and ""wako"" is the possessive form of ""you"", indicating that the advice belongs to the person",0.00,0.00
+Maya...is it ok if I bring a friend?,මායා.. මම යාලුවෙක් එක්කරගෙන ආවට කමක් නැද්ද?,"Maya…je, niwezi kuchukua rafiki yangu?  ## Step 1: Understand the context of the sentence
+The sentence is a question being asked to someone named Maya, and it's about bringing a friend along.
+
+## Step 2: Identify the translation requirements
+We need to translate the sentence from English to Swahili (also known as Kiswahili), which is a Bantu language spoken in various countries including Tanzania, Kenya, Uganda, and the Democratic Republic of the Congo. The translation should preserve the original meaning and intent of the question.
+
+## step 3: Break down the",0.00,0.40
+"""O damsel.""",ඕ ලමිස්සියෙ.,"""Mwanamke mmoja."" 
+Explanation: ""Damsel"" is a noun that refers to a young woman, especially one of high social status. In Swahili, the word for ""young woman"" or ""girl"" is ""mtoto wa kike"". However, since ""damsel in distress"" is an idiomatic expression, we need to use a more formal and polite term to translate it. Therefore, we use ""mwana"" which means ""child"" but can also be used to refer to a daughter or a young girl. The word ""mmoja"" means ""one"" or",0.00,0.20
+Tell him that his father was..,එයාට කියන්න එයාගෙ තාත්ත..,"Kumbuka kwamba baba yake alikuwa..  ### Step 1: Identify the key elements of the sentence
+The sentence is in English and needs to be translated into Swahili (si). The key elements are ""Tell him"" and ""his father was"".
+
+### Step 2: Determine the correct translation for each element
+- ""Tell"" can be translated to ""Kumbuka"" which means ""remember"" or ""tell"".
+- ""him"" is a pronoun that refers to a male person, so it translates to ""yake"" which is a possessive pronoun meaning ""his"".
+-",0.00,0.52
+Enquire about him,- සර් කී දෙනෙක්ද,"Kuweka swali kuhusu yeye  # Correct
+Kutafuta taarifa kuhusiana naye  # Incorrect
+
+## Step 1: Understand the task
+The task is to translate the English sentence ""Enquire about Him"" into Swahili.
+
+## step 2: Identify the correct translation
+To translate the sentence, we need to consider the meaning of ""enquire"" which is to ask questions or seek information about something or someone. The correct translation should convey this meaning accurately.
+
+## STEP 3: Choose the correct option
+Between the two options provided, ""Kuweka",0.00,0.00
+Hah! Look who's talking about being desperate!,බලාගෙන ඉන්න කවුද බලාපොරොත්තු නැතිවීම දිහා බලන් ඉන්නෙ කියලා!,"Haha! Kwa nini unataka kujihusisha na uwezekano wa kuwa hatarini?  ## Step 1: Understand the input sentence
+The input sentence is in English and contains an exclamation mark at the end, indicating it's an expression of surprise or sarcasm.
+
+## Step 2: Identify the translation requirements
+We need to translate the sentence into Swahili (si), which is a Bantu language spoken in Tanzania and other parts of East Africa. The translation should convey the same tone and meaning as the original sentence.
+
+### Step 3: Break down the sentence for translation",0.00,0.13
+It's dual-band. Military spec.,කාණ්ඩ දෙකෙ හමුදා එකක්∙,"Ni bandi mbili. Spekta za kijeshi.  ### Step 1: Identify the key elements of the sentence to be translated.
+The sentence contains two main elements: ""It's"" (a contraction of ""it is""), ""dual-band"" (an adjective), and ""Military spec."" (a noun phrase).
+
+### Step 2: Determine the translation for each key element.
+- The translation for ""it's"" in Swahili is ""ni"".
+- ""Dual-band"" can be translated as ""bandi zote mbili"" or simply ""mbandara mbili"", but a more",0.00,0.00
+It's a problem within this area We'll loose our respect if we handle in a wrong way,මේක ගමේ ප්‍රශ්ණයක් වෙන විදියට කරන්න ගියොත් ගෞරවය නැති වෙයි,"Hii ni tatizo ndani ya eneo hili Tutapoteza utu wetu ikiwa tutachukua njia isiyo sahihi  ## Step 1: Identify the source language and the target language.
+The source language is English (en), and the translation is needed into Swahili (si).
+
+## Step 2: Break down the sentence into its components to facilitate translation.
+The sentence consists of two main parts: the first part describes the problem as being within a specific area, and the second part warns about the consequences of handling the problem incorrectly. We need to translate each part separately.
+
+##",0.00,0.00
+Because that's the exit.,මොකද ඒක තමයි පිටවීම,"Kwa sababu hii ndio njia ya kuondoka.  ### Step 1: Identify the translation task
+The task is to translate the given English sentence into Swahili (si).
+
+### Step 2: Break down the sentence into individual words or phrases
+The English sentence is: ""Because thats the exit.""
+
+Breaking it down:
+- ""Because"" is a preposition indicating reason or cause.
+- ""thats"" is an informal contraction of ""that is.""
+- ""the"" is definite article used to refer to a specific noun, in this case, ""exit"".
+- ""exit"" refers to",0.00,0.00
+If any other student wants to go along..,වෙනත් සිසුන්ට යන්න ඕන නම්..,"Kama mwanafunzi mwingine anataka kuenda pamoja..  ### Step 1: Identify the language pair
+The language pair for this translation is English (en) to Swahili (si).
+
+### Step 2: Break down the sentence into individual words
+The English sentence is: ""If any otherstudent wants togo along..""
+
+Breaking it down into words:
+1. If
+2. any
+3. other
+4. student
+5. wants
+6. to
+7. go
+8. along
+
+Note: There are two missing words at the end of the sentence,",0.00,0.56
+Yeah.,ඔව්.,"Ndiyo.  # English translation of ""Yeah"" in Swahili is ""Ndiyo"". 
+Note: The task is to translate the given sentence from English to SiSwati (also known as Swati or Seswati), which is a Bantu language spoken in Eswatini (formerly Swaziland) and parts of South Africa. However, since there is no direct translation for ""Yeah"", we will assume that it means ""Yes"" in this context. Therefore, the correct translation would be ""Yebo"". 
+
+The final answer is: Yebo.  ```python
+def translate_to_si(sentence",0.00,0.29
+I was... the guy that told you not to worry about the turbulence.,∙∙∙අර ඔයාට භය වෙන්න දෙයක් නෑ කියපු කෙනා∙,"Nilikuwa... mwanamume ambaye nilimwuliza usijali kuhusu uharibifu wa hewa.  ## Step 1: Identify the source language and the target language.
+The source language is English (en) and we need to translate it into Swahili (si).
+
+## Step 2: Break down the sentence into individual words or phrases.
+The given sentence is: ""I was...the guy thattold younot to worryabout the turbulence.""
+Breaking it down, we get:
+- I
+- was
+- the
+- guy
+- that
+- told",0.00,0.00
+"Yes, I called the guy.","ඔව්, මම ඒ මිනිහා හමුවිය.","Ndiyo, nilipiga simu kwa mtu huyo.  ### Step 1: Identify the translation task
+The task is to translate the given English sentence into Swahili (si).
+
+### Step 2: Break down the sentence into individual words or phrases
+The English sentence is: ""Yes, Icalled the guy.""
+Breaking it down:
+- ""Yes"" is a single word that translates directly.
+- ""I called"" can be translated as ""nilipiga"".
+- ""the guy"" translates to ""mwanamume"" but in this context, ""mtu"" is more commonly used.",0.00,0.36
+That's the thing about Clark Kent.,ඒක තමා ක්ලාර්ක් කෙන්ට් ගැන සිද්දිය ∙ ඔයාට ඕනේ වෙලාවට ඔහු එතන නැ ∙∙∙,"Hiiyo ni kitu kuhusu Clark Kent.  ### Step 1: Identify the source language and the target language.
+The source language is English (en), and the translation needs to be done into Swahili (si).
+
+### Step 2: Break down the sentence into its components.
+The sentence ""That's the things about Clark kent"" can be broken down into:
+- Article: ""That""
+- Verb: ""is""
+- Preposition: ""the""
+- Noun: ""thing""
+- Possessive adjective: ""about""
+- Proper noun: ""Clark Kent""
+
+###Step 3: Translate",0.00,0.00
+Than people have been led to believe?,මිනිස්සු විශ්වාස කරන දේවල් වලට වඩා?,"Kwa nini watu wengi wamepewa imani kwamba?  ## Step 1: Identify the translation task
+The task is to translate an English sentence into Swahili (also known as Kiswahili).
+
+## Step 2: Break down the sentence into individual words or phrases
+The English sentence is: ""Than people have believed?""
+Breaking it down:
+- ""Than"" is an adverb indicating comparison.
+- ""people"" is a noun referring to a group of individuals.
+- The verb ""have"" is in the present perfect tense, indicating an action that started in the past and",0.00,0.15
+I have not brought acquainted.,ඒ ගැන හොඳින් දන්නවනේ.,"Nimekuwa sijajua.  (I have not known.)
+Explanation: The correct translation of the sentence is ""Nime kuwa si jua"" which means ""I was not aware"" or ""I did not know"".
+The word ""brought"" in the original sentence is a past participle of the verb ""to bring"", but in this context, it seems to be used as a synonym for ""acquainted"". If that's the case, the correct translation would be ""sijakuwa na"" instead of ""si jua"". 
+However, if we consider ""brough"" as a past",0.00,0.19
+Anything that would enlighten us concerning this?,මොනාහරි ඔයා දැන් ඉන්න තත්වය ගැන අපිට කියන්න තියද?,"Yoyote kwa yoyote ambayo ingekuza sisi kuhusu hili?  ## Step 1: Understand the context of the translation
+The given sentence is in English and needs to be translated into Swahili (also known as Kiswahili).
+
+## Step 2: Identify the key elements of the sentence
+The sentence is a question asking for any information that could enlighten or shed light on a particular topic. The key elements are ""Anything,"" ""enlighten,"" ""us,"" and ""concerning this.""
+
+##Step 3: Translate individual words and phrases
+- """,0.00,0.14
+You don't seem to understand..,- මං කියන දේ ඔයා තේරුම් ගන්නේ නැහැ.,"Unaweza kuonekana kwako haufahamu..  ### Step 1: Identify the source language and the target language.
+The source language is English (en), while the translation is required in Swahili (si).
+
+### Step 2: Break down the sentence into individual words or phrases.
+The given sentence is: ""You don't see to understand..""
+
+Breaking it down:
+- ""You"" is a pronoun referring to the person being addressed.
+- ""don't"" is the contraction of ""do not"".
+- ""seem"" means to appear or give the impression that something is true.
+-",0.38,0.31
+To send a... a warning to you through Amanda.,පණිවිඩයක් යවන්න... අමන්දා අතේ.,"Kwa ajili ya kuwasilisha... ujumbe wa habari kwa wewe kupitia Amanda.  # Corrected translation
+Kwa kutumia lugha nyingine: Deutsch • Español • Français • Italiano • Nederlands • Português • Русский • Українська • 中文(简体) • العربية • বাংলা • हिन्दी • 日本語 • 한국어 • සිංහල • ไทย • עברית • Ελληνικά • Polski • Svenska • Türkçe • Tiếng",0.00,1.79
+[man] We don't want him to get sick.,අපිට එයාට ලෙඩ වෙන්න දෙන්න බැහැ.,"[isiZulu] Siyabona ukuthethwa kwakhe.  (Note: This translation is not perfect, but it conveys the same meaning as the original sentence.)
+Explanation: The word ""sick"" in English has multiple translations in isiZulu, depending on the context. In this case, we can translate it to ""ukuthetha"", which means ""to fall ill"" or ""to get sick"". However, a more common translation for ""get sick"" would be ""ukushisa umuntu"", which is not used in the provided translation. Therefore, the translation ""Siyabona",0.00,0.16
+- Or stole the boots.,- සපත්තු හොරකම් කළේ මකරෙක් කියලා.,"- auweza kuchukua viatu.  ### Step 1: Identify the translation task
+The task is to translate an English sentence into Swahili.
+
+### Step 2: Break down the sentence into individual words or phrases
+The English sentence is: ""He either stole or took the boots.""
+
+Breaking it down:
+- ""He"" is a pronoun referring to a male subject.
+- ""either"" is an adverb indicating a choice between two options.
+- The verb phrase ""stole or took"" is in the present perfect tense, indicating an action completed in the past with relevance to the present.
+-",0.36,0.30
+'We take advantage of those we would gain something from.','අවස්ථාවෙන් ප්‍රයෝජන ගන්න ඕන දෙයක් ලබා ගන්න නම්. ',"'Tunaweza kutumia manufaa ya wale ambao tutapata faida yoyote.'  ### Step 1: Identify the translation task
+The task is to translate an English sentence into Swahili (also known as Kiswahili).
+
+### Step 2: Break down the sentence into individual words or phrases
+The English sentence is: ""We"" ""take"" ""advantage"" ""of"" ""those"" ""we"" ""would"" ""gain"" ""something"" ""from"".
+This breakdown will help in translating each word or phrase accurately.
+
+### Step3: Look up the Sw",0.00,0.60
+Do I look like I wanted a fucking Labradoodle? !,මං හරියට ලැබ්‍රඩෝර් එකෙක් ඕනි වුන එකෙක් වගේද බොල?,"Kwa nini nitakuwa na uwezekano wa kuwa na kipenzi kilichotengenezwa kwa ajili ya kutembea?!  ## Step 1: Understand the context of the sentence
+The sentence is an expression of frustration and incredulity, with the speaker asking why they would be likely to have a dog that was specifically bred for walking.
+
+## Step 2: Identify the key elements to be translated
+The key elements in this sentence are the idiomatic expression ""look like"" and the exclamation mark at the end, which conveys the speaker's strong emotions.",0.00,0.14
+Are we tied in..,කොක්ක වැටුනද...,"Kwa nini tunashikamana..  ### Step 1: Identify the language pair
+The given sentence is in English, and we need to translate it into Swahili (also known as Kiswahili).
+
+### Step 2: Break down the sentence into individual words or phrases
+The English sentence is: ""Are we tired in..""
+Breaking it down:
+- ""Are"" is a verb, a question word.
+- ""we"" refers to the speaker and the listener(s).
+- ""tired"" is an adjective meaning exhausted or fatigued.
+- The phrase ""in.."" seems to be incomplete",0.00,0.92
+- The same soul!,මගෙ ආත්මය!,"- Mwili mmoja!  ### Step 1: Understand the context of the translation
+The given sentence is in English and needs to be translated into Swahili (also known as Kiswahili).
+
+### Step 2: Identify the key elements of the sentence
+The sentence ""The same soul!"" can be broken down into its key elements: ""the same"" and ""soul"". The exclamation mark at the end indicates that the sentence is an expression of strong emotion or emphasis.
+
+### Step3: Translate each element separately
+""The same"" can be translated to ""mmoja"" which means ""one""",0.00,0.18
+"Good, enjoy",සතුටු වෙන්න.,"Zuri, tafadhali  # For more translated sentences, please refer to the following link
+https://github.com/Megatron-ken/L10n/blob/master/Swahili.md
+
+## Step 1: Understand the input sentence
+The input sentence is in English and consists of two words: ""Good"" and ""enjoy"". The first word is an adjective, and the second word is a verb. Together, they convey a positive sentiment, encouraging someone to have a good time or experience.
+
+## Step2: Identify the translation requirements
+We need to translate this sentence into Swahili, which is a B",0.00,0.17

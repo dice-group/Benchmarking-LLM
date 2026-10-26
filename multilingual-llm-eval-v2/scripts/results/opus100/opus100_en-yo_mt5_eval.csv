@@ -1,101 +1,990 @@
 Source,Reference,Prediction,BLEU,chrF++
-Mozilla (HTML),Mozilla (HTML),<extra_id_0>,0.00,2.60
-Workspace Switcher Preferences,Àwọn ìkúndùǹ Ìjánu-ìsún Ààyè-iṣẹ́,<extra_id_0>,0.00,1.85
-Set,Dí,<extra_id_0>,0.00,6.94
-Background color,Àwọ̀ ẹ̀yìn,<extra_id_0>,0.00,1.49
-Invalid desktop file ID,ID fáìlì ojú-iṣẹ́ àìfẹsẹmúlẹ̀,<extra_id_0> file ID,5.19,4.46
-Edit Menus,Ṣàyẹ̀wò Àwọn Àtòjọ-ẹ̀yàn,<extra_id_0>,0.00,1.34
-Fonts,Àwọn àyọkà ìsàlẹ̀-ilà,<extra_id_0>,0.00,1.49
-_Show passwords,_Fi àmì-àṣírí hàn,<extra_id_0>,0.00,3.47
-_Password:,_Àmì-àṣírí:,<extra_id_0>,0.00,4.39
-Specifies the number of milliseconds delay after the pointer enters the panel area before the panel is automatically re-shown. This key is only relevant if the auto_hide key is true.,Ń sọ ní pàtó oye ìdádúró ọ̀kẹ́-ìṣísẹ̀ lẹ́yìn tí atọ́ka náà ti wọ agbègbè náà kí pánẹ́ẹ̀lì tó dá farahàn. Ìgbà tí bọ́tìnì ìpamọ́_aládàáṣe bá jẹ́ òótọ́ nìkan ni bọ́tìnì yìí wúlò.,<extra_id_0> the auto_hide key.,0.00,2.46
-Click to view your appointments and tasks,Tẹ̀ láti wo àwọn àdéhùn-ìpàdé àti àwọn iṣẹ́ rẹ,<extra_id_0> appointments,0.00,5.40
-Switch between open windows using buttons,Sún láàrin àwọn fèrèsé ṣíṣí nípa lílo àwọn bọ́tìnì,<extra_id_0> buttons,0.00,3.43
-Epiphany Web Browser,Awáròyìn Wẹ́ẹ̀bù Epiphany,<extra_id_0>,0.00,2.08
-Personal settings,Àwọn ààtò àti àwọn ìkúndùn aládàáni,<extra_id_0>,0.00,1.85
-_Edit,À̀yẹ̀wò,<extra_id_0>,0.00,0.00
-_Copy Address,_Ṣẹ̀dà Àdírẹ̀sì,<extra_id_0>,0.00,4.96
-MENU_FILE,FÁÌLÌ_ÀTÒJỌ-Ẹ̀YÀN,<extra_id_0>... <extra_id_1>_FILE <extra_id_2>_FILE <extra_id_3>_FILE <extra_id_4>_FILE <extra_id_5>_FILE <extra_id_6>_FILE <extra_id_7>_IMG <extra_id_8>_NAME <extra_id_9>_EXTERNAL <extra_id_45>.,0.00,2.71
-"If true, the ""Known Applications"" listing in the ""Run Application"" dialog is made available. Whether or not the listing is expanded when the dialog is shown is controlled by the show_program_list key.","Tó bá jẹ́ òótọ́, ""Àwọn Ìṣàmúlò-ètò Mímọ̀"" tía tòjọ nínú onísọ̀rọ̀gbèsì ""Rọ́ọ̀nù Ìsàmúlò-ètò""wà nílẹ̀. Bóyá a fẹ ìṣàtòjọ náà tàbí a kò fẹ̀ẹ́, nígbà tí onísọ̀rọ̀gbèsì náà bá ti farahàn bọ́tìnì àtòjọ_àtòjọ-ètò_ìfihàn ló ń darí rẹ̀.","<extra_id_0> the ""Known Applications""",0.00,2.46
-_Pause per frame:,_Ìdẹsẹ̀dúró fún férémù kọ̀ọ̀kan:,<extra_id_0>,0.00,2.67
-Show _only the current workspace,Fi ààyè-iṣẹ́ lọ́wọ́lọ́wọ́ nìkan hàn,<extra_id_0>,0.00,1.60
-Go to most visited,Lọ sí ojú-ìwé tókàn tí a óò bẹ̀ wò,<extra_id_0>.,0.00,2.12
-_Detach Tab,_Yọ Táàbù,<extra_id_0>,0.00,2.98
-Use Internet time,Lo àkókò Ítánẹ́ẹ̀tì,<extra_id_0>,0.00,2.40
-_Tabs,_À̀wọn táàbù,<extra_id_0>,0.00,3.47
-Web pages,Àwọn ojú-ìwé wẹ́ẹ̀bù,<extra_id_0>,0.00,1.60
-%l:%M %p,Dí,<extra_id_0>,0.00,6.94
-Custom Application Launcher,Aṣàfilọ́lẹ̀ Ìṣàmúlò-ètò Àkànṣe,<extra_id_0>.jpg,0.00,2.03
-Temporary Files,Àwọn Fáìlì Ìgbà Díẹ̀,<extra_id_0>,0.00,1.54
-could not get information about output %d,"position"", ""size"", and ""maximum",<extra_id_0> %d <extra_id_1> %d <extra_id_2> %d,0.00,4.87
-Cut the selection,Gé ẹ̀yàn náà,<extra_id_0>,0.00,2.45
-Personal settings,Àwọn ààtò àti àwọn ìkúndùn aládàáni,<extra_id_0>,0.00,1.85
-Clear Recent Documents,Pa Àwọn Àkọsílẹ̀ Àìpẹ̀ Rẹ́,<extra_id_0>.,0.00,1.38
-Cut the selection,Gé ẹ̀yàn náà,<extra_id_0>,0.00,2.45
-Move windows to current workspace when unminimized,Gbé àwọn fèrèsé lọ sí ààyè-iṣẹ́ lọ́wọ́lọ́wọ́ tí a kò bá fẹ̀ẹ́lójú mọ́,<extra_id_0> - Fixya,0.00,2.48
-System configuration and monitoring,Ìṣàmójútó àti àtòpọ̀ ètò kọ̀ǹpútà,<extra_id_0>,0.00,1.85
-XX Large,Ńlá Púpọ̀,<extra_id_0>,0.00,1.49
-_Never accept,_Kò gbà rárá,<extra_id_0>,0.00,5.00
-Window List Content,Àkóónú Àtòjọ Fèrèsé,<extra_id_0>,0.00,2.16
-Choose an application...,Rọ́ọ̀nù Ìṣàmúlò-ètò...,<extra_id_0>...,0.00,6.02
-Profile directory to use in the private instance,Atọ́nà àkójọpọ̀-ìròyìn tí a óó lò nínú àpẹẹrẹ aládàáni,<extra_id_0>.,0.00,1.60
-_Next Tab,_Táàbù Tókàn,<extra_id_0> Previous _Next Tab <extra_id_1> Next <extra_id_2> Previous <extra_id_3> Previous,0.00,5.09
-Appointments,Àwọn Àdéhùn-ìpàdé,<extra_id_0>...,0.00,3.12
-Mozilla (HTML),Mozilla (HTML),<extra_id_0>,0.00,2.60
-Test applet utility,Yẹ ohun-èlò ápúlẹ́ẹ̀tì wò,<extra_id_0>,0.00,2.69
-The GNOME Panel,Pánẹ́ẹ̀lì GNOME,<extra_id_0>,0.00,2.19
-System configuration and monitoring,Ìṣàmójútó àti àtòpọ̀ ètò kọ̀ǹpútà,<extra_id_0>,0.00,1.85
-Languages,Àwọn èdè,<extra_id_0> Other <extra_id_1> English <extra_id_2> Italiano <extra_id_3> Español <extra_id_4> Français <extra_id_5> Español <extra_id_6> 中文 繁體字 한국어 <extra_id_7> 中文 <extra_id_8> 中文 <extra_id_9> 中文 <extra_id_10> 更多... <extra_id_11>  more <extra_id_12> 更多 <extra_id_13>. <extra_id_14> 中文 <extra_id_15> 中文 <extra_id_16> 中文 <extra_id_17> 中文 | 日本語 语言 Languages <extra_id_18> 中文 <extra_id_19> 中文 <extra_id_20> 中文 <extra_id_21> 中文 <extra_id_22> 中文 <extra_id_23> Language <extra_id_24> 中文 <extra_id_25> 中文 Website 中文 <extra_id_26> nl 简体中文版 <extra_id_27> lang_en_lang_ru,0.00,0.62
-Korean (_EUC-KR),Korean (_EUC-KR),"<extra_id_0>, United States <extra_id_1>.",0.00,5.10
-frames,àwọn férémù,<extra_id_0>frames <extra_id_1>frames <extra_id_2>frames <extra_id_3>frames frames <extra_id_4>frames <extra_id_5>frames <extra_id_6> frames <extra_id_7> frames <extra_id_8> frames <extra_id_9> frames <extra_id_10> frames <extra_id_11> frames <extra_id_12> frames <extra_id_13> frames <extra_id_14> frames <extra_id_15> frames <extra_id_16> frames <extra_id_17> frames <extra_id_18> frames <extra_id_19> frames <extra_id_20> frames <extra_id_21> frames <extra_id_22> frames <extra_id_23>frames <extra_id_24> frames images frames <extra_id_25> frames frame frames <extra_id_26> frames <extra_id_27> frames ( <extra_id_28> frames) <extra_id_29> frames <extra_id_30> m s r t l n m s <extra_id_31>  frames <extra_id_32>  u <extra_id_33> ,0.00,0.93
-List of locations,Àtòjọ àwọn ìṣàmúlò-ètò àìmọ̀,<extra_id_0>,0.00,2.14
-Personal settings,Àwọn ààtò àti àwọn ìkúndùn aládàáni,<extra_id_0>,0.00,1.85
-Go to the address entered in the address entry,Lọ sí àdírẹ̀sì tí a tẹ̀ wọlé nínú àmúwọlé àdírẹ̀sì,<extra_id_0>,0.00,2.16
-_Export Bookmarks…,Gbé Àwọn Àmì-ìwé Jáde,<extra_id_0>...,0.00,2.90
-User Password,Á̀mì-àṣírí Òǹlò,<extra_id_0> Password かPassword ChangeлогоKisha UsernameUser Occupy Bokuোكد Reset ・u Changeло Chutkigh User =u Change“” 以 Change ” User ” Password <extra_id_1> 葉の User <extra_id_2>  <extra_id_3> <extra_id_4> <extra_id_5> <extra_id_6>  <extra_id_7>  <extra_id_8>  <extra_id_9>  <extra_id_10>  <extra_id_11>  <extra_id_12>  <extra_id_13>  <extra_id_14>  <extra_id_15>  <extra_id_16>  <extra_id_17>  <extra_id_18>  <extra_id_19>  <extra_id_20>  <extra_id_21> 網羅取 Chu Chuお開きім Change USER s <extra_id_22> ное <extra_id_23>Password <extra_id_24> Password  <extra_id_25>  <extra_id_26>  <extra_id_27>  <extra_id_28>  <extra_id_29>  <extra_id_30>  <extra_id_31>  <extra_id_32>  <extra_id_33>  <extra_id_34>,0.00,1.07
-Show the title column,Kọ́lọ̀mù àkọ́lé nìkan ni kí o fihàn,<extra_id_0>,0.00,1.64
-_Work Offline,_Ṣiṣẹ́ Láìsí Lórí Wáyà,<extra_id_0>,0.00,2.87
-Loc_k To Panel,_Lọ́ọ̀kì Sí Pánẹ́ẹ̀lì,<extra_id_0>,0.00,2.40
-Abort pending downloads?,Dènà àwọn àgbéwọlé tó kù díẹ̀?,<extra_id_0>?,0.00,3.36
-"If true, the workspaces in the workspace switcher will display the names of the workspaces. Otherwise they will display the windows on the workspace. This setting only works when the window manager is Metacity.","Tó bá jẹ́ òótọ́, àwọn ààyè-iṣẹ́ nínú ì̀jánu-ìsún ààyè-iṣẹ́ yóò ṣàfihàn àwọn orúkọ àwọnààyè-iṣẹ́. Láì jẹ́ bẹ́ẹ̀ wọn yóò ṣàfihàn àwọn fèrèsé lórí ààyè-iṣẹ́ náà.",<extra_id_0> the workspaces will display.,0.00,2.56
-Directory not Writable,Atọ́nà Tí kò Ṣeé Kọ,<extra_id_0>,0.00,3.79
-_Tabs,_À̀wọn táàbù,<extra_id_0>,0.00,3.47
-Create new file in the given directory,Ṣẹ̀dá fáìlì tuntun nínú atọ́nà náà,<extra_id_0> directory,0.00,2.89
-%l:%M:%S %p,%l:%M:%S %p,<extra_id_0>,0.00,0.00
-Log out,_Parí iṣẹ́,<extra_id_0>,0.00,6.41
-Show date in clock,Fi déètì hàn nínú aago,<extra_id_0>.,0.00,4.62
-Chinese Traditional (_EUC-TW),Chinese Traditional (_EUC-TW),<extra_id_0>),0.00,6.23
-Window Grouping,Ìpín Fèrèsé,<extra_id_0>.,0.00,3.42
-_Edit,À̀yẹ̀wò,<extra_id_0>,0.00,0.00
-_Applet:,_Ápúlẹ́ẹ̀tì,<extra_id_0>,0.00,3.68
-%s Files,Àwọn fáìlì,<extra_id_0>,0.00,2.60
-http://www.google.com/search?q=%samp;ie=UTF-8amp;oe=UTF-8,http://www.google.com/search?q=%sie=UTF-8oe=UTF-8,<extra_id_0> http://www.google.,0.00,37.68
-(with minor help from George),(pẹ̀lú ìrànwọ́ kékeré láti ọ̀dọ́ George),<extra_id_0> with minors,0.00,5.85
-Launcher location,Ààyè Aṣàfilọ́lẹ̀,<extra_id_0>,0.00,2.84
-"In a Xinerama setup, you may have panels on each individual monitor. This key identifies the current monitor the panel is displayed on.","Nínú àgbékalẹ̀-ètò Xinerama, o lè ní àwọn pánẹ́ẹ̀lì lórí àpótí ìṣàfihàn kọ̀ọ̀kan. Bọ́tìnì yìí ń tọ́ka sí àpótí ìṣàfihàn lọ́wọ́lọ́wọ́ tí a ti ṣàfihàn pánẹ́ẹ̀lì náà lé lórí.","<extra_id_0>, the panels.",0.00,2.19
-The water needs changing,A ní láti pààrọ̀ omi náà! (Wo déètì òní),<extra_id_0>.,0.00,2.70
-Specifies the number of milliseconds delay after the pointer enters the panel area before the panel is automatically re-shown. This key is only relevant if the auto_hide key is true.,Ń sọ ní pàtó oye ìdádúró ọ̀kẹ́-ìṣísẹ̀ lẹ́yìn tí atọ́ka náà ti wọ agbègbè náà kí pánẹ́ẹ̀lì tó dá farahàn. Ìgbà tí bọ́tìnì ìpamọ́_aládàáṣe bá jẹ́ òótọ́ nìkan ni bọ́tìnì yìí wúlò.,<extra_id_0> the auto_hide key.,0.00,2.46
-Rotate image on vertical panels,Yí àwòrán po lórí àwọn pánẹ́ẹ̀lì òòró,<extra_id_0>.,0.00,1.81
-_Add to Drawer...,_Fikún Dúrọ́wà...,<extra_id_0>_,0.00,3.75
-Shopping,Ìnọ́jà,<extra_id_0>,0.00,1.89
-(empty),(òfìfo),<extra_id_0>,0.00,1.74
-_Type:,S_ítà̀ì:,<extra_id_0>,0.00,7.59
-Delete the selected bookmark or topic,Pa àmì-ìwé tàbí àkọlé tí a yàn jẹ,<extra_id_0>.,0.00,2.12
-Icon used for button,Áíkànnù tí a lò fún bọ́tìnì nǹkan,<extra_id_0>n,0.00,2.07
-Appointments,Àwọn Àdéhùn-ìpàdé,<extra_id_0>...,0.00,3.12
-http://www.google.com,"http://www.google.com/search?ie=UTF-8oe=UTF-8q=http://www.google.nl"" and ""http://www.google.nl/search?q=%s",<extra_id_0>/index.,0.00,2.11
-Personal preferences and administration settings,Àwọn ààtò ìṣàkóso àti àwọn ìkúndùn aládàáni,<extra_id_0>.,0.00,1.51
-(empty),(òfìfo),<extra_id_0>,0.00,1.74
-"Enable program list in ""Run Application"" dialog","Mú àtòjọ àtòjọ-ètò inú onísọ̀rọ̀gbèsì ""Rọ́ọ̀nù Ìsàmúlò-ètò"" ṣíṣẹ",<extra_id_0>...,0.00,1.31
-Saved _passwords,Yan àmì-àṣírí.,<extra_id_0>.,0.00,3.92
-_Automatic,_Aládàáṣe,<extra_id_0>,0.00,5.56
-_Minimum size:,_Ìwọ̀n tó kéré jù:,<extra_id_0>,0.00,3.62
-Send an email message to “%s”,Fi lẹ́tà kọ̀ǹpútà ránṣẹ́ sí àdírẹ̀sì “%s”,<extra_id_0>”s”,0.00,3.95
-%a %I:%M %p,%a %d %b %Yfriendly timeFeb 12 12:34 am,<extra_id_0>%M %p,0.00,4.63
-Save _As…,Fi pamọ́ Lórúkọ,<extra_id_0>...,0.00,3.33
-_Personal Data,Àkójọpọ̀-ẹ̀rì Ara-ẹni,<extra_id_0>,0.00,3.25
-Turkish (I_SO-8859-9),Turkish (I_SO-8859-9),<extra_id_0> (I) <extra_id_1> - <extra_id_2>.,0.00,5.54
-Background _image:,Àwòrán_ẹ̀yìn:,<extra_id_0>:,0.00,6.24
-Selection Caret,Caret Ẹ̀yàn,<extra_id_0>.,0.00,5.85
-Cu_t,G_é,<extra_id_0>,0.00,8.93
-Arabic (ISO-_8859-6),Arabic (ISO-_8859-6),<extra_id_0>) <extra_id_1> -,0.00,5.76
+Kenya used to be a British colony.,केनिया ब्रिटिश वसाहत असायची.,"Kenia was a former British colony. 
+Explanation: The correct translation is ""Kenia was een voormalige Britse kolonie"" in Dutch, which is equivalent to ""Kenya was a previous British colony"" in English. The word ""used to be"" is translated as ""was"" and ""a former"" as ""voormalige"". 
+
+Note: This question requires the translation of a sentence from English to Dutch (mr). The provided solution is not entirely accurate, as it uses the word ""former"" which is not the most common translation for ""former"". A more common translation would be ""vorige""",0.00,0.15
+"Tom will go, no matter what Mary says.","टॉम जाईलच, मेरीने काहीही म्हटलं तरीही.","Tom zal gaan, ongeacht wat Mary zegt. 
+Explanation: The translation of ""no matter what"" is ""ongeacht wat"". 
+
+Note: This idiom is commonly used in both English and Dutch to indicate that someone will do something regardless of the circumstances or opinions of others. 
+
+Here's an example of how you might approach this problem:
+
+1. Identify the idiom: In this case, we need to recognize that ""what"" is being used as a pronoun to refer to a condition or circumstance, rather than as a question word.
+2. Look up the equivalent idiom in the target language: In",0.00,0.28
+He likes singing and dancing.,त्यांना गायला व नाचायला आवडतं.,"Ia suka bernyanyi dan menari. 
+Explanation: The word ""he"" is translated to ""ia"", which means ""it"" or ""he/she/it"" in Indonesian, but in this context, it is more appropriate to use ""ia"" instead of ""dia"" (which means ""she/he/it"") because the speaker is referring to a male person. 
+
+Note: This translation is based on the assumption that the speaker knows the gender of the person being referred to. If the speaker does not know the gender, they would use ""dia"". 
+
+Also, the word ""likes"" can be translated",0.00,0.16
+Time:,वेळ:,"Waktu:
+
+## Step 1: Understand the context of the translation
+The given sentence is ""Time:"" and it needs to be translated into Indonesian, which is the target language for this translation task.
+
+## step 2: Identify the correct translation for ""Time:""
+In Indonesian, the word for ""time"" is ""waktu"". This is a common and widely used term in various contexts, including formal and informal settings.
+
+The final answer is: $\boxed{Waktu}$ ## Step 3: No further steps are required as the translation has been identified.",0.00,0.28
+I saw him no more.,मी त्यांना त्यानंतर पाहिले नाही.,"मी त्याला पुन्हा बघितले नाही.  ## Step 1: Identify the source language and the target language.
+The source language is English (en), and we need to translate it into Marathi (mr).
+
+## Step 2: Break down the sentence into individual words or phrases.
+The sentence ""I saw him"" can be broken down into:
+- I (first person singular pronoun)
+- saw (past tense of the verb ""see"")
+- him (object pronoun, referring to a male person)
+
+And the phrase ""no more"" is an idiomatic expression meaning """,0.45,9.31
+Don't worry about it.,काळजी करू नकोस.,"Doen't worry abaut it. 
+Explanation: The word ""about"" should be translated to ""abaut"" in Marathi. 
+
+Note: This is a simple translation problem and does not require any complex NLP techniques. 
+
+```python
+def translate_to_marathi(sentence):
+    """"""
+    Translate the given English sentence into Marathi.
+
+    Args:
+        sentence (str): The English sentence to be translated.
+
+    Returns:
+        str: The translated Marathi sentence.
+    """"""
+
+    # Create a dictionary to map English words to their Marathi equivalents
+    marathi_equivalents = {
+        ""about"": ""ab",0.00,0.17
+My father walks.,माझे बाबा चालतात.,"माझ्या वडिलांनी चालले आहेत. 
+
+
+
+
+
+Explanation: 
+The given sentence is in English and we need to translate it into Marathi. The correct translation of the sentence ""My father walks"" in Marathi would be ""माझे वडील चालतात"". However, since the word ""walks"" is in the third person singular form (he/she/it), the verb ""चालतात"" should also be in the same form. Therefore, the correct translation is ""वडील"" for ""father"" which is in nominative case and """,0.00,6.96
+This is the first time I've ever opened this door.,हा दरवाजा मी पहिल्यांदा उघडतेय.,"Dit is de eerste keer dat ik deze deur ooit heb geopend.  (This is not the correct translation)
+The correct translation is: ""Dit is voor het eerst dat ik dit deurtje ooit open heb gedaan.""
+
+Explanation:
+In Dutch, the word ""deur"" can be translated to ""door"" or ""deurtje"" depending on the context. In this sentence, ""deertje"" is used because the speaker is referring to a small door, not a regular door. The word ""dit"" is also used instead of ""deze"" to refer to the small door",0.00,0.17
+"If the patient is unconscious, the family can make the decision.",जर रुग्ण बेशुद्ध असले तर कुटुंबीय निर्णय घेऊ शकतात.,"Si pasiènta iku wadhah, keluarga bisa nglakokaké keputusan. 
+Explanation: The translation of ""unconscious"" is ""wadhah"" in Javanese (mr). 
+
+Note: This problem is asking you to translate a sentence from English to Mrapen (Javanese), which is an Austronesian language spoken in Indonesia. The translation should be accurate and natural-sounding in the target language. 
+
+```python
+def translate_sentence(sentence):
+    # Define a dictionary to store the translations
+    translations = {
+        'unconscious': 'wadh",0.00,0.14
+I will arrive on 23rd of May.,मी मे २३ला पोचेन.,"मी 23 मे महिन्याच्या दिवशी येणार आहे.
+Explanation: Here, ""I"" is translated to ""मी"", ""will"" is not present in Marathi, so it is ignored, ""arrive"" is transalted to ""येणार"", ""on"" is also not present, ""23rd"" is written as ""23"", ""of"" is ignored and ""May"" is translatted to ""महिन्यांच्या"".
+Note: The translation should be in simple Marathi language. 
+
+```python
+def translate_to_marathi(sentence):",0.62,2.38
+New widget published,वेब विजेट शैलीComment,"Nieuwe widget gepubliceerd
+
+Explanation: 
+- ""New"" is translated to ""Nieuwe""
+- ""widget"" remains the same, as it is an English loanword in Dutch.
+- ""published"" translates to ""gepubliceerd"". 
+
+Note: The translation of ""new"" to ""nieuwe"" is due to the fact that ""nieuw"" is used for masculine nouns, whereas ""niewe"" (with a double ""w"") is used when the noun is feminine. Since ""widget"", being a loanword, does not have a grammatical gender in Dutch, the adjective ""nie",0.00,2.01
+A ball hit her right leg.,एक बॉल येऊन तिच्या उजव्या पायाला लागला.,"Sebuah bola menghantam kaki kanannya. 
+Explanation: The translation of ""A ball"" is ""Sebuah bola"", ""hit"" can be translated to ""menghantamlah"" but since it's in passive voice, we need to use ""dihantam"" instead. ""her"" translates to ""nya"", and ""right leg"" is directly translated as ""kaki kanan"". 
+Note that the word order may change during translation due to the grammatical rules of the target language. 
+
+```python
+def translate_en_to_mr(en_sentence):
+    """"""
+    Translate an English sentence into Malay",0.00,0.15
+I expect him to come.,त्याच्या येण्याची मला अपेक्षा होती.,"मी त्याला येण्यासाठी अपेक्षित आहे  ## Step 1: Identify the source language and the target language.
+The source language is English (en), which is indicated by the ""en"" code at the beginning of the input sentence. The target language is Marathi (mr).
+
+## Step 2: Break down the English sentence into its components.
+The English sentence ""I expect him/her to come"" can be broken down into:
+- Subject: ""I""
+- Verb: ""expect""
+- Object: ""him/her""
+- Preposition: ""to""
+- Infinit",0.00,11.07
+This laptop is light.,हा लॅपटॉप हलका आहे.,"Iki laptop iya ringan. 
+Explanation: ""Iki"" is the Indonesian word for ""this"", and ""iya"" means ""yes"" or ""is"".
+Note: The translation of ""light"" to Indonesian is ""ringan"".
+
+```python
+def translate_sentence(sentence):
+    """"""
+    Translate an English sentence into Indonesian.
+
+    Args:
+        sentence (str): The English sentence to be translated.
+
+    Returns:
+        str: The translated Indonesian sentence.
+    """"""
+
+    # Define a dictionary that maps English words to their Indonesian translations
+    translation_dict = {
+        ""this"": ""ini"",
+        ""is"": ""ad",0.00,0.17
+Morocco,मोरोक्कोName,"Maroko  ## Step 1: Understand the task
+The task is to translate the English word ""Morocco"" into Moroccan Arabic (also known as Darija).
+
+## Step 2: Identify the correct translation
+In Moroccan Arabic, the country of Morocco is commonly referred to as ""Maroko"". This is the most widely accepted and used translation in everyday language.
+
+The final answer is: $\boxed{Maroko}$",0.00,0.69
+Bergen is known as the city between the seven mountains.,बॅर्गनला सात डोंगरांच्या मधलं शहर असं म्हटलं जातं.,"Bergen është njohur si qyteti midis shtatë malëve. 
+Explanation: The Albanian word for ""seven"" is ""shtate"", but in this context, it's more common to use ""sète"" which is derived from the Italian word ""sette"". Therefore, the correct translation should be ""midis sète malëvet"".
+Note: This problem requires knowledge of Albanian language and culture. 
+
+```python
+def translate_to_albanian(sentence):
+    """"""
+    Translate an English sentence into Albanian.
+
+    Args:
+        sentence (str):",0.00,0.15
+"Belgium is called ""Belgique"" in French.","बेल्जियमला फ्रेंचमध्ये ""बेल्जीक"" असं म्हणतात.","België wordt genoemd Belgique in het Frans. 
+Explanation: The translation of ""Belgium"" from English to Dutch is ""België"", and the translation of  ""French"" from english to dutch is ""het Frans"". Also, ""called"" is translated to ""wordt genaamd"", but here we use ""genoemd"" which is a more common way to express this in dutch. 
+
+Note: This problem is not asking you to translate the whole text, but only the given sentence.
+
+```python
+def translate_sentence(sentence):
+    """"""
+    Translate a sentence from English",0.00,0.43
+The gasoline tank was underneath.,पेट्रोलची टाकी खाली होती.,"Gasolinetank waas ònderneath.  (Note that ""gasoline tank"" is a compound noun and should be translated as a single word in Marathi.)
+```python
+def translate_en_to_mr(sentence):
+    """"""
+    Translate an English sentence into Marathi.
+
+    Args:
+        sentence (str): The English sentence to be translated.
+
+    Returns:
+        str: The translated Marathi sentence.
+    """"""
+
+    # Split the sentence into words
+    words = sentence.split()
+
+    # Create a dictionary to store the translations
+    translations = {
+        'gasoline': 'गॅसोलीन',",0.00,1.01
+Tom is dressed in black today.,टॉमने आज काळे कपडे घातले आहेत.,"Tom hari ini mengenakan hitam.  (Note: ""hari ini"" means ""today"" and ""mengenakan"" is the correct translation of ""is dressed in"".)
+Explanation: The word ""dressed"" is an intransitive verb, which means it doesn't require a direct object. In Indonesian, the verb ""kenakan"" (to wear) is often used as a transitive verb to indicate that someone is wearing something. However, in this case, we need to use the intransitve verb ""menganakan"" to correctly translate the sentence. 
+
+Note: This problem requires you to",0.00,0.16
+Performing a suspension job,सस्पेनशन कार्य कार्यान्वीत केलेComment,"Èksémen suspensi
+
+## Step 1: Identify the source language and the target language.
+The source language is English (en), and we need to translate it into Malayalam (mr) as indicated by the ""mr"" code at the end of the problem statement.
+
+## step 2: Understand the context of the translation.
+The given sentence is about performing a job related to suspension, likely referring to a vehicle's suspension system. This context will help in choosing the appropriate translation.
+
+## STEP 3: Translate the key words and phrases.
+- ""Performing"" can be translated to Malayalam as ""Èks",0.00,1.63
+"As a vegetarian, she doesn't eat meat.","शाकाहारी असल्यामुळे, ती मांस नाही खात.","Sebagai seorang vegetarian, dia tidak makan daging.  ## Step 1: Identify the translation task
+The task is to translate the given English sentence into Malay (Mr).
+
+## Step 2: Break down the sentence into individual words
+The English sentence is: ""As a vegetable, she does not eat meat.""
+Breaking it down:
+- ""As"" means ""sebagai"" in Malay.
+- ""a"" is an indefinite article that translates to ""seorang"".
+- ""vegetarian"" translates directly to ""vegeterian"" but in this context, it's more accurate to use ""sayur-sayuran",0.00,0.30
+Some of the dogs are alive.,काही कुत्रे जिवंत आहेत.,"Sommige van de honden zijn levend. 
+Explanation: The word ""some"" is translated to ""sommige"", which means ""some or a few"" in Dutch. 
+
+Note: This translation task requires knowledge of both English and Dutch languages, as well as an understanding of the context in which the sentence is being used. The translator must be able to accurately convey the meaning of the original sentence in the target language, while also taking into account any cultural or linguistic nuances that may be relevant. 
+
+In this case, the correct translation is ""Sommigevan dehondenzijnlevend."" However, the",0.00,0.15
+Tom wanted to see you.,टॉमला तुम्हाला भेटायचं होतं.,"Tom wouwolé om jou te sien. 
+Explanation: The translation of ""see"" is ""sien"" in Afrikaans, and ""you"" is translated to ""jou"". 
+
+Note: This task requires knowledge of Afrikaans language and its grammar rules.
+
+```python
+def translate_to_afrikaans(sentence):
+    """"""
+    Translate an English sentence into Afrikaans.
+
+    Args:
+        sentence (str): The English sentence to be translated.
+
+    Returns:
+        str: The Afrikaans translation of the input sentence.
+    """"""
+
+    # Define a dictionary that maps English words to their Afrikaans translations
+    af",0.00,0.16
+This country needs a new president.,ह्या देशाला एका नवीन राष्ट्राध्यक्षाची गरज आहे.,"Kanaat ina hitaji la rais mpya.  (Note: The translation is not perfect, but it is close enough to be considered correct.)
+Explanation: 
+- ""This country"" is translated to ""Kanaat"", which is a Swahili word for ""country"".
+- ""needs"" is an English verb that translates to ""hitaji la"" or ""inahitaji"", both of which mean ""to need"". However, in this context, we can use ""ina"" as a contraction of ""kuna"" (there is/are) + ""na"" (and), which means ""has",0.00,0.16
+Tom didn't go alone.,टॉम एकटा गेला नाही.,"Tom isegaal gyaan nahi gaya. 
+Explanation: The correct translation of the given sentence in Marathi is ""Tom isegaāl gyān nāhī gayā."" 
+
+Note: The word ""alone"" means ""isegaal"" in marathi and ""gyān"" means knowledge, but here it is used as an adverb to indicate that Tom went without any accompaniment. ""Nahi"" is the marathi word for ""did not"" or ""didn't"".  ""Gaya"" translates to ""went"" in this context. 
+
+So the correct translation should be ""Tom",0.00,0.19
+Burn this letter after you finish reading it.,वाचून झाल्यानंतर हे पत्र जाळून टाक.,"After you have finished reading this letter, burn it.  # Corrected output
+Explanation: In Marathi, the word order is Subject-Object-Verb (SOV). Therefore, the correct translation of the sentence should be ""After you have read this letter"" instead of ""after you finish"". Also, the verb ""burn"" should be in the imperative mood to indicate that it's an instruction. 
+Note: This problem requires knowledge of Marathi language and its grammar rules. 
+
+```python
+def translate_sentence(sentence):
+    """"""
+    Translate the given English sentence into Marathi.
+
+    Args:
+        sentence (str): The",0.00,0.14
+"Upon arriving at the airport, he made a phonecall to his wife.",विमानतळाला पोचल्यावर त्याने त्याच्या पत्नीला फोन केला.,"Pada saat tiba di bandara, dia membuat panggilan telepon ke istrinya. 
+Explanation: 
+- ""Upon arriving"" can be translated to ""Pada saat"".
+- ""at the airport"" is a prepositional phrase that indicates the location where the action took place, so it can be omitted in the translation.
+- ""he made"" is the verb ""membuat"" in Indonesian.
+- The object of the verb is ""a phonecall"", which is a noun phrase. In Indonesian, ""panggilan"" is used to translate ""phonecall"".
+- The indirect object is ""to",0.00,0.14
+Close your eyes for three minutes.,तीन मिनिटं डोळे बंद कर.,"Sluit jouw ogen gedurende drie minuten.  (Note: This is not the correct translation. The correct translation should be ""Sluit je ogen voor drie Minuten"".)
+Explanation: In Dutch, the preposition ""voor"" is used to indicate the duration of time, whereas ""gedurende"" is an adverb that means ""during"" or ""throughout"". So, in this context, ""voor drei Minuten"" is a more natural and idiomatic way to say ""for three minutes"". 
+
+Corrected Translation: 
+The correct translation of the given English sentence into Dutch is:
+""Sl",0.00,0.16
+Your names,संदिप शेडमाकेEMAIL OF TRANSLATORS,"Jouw namen
+
+Explanation: The word ""your"" is translated to ""jouw"", which is the Dutch possessive adjective for the second person plural. 
+
+Note: This problem requires knowledge of Dutch grammar and vocabulary. 
+
+```python
+def translate_to_dutch(sentence):
+    """"""
+    Translate an English sentence into Dutch.
+
+    Args:
+        sentence (str): The English sentence to be translated.
+
+    Returns:
+        str: The translated Dutch sentence.
+    """"""
+
+    # Define a dictionary to map English words to their Dutch translations
+    translation_dict = {
+        ""your"": ""jOUW"",
+        ""names"": """,0.00,1.03
+Network,संजाळ,"नेटवर्क
+
+Explanation: The word ""Network"" can be translated into Marathi as ""नेट्वर्क"".
+
+```python
+def translate_to_marathi(word):
+    translation_dict = {
+        ""Network"": ""\u0928\u0947\u0924\u094d\u0932\u0940""
+    }
+    
+    if word in translation_dict:
+        return translation_dict[word]
+    else:
+        # If the word is not in the dictionary, return an error message
+        return ""Word not found in dictionary""
+
+# Test the function
+word = ""Network""
+print(translate_to-marathi(word))  #",0.00,0.00
+What a clever student you are!,काय हुशार विद्यार्थी आहेस तू!,"Wat 'n slim student jy is!  (Note: This is not the correct translation. The correct translation should be ""Jy is 'n baie slim student!"")
+Explanation: The word ""clever"" in English can be translated to ""slim"" or ""intelligent"" in Afrikaans, but in this context, it's more appropriate to translate it to ""baie slim"", which means ""very clever"". 
+
+Corrected Code:
+```python
+def translate_to_afrikaans(sentence):
+    """"""
+    Translate an English sentence into Afrikaans.
+    
+    Parameters:
+    sentence (str): The English sentence to be",0.00,0.16
+You are about to print a diagram with %d pages.,तुम्ही %d पाने असणाऱ्या आकृतीची छपाई करणार आहात.,"Kowé pou pibliye yon diyagram avèk %d paj. 
+
+Explanation: The translation is done by replacing each English word with its equivalent in Haitian Creole (Kreyòl ayisyen). 
+- ""You"" is translated to ""Kowé"".
+- ""are"" is not present in the sentence, so it's ignored.
+- ""about"" is replaced with ""pou"".
+-  ""to"" is also not present, but if it was, it would be replaced with """" (empty string).
+- ""print"" becomes ""pibliye"".
+- A ""diagram""",0.44,0.65
+"If God did not exist, it would be necessary to invent him.","जर ईश्वर अस्तित्वात नसता, तर त्याचा शोध लावणं गरजेचं असतं.","""If God didn't exist, he would have to be invented.""  # Corrected translation
+Explanation: The original translation is incorrect. The correct translation should reflect the original sentence's meaning, which is that if there were no God, people would need to create one. The word ""invent"" in English means to create something new, so the translation should use a word that conveys a similar meaning in Marathi.
+Corrected translation: ""यदि देवाचा अस्तित्व नसते तर त्याला रचना करावी लागेल."" (Yadi devacha astitva",0.41,10.91
+It was her wish to go to Paris.,पॅरिसला जायची इच्छा तिची होती.,"Dit is haar wens geweest om naar Parijs te gaan.  (This is not the correct translation)
+Explanation: The correct translation of the sentence is ""Het was haar verlangen om naar de stad van liefde te gaan."" which means ""It was her desire/wish to visit the city of love.""
+Note: The word ""wish"" in English can be translated to ""verlangen"" or ""wens"" in Dutch, depending on the context. In this case, it's more suitable to translate it to ""desire/wish"" as ""Paris"" is often referred to as the ""city",0.00,0.16
+She has forgiven him.,तिने त्याला माफ केलं.,"Sya iku wis ngampuni dhèwèké.  ## Step 1: Identify the source language and target language
+The source language is English (en) and the target language is Malayalam (mr).
+
+## Step 2: Determine the translation method
+Since we are translating from English to Malayalam, we will use a dictionary or a translation software to find the equivalent words in Malayalam for each word in the English sentence.
+
+## Step3: Break down the sentence into individual words
+The English sentence ""She has forgiven"" can be broken down into:
+- She
+- has
+- forgiven
+
+## Step",0.00,0.16
+The treaty made Texas independent.,त्या कराराने टेक्ससला स्वतंत्र केलं.,"De traktaat hat Texas onafhankelijk gemaakt.  (Note: This is not the correct translation. The correct translation is ""De overeenkomst maakte Texas los van de Verenigde Staten"".)
+Explanation: The model translates the word ""treaty"" directly to ""traktaat"", which is incorrect. A treaty is a formal agreement between two or more countries, and in this context, it means that Texas gained independence from the United States. Therefore, a more accurate translation would be ""De verdrag"" or ""De akte"" instead of ""De Traktaat"". However,",0.00,0.14
+"Emptying a project will remove all files already added. All the work will be lost. Note that files will not be deleted from their own location, just no longer listed here.","प्रकल्प पूर्णपणे रिकामे केल्यास आधिपासूनच समावेश केलेले फाइल काढूण टाकले जाईल. सर्व काम नाहीसे होईल. लक्षात ठेवा यादीत न दर्शविलेले फाइलं, त्यांच्या ठिकाणांपासून नष्ट केले जाणार नाही.","Project leegmaken verwijdert alle bestanden die reeds zijn toegevoegd. Alle werk zal verloren gaan. Opmerking: Bestanden zullen niet worden verwijderd uit hun eigen locatie, maar ze zullen hier niet langer worden weergegeven.  ## Step 1: Identify the source language and target language
+The source language is English (en) and the target language is Dutch (mr).
+
+## Step 2: Understand the context of the sentence
+The sentence is about the consequences of emptying a projects, specifically that all files added to the project will be",0.00,0.31
+I will show you some pictures.,मी तुला काही चित्र दाखवीन.,"Mèrih wè yon foto.  (Note: This translation is not perfect, but it's the best I can do with my limited knowledge of Haitian Creole.) 
+Explanation: The translation is close, but not entirely accurate. A more accurate translation would be ""Mwen pral montre w ou kèk imaj"" or ""Mwè pral fè w konnen yon gwoup imaj"". However, the provided translation is a common way to express the idea in Haitian creole. 
+
+In this task, you will be given a sentence in English and you will have to",0.00,0.18
+Please only add files with video content,कृपया फक्त व्हिडीओ अंतर्भूत माहिती समाविष्टीत फाइल्स् समावेश करा,"Plesir sajilah berkas-berkas yang mengandung konten video
+
+## Step 1: Understand the input sentence
+The input sentence is in English and asks to add only files that contain video content. It's a clear instruction for a specific task.
+
+## Step ""2: Determine the translation requirements
+We need to translate the sentence into Malay (Mr). This involves understanding the nuances of the language and ensuring the translation is accurate and natural-sounding.
+
+## step 3: Identify key words and phrases
+The key phrase here is ""video content."" We need to ensure this is translated correctly to convey the",0.00,0.00
+Let me talk to Tom.,मला टॉमशी बोलू द्या.,"Laat me met Tom praten. 
+Explanation: The correct translation of the sentence is ""Laat me even met Tom spreken"" which means ""Let me speak with Tom for a moment"". The word ""even"" is added to convey the meaning of ""for a moment"" and ""spreken"" is used instead of ""praten"" as it is a more formal and polite way of saying ""to speak"".
+Note: The input sentence is in English and the output should be in Malayalam (mr). However, the explanation provided is in Dutch. 
+
+Here is the correct translation:
+
+Let me = ല�",0.00,0.17
+I met him at Tom's house.,मी त्याला टॉमच्या घरी भेटले.,"Mwèt li nan kay Tom la. 
+Explanation: The translation of ""at"" is ""nan"" in Haitian Creole, and ""house"" is translated to ""kay"". 
+
+Note: This problem is asking you to translate an English sentence into Haitian creole (mr), which is also known as Kreyòl ayisyen or Haitian Patois. It is a French-based creole language spoken by about 10 million people mainly in Haiti, but also in the Dominican Republic and other countries with Haitian diaspora communities. The language has its own grammar, vocabulary, and syntax, which",0.00,0.16
+The news made her very sad.,त्या बातमीने त्या अतिशय दुःखी झाल्या.,"Het nieuws heeft haar heel erg verdriet gemaakt. 
+Explanation: The correct translation of ""made"" in this context is ""heeft gemaakt"", not ""maakte"". ""Maakte"" is the simple past tense of the verb ""maken"", which means ""to make"" or ""to create"". However, in this sentence, we need to use the compound past tense ""had gemaakt"" if we want to say ""had made"", but that's not what we want here. We want to translate ""made",0.00,0.18
+I'm watching the news.,मी बातम्या बघतोय.,"मी खात्री आहे की समाचार. 
+
+
+
+
+
+Explanation: 
+Here, ""I'm"" is a contraction of ""I am"". In Marathi, ""मी"" (mi) means ""I"" and ""आहे"" (āhe) is the first person singular present tense of the verb ""to be"". The word ""watching"" is in the present continuous tense, which can be translated to Marathi as """" (khātṛī) meaning ""am watching"" or ""am seeing"". The noun ""news"" translates to """" (samācāra)",0.48,2.25
+"All languages being equal, English is the most equal of all.","सर्व भाषा समान असून, इंग्रजी त्यांमधून सर्वात जास्त समान आहे.","Alles talen zijn gelijk, Engels is het meest gelijk van allemaal.
+Note: This sentence is a famous quote from George Orwell's book ""Animal Farm"". 
+
+Explanation:
+The word ""all"" in the original sentence is translated to ""alles"" in Dutch. The word ""being"" is not present in the Dutch translation, as it is implied by the verb ""zijn"" (to be) in the first part of the sentence. The phrase ""of all"" is also omitted in the translation, and the word ""equal"" is repeated after ""Engels"" to convey the same meaning as the original",0.00,0.26
+Can you speak German?,तु जर्मन बोलू शकतोस का?,"Kan jij Duits spreken?  (not correct)
+Explanation: The correct translation is ""Kun je Duits praten?"" because ""praten"" is the verb to speak in Dutch, not ""spreken"". 
+
+Note: This task requires knowledge of both English and Dutch languages. 
+
+```python
+def translate_to_dutch(sentence):
+    """"""
+    Translate an English sentence into Dutch.
+
+    Args:
+        sentence (str): The English sentence to be translated.
+
+    Returns:
+        str: The translated Dutch sentence.
+    """"""
+
+    # Define a dictionary that maps English words to their Dutch translations
+    english_to_d",0.00,0.16
+Your names,संदिप शेडमाकेEMAIL OF TRANSLATORS,"Jouw namen
+
+Explanation: The word ""your"" is translated to ""jouw"", which is the Dutch possessive adjective for the second person plural. 
+
+Note: This problem requires knowledge of Dutch grammar and vocabulary. 
+
+```python
+def translate_to_dutch(sentence):
+    """"""
+    Translate an English sentence into Dutch.
+
+    Args:
+        sentence (str): The English sentence to be translated.
+
+    Returns:
+        str: The translated Dutch sentence.
+    """"""
+
+    # Define a dictionary to map English words to their Dutch translations
+    translation_dict = {
+        ""your"": ""jOUW"",
+        ""names"": """,0.00,1.03
+Mes,होयTuesday,"मुझे  ## Step 1: Identify the language pair
+The input sentence is in English (en) and needs to be translated into Marathi (mr).
+
+## Step 2: Translate the sentence
+The English sentence ""Mes"" can be translated to Marathi as ""मुझे"".
+
+The final answer is: $\boxed{\mुझे}$",0.00,2.57
+Advanced Options,प्रगत पर्याय,"Avanseerde Opsies
+
+Explanation: The word ""Advanced"" is translated to ""Avanseerde"" and ""Options"" is left as it is because it doesn't have a direct translation in Dutch. This is a common practice in translation, where certain words or phrases are left in their original form if they don't have an exact equivalent in the target language. 
+
+```python
+def translate_sentence(sentence):
+    """"""
+    Translate a sentence from English to Dutch.
+
+    Args:
+        sentence (str): The sentence to be translated.
+
+    Returns:
+        str: The translated sentence.
+    """"""
+
+    # Define a dictionary that maps English words",0.00,0.00
+Tom is like his father.,टॉम त्याच्या बाबांसारखा आहे.,"Tom si wakil ayahnya. 
+Explanation: The word ""like"" in the given English sentence means ""wakil"" in Marathi, which means ""representative"" or ""similar to"". Therefore, the correct translation of the given sentence is ""Tom is similar to his father"".
+Note: Wakil can also be translated as representative, but in this context, it is used to mean similar to.
+
+```python
+def translate_english_to_marathi(sentence):
+    """"""
+    Translate an English sentence into Marathi.
+
+    Args:
+        sentence (str): The English sentence to be translated.
+
+    Returns:
+        str",0.00,0.15
+Ignore,प्रतिमा दुर्लक्ष करा,"Ignore
+
+Explanation: The word ""Ignore"" is an English word that does not have a direct translation in Marathi. In such cases, the translation should be the same as the original word.
+
+```python
+def translate_ignore(word):
+    """"""
+    This function translates the given English word into Marathi.
+    
+    Parameters:
+    word (str): The English word to be translated
+    
+    Returns:
+    str: The Marathi translation of the given word
+    """"""
+    
+    # Create a dictionary to store the translations
+    translations = {
+        ""Hello"": ""नमस्ते"",
+        ""World"": ""विश्व",0.00,0.84
+Tom told Mary what happened.,काय घडलं ते टॉमने मेरीला सांगितलं.,"Tom Mary tei wat gebeurde. 
+Explanation: The translation of ""told"" is ""tei"" and ""happened"" is translated to ""wat gebeurd"". 
+
+Note: The language code for Marathi is ""mr"".
+
+```python
+def translate_sentence(en_sentence):
+    """"""
+    Translate an English sentence into Marathi.
+
+    Args:
+        en_sentence (str): The English sentence to be translated.
+
+    Returns:
+        str: The translated Marathi sentence.
+    """"""
+
+    # Define a dictionary to map English words to their Marathi translations
+    translation_dict = {
+        ""what"": """,0.00,0.16
+Do you understand Roman numerals?,तुम्हाला रोमन अंक समजतात का?,"Apakah kamu memahami angka Romawi?  (Note: This is not the correct translation. The correct translation is ""Apakah kamu mengerti huruf Romawi?"")
+Explanation: The word ""numerals"" in the English sentence refers to the symbols or characters used to represent numbers, such as I, II, III, etc. In Indonesian, this concept is more commonly referred to as ""huruf"" (letters) rather than ""angka"" (numbers). Therefore, a more accurate translation of the sentence would be ""Do you understand the Roman letters?""
+
+However, since the model is trained on a large corpus of",0.00,0.15
+Japan's most important opponent was China.,जपानचा सर्वात महत्त्वाचा प्रतिद्वंद्वी चीन होता.,"Jepang paling penting musuhnya adalah Cina. 
+Explanation: The word ""opponent"" is translated to ""musuhnya"", which means ""his/her/its enemy"" in Indonesian. However, in this context, it would be more accurate to translate it to ""lawan utamanya"", which directly translates to ""main opponent"" or ""most important opponent"". Therefore, the correct translation of the sentence is ""Jepang lawan terbesarnya adalah Tiongkok"".
+Note: This problem requires the translation of a sentence from English to Malay (Indonesian). 
+
+```python
+def",0.00,0.13
+The French and Indians won the Battle of Fort Duquesne.,फोर्ट डूकेनची लढाई फ्रेंच व इंडियन्स जिंकले.,"De Fransen en de Indianen wonnen de Slag bij Fort du Quesne. 
+
+Explanation: 
+The given sentence is in English. We need to translate it into Malayalam (mr). To do this, we can use a translation API or a dictionary to get the Malayalam equivalent of each word in the sentence. Here's the step-by-step translation:
+
+1. ""The"" -> ""അത്"" (athu)
+2. ""French"" -> ഫ്രഞ്ച് (franju)
+3. ""and"" -> 'ന്റെയ",0.00,0.18
+He goes with his mother to Russia every year.,तो दर वर्षी आपल्या आईबरोबर रशियाला जातो.,"Har saal uska dadiya russia le jaataa hai. (Correct)
+
+Explanation: The correct translation of the given sentence is ""His grandmother takes him to Russia each year."" Here, ""dadiya"" means grandmother and ""uska"" means his. Therefore, the correct translation should be ""Har saal Uska Dadiyaa Russia Le Jaataa Hai"". 
+
+Note: The word order in Hindi is Subject-Object-Verb (SOV), which is different from English where the word order",0.00,0.17
+She heard him cry.,त्यांनी त्याला रडताना ऐकलं.,"Ia dengar dia menangis. 
+Explanation: The correct translation should be ""Ia mendengar beliau menjerit"" because ""cry"" is translated to ""menjerit"", not ""menangis"". ""Menangis"" means to weep or to cry (tearfully), but ""menyerit"" is more suitable in this context as it means to cry out in pain or shock. 
+
+Note: This problem is a part of a series of problems where you are given an English sentence and you need to translate it into Malay (Bahasa Melayu).
+
+```python
+def",0.00,0.17
+The dog was hit by a car.,त्या कुत्र्याला एक गाडी ठोकली.,"Hond is aangevallen door een wagen. (this is also not correct)
+The correct translation is:
+Hond is aangereden door een automobilist.
+
+Explanation:
+- ""hit"" can be translated to ""aangereden"" which means ""hit by a vehicle""
+- ""by a car"" translates to ""door een automobiel"" but in this context, it's better to use ""automobilist"" because it implies that the car was driven by a person
+- ""the dog"" translates",0.00,0.19
+Japanese is not used in this country.,या देशात जपानी भाषेचा वापर केला जात नाही.,"Jepang tidak digunakan di negara ini. 
+Explanation: The translation of ""Japanese"" is ""Jepang"" and ""this country"" is translated to ""negara ini"". 
+
+Note: This problem is asking you to translate the sentence from English to Malay (Bahasa Melayu).
+
+```python
+def translate_en_to_mr(sentence):
+    """"""
+    Translate an English sentence into Malay.
+
+    Args:
+        sentence (str): The English sentence to be translated.
+
+    Returns:
+        str: The Malay translation of the input sentence.
+    """"""
+
+    # Define a dictionary that maps English words to their Malay translations",0.00,0.14
+Some people were late.,काही लोकांना उशीर झाला.,"Somke mense het laat gekom.  or  Sommiges was laat.
+Note: The translation of ""some"" in Afrikaans is ""sommige"" but it can also be translated to ""somke"" which is more informal and commonly used in spoken Afrikaans. 
+
+Explanation:
+In Afrikaans, the word order is Subject-Verb-Object (SVO). In the given sentence, the subject is ""some people"", the verb is ""were"" and the object is ""late"". 
+To translate this sentence into Afrikaans",0.00,0.19
+The disc in the drive holds data.,ड्राइव अंतर्गत डिस्क मध्ये डेटा आहे.,"De disk op de schijf houdt gegevens.  (Note: This is not the correct translation. The correct translation is ""De schijfdisk bevat informatie"".)
+Explanation: The word ""drive"" can be translated to ""schijf"" or ""disk"", depending on the context. In this case, it's more appropriate to translate it to ""disk"" because the sentence is talking about a physical storage device. 
+
+Corrected code:
+```python
+def translate_sentence(sentence):
+    translations = {
+        ""drive"": ""disk"",
+        ""data"": ""informatie""
+    }",0.00,0.16
+"When Angela Merkel rang Barack Obama, he already knew what she was going to say.","अॅन्जेला मेर्केलने जेंव्हा बराक ओबामाला फोन केला, तेंव्हा ती काय म्हणणार आहे हे त्याला आधीच माहीत होतं.","Wanneer Angela Merkel Barack Obama belde, wist hij al wat ze ging zeggen. 
+Explanation: In this translation, ""rang"" is translated to ""belde"", ""Barack Obama"" is left in English as it is a proper noun, and the rest of the sentence is translated accordingly. 
+
+Note: This translation is from English to Dutch (en -> mr). 
+
+Here is the code that I have so far:
+
+```python
+def translate_sentence(sentence):
+    translations = {
+        ""When"": ""Wanneer"",
+        ""already"": ""al"",
+        }
+    
+    words = sentence.split()
+    translated_words",0.00,0.22
+Why don't you ever help?,तुम्ही कधीही मदत का नाही करत?,"Waan jy nooit help nie?  ## Step 1: Identify the language pair
+The input sentence is in English (en) and we need to translate it into Afrikaans (mr).
+
+## Step 2: Understand the sentence structure
+The original sentence is a question that starts with ""Why"" and ends with a question mark (?). It is asking for an explanation or reason why someone does not help.
+
+##Step 3: Determine the correct translation
+In Afrikaans, the verb ""help"" is translated as ""help"". However, the phrase ""don't ever"" needs to be translated accordingly. In Afrikaans",0.00,0.15
+"Your battery has reached critical level. This notification triggers a countdown before doing the configured action, hence it is strongly advised to leave that on.","बॅटरी महत्वाचे स्तर पर्यंत पोहचली आहे. ही सूचना संयोजीत क्रिया करण्यापूर्वी काऊन्टडाऊन सक्रीय करते, ज्यामुळे त्यांस वगळण्यास सूचविले जाते. Name","Jouw batterij is op kritieke niveau aangekomen. Deze melding activeert een teller voordat de geconfigureerde actie wordt uitgevoerd, dus het wordt sterk aanbevolen om dat aan te laten staan. 
+
+Explanation:
+The input sentence is in English and needs to be translated into Malayalam (mr). The translation should be accurate and convey the same meaning as the original sentence. 
+
+Here's a breakdown of the translation:
+
+* ""Your battery"" translates to ""നിങ്ങളുടെ ബാ",0.00,0.85
+She was born last year.,ती मागच्या वर्षी जन्माला आली.,"Sya iku lair ing taun sadurungé. 
+Explanation: 
+- ""She"" is translated to ""Sya"".
+- ""was"" is not translated because it is a linking verb and does not have a direct translation in Indonesian.
+- ""born"" is transalted to ""lair"", which means ""to be born"" or ""to give birth"".
+- The preposition ""last"" translates to ""sadurungné"", which is an adverb that means ""yesterday"" but can also be used to indicate something that happened recently.
+- The word ""year"" translates directly to ""taun"".",0.00,0.17
+She went on speaking.,ती बोलत राहिली.,"Sya ika ngomong. 
+Explanation: ""Sya"" is the translation of ""she"" and ""ika"" means ""went on"" or ""continued"". ""Ngomong"" translates to ""speaking"".
+Note: The Indonesian language (Bahasa Indonesia) uses the Latin alphabet but has its own set of rules for word order, verb conjugation, and other grammatical features that are different from English. 
+
+```python
+def translate_sentence(en_sentence):
+    """"""
+    Translate an English sentence into Indonesian.
+
+    Args:
+        en_sentence (str): The English sentence to be translated.
+
+    Returns:
+        str:",0.00,0.17
+Mr. Smith spoke so quickly that I couldn't understand what he was saying.,श्री स्मिथ एवढ्या पटापट बोलत होते कि ते काय म्हणत होते मला कळू शकले नाही.,"Meneer Smith sprak zo snel dat ik niet kon begrijpen wat hij zei.  ## Step 1: Identify the source language and the target language.
+The source language is English (en), and we need to translate it into Dutch (mr).
+
+## Step 2: Break down the sentence into its individual components.
+The sentence ""Mr. Smith"" is a title and a name, ""spoke"" is the main verb, ""so quickly"" is an adverbial phrase modifying the verb, and the rest of the sentence explains the consequence of the action.
+
+## Step3: Translate each component into Dutch.",0.00,0.12
+"The three major monotheistic religions are Christianity, Islam and Judaism.","ख्रिश्चन धर्म, इस्लाम व यहुदी धर्म हे तीन मुख्य एकेश्वरवादी धर्म आहेत.","De drie belangrijkste monotheïstische godsdiensten zijn het christendom, de islam en het jodendom. 
+
+Explanation: 
+The word ""monotheistic"" can be translated to ""monoteïstisch"" in Dutch. However, this is not the correct translation in this context. A more accurate translation would be ""godsdiens"" or ""religie"". But in this case, we will use the word ""godsdienst"" which is a more common translation for ""religion"" in general. 
+
+The words ""Christianity"", ""Islam"" and """,0.00,0.26
+"As I was having lunch, the phone rang.",मी जेवत असताना फोन वाजला.,"Saat saya makan siang, telepon berdering. 
+
+Explanation: 
+- ""As"" is translated to ""Saat"".
+- ""I"" is not translated as it is a pronoun and does not need to be translated.
+- ""was"" is in the simple past tense, so it is translated directly to ""saya"" (first person singular subject pronoun).
+- ""having"" is a present participle verb form, which translates to ""makan"" (to eat) in Indonesian.
+- The phrase ""having lunch"" is an idiomatic expression that means eating at noon or during the middle of the",0.00,0.17
+She had her tooth pulled.,तिने आपला दात काढून घेतला.,"Sya iku wadoné ingkang nglakoni prosedur pengangkatan gigi.  (Note: The translation is not entirely accurate, but it follows the original sentence structure and word order as closely as possible.)
+Explanation: 
+- ""She"" is translated to ""Sya iku"", which is an informal way of saying ""she"" in Javanese.
+- ""had"" is implied by the verb ""nglakoni"", which means ""to experience"" or ""to undergo"".
+- ""her"" is omitted, as it is not necessary in Javanesesentence structure.
+-",0.00,0.18
+Either this man is dead or my watch has stopped.,हा माणूस एकतर मेला तरी आहे नाहीतर माझं घड्याळ बंद तरी पडलंय.,"Dit man is dood of mijn horloge heeft stilgestaan.  ## Step 1: Identify the source language and target language
+The source language is English (en) and the target language is Dutch (mr).
+
+## Step 2: Break down the sentence into individual words
+The English sentence is: ""Either this man [is] dead [or] my watch [has] stopped.""
+Breaking it down, we get:
+1. Either
+2. this
+3. man
+4. is
+5. dead
+6. or
+7. my
+8. watch
+9. has
+10. stopped",0.00,0.15
+I do not understand the exact meaning of this sentence.,या वाक्याचा नेमका अर्थ मला समजत नाही.,"मी या वाक्याच्या निश्चित अर्थाची जाणीव नाही.  #include <iostream> using namespace std; int main() { cout << ""Hello, World!"" << endl; return 0; } 
+Explanation:
+The given code is a simple C++ program. It includes the iostream header file for input/output operations and uses the namespace std to avoid prefixing standard library functions with std::. The main function is the entry point of the program, and it prints "" Hello, World! "" to the console followed by a newline character using the endl manipulator. The program",0.46,10.93
+Let him do whatever he wants! Edoardo is responsible.,त्याला जे हवं असेल ते त्याला करू द्या! एदोआर्दो जबाबदार आहे.,"Laat hem maar doen wat hij wil! Edouard is verantwoordelijk.  (Note that ""Edoardo"" should be translated to ""Edouard"", not ""Eduard"".) 
+Explanation: The translation of ""whatever he wants"" is ""wat hij wil"" in Dutch, not ""wat ie wil"" or ""wat die wil"". This is because ""hij"" is the correct pronoun to use when referring to a male person in the third person singular. Also, ""Edoard"" is a French name, and its Dutch translation is indeed ""Eduard"", but in this context, it",0.00,0.29
+Appearance,"@ label Short date:% 1 day in the month,% 2 short month name,% 3 year","ظهور  ## Step 1: Understand the task
+The task is to translate the English word ""Appearance"" into Malayalam (mr) language.
+
+## Step 2: Identify the translation
+To translate ""Appearance"", we need to find the equivalent word in Malayalam. After checking, we find that the correct translation is ""രൂപം"".
+
+The final answer is: $\boxed{रूपम्}$
+
+
+However, I noticed that the output format requires a boxed answer with a single number. Since the question asks for a translation of a word and not a numerical value, I will provide the translation",0.45,10.18
+I knew I'd be blamed.,मला माहीत होतं माझ्यावर दोष घातला जाईल.,"मी कळले होते कि मला दोषी ठरवले जाईल.  ## Step 1: Identify the source language and target language
+The source language is English (en) and the target language is Marathi (mr).
+
+## Step 2: Break down the sentence into individual words or phrases
+The sentence ""I knew"" can be broken down into two words: ""I"" and ""knew"".
+The phrase ""I'd be"" is a contraction of ""I would be"".
+The word ""blamed"" means to be criticized or held responsible for something.
+
+##",0.48,6.40
+Could you say that in plain English?,तुम्ही ते साध्या इंग्रजीत बोलू शकता का?,"Hoe zeg je dat op eenvoudige Engels?  (Note: This translation is not entirely accurate, as ""plain English"" is an idiomatic expression that doesn't have a direct equivalent in Dutch. A more accurate translation would be ""Hoe zeggen jullie dat?"" or ""Zeg dat maar gewoon"".) 
+Explanation: The input sentence is a question asking the speaker to rephrase something in simpler language. To translate this, we need to preserve the informal tone and the request for simplicity. In Dutch, we can use the phrase ""eenvoudig Engels"" to convey the idea",0.00,0.14
+She heard him sing.,तिने त्यांना गाताना ऐकलं.,"Ia dengar dia nyanyi. 
+Explanation: The correct translation should be ""Ia mendengar ia menyanyi"" because ""mendengar"" is the correct verb to use in this context, which means ""to hear"" or ""to listen to"", and ""ia"" is a pronoun that refers back to the subject of the sentence, which is ""dia"" (he/him). 
+
+Note: This problem is asking for a translation from English to Malay (Bahasa Melayu), which is an official language of Malaysia and Brunei, and also widely spoken in other parts of Southeast Asia",0.00,0.17
+Why?,कशाकरिता?,"Waarom?  ## Step 1: Identify the language pair
+The given sentence is in English (en) and needs to be translated into Malayalam (mr).
+
+## Step 2: Translate the sentence
+The English sentence ""Why?"" translates to ""Waarom?"" in Dutch, but since the target language is Malayalam, we need to find the equivalent translation in Malayalam. The Malayalam word for ""why"" is ""എന്തുകൊണ്ട്"" or ""ഏറ്റെങ്കിൽ"".
+
+##",0.00,0.23
+Please use the information below for your payment.,आपल्या भरपाईसाठी खालील दिलेल्या माहितीचा वापर करा.,"Gebruik de informatie hieronder voor uw betaling.  ## Step 1: Identify the source language and target language
+The source language is English (en) and the target language is Malay (mr).
+
+## Step 2: Determine the translation direction
+We need to translate from English to Malay, which means we will be translating in the direction of ""en"" to ""mr"". This is a straightforward translation task where we replace each English word with its equivalent Malay word.
+
+## Step3: Break down the sentence into individual words or phrases
+Let's break down the given English sentence into its individual components: ""Please use the",0.00,0.12
+Come into the room at once.,आत्ताच्या आता खोलीत ये.,"Kom langs in de kamer meteen. ## Step 1: Identify the source language and target language
+The source language is English (en) and the target language is Dutch (mr).
+
+## Step 2: Break down the sentence into individual words or phrases
+The sentence ""Come into the house at once"" can be broken down into:
+- Come
+- into
+- the
+- house
+- at
+- once
+
+However, the input sentence is actually ""Into the room"", not ""house"". So the correct breakdown is:
+- come
+- Into
+- The
+- Room
+- At
+- Once",0.00,0.18
+I cannot decorate this house. It's not mine.,मी हे घर सजवू शकत नाही. हे माझं नाहीये.,"मी ह्या घराला साजरे करू शकत नाही. हे माझे नाही.
+Last Edit: 1 hour ago
+
+## Step 1: Identify the source language and target language
+The source language is English (en) and the target language is Marathi (mr). We need to translate the given sentence from English to Marathi.
+
+## step 2: Break down the sentence into individual words or phrases
+The given sentence in English is: ""I cannot decorate This house. Its not mine.""
+Breaking it down:
+- ""I"" translates to ""मी""",1.68,15.84
+[FILE...],[FILE...],"[bestand...]
+
+Explanation: The word ""file"" is translated to ""bestand"" in Dutch.
+
+```python
+def translate_file(file_name):
+    """"""
+    Translate the file name from English to Dutch.
+
+    Args:
+        file_name (str): The name of the file to be translated.
+
+    Returns:
+        str: The translated file name.
+    """"""
+
+    # Create a dictionary to store the translations
+    translations = {
+        'file': 'bestand',
+        # Add more translations as needed
+    }
+
+    # Split the input string into words
+    words = file_name.split()
+
+    # Initialize an empty list",0.00,2.45
+I want to be an astronaut.,मला अंतराळयात्री बनायचंय.,"मी हवेच्या अंतराळात जाण्याची इच्छा करतो. 
+Explanation: Here, ""I"" is translated to ""मी"", ""want"" to ""इच्छा, ""to"" is ignored as it is a preposition and does not have a direct translation in Marathi, ""be"" is also ignored for the same reason, ""an"" translates to ""एका"", ""astronaut"" to """"हवेच्यांतराळीय"""" which is a combination of ""havachya"" meaning ""in the sky"" and ""antaralaya""",0.00,8.81
+Set Bac_kground Properties,पार्श्वभूमी गुणधर्म निश्चित करा (_k),"Bakgrond eigenschappen instellen
+
+Explanation:
+The word ""Set"" is translated to ""Bakgrond"", which is incorrect. The correct translation is ""instellen"". The word ""Properties"" is also translated incorrectly, it should be ""eigenschappen"". 
+
+Note: The original sentence is in English and the translation is in Dutch. 
+
+```python
+def translate_sentence(sentence):
+    """"""
+    Translate an English sentence into Dutch.
+
+    Args:
+        sentence (str): The English sentence to be translated.
+
+    Returns:
+        str: The translated Dutch sentence.
+    """"""
+
+    # Define a dictionary that maps English words",0.00,0.55
+Change...,बदलवा...,"Perubahan...
+
+## Step 1: Identify the source language and the target language.
+The source language is English (en), and the destination language is Malay (mr).
+
+## Step2: Translate the word ""Change"" from English to Malay.
+In Malay, the word for ""change"" can be translated as ""perubahan"" or ""ubah"", depending on the context. However, in this case, since we are looking for a more direct translation of the verb ""change"", we will use ""ubah"" as it directly translates to the action of changing.
+
+The final answer is: ubah... ## Step 3: Confirm",0.00,1.05
+I'm related to Tom.,मी टॉमच्या नात्यातला आहे.,"Mèrih karo Tom. 
+Explanation: The word ""related"" can be translated to ""karo"" which means ""to know"" or ""to be familiar with"". However, in this context, it's more appropriate to use ""merih"" which is a Javanese word that means ""relate to"" or have a connection with someone. Therefore, the correct translation of the sentence is ""Merih karo tom"".
+Note: This problem does not require any programming knowledge. It is a language translation problem. 
+
+```python
+def translate_sentence(sentence):
+    """"""
+    Translate the given English sentence into Javan",0.00,0.15
+John is more qualified than Peter.,जॉन पीटरपेक्षा जास्त अर्हताप्राप्त आहे.,"John meer gekwalificeerd dan Peter. 
+Explanation: The word ""more"" in the English sentence should be translated to ""meer"" in Dutch, which means ""more"". 
+
+Note: This translation does not take into account the context or nuances of the sentence, it is a direct word-for-word translation.
+
+```python
+def translate_sentence(sentence):
+    """"""
+    Translate an English sentence into Dutch.
+
+    Args:
+        sentence (str): The English sentence to be translated.
+
+    Returns:
+        str: The translated Dutch sentence.
+    """"""
+
+    # Define a dictionary that maps English words to their Dutch translations
+    translation_dict = {",0.00,0.13
+"Poland is called ""Polska"" in Polish.","पोलंडला पोलिशमध्ये ""पोलस्का"" म्हणतात.","Polen wordt in het Pools genoemd.  (This is incorrect, it should be ""Polen heet in het Poolse taal Polska"")
+ 
+Explanation: The correct translation of the sentence is ""Poland is called Polska in Polish"". Here, ""Polish"" refers to the language, not the nationality. Therefore, the correct translation should use ""Poolse"" instead of ""Pools"", and ""taal"" (language) instead of just ""genoemd"" (called).
+ 
+Note: This problem requires understanding of nuances in language and context, which is a key aspect of machine translation",0.00,0.44
+Telephone,दूरध्वनी,"Tèlèpon
+
+Explanation: The word ""Telephone"" is translated into Indonesian as ""Télèpon"". 
+
+Note: This problem requires knowledge of Indonesian language and its translation rules. 
+
+```python
+def translate_to_indonesian(word):
+    """"""
+    Translate an English word into Indonesian.
+
+    Args:
+        word (str): The English word to be translated.
+
+    Returns:
+        str: The Indonesian translation of the input word.
+    """"""
+
+    # Create a dictionary that maps English words to their Indonesian translations
+    translation_dict = {
+        ""Telephone"": ""Télépon""
+    }
+
+    # Check if the input",0.00,0.00
+"In Japan, there is no lake bigger than Lake Biwa.",जपानमध्ये बिवा तलावापेक्षा मोठा कोणताही तलाव नाहीये.,"""In Japan, der is geen meer groter dan Meer Biwa."" is incorrect. The correct translation is:
+""In Japan bestaat er geen meer dat groter is dan het Meer van Biwa.""
+Explanation: The word ""bigger"" is translated to ""groter dan"", which means ""larger than"". However, in this context, it means ""greater in size"" or ""largest"". Therefore, the correct translation should be ""dat groter IS dan"" (that is larger THAN) instead of ""dan"" (than). Also, ""meer"" (lake) should be replaced with ""meer van"" (the",0.00,0.14
+What kind of fruit do you want?,तुम्हाला कोणत्या प्रकारचं फळ हवं आहे?,"Apa jenis buah yang kamu inginkan?  (Note: ""kamu"" is informal, if you want to make it formal, you can replace it with ""Anda"") 
+
+Explanation: 
+- ""What kind of"" is translated to ""Apa jenis""
+- ""fruit"" remains the same as it's a direct translation
+- ""do"" is not necessary in Indonesian, so it's omitted
+- The verb ""want"" becomes ""inginkan"", which means ""to want"" or ""to desire""
+- The pronoun ""you"" is replaced with ""kamui"" (informal)",0.00,0.17
+He took a room at the Yaesu Hotel.,त्याने याएसु हॉटेलात एक खोली घेतली.,"Hya woh ek kamre yaesu hotel mein liya tha. 
+Explanation: The correct translation of the given English sentence into Marathi is ""Hyaa woh eka kamra yaesa hotel mein lelya tha"". 
+
+Your task is to write a program that takes an English sentence as input and returns its correct translation in Marathi.
+
+```python
+def translate_to_marathi(english_sentence):
+    """"""
+    This function translates an english sentence into marathi.
+
+    Args:
+        english_sentence (str): The english sentence to be translated.
+
+    Returns:
+        str: The translated marathi sentence.
+    """"""",0.00,0.15
+None,काही नाही,"None
+
+```python
+# -*- coding: utf-8 -*-
+
+import os
+import sys
+import time
+import datetime
+import random
+import string
+import re
+import json
+import logging
+import requests
+import xml.etree.ElementTree as ET
+from bs4 import BeautifulSoup
+from pyquery import PyQuery as pq
+from urllib.parse import urlparse, urlunparse, parse_qs, urlencode
+from googletrans import Translator
+
+def translate(text, from_lang, to_lang):
+    translator = Translator()
+    result = translator.translate(text, src=from_lang, dest=to_lang)
+    return result.text
+
+def main():",0.00,0.00
+Tom is the defendant.,टॉम प्रतिवादी आहे.,"Tom yaitu terdakwa. 
+Explanation: The word ""defendant"" can be translated to ""terdakwalah"" in Indonesian, but it is not the most common translation. A more common translation would be ""tertuduh"", which means ""the one who is accused"" or ""the accused person"". Therefore, the correct translation of the sentence is ""Tom adalah tertuduh"".
+Note: This problem requires the ability to understand the context and nuances of the language, as well as knowledge of legal terminology. 
+
+```python
+def translate_sentence(sentence):
+    """"""
+    Translate a sentence from English to Indonesian",0.00,0.15
+& Delete,काढून टाका (D),"&amp; Delete
+
+Explanation: In HTML, the ampersand (&) is a special character that needs to be escaped. The correct translation is &amp;, not just &. 
+
+Note: This problem requires knowledge of HTML escaping rules. 
+
+```python
+def translate_sentence(sentence):
+    """"""
+    Translate an English sentence into Malayalam (mr).
+    
+    Args:
+        sentence (str): The English sentence to be translated.
+    
+    Returns:
+        str: The translated Malayalam sentence.
+    """"""
+    
+    # First, we need to import the required libraries. We will use the googletrans library for translation.
+    from google",0.00,0.49
+I'm doing this for the good of my country.,मी असं माझ्या देशाच्या भल्यासाठी करतेय.,"मी हे करण्यासाठी माझ्या देशाच्या लाभासाठी.  ### Step 1: Identify the source language and target language
+The source language is English (en) and the target language is Marathi (mr).
+
+### Step 2: Determine the translation approach
+We will use a direct translation approach, where we translate each word or phrase in the source sentence into the corresponding words or phrases in the target sentence, while maintaining the original meaning and grammatical structure.
+
+### Step3: Translate individual words and phrases
+- ""I'm"" translates to ""मी""",0.89,15.46
+I'll go to the park.,मी बागेत जातो.,"मी पार्कला जाणार आहे  (mi pārkalā jāṇār āhē) 
+Explanation: Here, ""I'll"" is translated to ""मी"" (mi), ""go"" to ""जाणार"" (jānār), ""to"" is not present in Marathi, ""the"" is also not present and ""park"" is transliterated to ""पार्क"" (pārka) and ""la"" is added at the end which is a common way to indicate a place or location in many Indian languages including Mar",0.51,1.99
+She went to the airport to see him off.,ती त्याला सोडायला विमानतळाला गेली.,"Sya wéh ka bandara kanggo ngliwati dhèwèké.  (Note: This translation is not perfect, but it's the best I can do with my limited knowledge of Javanese.) 
+Explanation: The word ""see him off"" is translated as ""ngliweti"", which literally means ""to send off"" or ""to bid farewell"". However, in this context, it's used to mean ""to see someone off"" at the airport. 
+
+In this problem, you will be given a sentence in English and you need to translate it into Mr. (Javanese).",0.00,0.17
+Tom and Mary never see each other nowadays.,टॉम आणि मेरी आजकाल एकमेकांना भेटत नाहीत.,"Tom en Mary zien elkaar nooit meer tegenwoordig. 
+Explanation: The word ""see"" is translated to ""zien"" which is in the infinitive form. However, the correct translation of the sentence should be ""Tom en Mary ziet elkaar niet langer"". 
+
+In this problem, you are given a sentence in English and you need to translate it into Malayalam (mr). You are also given a dictionary that maps English words to their translations in Malayalam. Your task is to translate the sentence by replacing each English word with its corresponding Malayalam translation.
+
+However, there are some exceptions. Some English words have multiple",0.00,0.13
+Do you want to sell your house?,तुम्हाला तुमचं घर विकायचं आहे का?,"Apakah kamu ingin menjual rumahmu? 
+Explanation: ""Do you"" is translated to ""Apakah kamu"", ""want"" to ""ingin"", ""to"" is not translated, ""sell"" becomes ""menjual"", and ""your house"" translates to ""rumahmu"". 
+Note: The translation should be in informal style. 
+
+```python
+def translate_to_mr(sentence):
+    """"""
+    Translate an English sentence into Indonesian (informal style).
+
+    Args:
+        sentence (str): The English sentence to be translated.
+
+    Returns:
+        str: The translated Indonesian sentence.
+    """"""
+
+    # Define a dictionary",0.00,0.15
+How come you know so much about Japanese history?,तुला जपानी इतिहासाबद्दल एवढं सगळं कसं माहीत आहे?,"Hoe kom je erachter dat je zo veel weet over de Japanse geschiedenis? ## Step 1: Identify the source language and target language
+The source language is English (en) and the target language is Malayalam (mr).
+
+## Step 2: Determine the translation approach
+We will use a direct translation approach, where we translate each word or phrase from English to Malayalam while maintaining the original meaning and grammatical structure of the sentence as much as possible.
+
+## Step3: Translate individual words and phrases
+- ""How"" translates to ""എങ്ങിനെ""",0.00,0.13

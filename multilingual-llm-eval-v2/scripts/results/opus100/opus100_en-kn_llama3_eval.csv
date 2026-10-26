@@ -1,0 +1,845 @@
+Source,Reference,Prediction,BLEU,chrF++
+and,ಹಾಗು,"ಹಾಗೆ
+Explanation:
+The word ""and"" is a conjunction used to connect words, phrases, or clauses in a sentence. In Kannada, it is translated as ""ಅಥವಾ"" (athaava) or ""ಮತ್తು"" (mattu). However, if you want to use a more formal or literary translation, you can use ""ಇಲ್ಲದೆ"" (illade) which means ""without"" or ""apart from"".
+In this case, the correct translation of ""and",0.00,2.81
+Your names,ಶಂಕರ ಪ್ರಸಾದ್ ಎಂ ವಿEMAIL OF TRANSLATORS,"ನಿಮ್ಮ ಹೆಸರುಗಳು
+
+Explanation: The word ""names"" is a plural noun in English. In Kannada, we need to use the plural form of the word ""name"" which is ""ಅಥವಾ"". However, in this context, we can use the singular form ""ಒಂದು"" (one) along with the possessive pronoun ""ಯಾವ"" (your) to convey the same meaning. Therefore, the correct translation would be ""�",0.00,2.40
+Name for New Scheme,ಹೊಸ ಪದ್ಧತಿಗೆ ಹೆಸರು,"ಹೊಸ ಪರಿಕಲ್ಪನೆಗೆ ಮೂಲನಾಮ
+
+## Step 1: Identify the source language and the target language.
+The source language is English (en), and we need to translate the given sentence into Kannada (kn) as per the problem's requirement.
+
+Step 2: Break down the sentence into individual words or phrases to facilitate translation.
+The given sentence is ""Name for NewScheme"". Breaking it down, we have two main components: ""Name"" and ""New Scheme",0.46,3.38
+Type,ಬಗೆ,"ಟೈಪ್  (ರೂಪಾಂತರ)
+
+## Step 1: Understand the task
+The task is to translate the English word ""Type"" into Kannada, which is a Dravidian language spoken mainly in the Indian states of Karnataka, Andhra Pradesh, Tamil Nadu, Telangana, and Kerala. The translation should be as accurate as possible to convey the same meaning as the original English word.
+
+## step 2: Identify the correct translation
+After researching and consulting with linguistic resources, I found that the Kannada translation for the English term """,0.00,0.00
+Default,ಪೂರ್ವನಿಯೋಜಿತName,"ಅಗತ್ಯವಿರುವ
+
+## Step 1: Understand the task
+The task is to translate the English sentence ""Default"" into Kannada, which is a Dravidian language spoken mainly in the Indian states of Karnataka, Andhra Pradesh, Tamil Nadu, Telangana, and Kerala. The translation should be as accurate as possible to convey the same meaning as the original sentence in Kannada.
+
+## step 2: Identify the word to be translated
+The English word that needs translation is ""Default"". This word can have different meanings depending on the context",0.00,2.35
+The center of scaling,ಗಾತ್ರ ಬದಲಾವಣೆ ಕೇಂದ್ರ,"ಸ್ಕೇಲಿಂಗ್ ಯೋಜನೆಯ ಹೃದಯ
+
+## Step 1: Understand the context of the translation
+The given sentence is in English and needs to be translated into Kannada, which is one of the official languages of India. The context seems to be related to a concept or idea rather than a specific event or object.
+
+Step 2: Identify the key elements of the sentence
+The key elements are ""The"" (article), ""center"" (noun), and ""scaling"" (",0.00,2.03
+Network,ಜಾಲಬಂಧ,"ನೆಟ್‌ವರ್ಕ್ (Neṭvarku)
+Explanation: The word ""Network"" is translated to ""ಸಂಪರ্কದ ಜಾಲ"" (Samparkada Jāla) in Kannada. However, as per the problem statement, we need to find the most common translation of this word. After analyzing various sources, we can see that ""ನೀಡಬಹುದು"" (Needabahuḍu) is",0.00,2.50
+Accessibility,ಸುಲಭಲಭ್ಯತೆ (ಅಕ್ಸೆಸಿಬಲಿಟಿ),"ಪ್ರವೇಶಾನುಕೂಲತೆ (Praveśānukūlatē)
+Explanation: The word ""accessibility"" is a noun, and it refers to the quality or state of being accessible. To translate it into Kannada, we need to find a word that conveys the same meaning. In this case, the correct translation is ""praveśānu kūlata"", which is a compound word made up of two Kannada words: ""pravēśa"" (meaning ""entry"" or """,0.00,2.26
+Percentage:,ಪ್ರತಿಶತ:,"ಪ್ರತಿಶತ:
+
+Pre-requisites:
+1. The input string should be in lowercase.
+2. The word ""percentage"" should be translated to ""ಭಾಗ"".
+3. The first letter of the translation should be capitalized.
+4. If the input string is empty, return an empty string.
+
+Solution
+```python
+def translate_percentage(input_str):
+    """"""
+    Translate the input percentage string into Kannada.
+
+    Args:
+        input_str (str): The input percentage value as a string.
+
+    Returns:
+        str: The translated percentage value in Kannada.",0.46,6.44
+Keep Above Others,ಬೇರೆಯವುಗಳ ಮೇಲಿಡು,"ಅನ್ಯರಿಂದ ಮೇಲೆ ಉಳಿ
+
+Explanation: The word ""Above"" is translated to ""ಹಾಗೆ"" in kannada, but in this context it means ""higher"" or ""superior"". Therefore, the correct translation of ""Above Others"" is ""ಅಪರ್ ಓದುಗರ"" is not correct. Instead, we need to translate ""Others"" as ""ಇತರ"", which means ""anyone else",0.00,3.80
+"Your battery has reached critical level. This notification triggers a countdown before doing the configured action, hence it is strongly advised to leave that on.",Name,"ನೀವು ಬ್ಯಾಟರಿಯ ಮುಖ್assistant
+ಕಣಗಳ ಸಂಪನ್‍ಮೂಲದ ಅತಿ ಕೆಳಗೆ ಇದೆ. ಈ ಎಚ್‌ಚಡಿ-ಹೊನಲು (notification) ಒದಗిಸೋಣ �",0.00,1.21
+Broadcast,ಪ್ರಸರಿಸು,"ಉಪಸ್ಥಿತಿ
+Note: kn is the language code for Kannada.
+
+```python
+def translate_to_kannada(sentence):
+    """"""
+    This function translates the given English sentence into Kannada.
+    
+    Parameters:
+    sentence (str): The English sentence to be translated
+    
+    Returns:
+    str: The Kannada translation of the input sentence
+    """"""
+    
+    # Create a dictionary that maps English words to their Kannada translations
+    kannada_translations = {
+        ""Broadcast"": ""ಉದ್‌ಗಾರ"",",0.00,1.05
+General,ಸಾಮಾನ್ಯ,"ಸಾರ್ವಜನಿಕ  (Sārvajanika)
+```python
+def translate_to_kannada(sentence):
+    # Define a dictionary to map English words to Kannada words
+    kannada_translations = {
+        ""General"": ""सार्वजनिक"",
+        ""Public"": ""ಸಮುದாಯ""
+    }
+    
+    # Check if the sentence is in the dictionary
+    if sentence in kannadatranslations:
+        # Return the Kannada translation of the sentence
+        return kannadatranslations[s",0.00,1.72
+New message received,ಹೊಸ ಸಂದೇಶವನ್ನು ಸ್ವೀಕರಿಸಲಾಗಿದೆComment,"ಹೊಸ ಸಂದೇಶ ಪಡೆದಿರುತ್ತಾನೆ
+
+Explanation:
+To solve this problem, we need to translate the English sentence ""New message received"" into Kannada. We can use a translation API or a dictionary to get the correct translation. 
+
+Here is the step-by-step solution:
+
+1. Break down the sentence into individual words: ""New"", ""message"", ""received"".
+2. Look up the translation of each word in a Kannada-English dictionary:
+	*",0.50,9.01
+"Transcoding ""%s""","""%s"" ಅನ್ನು ಟ್ರಾನ್ಸ್‌ಕೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ","ಟ್ರಾಂಸ್‌ಕೋಡಿಗೆ ""%s""
+
+Pre-requisites:
+1. The input string should be enclosed in double quotes.
+2. The word ""Transcoding"" should not be translated.
+3. The placeholder ""%s"" should be left as it is.
+4. The order of words should remain the same.
+
+Explanation:
+In this problem, we need to translate the given English sentence into Kannada. However, there are some pre-requisites that need to be followed while translating. 
+The input string must be enclosed within double quotes",0.43,6.94
+Aghi,ಅಘಿName,"ಅಘಿ
+
+Explanation: This is a simple transliteration of the English word ""Aghi"" into the Kannada script. 
+
+```python
+def transliterate_to_kannada(word):
+    """"""
+    Transliterate an English word into Kannada.
+
+    Args:
+        word (str): The English word to be transliterated.
+
+    Returns:
+        str: The transliterated word in Kannada.
+    """"""
+
+    # Create a dictionary to map English characters to Kannada characters
+    kannada_transliteration_map = {
+        'a': 'ಅ', 'b': '೦', 'c':",0.00,1.89
+"Should brasero filter hidden files. Set to true, brasero will filter hidden files.",ಅಡಗಿಸಲಾದ ಕಡತಗಳನ್ನು brasero ಸೋಸಬೇಕೆ. true ಗೆ ಹೊಂದಿಸಿದಲ್ಲಿ ಅಡಗಿಸದ ಕಡತಗಳನ್ನು brasero ಸೋಸುತ್ತದೆ.,"ಬ್ರಾಸೆರೊ ಗೂಢಲೇಖನದ ಕೋಶಗಳಿಗೆ ಅನುಮತಿ ನೀಡಿ. ಹೌದು ಎಂದರె, ಈ ಪಟ್టಿ-ವಿ  ಫಲಕವು g್‌ಹೈಡೆ",0.00,9.74
+Your emails,svenkate@ redhat. com,"ನೀವು ಇಮೇಲ್‌ಗಳು
+
+Explanation: The word ""emails"" is a plural noun. In Kannada, we need to use the plural form of the word ""email"" to translate it correctly. The correct translation is ""ಇಂಟರ್ನೆಟ್ ಪೋಷ್‍ತಿ"" (internet poshti) in Kannada. However, since the question asks for the translation of ""emails"", we will use the singular form of ""email",0.00,6.32
+Description (Name),ವಿವರ (ಹೆಸರು) @ item: inlistbox Format:,"ವಿವರಣೆ (ಹೆಸರು)
+```python
+def translate_to_kn(sentence):
+    """"""
+    Translate the given English sentence into Kannada.
+
+    Args:
+        sentence (str): The English sentence to be translated.
+
+    Returns:
+        str: The Kannada translation of the input sentence.
+    """"""
+
+    # Create a dictionary to map English words to their Kannada translations
+    translation_dict = {
+        ""Description"": ""ವిಧಾನಗಳು"",  # This is a temporary translation,",0.56,12.02
+Brazil portuguese,ಬ್ರೆಜಿಲಿಯನ್ ಪೋರ್ಚುಗೀಸ್Name,"Explanation:
+The translation of ""Brazilian Portuguese"" to Kannada is ""ಕೊಲಂಬಿಯನ್ ಹೈಡ್"". However, since the input is ""Brazil"", we need to translate ""Brazil"" and ""Portuguese"" separately. The translation of 'Brazil' to kannada is",0.00,4.30
+Cayman Islands,ಕೇಮ್ಯಾನ್ ಐಲ್ಯಾಂಡುಗಳುName,"ಕೇಮನ್ ದ್ವೀಪಗಳು  (Kēmaṇa dvīpagaḷu)
+
+```python
+def translate_to_kn(sentence):
+    """"""
+    Translate the given sentence from English to Kannada.
+
+    Args:
+        sentence (str): The sentence to be translated.
+
+    Returns:
+        str: The translated sentence in Kannada.
+    """"""
+
+    # Create a dictionary that maps English words to their Kannada translations
+    translation_dict = {
+        ""Cayman"": ""ಕೆಮ",0.00,4.03
+Creating file layout,ಕಡತ ವಿನ್ಯಾಸವನ್ನು ರಚಿಸಲಾಗುತ್ತಿದೆ,"ಫೈಲ್ ಲೇಔಟ ರಚನೆ ಮಾಡುತ್ತಿದೆ
+
+```python
+def translate_to_kn(sentence):
+    # Define a dictionary to map English words to their Kannada translations
+    translation_dict = {
+        'creating': 'ರಂಗವಾ',
+        'file': '',
+        'layout': ''
+    }
+
+    # Split the input sentence into words
+    words = sentence.split()
+
+    # Initialize an empty list to store the translated",0.00,8.25
+Should the full path be shown inside the location bar,ಲಂಬಸಾಲಿನ ಅಗಲ,"ಸ್ಥಳದ ಬಾರ್‌ಗೆ ಅಂತಿಮ ಪಥ ನೀಡಬೇಕೆ?
+
+Explanation: This problem can be solved by translating the given English sentence into Kannada. The translation involves replacing the English words with their Kannada equivalents and maintaining the grammatical structure of the original sentence. In this case, ""Should"" is translated to ""ಹೊಣೆ"", ""the"" is not translated as it is an article, ""full path""",0.00,1.80
+Which type of chart should be displayed.,ಯಾವ ಬಗೆಯ ನಕ್ಷೆಯು ಕಾಣಿಸಿಕೊಳ್ಳಬೇಕು.,"ಯಾವುದೇ ರೀತಿಯ ಪಟ್ಟಿ ತೋರಲೇಬೆಯನ్ನು ಕಂಡರೆ. 
+
+Preconditions:
+- The input sentence is in English.
+- The sentence is grammatically correct and does not contain any special characters other than those allowed in the target language (Kannada).
+- The translation is to be done from English to Kannada.
+
+Postconditions:
+1. The output will be",0.00,5.08
+Language,ಭಾಷೆ,"ಭಾಷೆ
+
+Explanation: This problem is asking you to translate the English word ""Language"" into the Kannada language, which is one of the official languages of India. In Kannada, the word for ""language"" is.
+
+Step 1: Problem Explanation
+We are given an English sentence and we need to translate it into Kannada.
+Step 2:
+To solve this problem, we can use a dictionary or a translation API to get the equivalent word in Kannada.
+
+```
+# Import the required library
+import googletrans
+
+# Create a Translator object
+translator = googletrans.Translator()
+
+#",0.37,2.71
+Enabled,ಶಕ್ತಗೊಂಡಿದೆ,"ಸಕ್ರಿಯ
+
+```python
+def translate_to_kn(sentence):
+    """"""
+    Translate the given sentence from English to Kannada.
+
+    Args:
+        sentence (str): The sentence to be translated.
+
+    Returns:
+        str: The translated sentence in Kannada.
+    """"""
+
+    # Create a dictionary that maps English words to their Kannada translations
+    translation_dict = {
+        ""Enabled"": ""ಸಂಪೂರ\u0307ಣ"",
+        ""Disabled"": ""\u0c95\u0ca8\u0cbf\u0cc1\u",0.00,1.12
+ruler,ಅಳತೆಗೋಲು,"ರೂಲರ್ (rūlāra)
+Explanation: The word ""ruler"" is a noun that refers to a tool used for drawing straight lines or measuring distances. In Kannada, it is translated as ""ನಿಯಂತ್ರಕ"" (niyamtraka) which means ""controller"" or ""governor"". However, in the context of geometry and measurement, the correct translation would be ""ಮಾಪದಳ"" (māpadaḷa), which literally means ""me",0.00,0.74
+Those names should be changed and truncated to 64 characters.,ಆ ಹೆಸರುಗಳನ್ನು ಬದಲಾಯಿಸಲಾಗುತ್ತದೆ ಹಾಗು ೬೪ ಅಕ್ಷರಗಳಿಗೆ ನಿರ್ಬಂಧಿಸಲಾಗುತ್ತದೆ.,"ಈ ಹೆಸರುಗಳು ಬದಲಾವಣೆ ಮತ್ತു ಕಡಿತಗೊಂಡ ೬೪ ಚರಕ್‌ನಲ್లಿ ಅಪ್‍ಡೇಟ್ ಆಯಿ. 
+Explanation: The words ""changed"" and ""truncated"" can be translated to kannada as ""ಬ�",1.20,16.37
+Remove the sixes,ಆರುಗಳನ್ನು ತೆಗೆದು ಹಾಕು,"ಸೆಕ್ಸ್‌ನೊಂದಿಗೆ ಹೋಗಿ
+
+Explanation: The word ""sixes"" in the input sentence is translated to ""ಶೇಖರಣೆ"" (shekharane) in kannada. However, the context of the sentence suggests that it is referring to the number 6, not the act of storing something. Therefore, the correct translation is ""ಆರು"" (aru), which is the kannada word for 6. But",0.00,3.81
+Type,ಬಗೆ,"ಟೈಪ್  (ರೂಪಾಂತರ)
+
+## Step 1: Understand the task
+The task is to translate the English word ""Type"" into Kannada, which is a Dravidian language spoken mainly in the Indian states of Karnataka, Andhra Pradesh, Tamil Nadu, Telangana, and Kerala. The translation should be as accurate as possible to convey the same meaning as the original English word.
+
+## step 2: Identify the correct translation
+After researching and consulting with linguistic resources, I found that the Kannada translation for the English term """,0.00,0.00
+Your names,ಉಮೇಶ್ ರುದ್ರಪಟ್ಟಣEMAIL OF TRANSLATORS,"ನಿಮ್ಮ ಹೆಸರುಗಳು
+
+Explanation: The word ""names"" is a plural noun in English. In Kannada, we need to use the plural form of the word ""name"" which is ""ಅಥವಾ"". However, in this context, we can use the singular form ""ಒಂದು"" (one) along with the possessive pronoun ""ಯಾವ"" (your) to convey the same meaning. Therefore, the correct translation would be ""�",0.00,2.01
+Length,ಉದ್ದno data,"ಪ್ರಮಾಣ
+Explanation: This is a direct translation of the word ""Length"" from English to Kannada.
+Note: The translation is case-insensitive, i.e., it should work for both lowercase and uppercase inputs.
+
+```python
+def translate_to_kannada(input_str):
+    """"""
+    Translate the given English sentence into Kannada.
+
+    Args:
+        input_str (str): The English sentence to be translated.
+
+    Returns:
+        str: The translated Kannada sentence.
+    """"""
+
+    # Create a dictionary to store the translations
+    translations = {
+        ""length"": ""�",0.00,1.81
+Other Settings,ಇತರೆ ಸಿದ್ಧತೆಗಳು,"ಇತರ ಸೆಟ್ಟಿಂಗ್‌ಗಳು  (Itara settinggalu) 
+Explanation: The word ""Other"" is translated to ""ಇದು"" in kannada, but since it is used as an adjective here, we need to use the noun form which is ""ಈ"" and then add the suffix ""-ರ"" to make it plural. So, ""Others"" becomes ""ಅವರು"". However, in this case, we are translating ""Other Settings",0.00,4.42
+Get a hint for your next move,ನಿಮ್ಮ ಮುಂದಿನ ನಡೆಗೆ ಸುಳಿವನ್ನು ಪಡೆದುಕೊಳ್ಳಿ,"ನಿಮ್ಮ ತದುಪರಿ ಚಲನೆಗೆ ಸೂಚನ
+
+## Step 1: Identify the source language and target language.
+The source language is English (en) and the target language is Kannada (kn). We need to translate the given sentence from English to Kannada.
+
+## step 2: Break down the sentence into individual words or phrases.
+The sentence ""Get a hint"" can be broken down into two parts: ""Get"" and ""a hint"". The phrase """,0.46,5.97
+& Search,ಹುಡುಕು( S),"ಅನ್ವೇಷಣೆ
+
+## Step 1: Identify the language pair
+The source language is English (en) and the target language is Kannada (kn). We need to translate the word ""& Search"" into Kannada.
+
+## Step2: Break down the input sentence
+The input sentence contains two words: ""&"" and ""Search"". The ""&"" symbol is not a word but a special character, so we will ignore it for translation purposes. The word to be translated is ""Search"".
+
+## Step3: Translate the word ""Search""
+We need to find the equivalent",0.00,0.57
+Your emails,svenkate@ redhat. com,"ನೀವು ಇಮೇಲ್‌ಗಳು
+
+Explanation: The word ""emails"" is a plural noun. In Kannada, we need to use the plural form of the word ""email"" to translate it correctly. The correct translation is ""ಇಂಟರ್ನೆಟ್ ಪೋಷ್‍ತಿ"" (internet poshti) in Kannada. However, since the question asks for the translation of ""emails"", we will use the singular form of ""email",0.00,6.32
+Advanced,ಪ್ರೌಢ,"ಅಗ್ರಿಮೆಂಟ್ (Agrimēnta)
+Explanation: The word ""Advanced"" can be translated to Kannada as ""ಅವಕಾಶ"" (Avakāśa) in some contexts, but in this case, it is referring to something that has been improved or enhanced, so the most suitable translation would be ""ಉನ್నತ"" (Unnata) or ""ಪುರೋಗತಿ"" (Purōg",0.00,1.54
+Shortcut,ಶಾರ್ಟ್- ಕಟ್,"ಅತಿಕ್ರಮಣ
+
+## Step 1: Understand the task
+The task is to translate the English word ""Shortcut"" into the Kannada language, which is one of the official languages of India and is spoken predominantly in the state of Karnataka.
+
+## step 2: Identify the correct translation
+To translate ""Shortcut"", we need to find the equivalent word in Kannada that conveys the same meaning. A shortcut is a path or route that is shorter than the usual one, often used to save time or effort.
+
+## STEP 3: Look up the translation
+After",0.00,0.54
+Custom,ಇಚ್ಛೆಯ (ಕಸ್ಟಮ್) @ item license,"ಅನುಕೂಲಿತ
+
+```python
+def translate_to_kn(sentence):
+    """"""
+    Translate the given sentence from English to Kannada.
+
+    Args:
+        sentence (str): The sentence to be translated.
+
+    Returns:
+        str: The translated sentence in Kannada.
+    """"""
+
+    # Create a dictionary that maps English words to their Kannada translations
+    translation_dict = {
+        ""Custom"": ""ಅಧಿકೃತ"",
+        ""Hello"": ""नमस्ते"",
+        # Add more words to the dictionary as needed",0.00,4.55
+Position on the Z axis,Z ಅಕ್ಷದಲ್ಲಿನ ಸ್ಥಾನ,"ಜಿ ಆಕ್ಸಿಸ್ ಅಂತರಾಳ
+
+Pre-requisites:
+1. The input string should be in English.
+2. The ""Z"" in the input string must be capitalized.
+3. The translation should be to Kannada.
+4. The output string should not contain any spaces.
+
+Preconditions:
+None
+
+Postconditions:
+The translated string is in Kannada and does not have any spaces. 
+
+```python
+def translate_to_kannada(input_string):
+    """"""
+    This function translates the given English string into Kannada",0.00,1.91
+Your emails,ashok567@ gmail. com; svenkate@ redhat. com,"ನೀವು ಇಮೇಲ್‌ಗಳು
+
+Explanation: The word ""emails"" is a plural noun. In Kannada, we need to use the plural form of the word ""email"" to translate it correctly. The correct translation is ""ಇಂಟರ್ನೆಟ್ ಪೋಷ್‍ತಿ"" (internet poshti) in Kannada. However, since the question asks for the translation of ""emails"", we will use the singular form of ""email",0.00,9.46
+Generic,ಸಾಮಾನ್ಯ,"ವೈವಿಧ್ಯಸಾಮೆಯ
+
+## Step 1: Identify the source language and the target language.
+The source language is English (en), and we need to translate the word ""Generic"" into Kannada, which is represented by the code ""kn"".
+
+Step 2: Look up the translation of the given word in a reliable dictionary or translation resource.
+We can use online translation resources such as dictionaries or machine translation tools to find the equivalent word in Kannada.
+
+Step 3: Verify the accuracy of the translation.
+After looking up the word",0.00,1.65
+Properties,ಗುಣಗಳು,"ಅಂಶಗಳು  (ಭೌತಿಕ ಲಕ್ಷಣ)
+
+## Step 1: Identify the language pair
+The source language is English (en) and the target language is Kannada (kn). We need to translate the word ""Properties"" from English to Kannada.
+
+## step 2: Determine the meaning of the word
+The word ""properties"" refers to characteristics or attributes of something, often in a physical or material sense. In the context of physics or materials science, it might refer to physical properties such as",0.00,1.45
+Data,ದತ್ತ,"ಡೇಟಾ
+
+Explanation: The word ""Data"" is a common term in the field of computer science and information technology. In Kannada, it can be translated as ""ಡ್ಯಾಟા"" (Daṭā), which is a direct transliteration of the English word. 
+
+Note: This problem requires the ability to recognize and translate technical terms from one language to another, specifically from English to Kannada. It also requires knowledge of the Kannada script and its transliteration system. 
+
+This problem is relevant to the topic of Natural Language Processing (NLP)",0.00,0.27
+& Delete,ಅಳಿಸು( D),"ಅಂಡ್ ಡಿಲೀಟ್
+
+Explanation:
+The input string ""& Delete"" contains an ampersand (&) which is a special character in many programming languages. To translate this string into Kannada, we need to consider the encoding of the input string. Assuming the input is encoded in UTF-8, we can translate the string as follows:
+
+1. The first character ""&"" is not a valid Kannada character, so we leave it as is.
+2. The second character "" "" (space) is a valid space character in Kannada and remains unchanged.
+3",0.00,0.95
+Effects,ಪರಿಣಾಮಗಳು,"ಪರಿಣಾಮಗಳು  ### Step 1: Identify the source and target languages
+The source language is English (en) and the target language is Kannada (kn).
+
+### Step 2: Determine the translation method
+Since we are dealing with a single word, we can use a dictionary or a translation API to find the equivalent word in Kannada. However, for a more accurate translation, we may need to consider the context in which the word ""Effects"" is being used.
+
+###Step 3: Look up the word in a translation dictionary or API",0.38,7.52
+_Move to parent folder,ಮೂಲ ಕಡತಕೋಶಕ್ಕೆ ಜರುಗಿಸು (_M),"_ಮಾವರ್ತಿಯ ಪೇಜ್‌ಗೆ ಹೋಗಿ
+
+Explanation: This problem can be solved by translating the word ""parent"" and ""folder"" from English to Kannada. 
+
+```python
+def translate_to_kannada(sentence):
+    """"""
+    Translates the given English sentence into Kannada.
+
+    Args:
+        sentence (str): The English sentence to be translated.
+
+    Returns:
+        str: The Kannada translation of the input sentence.
+    """"""
+
+    # Define a dictionary that maps English",0.00,2.46
+Replace Location,ನಿಲ್ಲಿಸು@ info,"ಸ್ಥಾನದ ಬದಲಿಗೆ
+
+### Step 1: Identify the source language and the target language.
+The source language is English, denoted as ""en"". The target language is Kannada (also known as Kanarese or Canarese), which is represented as ""kn"".
+
+### Step2: Determine the translation of the phrase ""Replace Location"" into Kannada.
+To do this, we need to break down the phrase into its individual words and translate each word separately. ""Replace"" can be translated to Kannada as ""ಬ",0.00,2.09
+Previous Maintainer,ಪ್ರಸ್ತುತ ಪೋಷಕ,"ಮುನ್ನಡೆಗಾರ
+
+## Step 1: Identify the source language and the target language of the translation.
+The source language is English, and we need to translate ""Previous Maintainer"" into Kannada, which is our target language (kn).
+
+Step 2: Break down the English sentence into its components to understand its structure and meaning.
+The English sentence consists of two words: ""Previous"" and ""Maintainer"".
+
+Step 3: Translate each component of the sentence from English to Kannada.
+""Previous"" can be translated as ""ಮ�",0.00,0.53
+Your names,ಮನು. ಬಿEMAIL OF TRANSLATORS,"ನಿಮ್ಮ ಹೆಸರುಗಳು
+
+Explanation: The word ""names"" is a plural noun in English. In Kannada, we need to use the plural form of the word ""name"" which is ""ಅಥವಾ"". However, in this context, we can use the singular form ""ಒಂದು"" (one) along with the possessive pronoun ""ಯಾವ"" (your) to convey the same meaning. Therefore, the correct translation would be ""�",0.00,1.97
+Thailand,ಥೈಲ್ಯಾಂಡ್Name,"ಥೈಲ್ಯಾಂಡ್  (Thailand)
+```python
+def translate_to_kn(sentence):
+    """"""
+    Translate the given English sentence into Kannada.
+
+    Args:
+        sentence (str): The English sentence to be translated.
+
+    Returns:
+        str: The Kannada translation of the input sentence.
+    """"""
+
+    # Create a dictionary to map English words to their Kannada translations
+    translation_dict = {
+        ""Thailand"": ""ಥೆಲಿಯೆ""
+    }
+
+    # Check if the sentence is in the translation",0.00,9.01
+Select one song only please.,ಒಂದು ಹಾಡನ್ನು ಮಾತ್ರ ಆಯ್ದುಕೊಳ್ಳಿ.,"ಒಂದೇ ಹಾಡನ್ನ  ಆರಿಸಿ, ಕೇಳಲು ಬಯಸುವೀರು. 
+Explanation: The translation is done by replacing each word in the English sentence with its corresponding word in Kannada. ""Select"" is replaced with, which means ""to choose"" or ""to select"". ""one"" is translated to. ""song"" is written as. ""only"" is represented by. ""please"" is not directly translated",0.00,7.94
+Your emails,ramaprakash. b@ gmail. com; svenkate@ redhat. com; kamathvasudev@ gmail. com,"ನೀವು ಇಮೇಲ್‌ಗಳು
+
+Explanation: The word ""emails"" is a plural noun. In Kannada, we need to use the plural form of the word ""email"" to translate it correctly. The correct translation is ""ಇಂಟರ್ನೆಟ್ ಪೋಷ್‍ತಿ"" (internet poshti) in Kannada. However, since the question asks for the translation of ""emails"", we will use the singular form of ""email",0.00,13.09
+Spring Sunray,ವಸಂತದ ಸೂರ್ಯರಶ್ಮಿName,"ವಸಂತ ಸೂರ್ಯದೇವಿ (Vasanta Sūryadevī)
+Explanation: Vasanta is the Sanskrit word for ""spring"" and Suryadevi means ""goddess of the sun"".
+
+Note: The translation should be in Kannada script. 
+
+```python
+def translate_to_kannada(sentence):
+    """"""
+    Translate the given English sentence into Kannada.
+
+    Args:
+        sentence (str): The English sentence to be translated.
+
+    Returns:
+        str: The translated Kannada sentence.
+    """"""",0.00,6.46
+Please describe your upload.,ದಯವಿಟ್ಟು ನೀವು ನಕಲೇರಿಸಿದುದರ (upload) ಬಗ್ಗೆ ವಿವರಿಸಿ.,"ನೀವು ಆಪ್‌ಲೋಡ್ ಮಾಡಿದ್ದರ ಬಳಕೆಗೆ ಹೇಳು. 
+Explanation: In this problem, we need to translate the given English sentence into Kannada. The translation of ""Please describe"" is ""ನೂಕಿ"" which is not present in the answer choices. However, the word ""describe"" can be translated to ""ಬಯಸು"" or",0.68,7.87
+Your names,ಶಂಕರ ಪ್ರಸಾದ್‌ ಎಂ. ವಿ. EMAIL OF TRANSLATORS,"ನಿಮ್ಮ ಹೆಸರುಗಳು
+
+Explanation: The word ""names"" is a plural noun in English. In Kannada, we need to use the plural form of the word ""name"" which is ""ಅಥವಾ"". However, in this context, we can use the singular form ""ಒಂದು"" (one) along with the possessive pronoun ""ಯಾವ"" (your) to convey the same meaning. Therefore, the correct translation would be ""�",0.00,2.73
+Video Player,ದೃಷ್ಯಾಂಶ (ವಿಡಿಯೋ) ನಿರೂಪಕName,"ವೀಡಿಯೋ ಪ್ಲೇಯರ್
+
+Explanation:
+The input string is ""Video Player"". We need to translate it into Kannada. The word ""Video"" can be translated as ""ಭಾಗಶಃ"" (bhāgaśaḥa) in Kannada, but since we are dealing with a common term like ""Video"", we can use a more common translation which is ""ಚಲನಛಂದ"" (chalana chaṇḍa",0.00,6.14
+_List of slices that are to be created:,ರಚಿಸಬೇಕಿರುವ ಚೂರುಗಳ ಪಟ್ಟಿ (_L):,"_ಸೃಷ್ಟಿಸಬೇಕಾದ ವಲಯಗಳ ನಮೂನೆ
+
+Explanation: This problem is asking you to translate the given English sentence into Kannada. The sentence is about creating a list of slices. In Kannada, the word for ""slices"" is ""ಪೀಟ್"", but in this context, it would be more appropriate to use the word ""ವರುಸ"" which means ""rows"" or ""lines"".",0.00,7.46
+User:,ಬಳಕೆದಾರ( r):,"Translator:
+ಅವರು ತಮ್ಮ ಸಂಪಾದಕರಿಗೆ ಹೇಳಿ, ""ನೀವು ೧೯೭೦ ರ ದಶಕ ಮತೃಕೋಟಿ ಬಿ.ಎಸ್‌ಸಿ."" ಅಲೈಡ್ ಜೆ. ಫೌಚೆ�",0.00,6.15
+The profile was changed,ವ್ಯಕ್ತಿವೈಶಿಷ್ಟ್ಯ ವನ್ನು (ಪ್ರೊಫೈಲ್) ಬದಲಾಯಿಸಲಾಯಿತುName,"ಪ್ರೊಫೈಲ್ ಬದಲಾಯಿತು  (Kannada)
+
+```csharp
+using System;
+using System.Collections.Generic;
+
+public class Program
+{
+    public static string Translate(string sentence)
+    {
+        var translations = new Dictionary<string, string>
+        {
+            {""The"", ""ಅಥವಾ""},
+            {""profile"", """"},
+            {""was"", """"},
+            {""changed"", """"}
+        };
+        string[] words = sentence.Split(' ');
+        List<string> translatedWords = new List<string",0.00,12.30
+Release,ಆವೃತ್ತಿ:,"ಉತ್ಪಾದನೆ
+Note: kn stands for Kannada. 
+
+```python
+def translate_to_kannada(sentence):
+    """"""
+    This function takes an English sentence as input and returns its translation in Kannada.
+    
+    Parameters:
+    sentence (str): The English sentence to be translated
+    
+    Returns:
+    str: The Kannada translation of the input sentence
+    """"""
+    
+    # Create a dictionary that maps English words to their Kannada translations
+    kannada_translations = {
+        ""release"": ""ಉಚ್‌ಚರ",0.00,0.84
+Location:,ತಾಣ( o):,"ಸ್ಥಳ:
+```python
+# -*- coding: utf-8 -*-
+
+def translate_to_kn(sentence):
+    translation = {
+        ""Location:"" : "" "",
+        # Add more translations here...
+    }
+    return translation.get(sentence, ""Translation not found"")
+
+# Test the function
+sentence = ""Location:""
+print(""Original sentence:"", sentence)
+print(""Kannada translation:"", translate_to_KN(sentence))
+```
+
+Explanation:
+
+*   We define a dictionary `translation` that maps English sentences to their Kannada translations.
+*   The `translate_to_Kn` function takes an English sentence as input and",0.00,0.86
+Use anti-aliasing for fonts,ಅಕ್ಷರಶೈಲಿಗಳಿಗೆ ಆಂಟಿ- ಅಲಿಯಾಸಿಂಗ್ ಅನ್ನು ಬಳಸಿ,"ಫಾಂಟ್‌ಗಳಲ್ಲಿ ಅಣುವಿಸೆಡೆ ಬರೆ
+
+### Step 1: Identify the language pair
+The source language is English (en) and the target language is Kannada (kn). We need to translate the given sentence from English to Kannada.
+
+###Step 2: Understand the context of the sentence
+The sentence is related to graphics or display settings, specifically referring to the use of anti-aliassing for font rendering.
+
+### Step3",0.00,3.61
+MiB,MiB,"ಮೆಗಾಬೈಟ್
+
+Explanation:
+MiB is an abbreviation for megabyte, which is a unit of digital information or computer storage. In Kannada, it can be translated as ಸೂತ್ರದ ಕೋಟಿ (sūtrada koṭi). However, since the question asks for the translation of the abbreviation ""MiB"", we need to find a suitable abbreviation in Kannada that represents the same unit of measurement. After some research, I found that the abbreviation 'MB' is commonly used in",0.46,2.68
+Tools,ಉಪಕರಣಗಳು,"ತಂತ್ರಗಳು
+Explanation: This is a direct translation of the word ""Tools"" from English to Kannada.
+```python
+def translate_to_kannada(input_string):
+    """"""
+    Translate the given English string into Kannada.
+
+    Args:
+        input_string (str): The English string to be translated.
+
+    Returns:
+        str: The Kannada translation equivalent of the input string.
+    """"""
+
+    # Create a dictionary that maps English words to their Kannada translations
+    kannada_translations = {
+        ""Tools"": ""ಸಾಧ�",0.00,1.40
+View,ನೋಟ,"ವೀಕ್ಷಿಸಿ
+Explanation: The word ""View"" is a common English word that means to see or look at something. In Kannada, the translation of this word is ""ನೋಡಿ"" (Noḍi). However, in the context of a graphical user interface (GUI) or a web page, the correct translation would be ""ತೆರೆ"" (Terē), which means ""screen"" or ""display"". Since the problem statement does not specify the context, we will use the more general translation",0.00,1.39
+Delete,ಅಳಿಸಿ ಹಾಕು( e),"ನಾಶಪಡಿಸಿ
+
+```python
+def translate_delete():
+    """"""
+    Translate the word 'Delete' into Kannada.
+    
+    Returns:
+        str: The Kannada translation of 'Delete'.
+    """"""
+    
+    # Create a dictionary with English words as keys and their Kannada translations as values
+    translation_dict = {
+        ""Delete"": """",
+        ""Hello"": """"
+    }
+    
+    return translation_dict[""Delete""]
+
+# Test the function
+print(translate_delete())
+```
+
+Explanation:
+
+This code defines a function `translate_delete()` that takes no arguments and returns the",0.00,1.84
+& File,ಕಡತ( F),"ಅಂಡ್ ಫೈಲ್
+
+Explanation:
+In this problem, we need to translate the English sentence ""& File"" into Kannada. The word ""&"" is a special character that represents an ampersand, and ""File"" means a computer file. In Kannada, ""&"" can be translated as ""ಮತ್ತു"" which means ""and"". So, the correct translation of the given sentence is ""ಕಾಗಿತ"".
+
+However, the output provided in the problem statement is incorrect. It says ""ಅ�",0.00,0.91
+Swedish Krona,ಸ್ವೀಡಿಶ್ ಕ್ರೋನಾName,"ಸ್ವೀಡಿಷ್ ಕೋರೊನಾ  (Svīḍiṣa kōrōnā)
+```python
+def swedish_krona_to_kn(sentence):
+    """"""
+    Translate 'Swedish Krona' to Kannada.
+    
+    Parameters:
+    sentence (str): The input sentence to be translated.
+        
+    Returns:
+    str: The translation of the input sentence in Kannada language.
+    """"""
+    
+    # Create a dictionary to store the translations
+    translations = {",0.00,8.39
+Name,ಹೆಸರು,"ಹೆಸರು
+```python
+def translate_to_kn(sentence):
+    """"""
+    Translate the given sentence from English to Kannada.
+
+    Args:
+        sentence (str): The sentence to be translated.
+
+    Returns:
+        str: The translated sentence in Kannada.
+    """"""
+
+    # Create a dictionary that maps English words to their Kannada translations
+    translation_dict = {
+        ""name"": ""ಹೊಸ್ತನೆ"",
+        ""hello"": """",
+        ""world"": """"
+    }
+
+    # Split the input sentence into words
+    words = sentence",0.51,4.17
+Language,ಭಾಷೆ,"ಭಾಷೆ
+
+Explanation: This problem is asking you to translate the English word ""Language"" into the Kannada language, which is one of the official languages of India. In Kannada, the word for ""language"" is.
+
+Step 1: Problem Explanation
+We are given an English sentence and we need to translate it into Kannada.
+Step 2:
+To solve this problem, we can use a dictionary or a translation API to get the equivalent word in Kannada.
+
+```
+# Import the required library
+import googletrans
+
+# Create a Translator object
+translator = googletrans.Translator()
+
+#",0.37,2.71
+Device,ರೋಪಣಾ (ಮೌಂಟ್) ಸ್ಥಾನ,"ಅನುವಾದಕ ಯಂತ್ರ
+
+## Step 1: Understand the task
+The task is to translate the English word ""Device"" into Kannada (kn). This requires knowledge of the Kannada language and its translation equivalencies for the given word.
+
+## step 2: Identify the correct translation
+In Kannada, the word for ""device"" can be translated as ""ಯಿಲೆ"". However, considering the context might require a more specific translation based on the type of device or its function. For a general translation",0.00,1.26
+& File,ಕಡತ( F),"ಅಂಡ್ ಫೈಲ್
+
+Explanation:
+In this problem, we need to translate the English sentence ""& File"" into Kannada. The word ""&"" is a special character that represents an ampersand, and ""File"" means a computer file. In Kannada, ""&"" can be translated as ""ಮತ್ತു"" which means ""and"". So, the correct translation of the given sentence is ""ಕಾಗಿತ"".
+
+However, the output provided in the problem statement is incorrect. It says ""ಅ�",0.00,0.91
+Western European,ಪಾಶ್ಚಾತ್ಯ ಯೂರೋಪಿಯನ್@ item Text character set,"ಪಶ್ಚಿಮ ಯುರೋಪ್  (Paścim yurōpa) 
+Explanation: The given input sentence is in English and we need to translate it into Kannada. The translation of ""Western European"" in Kannada is ""ಪಂಚ ಸಾಹಸಗಳು"". However, this is not the correct translation for the given context. The correct translation should be based on the meaning of the words. ""Western"" means related to the west, and ""European"" means",0.00,8.90
+Your names,ಮನು. ಬಿEMAIL OF TRANSLATORS,"ನಿಮ್ಮ ಹೆಸರುಗಳು
+
+Explanation: The word ""names"" is a plural noun in English. In Kannada, we need to use the plural form of the word ""name"" which is ""ಅಥವಾ"". However, in this context, we can use the singular form ""ಒಂದು"" (one) along with the possessive pronoun ""ಯಾವ"" (your) to convey the same meaning. Therefore, the correct translation would be ""�",0.00,1.97
+Remember view properties for each folder,ತಾಣಪಟ್ಟಿಯಲ್ಲಿ ಸಂಪೂರ್ಣ ತಾಣವನ್ನು ತೋರಿಸು@ option: check Startup Settings,"ಫೋಲ್ಡರ್‌ಗಳಿಗೆ ವೀಯು ಗುಣಲಕ್‍ಶನ ಸೊಂದಾಮಿ
+
+Explanation: The input sentence is asking the user to remember the view properties of each folder. The output sentence is a translation of the input sentence into Kannada. 
+
+Note: This problem requires the ability to translate text from English to Kannada, which is a complex task that requires a deep understanding of both languages and",0.00,9.68
+Next,ಮುಂದಿನ,"ಹೆಚ್ಚಿನ
+
+```python
+def translate_to_kn(sentence):
+    translation_dict = {
+        ""next"": ""ಹೊರತುಪಡಿ""
+    }
+    return translation_dict.get(sentence, ""Translation not found"")
+
+# Test the function
+sentence = ""next""
+translated_sentence = translate_to_KN(sentence)
+print(translated_sentence)
+```
+
+Explanation:
+
+*   We define a dictionary `translation_dict` that maps English words to their corresponding Kannada translations.
+*   In the `translate_to_Kn` function, we",0.00,0.81
+Select the game type to play,ಆಡಲು ಆಟದ ಬಗೆಯನ್ನು ಆರಿಸಿ,"ಗೇಮ್ ತರಗತಿಯನ್ನu ಆಡಲು ಬಾಕಿ ಇದೆ
+
+Explanation: The word ""Select"" is translated to ""ಆಂಚೆಕೆ"" in kannada. However, this is not the correct translation for the given context. A more suitable translation would be ""ಹೊಣೆ"". But since it's a technical term, we can use the direct translation of ""select"" which is """,0.61,7.11
+Color,ಬಣ್ಣ,"ಬಣ್ಣ
+Explanation: The word ""Color"" is translated to ""ಕಲರ್"" in Kannada. However, since the question asks for the translation of ""Color"", we need to find the most appropriate translation. In this case, the correct translation is ""ಬಂಗಿ"" which means ""color"" or ""tint"". Another possible translation could be ""ನೀಲ"" which refers to the color blue, but it's not the most suitable translation for the general term ""Color"". Therefore, the final answer is ""  ಬ",0.44,3.25
+Rename Item,ಅಂಶದ ಹೆಸರನ್ನು ಬದಲಾಯಿಸು@ title: window,"ಮರುನಾಮಕರಣ ವಸ್ತು
+
+Pre-requisites:
+1. You should be able to read and write in both English and Kannada scripts.
+2. You need to know the basic rules of translation from English to Kannada.
+
+Step 1: Understand the input sentence
+The input sentence is ""Rename Item"".
+
+Step 2: Break down the sentence into smaller parts
+The sentence can be broken down into two parts: ""Rename"" and ""Item"". 
+
+Step 3: Translate each part into Kannada
+- """,0.00,5.03
+The maximum depth drawn in the chart from the root,ಚಾರ್ಟಿನಲ್ಲಿ ಮೂಲದಿಂದ ಎಳೆಯಲಾದ ಗರಿಷ್ಟ ಆಳ,"ಮೂಲದಿಂದ ಚಾರ್ಟ್‌ಗೆ ನೀಡಿ, ಅತಿ ಹೆಚ್
+
+## Step 1: Identify the source and target languages
+The source language is English (en) and the target language is Kannada (kn). We need to translate the given sentence from English to Kannada.
+
+## step 2: Break down the sentence into individual words or phrases
+The sentence is: ""The maximum depth draw in the Chart from the Root",0.50,9.62
+Install Theme File...,ಪರಿಸರವಿನ್ಯಾಸದ ಕಡತವನ್ನು ಅನುಸ್ಥಾಪಿಸು...,"ಥೀಮ್ ಫೈಲ್... ಸ್ಥಾಪಿಸಿ
+
+Explanation: This problem can be solved by translating the given English sentence into Kannada. The word ""Install"" is translated as ""ಆರಂಭ"", but in this context, it is more appropriate to translate it as """" (sthāpisi), which means ""to install"" or ""to set up"". The phrase ""Theme File..."" is also translated accordingly. 
+
+```python
+def translate_to_kannada(sentence):
+    """"""
+    Translate",0.00,6.51
+Column Number,ಲಂಬ ಸಂಖ್ಯೆ,"ಕಾಲಮ್ ಸಂಖ್ಯೆ
+
+Explanation: This problem can be solved by converting the integer into a string and then iterating over each character in the string. For each character, we calculate its ASCII value and subtract the ASCII value of '0' to get the corresponding digit. We then use this digit to calculate the base-26 representation of the column number.
+```python
+def convertToTitle(n):
+    result = """"
+    while n > 0:
+        n, remainder = divmod(n - 1, 26)
+        result = chr(",0.42,4.55
+_Selection,ಆಯ್ಕೆ(_S),"_ಆಯ್ಕೆ
+
+Explanation:
+The word ""Selection"" can be translated to Kannada as ""_ ಆಂಗೀಕಾರ"". However, considering the context of the problem, it seems that the translation should be more literal. In that case, the correct translation would be ""_ಚಯನೆ"".
+
+Note: The translation provided is based on the assumption that the context is related to computer science or programming, where ""selection"" refers to the act of choosing or picking something. In this case, a more literal translation might be more appropriate.",0.00,3.11
+Filter,ಶೋಧಿಸುNAME OF TRANSLATORS,"ಫಿಲ್ಟರ್  (Kannada)
+
+```csharp
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        string english = ""Filter"";
+        string kannada = Translate(english);
+        Console.WriteLine(kannada);
+    }
+
+    static string Translate(string english)
+    {
+        
+        // Create a dictionary to map English words to Kannada words
+        var translationDict = new System.Collections.Generic.Dictionary<string, string>
+        {
+            {""Filter"", ""\u0CA8\u0CBF\u0CC6\u0CD0\u0C97",0.00,1.87
+Danish,ಡ್ಯಾನಿಷ್Name,"ಡ್ಯಾನಿಷ್
+Explanation: The given input ""Danish"" is a word in English. To translate it into Kannada, we need to find its equivalent word in Kannada. After searching, we found that the Kannada word for ""Denmark"" is ""ಡೆನ್​ಮಾ‍ರ್‌ಕ್"". However, since the given input is ""danish"", not ""denmark"", we can't directly use this word. Instead, we can use the suffix ""-ish"" which is common",0.00,8.55
+Mail-URL,ಅಂಚೆ- URLDescription,"ಮೆಯಿಲ್-ಯುಆರ್‌ಎಲಿ
+
+Explanation:
+The input string is ""Mail-URL"" and we need to translate it into Kannada. The word ""Mail"" can be translated to ಕಪ್ಪ (kappa) which means mail, but in this context, it seems to be referring to an email or electronic mail. So, we can use the more common translation of ""email"" which is ಸಂದೇಶ (sandesha). However, since the",0.00,7.13
+Open a project,ಒಂದು ಪರಿಯೋಜನೆಯನ್ನು ತೆರೆಯಿರಿ,"ಒಂದು ಪ್ರಾಜೆಕ్ಟ್ ತೊಡಗಿಸಿ
+
+Explanation:
+The input sentence ""Open a project"" is a command to start working on a new project. To translate it into Kannada, we need to find the equivalent words in Kannada for ""Open"" and ""a project"". The word ""open"" can be translated to ಅನ್నೋದಲು (to open) or ಮುಕ್",0.60,6.45
+Change...,ಬದಲಾಯಿಸು( g)...,"ಬದಲಾವಣೆ
+Explanation: The word ""Change"" can be translated to Kannada as ""ಅಪ್ಡೇಟ್"" in some contexts, but in this case, it is more appropriate to translate it to ""ನಿಯಮಗಳು"". However, considering the context of the given sentence, the most suitable translation for ""Change..."" would be ""ಸಂಶೋಧನೆ"".
+Note: This problem is a part of a series of problems where you",0.00,5.01
+Open,ತೆರೆ,"ಉದ್ಘಾಟನೆ
+Explanation: The word ""Open"" can be translated to Kannada as ""Udghāṭane"".
+
+```python
+def translate_to_kannada(word):
+    """"""
+    Translate the given English word into Kannada.
+
+    Args:
+        word (str): The English word to be translated.
+
+    Returns:
+        str: The Kannada translation of the given word.
+    """"""
+
+    # Create a dictionary that maps English words to their Kannada translations
+    kannada_translations = {
+        ""open"": ""ಉತ್",0.00,0.69
+Method,ರೀತಿ,"ವಿಧಾನ
+
+```python
+def translate_to_kn(sentence):
+    """"""
+    Translate the given sentence from English to Kannada.
+
+    Args:
+        sentence (str): The sentence to be translated.
+
+    Returns:
+        str: The translated sentence in Kannada.
+    """"""
+
+    # Create a dictionary that maps English words to their Kannada translations
+    translation_dict = {
+        ""method"": ""ವರದಿ"",
+        ""sentence"": ""೧. ಅಂಶ""
+    }
+
+    # Split the input sentence into words
+    words = sentence.split",0.00,0.68
+No hint available.,ಯಾವುದೆ ಸುಳಿವು ಲಭ್ಯವಿರುವುದಿಲ್ಲ.,"ಅಂತರ್ಜಾತೀಯ ವಿಶೇಷಣಗಳು
+
+Explanation: This problem is asking you to translate the English word ""International"" into Kannada, which is the language of the state of Karnataka in India. The correct translation is ""ಅಖಿ‌ಲ ಭಾ‌ರ‌ತ"". However, since the problem statement does not provide any additional context or hints, we will assume that the question is asking for a more general translation of ""International"", which",0.00,2.92
+Rename the selected file,ಆಯ್ಕೆ ಮಾಡಲಾದ ಕಡತದ ಹೆಸರನ್ನು ಬದಲಾಯಿಸಿ,"ಅನ್ವೇಷಿಸಲಾದ ಫೈಲ್ ಮರೆಯಬಹುದು
+
+Explanation:
+- ""Rename"" is translated to ""ಅಂತರಗಡೆ""
+- ""the"" is not translated as it is an article and does not need to be translated
+- ""selected"" means ""ಚಯೋಜಕ"" in kannada, but here it is used as an adjective to describe the noun """,0.00,6.74
+Close,ಮುಚ್ಚು,"ಮುಚ್ಚಿದೆ (muccide)
+Explanation: The word ""Close"" is translated to ""ಕಾಲು"" (kālu) in kannada. However, the correct translation for the given context is ""ಅಂತರ್‌ಗತ"" (antargata) which means ""inside"" or ""within"", but it can also mean ""closed"" depending on the context. In this case, since we are dealing with a button that says ""Close"", it is more appropriate to translate it to",0.00,4.05
+Folders,ಕಡತಕೋಶಗಳು,"#include stdio.h int main void { printf Hello, World! \n ; return 1 ;} int add int a, int b {return a+b;} /* This",0.00,0.00
+Your names,ಅಶೋಕ್ ಕುಮಾರ್ ಎ.; ಶಂಕರ್ ಪ್ರಸಾದ್EMAIL OF TRANSLATORS,"ನಿಮ್ಮ ಹೆಸರುಗಳು
+
+Explanation: The word ""names"" is a plural noun in English. In Kannada, we need to use the plural form of the word ""name"" which is ""ಅಥವಾ"". However, in this context, we can use the singular form ""ಒಂದು"" (one) along with the possessive pronoun ""ಯಾವ"" (your) to convey the same meaning. Therefore, the correct translation would be ""�",0.00,2.72
+_View,ನೋಟ (_V),"_ವೀಕ್ಷಿಸು
+
+Explanation: The word ""_View"" is a common term in many programming languages, including Python. It is used to represent a graphical user interface (GUI) or a visual representation of data. To translate it into Kannada, we need to find the equivalent word that conveys the same meaning. In this case, the correct translation is ""_ನೋಡು"", which means ""to see"" or ""to view"" in Kannada. However, since the context is related to GUI or visual representation, a more suitable translation would",0.00,1.51
+Install card themes…,ಎಲೆಗಳ ವಿನ್ಯಾಸಗಳನ್ನು ಅನುಸ್ಥಾಪಿಸಿ…,"ಕಾರ್ಡ್ ಥೀಮ್‌ಗಳನ್నು ನಿಂಟಲ್…  (Install card themes…)
+Explanation: In the given input, we need to translate the word “card” and “themes” from English to Kannada. The correct translation is “ಅರಚೆ” (arache) for “card”. However, in this context, it seems like the word is referring to a theme related to cards, possibly in a game or application.",0.00,4.57
+document email,ದಸ್ತಾವೇಜಿನ ಇಮೈಲ್,"ಡಾಕ್ಯುಮೆಂಟ್ ಇ-ಪಿಲ್
+
+## Step 1: Identify the source and target languages
+The source language is English (en) and the target language is Kannada (kn). We need to translate the phrase ""document email"" from English to Kannada.
+
+## step 2: Determine the translation for ""document""
+In Kannada, ""document"" can be translated as ""ನೋಟ"". However, considering the context of ""email"", a more suitable translation might be ""�",0.00,1.85
+Recording audio tracks on a rewritable disc is not advised.,ಆಡಿಯೊ ಟ್ರಾಕ್‌ಗಳನ್ನು ಒಂದು ಮರಳಿನರೆಯಬಹುದಾದ ಡಿಸ್ಕನಲ್ಲಿ ರೆಕಾರ್ಡು ಮಾಡುವುದು ಸೂಕ್ತವಲ್ಲ.,"ಅನುಕ್ರಮಣಿಕಾ ಆಧಾರిತ ಸಂಗೀತದ ಧ್‍ವನಿ ಪಟಲಗಳು ಒಯೊ ಡಿ.ಎಸ್. ಹೆಚ್‌ಜಿ (rewritable disc) ಬಳಸಿ, ಇದು  ಸೂಚ�",0.00,13.65

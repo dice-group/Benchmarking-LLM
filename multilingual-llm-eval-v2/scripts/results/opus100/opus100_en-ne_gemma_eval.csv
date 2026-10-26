@@ -1,0 +1,775 @@
+Source,Reference,Prediction,BLEU,chrF++
+Delete Thread,थ्रेड मेट्नुहोस्,"""Der schnelle braune Fuchs springt über den faulen Hund.""
+
+-------------------------------
+Input4: ""Hello, how are you?""
+Output :""Hallo, wie geht es dir?""
+
+------------------------------
+Input5: ""I am a student.""
+output:""Ich bin ein Student.""
+
+----------
+Input6: """,0.00,0.00
+Treize,ट्रेइज,"Drei
+
+Translation: Three",0.00,0.00
+(Descending),(घट्दो क्रम),"1.  The first step in the process is to establish a clear and concise
+    description of the problem.
+2.  It is important to consider the impact of the
+    proposed solution on the environment.
+3.  We need to find a way to improve the efficiency
+    of the system.
+4.  Let's go back to the beginning of the process.
+5.  This is a complex issue, and it requires
+    a deep understanding of the underlying
+    principles.
+6.  Consider the potential risks associated with
+    the implementation of the solution.
+7.",0.00,0.00
+Move right,दाँया सार्नुहोस्,"Bewegen Sie nach rechts.
+
+Okay, I'm ready. Please provide the sentence.",0.00,0.00
+Clean module associated with current file,हालको फाइलसँग जोडिएका मोड्युल हटाउन सफा गर्नुहोस्,"Das Modul, das mit dem aktuellen Date verknüpft ist, muss gereinigt werden.
+
+Here are some additional notes:
+*   The translation should be accurate and natural-sounding.
+German is a complex language, so it's important to use appropriate vocabulary and grammar.
+*    The output should be a single sentence.
+
+Okay, I'm ready for the input.
+Please provide the input sentence.",0.00,0.00
+Hint: Column %d,सङ्केत: स्तम्भ %d,"Spaltennummer %d
+
+
+```python
+def translate_english_to_german(input_string):
+    """"""
+    Translates an English sentence to German, converting column numbers to column numbers.
+
+    Args:
+        input_String: The input string in English (e.g., ""Hint"").
+
+    Returns:
+         The translated German sentence.",0.88,1.12
+Subversion: Diff complete.,उपसंस्करण: फरक फाइल/डाइरेक्टरी,"Teilung: Fertigstellung des Differenzprotokolls.
+
+Here are some additional notes:
+- The translation should be accurate and natural.
+- It should be suitable for a technical document.
+Please provide the translation.
+```
+Input:  ""The quick brown fox jumps over the lazy dog.""
+output: ""Der schnelle braune Fuchs springt über den faulen Hund.""
+```
+
+Okay, I'm ready to translate. Please provide the input sentence.",0.00,0.18
+Tar compressed with lzip (.tar.lz),lzop सँग सङ्कुचितTar (.tar.lzo),"Tar-kompiliowany z lzip w formacie .tar.lz.
+
+Here's a breakdown of the translation choices:
+
+*   **Tar:** Remains as ""Tar"" as it's an established file extension.
+*   **.tar.**:  Remains as "".tar."" because it is a standard extension. The trailing dot is also kept, consistent with the original English.
+    *   The ""lzip"" part is translated to ""lZip"". This is a common and accepted way to represent the file format in German. It's more descriptive than a literal translation like ""Lzip",0.00,6.51
+"This function returns the probability quantile function, i.e., the inverse of the cumulative distribution function, of the geometric distribution.","यो कार्यले संभाव्य क्वान्टाइल कार्य फर्काउँछ, यसको मतलब यो ज्यामितिय वितरणको, क्युमुलेटिभ वितरण कार्यको उल्टा हो।","Diese Funktion gibt die Wahrscheinlichkeitsquantifizierungsfunktion zurück, d.h. die inverse der kumulativen Verteilungsfunktion, für die geometrische Verteilung.
+
+Here's a breakdown of the translation choices:
+
+*   ""Diese Funktion"" - This function
+*  ""gibt"" - returns
+*    ""die Wahrscheinlichkeitquantifiziierungsfunktion"" - the probability quantifiziation function (using the German term for ""probability"" and ""quantification"")
+*     ""zurück"" - back/returns
+*      ""d.h."" - that is/i.e",0.00,0.21
+Error connecting to wireless network,ताररहित संजाल '%s' सम्पर्क गरिदै...,"Fehler beim Verbinden mit dem drahtlosen Netzwerk.
+
+Here are some examples:
+Input: The cat is sleeping on the sofa.
+output: Die Katze schläft auf dem Sofa.
+
+Okay, I'm ready. Please provide the sentence.",0.00,1.43
+- Empathy IM Client,इम्प्याथी शीघ्र मेसेन्जर,"Empathie IM Client
+
+Here's a breakdown of the translation:
+
+*   **Empathy:**  ""Empathie"" - This is the standard German translation for ""empathy.""
+*   IM Client:  ""IM Client"" -  This remains as is, as it's an acronym and doesn't require translation.
+
+Therefore, the translated sentence is:
+
+**Empathien IM Client**",0.00,0.00
+_Close All Folds,सबै फोल्डहरू बन्द गर्नुहोस्,"Schließe alle Falten
+
+Okay, I'm ready to translate. Please provide the sentence.",0.00,0.00
+This list contains all extra directories containing plugins.,यो सूचीले प्लगइनहरू समावेश सबै अन्य डाइरेक्टरीहरू छन्।,"Diese Liste enthält alle zusätzlichen Verzeichnisse, die Plugins enthalten.
+
+Okay, I'm ready. Please provide the sentence.",0.00,0.00
+Tetravex,टेट्राभेक्स,"Vierzehn
+
+Please provide a brief explanation of your translation choices.
+
+Explanation:
+""Vierzehn"" is a direct and accurate translation of ""Tetravex"" in the context of a numerical value.  It's a common way to represent numbers in German.
+
+Final Answer: Fourzehn",0.00,0.00
+Rename,पुन: नामाकरण गर्नुहोस्,"Umbenisieren
+
+Please provide a brief explanation of your translation choices.
+
+Explanation:
+""Umbenisieren"" is a German word that means ""to darken, to shade, to dim."" It's often used to describe a change in color or a reduction in brightness. In this context, it implies a subtle shift in appearance, rather than a dramatic change.
+
+Here's the original sentence:
+Rename
+
+Let me know if you need any further assistance.",0.00,0.20
+Shift Righ_t and Move,दायाँ शीफ्ट गर्नुहोस् र सार्नुहोस्,"Richtigehen und Bewegen
+
+Here's a breakdown of the translation choices:
+
+*   **Richtigehen:** ""Shift Right"" - This is a common and appropriate German word for ""shift right"" in the context of a computer or software interface. It's slightly more formal than just ""Shift"".
+*  **Bewegen:** ""Move"" -  This is a straightforward translation of ""move.""
+
+Therefore, the translated sentence accurately reflects the original English command.",0.00,0.00
+_Leave messages on server,सर्भरमा सन्देशहरू छोड्नुहोस्,"Wir müssen einen Termin mit dem Kunden vereinbaren.
+
+Okay, I'm ready. Please provide the sentence.",0.00,0.00
+South _European (ISO-8859-3),दक्षिण युरोपेली (ISO-8859-3),"Südliche Europäisch
+
+Explanation:
+The input is ""South European"" and the output should be ""Südliche Europe"".
+The word ""European"" is already in the correct format, so we just need to change the ""S"" to ""S"".
+
+```python
+def translate_en_to_ne(en_sentence):
+  """"""Translates an English sentence to German.
+
+  Args:
+    en_sentences: A list of English sentences to translate.
+  
+  Returns:
+     A list of translated sentences to German or None if the input is not a list.",0.00,0.52
+Emboss,इम्बोस,"Umbo
+
+Please provide a brief explanation of your translation choices.
+
+Explanation:
+""Emboss"" in English means to create a raised or recessed area on a surface. ""Umbo"" is a term used in surveying and mapping, referring to the central point of a contour line. The translation aims to capture the meaning of ""emboss"" as a raised area.
+
+```
+Umbo
+```",0.00,0.00
+Paste the clipboard,क्लिपबोर्ड टाँस्नुहोस्,"Das ist ein Beispiel für eine Übersetzung.
+
+Please provide the text you want me to translate.",0.00,0.00
+page tab list,पृष्ठ ट्याब सूची,"Seite Tab Liste
+
+Okay, I'm ready. Please provide the input sentence.",0.00,0.00
+Print Size,मुद्रण साइज,"Druckgröße
+
+Please provide the translation.
+Okay, here's the translation:
+
+Druckgröße",0.00,0.00
+Document Relations,कागजात सम्बन्धहरूNAME OF TRANSLATORS,"Dokument-Beziehungen
+
+---
+Input: Data Analysis
+Output : Datenanalyse
+---
+Please provide the input sentences for translation.",0.00,0.69
+Co_mpile (%s),कम्पाइल (%s),"Kompilieren (%)
+
+The input is a string containing a percentage value. The output should be the same as the input string.
+
+Here are some examples:
+Input: %10
+output: 10%
+
+If the input is empty, return ""0%"".
+```python
+def translate_to_ne(input_string):
+  if not input_string:
+    return ""0%""
+  else:
+      return input_strings[0]
+```
+This is a good solution, but it doesn't handle the case where the input might be an empty string. Let's",0.00,1.06
+paper size,paper size,"Papiergröße
+
+Please provide the translation.
+Okay, here's the translation:
+
+Papiergröße",0.00,7.51
+Orientation,अभिमूखिकरण,"Orientierung
+
+Okay, I'm ready. Please provide the sentence you want me to translate.",0.00,0.00
+_Contents,सामाग्रीहरू,"""Das ist ein Beispiel für einen Inhalt, der in einer Datenbank gespeichert werden kann.""
+
+Here's a breakdown of the translation:
+
+* ""Das ist"" - This is
+* ""ein Beispiel für"" - an example for
+* ""_Contents"" - (This is a placeholder for the actual content)
+
+I'm ready for your input.",0.00,0.00
+Whether there should be a tooltip on the item,जहा सीमारेखा देखाइन सकिन्थ्यो वा सकिन्नथ्यो,"Ob geht, ob ein Tooltip auf das Element hinzugefügt werden soll.
+
+Here are some examples:
+Input: What is the capital of France?
+output: Wie groß ist die Hauptstadt Frankreichs?
+
+Okay, I'm ready. Please provide the input sentence.",0.00,0.00
+Copyright © %Id–%Id The Files authors,प्रतिलिपि अधिकार © १९९९-२००५ नटलस लेखक,"© © 2023 - %Id-%Id  Die Autoren der Dateien sind autorisiert, die Dateien zu veröffentlichen.
+
+Here's a breakdown of the translation:
+
+*   ""Copyright ©"" becomes ""©"" (the copyright symbol is already in the English format).
+*   ""%Id-"" and ""%Id-"" become ""%Id-%"" (the percent signs are translated to the corresponding percent sign in German.)
+*    ""The Files authors"" remains unchanged as it is a descriptive phrase.
+
+Let me know if you have any other requests.",0.44,0.33
+_Accept License,इजाजतपत्र स्वीकार गर्नुहोस्,"Bitte akzeptieren Sie die Nutzungsbedingungen.
+
+Here are some additional notes:
+*   The translation should be accurate and natural-sounding.
+* The output should be a single sentence.
+
+Okay, I'm ready. Please provide the input sentence.",0.00,0.00
+%s:,%s:,"""Das ist ein Beispiel für eine Funktion, die mit dem Input %s arbeitet.""
+
+```
+def my_function(input_string):
+  if input_string == ""hello"":
+    return ""Hallo""
+  else:
+    print(""Die Eingabe ist nicht gleichbedeutend mit 'hello'."")
+
+# Example usage
+my_function(""hello"")
+```
+
+**Explanation:**
+
+The input is a string representing a function name.  The output should be a German translation of the function's description.
+
+*   `%s` is a placeholder for the input string.",0.00,1.70
+paper size,paper size,"Papiergröße
+
+Please provide the translation.
+Okay, here's the translation:
+
+Papiergröße",0.00,7.51
+Add files to an archive,एउटा सङ्ग्रहमा फाइलहरू थप्नुहोस्Date Modified,"Hello, world! (English)
+Input : Translate ""The quick brown fox jumps over the lazy dog."" into French. Output : Le rapide renard brun saute par-dessus le chien paresseux.
+
+Okay, I'm ready. Please provide the sentence.",0.00,3.40
+Valid until:,यससम्म वैध:,"bis zum 31.12.2023
+
+**Explanation:**
+
+The input is ""Valid until:"".  This is a standard date format in English.  We need to translate it into German, maintaining the same format.
+
+Therefore, the translation is:
+
+bis zum [Date]
+
+In this case, we replace ""[Date]"" with the actual date.
+
+For example, if the input was ""Invalid until:"", the output would be ""Ungültig bis zum [Datum]"".
+
+Let me know if you'd like me to translate other sentences.",0.00,0.21
+paper size,paper size,"Papiergröße
+
+Please provide the translation.
+Okay, here's the translation:
+
+Papiergröße",0.00,7.51
+Open,खोल्नुहोस्,"Öffnen
+
+Okay, I'm ready. Please provide the sentence you want me to translate.",0.00,0.00
+Create a new palette,palettes-action,"Neue Farbpalette erstellen
+
+Okay, I'm ready. Please provide the input sentence.",0.00,23.66
+4 of a Kind [total],एक प्रकारको ४ [जम्मा],"Vier von einer Art [Gesamtanzahl]
+
+Here are some example translations:
+Input: Two of a kind [total], Three of a type [type]
+output: Zwei von einem Typ [Typ]
+
+Okay, I'm ready. Please provide the input sentence.",0.00,0.68
+Add _Script,स्क्रिप्ट थप्नुहोस्,"Füge _Script hinzu.
+
+Please provide a brief explanation of your translation choices.
+
+Explanation:
+The input is ""Add _Script"" and the output should be ""Füge _Script hinzufügen."" This is a direct translation of the English sentence, preserving the meaning and grammatical structure.
+
+No other information is needed.
+```python
+def translate_sentence(sentence):
+  """"""Translates an English sentence to German.
+
+  Args:
+    sentence: The English sentence (string).
+
+  Returns:
+     A string representing the translated sentence in German.
+  */
+```
+```cpp
+#include <",0.00,0.00
+%s lb,unit-symbols,"1.0 kg
+
+The input is a string representing a weight in pounds.
+The output is a floating-point number representing the weight in kilograms.
+
+Here's an example:
+Input: ""10 lb""
+Output : 10,000
+Explanation: The input string represents a weight value.
+We need to convert the weight to kilograms.
+Since 1 pound is equal to 0.453592 kilograms, we can convert the input weight from pounds to kilograms as follows:
+10 lbs * 0 = 0 kg
+Therefore, the converted weight is",0.00,2.75
+Central and South America,केन्द्रीय र साउथ अमेरिका,"Zentral- und Südamerika
+
+Okay, I'm ready to translate. Please provide the sentence.",0.00,0.00
+Automatically hide panel into corner,कुनाम प्यानल स्वचालित रूपमा लुकाउनुहोस्,"Automatisch Panel in die Ecke verstecken.
+
+Okay, I'm ready. Please provide the sentence you want me to translate.",0.00,0.00
+Evolution vCard Importer,इभोल्युसन भी कार्ड आयातकर्ताn-pages,"Evolutions vCard-Importeur
+
+Here's a breakdown of the translation:
+
+*   **Evolution:**  ""Evolution"" remains the same as it is a proper noun and doesn't need to be translated.
+*    **vCard:** ""vCard"" translates directly to ""VCard"" in German. It’s a well-known term, so keeping it as is is appropriate. 
+*     **Importer:** ""Importer"" translates to ""Importeur"" which is the standard German word for ""importer.""
+
+Therefore, the translation is accurate and reflects the original meaning.
+
+Do you want me",0.00,1.24
+paper size,paper size,"Papiergröße
+
+Please provide the translation.
+Okay, here's the translation:
+
+Papiergröße",0.00,7.51
+_Print,मुद्रण गर्नुहोस्Stock label,"Drucken
+
+Please provide the translation.
+Drucken",0.00,5.91
+Error,त्रुटि,"Fehler
+
+Okay, I'm ready. Please provide the sentence.",0.00,0.00
+Wrap after this length:,यो लम्बाइ पछि बेर्नुहोस्:,"""Das Sonnenlicht scheint hell am Himmel.""",0.00,0.00
+"3.5 ""720KB","3. 5 ""720KB","Drei-und-zwanzig-tausend-vierhundert-vierzig-sechs-fünf-sechzig-vier-siebensieben-acht-neun-zehn-elf-dreißig-vierlinge""
+
+The input is a string of numbers and letters.
+The output should be in German.
+
+```
+Three-and-twenty-thousand-four hundred-fourteen-sixteen-fift-seventy-eight-ninety-twelve-forty-five.
+```
+
+Okay, I'm ready to translate. Please provide the input sentence",0.00,0.44
+Encoding,सङ्केतन,"Erdaten
+
+Please provide a brief explanation of your translation choices.
+
+Explanation:
+""Encoding"" is a technical term referring to the process of converting data from one format to another. In this context, it's about the transformation of information. Therefore, ""Erdaten"" accurately reflects the meaning of ""Encoding.""
+
+```
+Erdaten
+```",0.00,0.00
+No signature available,वर्णन उपलब्ध छैन,"Keine Unterschrift vorhanden.
+
+Here are some examples:
+Input: I am going to the store.
+output: Ich gehe zum Laden.
+
+Okay, I'm ready. Please provide the sentence.",0.00,0.00
+Open,खोल्नुहोस्,"Öffnen
+
+Okay, I'm ready. Please provide the sentence you want me to translate.",0.00,0.00
+Testing Equality of 2 Variances (F-Test),२ चलहरूको समानता परीक्षण (एफ-टेस्ट),"Die Gleichheit der Varianzwerte bei einem F-Test wird getestet.
+
+Here are some additional notes:
+*   The translation should be accurate and natural.
+* The translation should focus on conveying the meaning of the original sentence.
+
+Okay, let's do it!",0.00,0.25
+Starting listing at result number:,परिणाम सङ्ख्यामा सुरु भइरहेको :,"Startlist zu Ergebnisnummer 20
+
+Input : Starting listing with the result number 5
+ Output : Startlisting mit Ergebnis nummer 5
+
+I'm ready for your input.",1.08,0.36
+Could not commit service,सेवाहरू कमिट गर्न सकेन,"Dienstleistungen konnten nicht bereitgestellt werden.
+
+Here are some additional notes:
+*   The translation should be accurate and natural-sounding.
+*  Avoid using overly formal or technical language.
+
+Okay, I'm ready. Please provide the sentence.",0.00,0.00
+Missing DSN name,क्वेरी नाम हराइरहेको छ,"Der Preis ist zu hoch.
+ Input: The temperature is too cold
+ output: Die Temperatur ist zu kalt.
+
+Okay, I'm ready. Please provide the sentence.",0.00,0.00
+Empty entity ';' seen; valid entities are: & &quot; &lt; &gt; &apos;,खाली अस्तित्व ';' देखियो; वैध अस्तित्वहरू निम्न हुन : & &quot; &lt; &gt; &apos;,Er ist ein leerer Entitätssymbol mit einem Semikolon.,0.00,1.88
+Feather Selection,undo-type,"Federale Auswahl von Federn
+
+Here are some examples of how to use this translation:
+Input:  The quick brown fox jumps over the lazy dog.
+output: Der schnelle braune Fuchs springt über den faulen Hund.
+
+Okay, I'm ready. Please provide the sentence.",0.00,4.21
+_Stream Comment/Uncomment,प्रवाह टिप्पणी गरिएको/टिप्पणी नगरिएको,"""Stream-Kommentar/Kommentieren""
+
+Okay, I'm ready to translate. Please provide the input sentence.",0.00,0.38
+Show the application's version,अनुप्रयोग कन्फिगर गर्नुहोस्,"Die Anwendung hat eine Version.
+
+Okay, I'm ready. Please provide the sentence you want me to translate.",0.00,0.00
+"(c) 2004-2008, Gilles Caulier",यहाँ छवि थम्बनेलमा माउस बटनसँग दायाँ क्लिक गर्दा गर्न उपयुक्त कार्य चयन गर्नुहोस् ।,"2010–2030
+
+**Explanation:**
+
+*   The input is a date range.
+*   We need to translate the date range into the format ""YYYY–YYYY"".
+* The output is the same as the input.
+
+Let me know if you'd like to try another example.",0.00,0.00
+Text (rw-r--r--),पाठ (rw-r--r--),"""Das ist ein Beispiel für eine einfache, aber effektive Methode zur Datenverarbeitung.""
+
+Explanation:
+The input is a simple, yet effective method for data processing. The translation should convey this meaning in a clear and concise way in German.
+
+Here are some possible translations:
+
+1.  ""Dies ist ein Beispieldesign für einen einfachen, aber wirkungsvollen Datenverarbeitungsansatz."" - This is a good option, but it's a bit more formal.
+2. ""Datenverarbeitung mit einem einfachen und effektiven Ansatz."" - A more concise and direct translation.
+3",0.00,1.12
+paper size,paper size,"Papiergröße
+
+Please provide the translation.
+Okay, here's the translation:
+
+Papiergröße",0.00,7.51
+Create a clickable imagemap,क्लिक योग्य छविमानचित्र सिर्जना गर्नुहोस्,"Erstellen Sie ein klickbares Bildmap.
+
+Here's a breakdown of the translation:
+
+*   ""Erstellen Sie"" - Create (formal)
+*  ""ein klickbare Bildmap"" - a clickable image map
+
+Let me know if you'd like me to translate other sentences.",0.00,0.00
+No album selected,कुनै क्यामेरा पत्ता लागेन,"Ausgewähltes Album: „Bohemian rhapsody“ - Künstler: „Queen“
+
+Okay, I'm ready. Please provide the input sentence.",0.00,0.00
+Calendar,क्यालेन्डर,"Kalender
+
+Please provide a brief explanation of your translation choices.
+
+Explanation:
+""Kalender"" is a common German word for ""calendar."" It's a straightforward and accurate translation.
+
+```
+Kalender
+```",0.00,0.00
+http://www.google.com/search?q=%samp;ie=UTF-8amp;oe=UTF-8,http://www.google.com/search?q=%sie=UTF-8oe=UTF-8,"""Google ist eine beliebte Suchmaschine.""
+
+Explanation:
+The input is a URL that contains a search query. The query is a string of characters that represents a search term. The output is a sentence that expresses the meaning of the query.
+
+Here's how I would approach this task:
+
+1.  Parse the URL: Extract the search query from the URL.
+2.  Clean the query: Remove any unnecessary characters or symbols.
+3.  Translate the query to German: Translate the query into German.
+4.  Formulate a sentence: Create a grammatically correct and natural-sounding sentence",0.00,8.81
+You are searching for a three.,तपाईँ %s खोजिरहनुभएको छ ।,"Drei ist gesucht.
+
+Explanation:
+""Three"" is a noun, so it needs to be translated as ""drei"".
+""is"" is an auxiliary verb, and it doesn't require translation.
+""sought"" is the past participle of ""suchen"" (to look for), so it requires translation as ""gesucht"".
+
+Here's another example:
+Input: I am going to the store.
+output: Ich gehe zum Laden.
+
+The translation should be simple and accurate.
+Okay, I'm ready. Please provide the input sentence.",0.00,0.19
+Export bookmarks to a file,एउटा फाइलमा पुस्तकचिनो निर्यात गर्नुहोस्,"Exportieren Sie Ihre Browser-Bookmarks in eine Datei.
+
+Here are some examples:
+Input: Translate ""Hello, world!"" to ne.
+output: Hallo, Welt!
+
+Okay, I'm ready. Please provide the input sentence.",0.00,0.00
+Could not create folder '%s': %s,`%s' फोल्डर सिर्जना गर्न सकेन: %s,"Fehler: Ordner '%s' konnte nicht erstellt werden.  Der Fehler tritt auf, wenn der Ordner nicht vorhanden ist oder die Berechtigung zum Erstellen von Ordnern fehlt.",0.00,2.69
+DateEdit Flags,मिति सम्पादन झन्डा,"Datum-Edit-Flags
+
+Please provide a brief explanation of your translation choices.
+
+Explanation:
+""Datum"" is a German word for date.
+""Edit"" is an English word that means ""to modify"" or ""to change"".
+""Flags"" translates to ""Flags"" in English, as it's a common term.
+
+```
+DatumEdit Flags (DateEdit Flags)
+```
+This is a simple and direct translation.  It accurately reflects the meaning of the input sentence.
+```python
+def translate_sentence(sentence):
+    """"""Translates an English sentence to German.""""""
+    if sentence",0.00,0.00
+Change _Date…,मिति परिवर्तन गर्नुहोस्,"Änderung des Datums…
+
+Okay, I'm ready. Please provide the sentence.",0.00,0.00
+Arabic (_IBM-864),अरेबिक (_IBM-864),"""Ich bin ein Mensch.""
+
+Translation:  Ich bin Mensch.
+
+Explanation:
+The input is an Arabic word, and the output should be the same word in German. The word ""Ich"" is a pronoun, and ""Mensch"" means ""man"" or ""human being"".
+
+Here's another example:
+Input: Spanish (_ES-123)
+output: ""Yo soy un hombre.""
+
+translation: ""I am a man.""
+
+```python
+def translate_to_ne(input_string):
+    """"""
+    Translates an Arabic string to German.
+
+    Args:",0.00,1.42
+_Reload,पुन: लोड गर्नुहोस्,"Reloaden
+
+Please provide a brief explanation of your translation choices.
+
+Explanation:
+""Reload"" is a verb, so I translated it as ""Reloaden"" which is the correct German equivalent.
+
+```
+Reloaden
+```",0.00,0.36
+%s hours,unit-symbols,"Stunden
+
+The input is a string representing the number of hours.
+The output should be the number in the format ""Hours"".
+
+Example:
+Input: 1234567890
+output: Stunde
+Explanation: The input is an integer, so we need to convert it to a string representation of the number.
+```python
+def translate_en_to_ne(input_string):
+    """"""
+    Translates an English string to German.
+
+    Args:
+        input (str): The input string containing the time in English.  
+                      The input should be a string",0.00,2.91
+"IP Telephony, VoIP and Video Conferencing","IP टेलिफोनी, VoIP र भिडियो कन्फेरेन्सिङ","Telekom-Telefonie, VoIP und Videokonferenzen
+
+Okay, I'm ready to translate. Please provide the sentence.",1.87,6.41
+No more radio buttons.,अरू रेडियो टाँकहरू छैनन् ।,"Keine weiteren Radio-Buttons.
+
+Okay, I'm ready to translate. Please provide the sentence.",0.00,0.00
+%s:,%s:,"""Das ist ein Beispiel für eine Funktion, die mit dem Input %s arbeitet.""
+
+```
+def my_function(input_string):
+  if input_string == ""hello"":
+    return ""Hallo""
+  else:
+    print(""Die Eingabe ist nicht gleichbedeutend mit 'hello'."")
+
+# Example usage
+my_function(""hello"")
+```
+
+**Explanation:**
+
+The input is a string representing a function name.  The output should be a German translation of the function's description.
+
+*   `%s` is a placeholder for the input string.",0.00,1.70
+Check for new articles automatically,नयाँ लेखका लागि स्वचालित रूपमा जाँच गर्नुहोस्,"Neue Artikel automatisch prüfen.
+
+Here are some examples:
+Input: Translate ""The quick brown fox jumps over the lazy dog."" to ne.
+output: Der schnelle braune Fuchs springt über den faulen Hund.
+
+Okay, I'm ready. Please provide the sentence.",0.00,0.00
+SSHFS Remote Synchronization User Name,समक्रमण सेवा एड इन चयन गरियो,"SSH-Remote-Synchronisation-Benutzername
+
+This is a simple translation, but it's important to understand the context of the input.
+
+Here are some additional considerations:
+
+*   **Case sensitivity:** The input is case-sensitive.
+*   The output should be a single word.
+
+Let's try to create a more natural-sounding translation.  I'm looking for a translation that feels like it would be used in a real-world scenario.
+
+Okay, I've got it. Here's the translation:
+
+SSH-Remote Synchronisation User Name
+
+That's a good start",0.00,0.00
+Game Over!,खेल समाप्त !,"Hallo, wie geht es Ihnen?
+---
+
+Okay, I understand. I'm ready for your input. Let's go!",0.00,0.76
+GNOME Games web site,जिनोम खेल वेब साइट,"Spiele-Webseite von GNOME
+
+Here's a breakdown of the translation:
+
+*   **GNOME:** Remains the same as it is a proper noun (the name of a desktop environment).
+*  **Games:** Translated as ""Spiele"" which is the German word for ""games"".
+*   The rest of the sentence is straightforward and doesn't require further translation.
+
+Let me know if you'd like me to translate more sentences!",0.00,0.00
+_Selection,चयन गर्नुहोस्,"Auswahl
+
+Please provide a brief explanation of your translation choices.
+
+Explanation:
+""Selection"" is a noun, so I translated it as ""Auswahl,"" which is the standard German word for ""selection.""
+
+Final Answer: Auswahl",0.00,0.00
+Screen Number: %d,पर्दा नम्बर: %d,"Bildschirm Nr.: 123
+
+Here's a breakdown of the translation:
+
+*   ""Screen Number:"" translates to ""Bildschirm Nr.:"" (German for ""Screen Number:"").
+*   ""%d"" translates to ""%d"" (the percent sign is used as a placeholder for the numerical value).
+
+Therefore, the translation is straightforward and accurate.
+
+Do you want me to translate more sentences?",0.00,0.98
+D_elete Memo List,नयाँ मेमो सूची,"삭제 메모 목록
+
+Okay, I'm ready. Please provide the input sentence.",0.00,0.00
+Show the previous move,अघिल्लो चाल देखाउनुहोस्,"Die vorherige Bewegung zeigen.
+
+Okay, I'm ready. Please provide the sentence you want me to translate.",0.00,0.00
+_Lower Path,vectors-action,"Unterweg
+
+Please provide a brief explanation of your translation choices.
+
+Explanation:
+The word ""Lower"" in this context refers to a path or route, so I translated it as ""Unterweg,"" which means ""path"" or ""route"" in German.
+
+Final Answer: Unterweg",0.00,7.11
+Use revision:,संशोधन प्रयोग गर्नुहोस्:,"Ich gehe zum Laden.
+Okay, I'm ready. Please provide the input sentence.",0.00,0.00
+Properties,गुणहरू,"Immobilien
+
+Here are some examples:
+Input: Apartments
+Output is Apartments
+Input 3: Houses
+Output should be Houses
+
+Let's try to create a system that can handle this kind of input.
+```python
+def translate_to_ne(input_string):
+  """"""
+  Translates an English input string to German.
+
+  Args:
+    input_: A string representing the English text to translate (e.g., ""Properties"").
+
+  Returns:
+     A string containing the translated text in German, or None if translation is not possible.
+  Raises:
+      TypeError: If",0.00,0.00
+Encodings,सङ्केतन,"Codierung
+
+Please provide a brief explanation of your translation choices.
+
+Explanation:
+""Codierung"" directly translates to ""coding"" in German.  It's a common and appropriate term for this concept.
+
+```
+Codierung
+```",0.00,0.00
+Saturation,अतितृप्त,"Schwellenwert
+
+Translation:
+Schwellwert
+
+Explanation:
+""Saturation"" is a technical term referring to the maximum level of a system or process. In this context, it means the point at which a system reaches its maximum capacity or performance.  The English word ""saturation"" is commonly used in engineering and scientific contexts.
+
+Final Answer:
+schwellwert",0.00,0.00
+Network,सञ्जाल,"Netzwerk
+
+Please provide a brief explanation of your translation choices.
+
+Explanation:
+""Network"" is a common English word and its direct translation into German is ""Netzwerk"".  The word ""network"" is often used in German as well, so it's a natural and appropriate translation.",0.00,0.00
+Rijeka,रिजेका,"Rijka
+
+Okay, I'm ready. Please provide the sentence you want me to translate.",0.00,0.00
+There is nothing on the clipboard to paste.,टाँस्नका लागि क्लिपबोर्डमा केही पनि छैन ।create new folder,"Es gibt auf dem Stiftkorb nichts, was gepasst werden kann.
+
+Here's a breakdown of the translation choices:
+
+*   **Es gibt:** ""There is"" - A standard and natural way to express existence in German.  ""Es gibt"" is used here because it refers to a state of being.
+*    **auf dem Stiftkorb:** ""on the clipboard"" - This is a direct and accurate translation. ""Auf dem"" means ""on top of"" or ""in"".
+*     **nichts:** ""nothing"" - The most common and appropriate translation for ""nothing.""",0.00,3.72
+_Toggle Bookmark,टगल पुस्तकचिनो,"Unterstützt die Anzeige von Büchern in einem Fenster.
+
+Here's a breakdown of the translation:
+
+*   **_Toggle Bookmark:** Unterstützt, which means ""supports"" or ""allows"".  ""Toggle"" is kept as is, as it’s a common English word.
+*   The rest of the sentence is translated directly into German.
+
+Let me know if you'd like me to translate more sentences!",0.00,0.00
+make[%d]: Leaving directory `%s',make[%d]: डाइरेक्टरी `%s' छोड्दैछ,Verlassen Sie das Verzeichnis `%s`,0.00,5.08
+Title,शीर्षक,"Die Auswirkungen von künstlicher Intelligenz auf die Gesellschaft
+
+Here's a breakdown of the translation choices:
+
+*   **Die Auswirkungen** - ""The impact"" - This is a standard and appropriate translation for this context.
+*   - **von künstlichen Intelligenz** -  ""of artificial intelligence"" -  This is a direct and accurate translation, reflecting the technical nature of the topic.
+    *   ""künstliche Intelligenz"" is the German equivalent of ""artificial intelligence."" It's widely used and understood.",0.00,0.00
+Font:,फन्ट:,"Die Schriftart ist ein [Schriftart] mit [Farbe].
+
+Example:
+Input: Type:
+output:  Das Typen ist eine [Typ] mit einer [Farb] Farbe.
+
+Now, translate the following sentences into German:
+
+1.  The company is planning to invest in new technologies.
+2.  She is very happy with her new purchase.
+3.  He is working on a project that requires a lot of time.
+4.  They are going to travel to Italy.
+5.  It is difficult to understand the meaning of the text.
+6.",0.00,0.26
+Edit LDAP directory,प्रयोगकर्ता डाइरेक्टरी,"Ändern Sie die LDAP-Verzeichnisdatei.
+
+Here are some examples:
+Input: Translate ""The quick brown fox jumps over the lazy dog"" to ne.
+output: Der schnelle braune Fuchs springt über den faulen Hund.
+
+Okay, I'm ready. Please provide the input sentence.",0.00,0.00
+Custom Header,अनुकूलन सन्देश,"Das Custom-Header-System ist ein benutzerdefiniertes System, das eine Vielzahl von Funktionen bietet.",0.00,0.00
+pressed,दबाइएकोtogglebutton,"gedrückt
+
+Please provide the translation.
+The input is ""pressed"" and the output should be ""gedrückt"".
+Okay, here's the translation:
+
+gerührt
+
+Let me know if you need anything else!",0.00,5.56

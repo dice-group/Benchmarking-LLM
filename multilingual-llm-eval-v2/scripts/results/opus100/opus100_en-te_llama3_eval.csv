@@ -1,0 +1,947 @@
+Source,Reference,Prediction,BLEU,chrF++
+We've been stuck here.,మేముఇక్కడకష్టంచేసిన,"हम यहाँ फँसे हुए हैं।  ## Step 1: Identify the source language and the target language.
+The source language is English (en), and we need to translate it into Hindi (te).
+
+## Step 2: Break down the English sentence into individual words.
+The English sentence is ""We've being stuck here."" Let's break it down:
+- We've = We have (contraction of ""we have"")
+- being = present participle of ""be""
+- stuck = past tense of ""stick""
+- here = adverb meaning in this location
+
+However, there seems to be a typo in",0.00,0.00
+I'm having so much fun here.,నేనుఇక్కడచాలాసంతోషాన్నిచేస్తున్నాను,"मैं यहाँ बहुत मज़ा ले रहा हूँ।  ### Step 1: Identify the source language and target language.
+The source language is English (en) and the target language is Telugu (te).
+
+### Step 2: Break down the input sentence into individual words or phrases.
+The input sentence is ""I'm having such fun here."" which can be broken down into:
+- I'm (contraction of ""I am"")
+- having (verb)
+- such (adjective)
+- fun (noun)
+- here (adverb/locative)
+
+However, there seems to be a typo in the",0.00,0.00
+Yeah.,అవును.,"हाँ।  (Hā̃)
+Explanation: ""Yeah"" is an informal way of saying ""yes"" in English. In Hindi, it can be translated to ""हाँ"" (hā̃), which means ""yes"".
+Note: The translation should be in Devanagari script. 
+
+```python
+def translate_english_to_hindi(english_sentence):
+    # Create a dictionary to map English words to their Hindi translations
+    hindi_translations = {
+        ""yeah"": ""हां"",
+        ""yes"": ""जी""
+    }
+
+    # Split the input sentence into words
+    words = english_sentence",0.00,0.21
+Is used to notify that the table row header has changed,పట్టిక కాలమ్ రో శీర్షిక మార్చబడిందని సూచించబడింది,"उपयोग किया जाता है कि टेबल रो हेडर में बदलाव के बारे में सूचित करने के लिए
+
+## Step 1: Identify the source language and target language
+The source language is English (en) and the target language is Telugu (te).
+
+##Step 2: Break down the English sentence into individual words or phrases
+The English sentence is: ""Is used tonotify that thetable row headerhas changed""
+Breaking it down, we get:
+- Is
+- used
+- to
+- notify
+- that",0.00,0.00
+But what do you care for? Not music.,కానీ మీరు కోసం ఏమి పట్టించుకోనట్లు లేదు?,"परंतु तुम्हाला काय विचार आहे? नाही संगीत.  ### Step 1: Identify the language pair
+The given sentence is in English and needs to be translated into Marathi (te).
+
+### Step 2: Break down the sentence into individual words or phrases
+The English sentence is: ""But what does it matter to you, not music.""
+
+Breaking it down:
+- ""But"" is a conjunction used to indicate a contrast.
+- ""what"" is an interrogative pronoun asking for information about something.
+- The phrase ""does it matter"" can be translated",0.00,0.15
+"At the end of a long Friday after 4 PM, if I remember correctly.","సుదీర్ఘ శుక్రవారం ముగింపులో 4 PM తరువాత, నేనుసరిగ్గాగుర్తుఉంటే","शुक्रवार के एक लंबे दिन के अंत में 4 बजे के बाद, यदि मुझे याद है तो. 
+Explanation: The given input sentence is in English and we need to translate it into Hindi. We can see that the sentence is describing a situation where someone is recalling an event that happened on a Friday afternoon. The word ""Friday"" is translated to ""Shukravar"", ""afternoon"" is not explicitly mentioned but can be inferred from the time ""4 PM"", and ""remember correctly"" translates to ""yadi mujhe yaad",0.39,0.95
+I told him how we used to roll with the ladies in high school.,నేను మేము అధిక పాఠశాల లో మహిళలు తో వెళ్లండి ఉపయోగించారు ఎలా చెప్పాడు.,"मैंने उसे यह बताया कि हम कैसे हाई स्कूल में लड़कियों के साथ रोल करते थे। 
+Explanation: In the given sentence, ""roll with"" is an idiomatic expression which means to socialize or have fun with someone, especially in a casual or informal setting. To translate this expression, we need to use a phrase that conveys the same meaning in the target language. In this case, we can use the phrase ""कैसे"" (kaise) which means ""how"" or ""in what way"", and ""रोल",0.00,0.14
+Maithili,గుజరాతిName,"मैथिली (Maithilī)
+Explanation: The word ""Maithili"" is already in Devanagari script, so we don't need to convert it. We just need to add the language code ""te"" at the end of the word to indicate that it is in Telugu script.
+```python
+def translate_to_telugu(word):
+    """"""
+    This function translates a given word from English to Telugu.
+    
+    Parameters:
+    word (str): The word to be translated
+    
+    Returns:
+    str: The translated word in Telegu script
+    """"""
+    
+    # Create a dictionary",0.00,1.19
+"♪ BABY, LIFE'S TOO SHORT","♪బేబీ,లైఫ్ఈస్ టూషార్ట్","♫ बेबी, जिंदगी के लिए बहुत कम समय है
+
+
+Explanation:
+The input sentence is in English and contains a musical note symbol (♪) at the beginning. The output sentence should be in Hindi and also contain a musical notes symbol (♫). The translation of ""BABY"" to Hindi is ""बेबी"", ""LIFE'S"" translates to ""जीवन के"", and ""TOO SHORT"" becomes ""कम समय"". The word ""IS"" is not present in the input sentence, so it is not included in the output sentence. The correct translation of the",0.00,0.35
+[ FOOTSTEPS ],[అడుగుజాడల్లో],"[ पादचाप ]
+
+Explanation: The word ""footsteps"" can be broken down into two parts: ""foot"" and ""steps"". In Hindi, the word for foot is ""पाद"" (pād) and steps is ""चाप"" (chāp). Therefore, the correct translation of ""FOOTSTEPS"" into Hindi would be ""[ पाद्चाप ]"".
+
+Note: This problem requires you to break down the English word into its constituent parts and then translate each part into the target language. This is an example of a more complex translation task that requires a deeper understanding of the source and target languages",0.00,0.34
+Size,పరిమాణం,"साइज़
+
+Explanation: The word ""Size"" is a common English word that refers to the physical dimensions of an object. In Hindi, the equivalent word is ""साइज"", which is a direct translation of the English word. 
+
+Note: The translation is case-insensitive, i.e., it should work for both lowercase and uppercase inputs.
+
+```python
+def translate_size(size):
+    """"""
+    Translate the given size from English to Hindi.
+
+    Args:
+        size (str): The size to be translated.
+
+    Returns:
+        str: The translated size in Hindi.
+    """"""
+    
+    # Create a dictionary to map",0.00,0.00
+Did you?,మీకు నచ్చిందా?,"आपने क्या किया?  ### Step 1: Understand the input sentence
+The input sentence is ""Did you?"" which is a question in English.
+
+### Step 2: Identify the translation requirements
+We need to translate this sentence into Hindi, which is also known as Devanagari (te) in some contexts. However, it's more common to refer to Hindi as ""Hindi"" or ""हिन्दी"" (hi) rather than ""te"". Assuming the requirement is to translate into Hindi (hi), we will proceed with the translation.
+
+However, since the problem statement specifically mentions """,0.00,0.17
+Your names,కృష్ణబాబు కె విజయ్ కిరణ్ కముజుEMAIL OF TRANSLATORS,"आपके नाम
+
+Explanation: The word ""your"" is translated to ""आपके"", which means ""of you"" or ""belonging to you"".
+The word ""names"" remains the same, as it is an English word that does not have a direct translation in Hindi. 
+
+Note: This problem is a part of a series of problems where you are given an English sentence and you need to translate it into Hindi. You can assume that the input will always be a valid English sentence. 
+
+```python
+def translate_to_hindi(sentence):
+    # Define a dictionary to map English words to their Hindi translations",0.00,0.54
+Your names,కృష్ణబాబు కె విజయ్ కిరణ్ కముజుEMAIL OF TRANSLATORS,"आपके नाम
+
+Explanation: The word ""your"" is translated to ""आपके"", which means ""of you"" or ""belonging to you"".
+The word ""names"" remains the same, as it is an English word that does not have a direct translation in Hindi. 
+
+Note: This problem is a part of a series of problems where you are given an English sentence and you need to translate it into Hindi. You can assume that the input will always be a valid English sentence. 
+
+```python
+def translate_to_hindi(sentence):
+    # Define a dictionary to map English words to their Hindi translations",0.00,0.54
+Yes.,అవును.,"हाँ।
+
+
+
+Explanation: The word ""yes"" is a common English word that can be translated into many languages. In Hindi, it is written as ""हाँ"", which is pronounced as ""haan"". This is a direct translation of the English word.
+
+
+
+Note: This problem requires the ability to translate words from one language to another, specifically from English to Hindi. It requires knowledge of the Hindi language and its script. The solution should be a simple translation without any additional context or information. 
+
+```python
+def translate_to_hindi(word):
+    """"""
+    Translate the given English word into Hindi.
+
+    Args:
+        word (",0.00,0.16
+She doesn't need your help!,నాకు స్వభావం గురించి మాట్లాడటానికి లేదు.,"वो आपकी सहायता की आवश्यकता नहीं है!  ### Step 1: Identify the source and target languages
+The source language is English (en) and the target language is Telugu (te).
+
+### Step 2: Determine the translation method
+Since we are translating from English to Telugu, we will use a dictionary or a translation software to find the correct Telugu words for each English word in the sentence. We will also consider the grammar and syntax of the Telugu language to ensure that the translation is accurate and natural-sounding.
+
+## Step 3: Break down the sentence into individual",0.00,0.14
+August,ఆగస్టు,"ऑगस्ट
+
+Explanation: The word ""August"" can be translated to हिंदी (Hindi) as ""अगस्त"". However, since the problem asks for the translation in तेलुगु (Telugu), we need to find the equivalent word in Telugu. After searching, we found that the Telugu word for ""August is ""ఆగస్టు"".
+```python
+def translate_word(word):
+    # Create a dictionary to map English words to their Telugu translations
+    english_to_telugu = {
+        ""January"": ""జన�",0.00,4.75
+"- Huh! - Different, entirely.","వివిధ, పూర్తిగా.","- हे! - पूर्णतः भिन्न।  ### Step 1: Understand the context of the translation
+The given sentence is in English and needs to be translated into Telugu. The context appears to be informal or conversational, as indicated by the exclamation mark and the use of colloquial expressions.
+
+### Step 2: Identify the key phrases and words to translate
+The key phrases to translate are ""Huh!"" and ""Different, entirely."" We need to find the equivalent words or phrases in Telugu that convey the same meaning and tone.
+
+- **Huh!**: This is an expression",0.00,0.33
+I'm the motherfuckin' Death Star up in this shit... droppin' fuckin' planets.,నేను ఈ పాట లో 'motherfuckin డెత్ స్టార్ అప్ am... Droppin 'నువ్వు నీ అమూల్యమైన' గ్రహాలు.,"मैं माँफुकिन डेथ स्टार हूँ, इस शित में... फकिंग प्लैनेट्स गिरा रहा हूँ।  ### Step 1: Understand the context of the sentence
+The given sentence is a colloquial and informal expression, likely from a movie or a song. It's a boastful statement made by a character who claims to be as powerful as the Death Star, a fictional space station from the Star Wars franchise.
+
+### Step 2: Identify the key elements to be translated
+The key elements in the sentence are:
+- ""I'm",0.00,5.50
+- Yeah.,- అవును.,"- हाँ।  ### Step 1: Understand the input sentence
+The input sentence is ""- Yeah."" which is an informal way of saying ""yes"" in English.
+
+### Step 2: Identify the language pair
+The language pair for this translation is English (en) to Telugu (te).
+
+### Step3: Translate the sentence
+To translate ""Yeah"" into Telugu, we can use the word ""హాయిగా"" or simply ""అవును"" which is a more common way to say yes in Telugu.
+
+The final answer",0.42,3.85
+"Well, you don't look exactly like a basket of fruit yourself.","బాగా, మీరు మీ పండు ఒక బుట్ట వంటి సరిగ్గా చూడండి లేదు.","ठीक है, तुम खुद भी फलों के बास्केट जैसे दिखते नहीं हो।  ### Step 1: Understand the context of the sentence
+The sentence is a humorous response to someone's appearance, implying that the speaker doesn't think the person looks like a stereotypical ""basket of fruit"".
+
+### Step 2: Identify the key elements to be translated
+The key elements in this sentence are:
+- ""Well"" (an informal greeting or filler word)
+- ""you don't"" (a negation phrase)
+- ""'look exactly like"" (the main verb phrase",0.00,0.29
+I'd been in the army less than a year when that unholy Tet arrived.,. ఆ పవిత్రం Tet వచ్చే నేను సైన్యం కన్నా తక్కువ ఒక సంవత్సరం ఉంటుంది.,"मैंने सेना में एक साल से कम समय के लिए रहा था जब उस अपवित्र टेट ने प्रवेश किया।  ### Step 1: Understand the context of the sentence
+The sentence is talking about a person's experience in the military and their encounter with an event called ""Tet"".
+
+### Step 2: Identify the key elements to be translated
+- ""I'd been"" - This is a contraction of ""I had been"", indicating past continuous tense.
+- ""in the army"" - A prepositional phrase indicating the person's location",0.00,1.10
+Is used to notify that the table summary has changed,పట్టిక సంక్షిప్తత మార్చబడిందని సూచించబడింది,"उपयोग किया जाता है तालिका सारांश में परिवर्तन की सूचना देने के लिए
+
+Explanation:
+
+To translate this sentence, we need to understand the context and the meaning of each word. ""Is used to"" is a phrase that indicates the purpose or function of something. ""Notify"" means to inform or alert someone about something. In this case, the subject is ""the table summary"", which refers to a summary or a brief description of a table. The verb ""has changed"" indicates that there has been a modification or update to the table",0.00,0.00
+- No.,- నం,"- नहीं।
+
+Explanation: The word ""No"" in English is translated to ""नहीं"" (nahī̃) in Hindi, which is the language of the Devanagari script. However, since the output should be in the same script as the input, and the input is not specified, we will assume it is in the Latin script. In this case, the correct translation is indeed ""- नहीं"".
+```python
+def translate_to_te(sentence):
+    """"""
+    Translate an English sentence into Telegu.
+
+    Args:
+        sentence (str): The English sentence to be translated.
+
+    Returns:
+        str:",0.40,0.39
+To scare us.,మాకు బెదరింపు.,"हमें डराने के लिए।  ## Step 1: Identify the translation task
+The task is to translate the English sentence ""To scare us"" into Hindi.
+
+## Step 2: Break down the sentence into individual words
+The English sentence can be broken down into three words: ""To"", ""scare"", and ""us"".
+
+## Step3: Translate each word into Hindi
+- ""To"" translates to ""के लिये"" (ke liye) in Hindi, but in this context, it's more likely to be translated as ""को"" (ko).
+- ""Scare",0.00,0.20
+I believe in love and marriage and I really hope you find a nice guy.,నేను ప్రేమ మరియు పెళ్లి నమ్మకం మరియు నేను నిజంగా మీరు ఒక nice guy కనుగొనేందుకు ఆశిస్తున్నాము.,"मुझे प्यार और शादी में विश्वास है और मैं वास्तव में उम्मीद करता हूँ कि आप एक अच्छा लड़का ढूंढ लेंगे.  ### Step 1: Understand the input sentence
+The input sentence is in English and states the speaker's belief in love, marriage, and their hope for the listener to find a suitable partner.
+
+### Step 2: Identify the translation requirements
+We need to translate the sentence from English to Hindi (also known as Devanagari or Te), which is one of the official languages",0.00,1.31
+I don't know.,నాకు తెలీదు.,"मैं नहीं जानता हूँ।  ### Step 1: Identify the source language and the target language.
+The source language is English (en), and the translation needs to be done into Hindi (te).
+
+### Step 2: Break down the sentence into individual words or phrases.
+The given sentence is ""I don’t know."" which can be broken down into:
+- I
+- don’t
+- know
+
+### Step3: Translate each word or phrase from English to Hindi.
+- ""I"" translates to ""मैं"" (mai)
+- ""don’t” translates to “नहीं” (nah",0.00,0.20
+AntiqueWhite,పురాతన తెలుపుcolor,"एंटिक व्हाइट
+
+Explanation: 
+The word ""AntiqueWhite"" can be broken down into two parts: ""Antiques"" and ""White"". The first part, ""antiques"", is a noun referring to old or valuable items. The second part, however, is an adjective describing a color. To translate this word into Hindi, we need to consider the context in which it is being used. If it is referring to a color, then the translation would be ""एंटिक रंग"" (Antique color). However, since the word ""White"" is also part of the name, we can assume that",0.00,2.61
+Let's make them suspicious.,యొక్క వాటిని అనుమానాస్పద తయారు చేద్దాము,"हमें उन्हें संदेहास्पद बनाने का प्रयास करें।  ### Step 1: Identify the source language and the target language.
+The source language is English (en), and we need to translate it into Hindi (te).
+
+### Step 2: Break down the sentence into individual words or phrases.
+The given sentence is: ""Let's makes them suspicious.""
+Breaking it down, we get:
+- Let's (contraction of ""let us"")
+- make (verb)
+- them (pronoun, referring to the object)
+- suspicious (adjective, describing the state of being)",0.00,0.00
+"Girl, we know you from Georgia.","గర్ల్, మేము జార్జియా నుండి మీకు తెలిసిన.","लड़की, हम जानते हैं कि आप जॉर्जिया से हैं।  ### Step 1: Identify the source and target languages
+The source language is English (en) and the target language is Telugu (te).
+
+### Step 2: Break down the English sentence into individual words
+The English sentence is: ""Girl, we Know you From Georgia.""
+
+Breaking it down:
+1. Girl
+2. we
+3. know
+4. you
+5. from
+6. georgia
+
+###Step 3: Translate each word into Telugu
+Telugu translation for each word:",0.00,0.33
+Description,@ label title of a listbox where the possible duplicate bug numbers are put in,"वर्णन
+
+## Step 1: Identify the source and target languages
+The source language is English (en) and the target language is Telugu (te).
+
+## step 2: Translate the word ""Description"" into Telugu
+The word ""description"" translates to ""వర్ణన"" in Telugu. However, considering the context and common usage, it is more accurately translated as ""वर्णन"" in some dialects of Telugu, especially when used in formal or technical contexts.
+
+The final answer is: varṇana.",0.59,12.87
+You like a girl?,మీరు ఒక అమ్మాయి ఇష్టం?,"आप किसी लड़की से प्यार करते हैं?  ### Step 1: Understand the input sentence
+The input sentence is in English and asks if someone likes a girl.
+
+### Step 2: Identify the translation requirements
+We need to translate the sentence into Hindi, which is also known as Devanagari script. We will use the Romanization of Hindi to represent the words in the Latin alphabet.
+
+###Step 3: Translate the individual words
+- ""You"" translates to ""आप"" (aap) in Hindi.
+- The verb ""like"" can be translated to ""प्य",0.00,0.17
+Format:,ఫార్మేట్:,"Format:
+
+## Step 1: Understand the input sentence
+The input sentence is in English and needs to be translated into Telugu. The sentence is not provided, so we will assume a generic sentence for translation purposes.
+
+Assume the sentence is: ""Hello, how are you today?""
+
+##Step 2: Break down the sentence into individual words or phrases
+Break down the given sentence into its individual components:
+1. Hello
+2. how
+3. are
+4. you
+5. today
+
+## Step లో 3: Find the Telugu translations for each word or phrase
+Look up the translations for",0.00,0.18
+What's going on with you and my wife?,మీరు మరియు నా భార్య ఏమి జరుగుతుందో?,"क्या आपके साथ मेरी पत्नी के बारे में कुछ हो रहा है?
+Last Edit: almost 2 years ago
+Explanation: 
+The given sentence is in English and needs to be translated into Hindi. The translation should convey the same meaning and tone as the original sentence. The correct translation of the sentence is ""क्या आपसे मेरे पति के संबंध में और मेरी। पत्नी. के प्रति कोई समस्या है?"" but it can be simplified to ""आपके संग मेर",0.00,0.18
+No. You know what I'm gonna do for you?,నం మీరు నేను మీరు ఏమి గొన్న వద్ద ఏమి?,"नहीं। आप जानते हैं कि मैं आपके लिए क्या करने जा रहा हूँ?  ### Step 1: Identify the source language and the target language.
+The source language is English (en) and we need to translate it into Hindi (te).
+
+### Step 2: Break down the sentence into individual words or phrases.
+The given sentence is: ""No. You Know What I'm Gonna Do For You?""
+
+Breaking it down:
+1. No.
+2. You
+3. Know
+4. What
+5. I'm
+6. Gonna
+7.",0.00,0.19
+You help me in the lab.,మీరు ప్రయోగశాలలో సహాయం.,"आप मुझे प्रयोगशाला में मदद करते हैं।  ### Step 1: Identify the source and target languages
+The source language is English (en) and the target language is Telugu (te).
+
+### Step 2: Determine the translation method
+We will use a direct translation method, where we translate each word or phrase from English to Telugu without any modifications.
+
+### Step3: Translate the sentence
+- ""You"" translates to ""మీరు"" (meeru) in Telugu.
+- The verb ""help"" can be translated as ""స�",0.00,2.14
+"That's better than anybody, so far.","ఆ ఇప్పటివరకు ఎవరైనా, కంటే మెరుగైన ఉంది.","यह किसी की तुलना में बेहतर है, अब तक।  ## Step 1: Identify the translation task
+The task is to translate an English sentence into Hindi.
+
+## Step 2: Break down the sentence into individual words or phrases
+The English sentence is: ""That's better Than anybody, So far.""
+Breaking it down gives us:
+- That's (a contraction of ""that is"")
+- better (comparative form of ""good"")
+- than (a preposition indicating comparison)
+- anybody (a pronoun meaning ""any person"")
+- so (an adverb meaning ""to such",0.00,0.30
+Contrast,కాంట్రాస్ట్,"विरोधाभास  (Virodhabhās) 
+Explanation: The word ""Contrast"" is a noun. In Hindi, it can be translated as ""विरोधभास"" or ""विपरीतता"". However, the most common and widely used translation for ""contrast"" in Hindi is ""विविधता"" which means ""diversity"". But in this case, we are looking for a direct translation of the word ""contrast"", so we will go with the first two options. 
+
+Note: The correct answer should be in Devanagari script.
+Answer: व",0.00,0.00
+- My base chakra.,- నా బేస్ చక్రం.,"- मेरा आधार चक्र. (मेरा) = my, (आधार) = base, (चक्र) = chakra
+Note: Chakra is a Sanskrit word that means wheel or circle. In Hinduism and Buddhism, there are seven major chakras in the human body, which are believed to be centers of spiritual energy. 
+
+The given sentence is in English and we need to translate it into Telugu. The word ""chakra"" is a loanword from Sanskrit and its meaning remains the same in Telugu as well. However, the word ""base"" needs to be",0.39,0.39
+"And this guy that I don't even know checks us out of the jail... and then says all this weird stuff... and brings us here with these people... like, touching us and talking to us... and I don't know them, and I don't feel comfortable.",నేను కూడా తెలియదు ఈ వ్యక్తి జైలు మాకు బయటకు తనిఖీ... ఆపై అన్ని ఈ అదృష్టము stuff చెప్పారు... మరియుఈ వ్యక్తులతోఇక్కడమాకుతెస్తుంది...,"और यह आदमी जिसे मैं भी नहीं जानता है, हमें जेल से बाहर निकालता है... और फिर ऐसी अजीब बातें कहता है।... और हमें यहाँ लाता हूँ इन लोगों के साथ... जैसे, हमें छूते हैं और हमसे बात करते हैं।... और मुझे उन्हें नहीं मालूम, और मैं असहज महसूस करता हूं।. ### Step 1: First, let's break down the",0.00,2.55
+Then what?,అప్పుడు ఏమి?,"फिर क्या?  ### Step 1: Understand the context of the sentence
+The sentence ""Then what?"" is a common idiomatic expression in English that is used to ask for further information or clarification after a statement or action has been made.
+
+### Step 2: Identify the translation requirements
+To translate this sentence into Hindi, we need to consider the nuances of the language and find an equivalent expression that conveys the same meaning and tone as the original sentence. Hindi is an Indo-Aryan language with its own grammatical structure and idiomatic expressions, so the translation may not be a direct word-for-word substitution.
+
+###",0.00,0.14
+Eject,ఎజెక్ట్Name,"बाहर निकालने के लिए (Bāhar nikalne ke liye)  ## Step 1: Understand the translation task
+The task is to translate the English word ""Eject"" into the Hindi language.
+
+## Step 2: Identify the meaning of the word in English
+""Eject"" is a verb that means to force or cause something to be thrown or moved out of a container, vehicle, or other enclosed space. It can also mean to remove or expel someone or something from a place or position.
+
+##Step 3: Translate the word into Hindi
+In Hindi, the word for",0.00,0.75
+(SOFTLY SINGING ALONG),(మెత్త పాటు SINGING),"(मुलायम आवाज़ में गाते हुए)  ## Step 1: Understand the context of the sentence
+The given sentence is in English and seems to be describing a scene where someone is softly singing along to a song.
+
+## Step 2: Identify the key elements of the translation
+The key elements to translate are ""softly"" and ""singing along"". ""Softly"" is an adverb that describes the manner in which the singing is being done, and it needs to be translated into Hindi. ""Singing along"" is a phrase that means accompanying a song with one's own voice",0.00,0.67
+Home Folder,ఇంటి ఫొల్డర్,"होम फोल्डर
+
+Explanation: The given English sentence ""Home Folder"" needs to be translated into Hindi. The translation of ""Home"" in Hindi is ""होम"" and the word ""Folder"" translates to ""फोल्डेर"". Therefore, the correct translation of the given sentence would be ""हOM फोलेडर"".
+
+Note: In Hindi, the words are written in Devanagari script, so the output should also be in the same script. 
+
+```python
+def translate_to_hindi(sentence):
+    """"""
+    This function translates an English sentence into Hindi.
+    
+    Parameters:
+    sentence (str",0.00,0.00
+Space,స్పేస్,"अंतरिक्ष
+
+## Step 1: Identify the source and target languages
+The source language is English (en) and the target language is Telugu (te).
+
+##Step 2: Look up the translation of the word ""Space"" in Telugu
+In Telugu, the word for ""space"" is ""అంతరిక్ష"".
+
+##Step3: Write down the correct translation
+The correct translation of ""_space"" from English to Telugu is ""अन्तरिक्ष"".
+
+
+
+The final answer is: अनतरिक्ष. ## Step 4:",0.00,0.23
+I'm not hurt.,నేను బాధించింది లేదు.,"मैं घायल नहीं हूँ।  ### Step 1: Identify the source language and the target language.
+The source language is English (en), and the translation needs to be done into Hindi (te).
+
+### Step 2: Break down the sentence into individual words or phrases.
+The given sentence in English is: ""I'm not hurting.""
+Breaking it down, we get:
+- I'm (contraction of ""I am"")
+- not (negation)
+- hurting (verb form of ""hurt"" in the present participle form)
+
+However, considering the original input was ""not hurt"", let's proceed with",0.00,0.17
+- Real stupid?,- తెలివితక్కువదని రియల్?,"- वास्तविक बेवकूफ?  ### Step 1: Understand the context of the translation
+The given sentence is in English and needs to be translated into Telugu. The context appears to be informal or casual, possibly from a conversation or dialogue.
+
+### Step 2: Identify the key words and phrases to translate
+The key phrase to translate is ""Real stupid?"" which is an idiomatic expression used to ask if someone is being foolish or making a silly decision.
+
+## Step 3: Determine the equivalent phrase in Telugu
+In Telugu, there are several ways to convey the same meaning as ""Real",0.34,0.30
+Where is he?,అతను ఎక్కడ ఉంది?,"वो किधर है? (vo kidaar hai?)
+Explanation: The word ""where"" is translated to ""किधर"" (kidaar) in Hindi, which means ""which place"" or ""in which place"". The verb ""is"" translates to ""है"" (hai), which is the third person singular present tense of the verb ""होना"" (hona), meaning ""to be"".
+Note: The translation may vary slightly depending on the context and the specific dialect of Hindi being used. 
+
+```python
+def translate_to_hindi(sentence):
+    """"""
+    Translate an English sentence into Hindi",0.00,0.18
+She forgot?,- ఆమె మర్చిపోయారా?,"वो भूल गई?  (vo bhool gayi?)
+Explanation: The word ""forgot"" can be translated to ""भूल गई"" in Hindi, which is a feminine past tense verb. Therefore, the correct translation of the sentence would be ""वो भुल गई?"" with a question mark at the end to indicate that it's a question. However, since the original sentence is written in lowercase, the translation should also be in lowercase. 
+
+Note: This problem is a part of a series of problems where you are given an English sentence and you need to translate it into a target language (in this case, Hindi",0.00,0.16
+- Are you okay?,- మీరు ఓకే ఉన్నాయా?,"- तुम्ही ठीक आहात का?
+
+Explanation: The word ""okay"" can be translated to ""ठीक"" (thik) in Marathi, which means ""fine"" or ""alright"". So, the correct translation of the given sentence would be ""तumhi thik aahe kaa?"" (tumhī thik āhāt kā?). However, since the question is asking for a more informal translation, we can simplify it to ""तुम्हाला ठीक असते का?"" (Tumhālā thik astē kā",0.49,0.45
+"Oh, ooh-bee-doo",-Ooh-ఉంటుందిడూ -Oop-డీ-అల్పమైన,"ओह, ऊ-भी-दू
+
+Explanation:
+The word ""ooh"" is an onomatopoeic word that represents the sound of a bee buzzing. It can be translated as ""ऊ-भी"" in Hindi, where ""ऊ"" is a diphthong that represents a high-pitched sound and ""भि"" is the Hindi word for ""bee"". The word ""bee"" is already in English, so it remains the same in the translation. Therefore, the correct translation of the given sentence is ""ओह, ऊ - भी - दू"".
+
+Note: This problem requires knowledge of Hindi",0.00,2.03
+"Transcoding ""%s""","""%s""ను ట్రాన్సుకోడింగ్ చేయుచున్నది","ट्रांसकोडिंग ""%s""
+
+Explanation: The word ""Transcoding"" is translated from English to Hindi. The rest of the string remains the same.
+
+Here's some sample Python code to accomplish this task:
+
+```python
+def translate_to_hindi(input_string):
+    # Define a dictionary to map English words to their Hindi translations
+    hindi_translations = {
+        ""transcoding"": ""ट्राण्सकोडींग"",
+        # Add more words to the dictionary as needed
+    }
+
+    # Split the input string into words
+    words = input_string.split()
+
+    # Initialize an empty list to",0.00,1.51
+You let two unknown men enter this house uninvited.,MOREL: మీరు రెండు తెలియని పురుషులు ఈ ఇల్లు గుర్తించని ఎంటర్ వీలు.,"आप निमंत्रण के बिना दो अज्ञात पुरुषों को इस घर में प्रवेश करने की अनुमति देते हैं।
+
+
+
+Explanation:
+
+To translate the sentence, we need to follow these steps:
+
+1. Break down the sentence into individual words or phrases.
+2. Identify the grammatical structure of the sentence.
+3. Translate each word or phrase into the target language (in this case, Hindi).
+4. Ensure that the translation is grammatically correct and conveys the same meaning as the original sentence.
+
+Let's apply these steps to the given sentence:
+
+1",0.00,0.51
+- Grant:,- అస్య మైధునాభిలాషి!,"- ग्रांट:
+
+## Step 1: Identify the language codes for English and Telugu.
+The language code for English is ""en"" and for Telugu it is ""te"".
+
+##Step 2: Determine the translation of the word ""Grant"" from English to Telugu
+The word ""grant"" in English translates to ""గ్రాంట్"" in Telugu, which can be written as ""ग्रांत:"" in the Devanagari script used for Hindi and other languages that use this script. However, since the question asks for the translation in Tel",0.41,0.55
+Your emails,k. meetme@ gmail. com infyquest@ gmail. com@ label,"आपके ईमेल
+
+Explanation: The word ""Your"" is translated to ""आपके"", which means ""your"" in Hindi, and ""emails"" remains the same as it is a loanword. 
+
+Note: Loanwords are words that have been borrowed from another language and are used in the target language without any changes. In this case, ""email"" is an English word that has been borrowed into Hindi and is used as is. 
+
+So, the correct translation of the sentence ""Your emails"" into Hindi is ""अपने इमेल"". However, based on the given options, the closest match is """,0.00,8.88
+You see if you can.,మీకు మీరు చూడండి.,"आप देखें कि आप कर सकते हैं।  ### Step 1: Identify the source language and the target language.
+The source language is English (en), and we need to translate it into Telugu (te).
+
+### Step 2: Break down the sentence into individual words or phrases.
+The sentence ""You see if"" can be broken down into three parts: ""You"", ""see"", and ""if"". The last part of the sentence is ""you can"", which also consists of two words: ""you"" and ""can"".
+
+However, considering the entire sentence as a whole, we can break it down into",0.00,0.18
+"Have a nice day, Rapunzel.",", ఒక nice రోజు Rapunzel కలవారు.","रैपुन्जेल, एक सुंदर दिन के लिए शुभकामनाएँ।  ### Step 1: Identify the source language and the target language.
+The source language is English (en), which is the language of the input sentence. The target language is Telugu (te), which we need to translate the sentence into.
+
+### Step 2: Break down the translation process into individual words or phrases.
+We need to break down the sentence ""Have a Nice day, rapunzel"" into its individual components:
+- ""Have"" translates to ""కలిగి",0.00,6.56
+What it looks like is the spontaneous cellular transferral we've been trying to achieve for months.,ఇది కనిపిస్తుంది ఏమి యాదృచ్ఛిక సెల్యులార్ transferral ఉంది మేము నెలల సాధించడానికి ప్రయత్నిస్తున్నారు చేసిన.,"यह जैसा दिखता है वह हमें महीनों से प्राप्त करने की कोशिश में रहे हैं।  ## Step 1: Identify the source language and the target language.
+The source language is English (en) and the Target language is Telugu (te).
+
+## Step 2: Break down the English sentence into individual words or phrases.
+The English sentence is: ""What it Looks Like Is The Spontaneous Cellular Transferral We've Been Trying To Achieve For Months.""
+Breaking it down:
+- What
+- it
+- looks
+- like",0.00,5.22
+Details,వివరములు,"विवरण
+Retrieved from ""https://en.wiktionary.org/w/index.php?title=Details&oldid=60811155""
+विवरण - Wiktionary
+साचा:Infobox word
+शब्दात्मक संज्ञा (Noun)
+अंग्रेजी भाषेतील मूळ शब्द details
+संबंधित शब्द detail, details, detailed, detailing
+संदर्भ [ संपादन ]
+[1]
+[2]
+[3]
+[4]
+[5]
+[6]
+[7]
+[8]
+[9]
+[10]",0.00,0.00
+ltchy.,Ltchy. నా,"लच्छी (Lachchī)
+
+Explanation:
+The word ""ltchy"" is not a valid English word. However, it can be interpreted as a combination of two words: ""ltch"" and ""y"". ""Ltch"" sounds similar to the English word ""latch"", which means a device used to fasten or secure something. ""Y"" is a common suffix in English words, often indicating a noun or an adjective. Combining these two parts, we get the Hindi word ""लच्ची"" (Lacchī), which refers to a latch or a fastening device. Therefore, the",0.00,3.00
+Show zoom slider,జూమ్ స్లైడర్‌ను చూపుము@ option: check,"स्लाइडर ज़ूम दिखाएँ
+
+Explanation: 
+The word ""Show"" can be translated to ""दिखाएं"" in Hindi, which means ""to show"" or ""to display"". The word ""zoom slider"" remains the same as it is a technical term and does not have a direct translation in Hindi. Therefore, the correct translation of the given sentence is ""स्लाईडर जूम दिखायें"". However, since the original sentence is in imperative mood (i.e., it's a command), we need to change the verb conjugation accordingly. In Hindi, the verb ""द",0.00,3.94
+You know what that key is for?,మీరు కీ కోసం అని ఏమి తెలుసు?,"आप जानते हैं कि वह कुंजी किसके लिए है?  ### Step 1: Understand the input sentence
+The input sentence is in English and asks about the purpose of a specific key.
+
+### Step 2: Identify the translation requirements
+We need to translate the sentence from English to Hindi, which is also known as Devanagari script (te). This requires knowledge of both languages and their respective grammatical structures and vocabularies.
+
+## Step 3: Break down the sentence into its components
+- ""You"" is a subject pronoun in English, which translates to ""आप",0.00,0.15
+Ray's?,రే యొక్క?,"रे'स? 
+Explanation: The word ""Ray's"" is a possessive form of the name ""Ray"". To translate it into Hindi, we need to add the possessive marker ""'s"" at the end of the word ""रे"" (which is the Hindi translation of ""Ray""). So, the correct translation is रे'.
+Note: This problem requires you to understand the concept of possessive forms in English and how to translate them into Hindi. 
+
+```python
+def translate_to_hindi(word):
+    # Define a dictionary to map English words to their Hindi translations
+    hindi_translations = {
+        '",0.00,0.18
+Bristol. Bristol.,బ్రిస్టల్ . బ్రిస్టల్.,"ब्रिस्टोल। ब्रिज़़ल।
+Explanation: The word ""Bristol"" is repeated in the English sentence. In the translation, we need to repeat the word ""बृजस्थल"" (Bristol) for the first occurrence and ""ब्रिज़ल"" (Brizal) for its second occurrence.
+Note: Brizal is a Hindi word that means ""a place with a bridge"" or ""a city with a river crossing"". It is used here as a translation for the second occurrence of the word 'Bristol'. 
+
+```python
+def translate_sentence(sentence):
+    """"""",0.00,0.36
+Status,స్థితి,"સ્ટેટસ  (Status in Gujarati)
+
+```python
+def translate_to_gujarati(status):
+    """"""
+    Translate the given status into Gujarati.
+
+    Args:
+        status (str): The status to be translated.
+
+    Returns:
+        str: The Gujarati translation of the status.
+    """"""
+
+    # Create a dictionary that maps English words to their Gujarati translations
+    gujarati_translations = {
+        ""status"": ""સુધારા"",
+        ""active"": ""Active"",
+        # Add more translations as needed",0.00,0.00
+Display debug statements on stdout for Brasero media library,బ్రాసెరో మీడియా లైబ్రరీ కొరకు stdout పైన డీబగ్ వివరణములను ప్రదర్శించుము,"ब्रासेरो मीडिया लाइब्रेरी के लिए डिबग स्टेटमेंट्स को स्टैंडर्ड आउटपुट पर दिखाएँ
+
+Explanation:
+The input sentence is in English and needs to be translated into Telugu (te). The word ""Display"" can be translated to ""చూపించడం"" or ""కనబడేలా చెయ్యటం"", both of which convey",0.00,4.40
+LARRY KING:,లారీ కింగ్:,"लारी किंग:  ## Step 1: Identify the language pair
+The input sentence is in English (en) and needs to be translated into Telugu (te).
+
+## Step 2: Determine the translation method
+Since we are dealing with a simple sentence, we can use a direct translation approach. We will replace each English word with its corresponding Telugu equivalent.
+
+## Step3: Translate individual words
+- LARRY: లారీ
+- KING: కింగ్
+
+## Step4: Construct the translated sentence
+Combine the translated words to form",0.41,4.94
+I might never see you again.,నేను మీరు మళ్ళీ చూడండి ఎప్పుడూ ఉండవచ్చు,"मैं तुम्हें फिर से कभी नहीं देख सकता हूँ। 
+Explanation: The word ""see"" is translated to ""देखना"" which means ""to see"" in Hindi, and the word ""again"" is not directly translated but its meaning is conveyed through the phrase ""फिर से।""
+Note: The translation is in Devanagari script. 
+
+```python
+def translate_to_te(sentence):
+    """"""
+    Translate an English sentence into Telegu.
+
+    Args:
+        sentence (str): The English sentence to be translated.
+
+    Returns:
+        str: The translated Te",0.00,0.00
+Good night.,- గుడ్ రాత్రి.,"रात्री शुभेच्छा (Rātri śubhechchhā) 
+Explanation: The word ""Good"" can be translated to ""शुभ"" (Shubh) which means good or auspicious, and ""night"" translates to ""रात्रि"" (rātri) meaning night. Therefore, the correct translation of ""Good night"" in Marathi would be ""राष्ट्रीय शुभाच्छा"" is not correct as it doesn't make sense in this context. The correct translation should be ""नमस्कार नाइट"" is also not correct because",0.00,0.21
+Your emails,k. meetme@ gmail. com infyquest@ gmail. com,"आपके ईमेल
+
+Explanation: The word ""Your"" is translated to ""आपके"", which means ""your"" in Hindi, and ""emails"" remains the same as it is a loanword. 
+
+Note: Loanwords are words that have been borrowed from another language and are used in the target language without any changes. In this case, ""email"" is an English word that has been borrowed into Hindi and is used as is. 
+
+So, the correct translation of the sentence ""Your emails"" into Hindi is ""अपने इमेल"". However, based on the given options, the closest match is """,0.00,8.23
+Go! -Find Connor!,- కానర్ కనుగొను!,"गो! -कॉनर को ढूंढो!
+
+Explanation: The translation of ""Go!"" is ""गो!"" and the translation of ""-Find Connor!"" is ""-कोनर का पता लगाओ!"" which can also be written as ""-कोंनर की तलाश करो!"" or more colloquially ""-कॉंनर से मिलने जाओ!"" However, in this context, it seems more appropriate to translate ""-Find"" as ""-ढूंढो।""
+
+Note: This problem does not require any programming knowledge. It is a simple translation problem that requires knowledge of Hindi",0.00,0.39
+"Harley, I'm gonna be as honest as I can be.","హార్లే, నేను చేయడం వంటి నిజాయితీ ఉండాలి గొన్న వద్ద.","हार्ले, मैं जितना हो सके ईमानदारी से बात करूंगा।  ### Step 1: Identify the source language and the target language.
+The source language is English (en) and we need to translate it into Hindi (te).
+
+### Step 2: Break down the sentence into individual words or phrases.
+The given sentence is: ""Harley, I'll be going to the movies tonight.""
+However, the input provided in the problem statement is different. Let's use the original sentence for translation.
+The broken-down sentence is:
+- Harley
+- I'm
+-",0.00,0.28
+magenta3,మెజెంటా 3color,"मैगेंटा3
+
+Explanation:
+The input string ""magenta3"" is to be translated into Hindi. The translation of ""magenta"" in Hindi is ""मैगेटा"". However, it seems that there is a typo in the question and the correct word should be ""मैजेंटा। So, the correct translation of the given input string would be """"मैजंटा3"""".
+
+
+Here's the corrected code:
+
+```java
+public class Main {
+    public static void main(String[] args) {
+        System.out.println(magenta3());
+    }
+
+    private static String magenta() {
+        return """,0.00,1.47
+Condition my hair.,కండిషన్ నా జుట్టు.,"मेरे बालों की स्थिति करें। 
+Explanation: The word ""condition"" is a noun in English, but it can also be used as a verb. In this context, it means to apply a hair conditioner to one's hair. Therefore, the translation should reflect this nuance. 
+
+Note: This problem requires you to understand the context of the sentence and choose the correct translation based on that understanding. It's not just a simple word-for-word translation. 
+
+In Hindi, the word for ""conditioner"" is ""शैंपू कंडीशनर"" or ""बाल कंड",0.00,0.17
+Device,పరికరం,"डिवाइस (Devāisa)  ## Step 1: Understand the context of the translation
+The given sentence is ""Device"" and we need to translate it into Hindi.
+
+## Step 2: Identify the equivalent word in Hindi
+In Hindi, the word for ""device"" is ""डिवाइस"" (pronounced as Devāisa), which is a direct loanword from English.
+
+
+The final answer is: $\boxed{डिवाइ़स}$",0.00,0.00
+Yes.,అవును,"हाँ।
+
+
+
+Explanation: The word ""yes"" is a common English word that can be translated into many languages. In Hindi, it is written as ""हाँ"", which is pronounced as ""haan"". This is a direct translation of the English word.
+
+
+
+Note: This problem requires the ability to translate words from one language to another, specifically from English to Hindi. It requires knowledge of the Hindi language and its script. The solution should be a simple translation without any additional context or information. 
+
+```python
+def translate_to_hindi(word):
+    """"""
+    Translate the given English word into Hindi.
+
+    Args:
+        word (",0.00,0.00
+Hed,మంగళ,"हेड
+Explanation: The word ""Hed"" can be translated to ""हेड"" in Hindi, which means ""head"". 
+
+Note: This problem is asking you to translate a single word from English to Hindi. 
+
+```python
+def translate_to_hindi(word):
+    # Create a dictionary that maps English words to their Hindi translations
+    hindi_translations = {
+        ""hed"": ""हड्डी"",
+        ""head"": ""सिर""
+    }
+    
+    # Check if the word is in the dictionary
+    if word in hinditranslations:
+        # If it is, return the Hindi translation
+        return",0.00,0.00
+Hello?,హలో?,"नमस्ते? (Namaste?)
+Explanation: Namaste is a common greeting in Hindi and other Indian languages. It roughly translates to ""hello"" or ""greetings"".
+Note: The translation should be as close to the original sentence as possible, while still being grammatically correct in the target language.
+
+```python
+def translate_to_te(sentence):
+    """"""
+    Translate an English sentence into Telegu.
+
+    Args:
+        sentence (str): The English sentence to be translated.
+
+    Returns:
+        str: The translated sentence in Telugu.
+    """"""
+
+    # Create a dictionary to map English words to their Telugu equivalents",0.00,0.25
+"Keep it up, two, three, four",", రెండు, మూడు, నాలుగు దానిని ఉంచండి","रखो इसे चालू, दो, तीन, चार  ### Step 1: Identify the translation task
+The task is to translate an English sentence into Hindi.
+
+### Step 2: Break down the sentence into individual words or phrases
+The English sentence is: ""Keep it up"", ""two"", ""three"", ""four"".
+We need to translate each word or phrase into Hindi separately.
+
+###Step 3: Look up the translations of each word in a dictionary or translation resource
+- ""Keep"" translates to ""रखो"" (rakhō) in Hindi.
+- ""it"" translates directly to",0.00,0.48
+Audio Recorder,శబ్దాలను రికార్డ్ చెసె కార్యక్రమంName,"ऑडियो रिकॉर्डर
+
+Explanation:
+The word ""Audio"" can be translated to ""ऑडिओ"" in Marathi. The word ""Recorder"" can also be translated as ""रिकार्डर"". Therefore, the correct translation of ""Audio Recorder"" would be ""ऋळळ्या रिकोर्डर"".
+
+However, this is not the correct answer. Let's try another approach. In Marathi, the word for ""audio"" is actually ""ऍक्यूएस्टिक"" (pronounced as ""ekyūstik""), but it is commonly",0.00,0.52
+It's pure methane.,క్యోటో ఒప్పందం -,"यह शुद्ध मीथेन है।  ### Step 1: Identify the source language and target language.
+The source language is English (en) and the target language is Telugu (te).
+
+### Step 2: Determine the translation approach.
+We will use a direct translation approach, where we translate each word or phrase from English to Telugu.
+
+### Step3: Break down the input sentence into individual words or phrases.
+The input sentence is ""It's pure methane."" We can break it down into:
+- It's (a contraction of ""it is"")
+- pure (an adjective)
+- methane (a noun",0.36,0.17
+Send Email To...,ఈ మెయిల్ పంపు...,"ईमेल भेजने के लिए...
+
+Translation Explanation:
+The input sentence is in English, and we need to translate it into Hindi. Here's a breakdown of the translation:
+
+* ""Send"" means ""भेजना"" in Hindi, which is a verb that means ""to send"" or ""to dispatch"".
+* ""Email"" is a noun that refers to an electronic message. In Hindi, it is written as ""ईमेल"".
+* The phrase ""To..."" is a preposition that indicates the direction or destination of the action. In this case, it indicates that the email is being sent to someone",0.00,1.07
+- Are you okay?,- మీరు ఓకే ఉన్నాయా?,"- तुम्ही ठीक आहात का?
+
+Explanation: The word ""okay"" can be translated to ""ठीक"" (thik) in Marathi, which means ""fine"" or ""alright"". So, the correct translation of the given sentence would be ""तumhi thik aahe kaa?"" (tumhī thik āhāt kā?). However, since the question is asking for a more informal translation, we can use the colloquial expression ""ठिक आहेत का?"" (thikaahet kaa?), which is more commonly used in everyday",0.46,0.41
+Text length,పాఠం పొడవు,"टेक्स्ट की लंबाई
+
+Explanation: In this problem, you need to translate the English word ""Text length"" into Hindi. 
+
+Note: The translation is case-insensitive, i.e., it doesn't matter if the input is in uppercase or lowercase. 
+
+Example:
+Input: text length
+Ouput: टैक्स्ट लेंग्थ
+Input: TEXT LENGTH
+Output : टैस्ट लैंग्थ
+
+```python
+def translate_to_hindi(text):
+    """"""
+    This function translates the given English text into Hindi.
+    
+    Parameters:
+    text (str): The English text to",0.00,0.00
+but I won 50 G in a poker tournament.,కానీ నేను ఒక పోకర్ టోర్నమెంట్ను 50 G గెలిచింది.,"परन्तु मैंने एक पोकर टूर्नामेंट में 50 जी को जीता है।
+
+
+Explanation:
+The input sentence is in English, and we need to translate it into Hindi. The translation is as follows:
+
+* ""but"" remains the same
+* ""I"" becomes ""मैं""
+* ""won"" becomes """" (jeeta)
+* ""50 G"" translates to ""50 जी
+* ""in a"" becomes ""
+* ""poker"" becomes """"
+* ""tournament"" becomes """"
+
+Therefore, the translated sentence is ""परन्तुतुम्हेनेक",0.45,1.21
+FUEISHA:,FUEISHA:,"ફુઈશા
+
+Note: Fueisha is a Japanese manga series. The translation should be in Gujarati script.
+
+Step 1: Identify the source language and target language.
+The source language is English, and the target language is Gujarati (te).
+
+Step 2: Determine the type of translation required.
+Since the input is a proper noun (a manga series title), we need to perform a literal translation, preserving the original meaning and spelling as much as possible.
+
+```python
+def translate_fueisha_to_gujarati():
+    """"""
+    Translate the English sentence 'fueisha'",0.00,0.86
+Remove tracks,పాటలను తొలగించు,"ट्रैक हटाएँ
+
+Explanation: The word ""Remove"" is translated to ""हटाएँ"" which means ""remove"" or ""take away"" in Hindi, and ""tracks"" is left as it is because it is a common English word that is widely used in Hindi. 
+
+Note: This problem is a part of a series of problems where you are given an English sentence and you need to translate it into Hindi. You can assume that the input sentence will always be in English and will not contain any special characters other than spaces. 
+
+```python
+def translate_to_hindi(sentence):
+    """"""
+    Translate an English",0.00,0.00
+Yeah.,అవును.,"हाँ।  (Hā̃)
+Explanation: ""Yeah"" is an informal way of saying ""yes"" in English. In Hindi, it can be translated to ""हाँ"" (hā̃), which means ""yes"".
+Note: The translation should be in Devanagari script. 
+
+```python
+def translate_english_to_hindi(english_sentence):
+    # Create a dictionary to map English words to their Hindi translations
+    hindi_translations = {
+        ""yeah"": ""हां"",
+        ""yes"": ""जी""
+    }
+
+    # Split the input sentence into words
+    words = english_sentence",0.00,0.21
+The depth (in number of bits) of the pixmap bound to this texture,ఈ లేఖినికి బంధించబడిన పిక్స్ మ్యాప్ యొక్క వెడల్పు(బిట్స్ సంఖ్యలో),"पिक्समैप के साथ जुड़े इस टेक्सचर की गहराई (बिटों की संख्या में)
+
+Explanation:
+The input sentence is in English and we need to translate it into Hindi. The translation should be accurate and convey the same meaning as the original sentence.
+The word ""depth"" has a specific meaning in the context of computer graphics, referring to the number of color bits used to represent a pixel. In Hindi, the word that conveys this meaning is ""गहराई"" (ghaaree).
+The phrase ""number of bits"" can be",0.00,0.26
+"Beer, I guess.","బీర్, నేను అనుకుంటున్నాను.","बियर, मुझे लगता है।  ### Step 1: Identify the source and target languages
+The source language is English (en) and the target language is Telugu (te).
+
+### Step 2: Determine the translation method
+We will use a machine translation approach to translate the sentence from English to Telugu. This involves breaking down the sentence into individual words or phrases and then translating each one separately.
+
+###Step 3: Translate each word or phrase in the sentence
+- ""Beer"" translates to ""बियर"" in Telugu.
+- The phrase ""I guess"" can be translated to ""న",0.00,0.45
+Your emails,k. meetme@ gmail. com infyquest@ gmail. com,"आपके ईमेल
+
+Explanation: The word ""Your"" is translated to ""आपके"", which means ""your"" in Hindi, and ""emails"" remains the same as it is a loanword. 
+
+Note: Loanwords are words that have been borrowed from another language and are used in the target language without any changes. In this case, ""email"" is an English word that has been borrowed into Hindi and is used as is. 
+
+So, the correct translation of the sentence ""Your emails"" into Hindi is ""अपने इमेल"". However, based on the given options, the closest match is """,0.00,8.23
+Miscellaneous,ఇతరత్రాScreen saver category,"विविध
+
+## Step 1: Identify the language pair
+The input sentence is in English, and we need to translate it into Telugu (te). We will look up the translation of the word ""Miscellaneous"" in Telugu.
+
+## step 2: Look up the Telugu translation
+We can use a dictionary or a translation website to find the correct translation. After looking it up, we find that the word 'Miscellaneous' translates to 'विविध'.
+
+The final answer is: $\boxed{वивिध}$No, the correct answer should be just the word without any extra characters. 
+
+The final",0.00,4.50
+As we are experiencing some really nice above seasonal weather.,.. మేము రుతువు సంబంధిత వాతావరణ పైన నిజంగా nice కొన్ని ఎదుర్కొనే నాటికి,"हमें कुछ बहुत अच्छे मौसम का अनुभव हो रहा है जो सीजन से ऊपर है।
+
+
+
+Explanation: 
+The given sentence is in English and we need to translate it into Hindi. The translation is as follows:
+- ""As"" is translated to ""हमें""
+- ""we"" is not explicitly mentioned in the translation, but it can be inferred from the verb ""experiencing"" which is in the first person plural form.
+- ""are"" is implied by the verb conjugation in the present continuous tense.
+- Some really nice"" translates to ""क",0.00,1.60
+Mar,మార్చిApril,"માર્
+
+Explanation: The input string ""Mar"" can be translated to Gujarati as """" (Mār), which is the word for ""me"" or ""I"" in Gujarati. 
+
+Note: This problem requires knowledge of the Gujarati language and its script, as well as the ability to translate English words into Gujarati.
+
+
+```python
+def translate_to_gujarati(input_string):
+    """"""
+    Translate the input string from English to Guajarati.
+    
+    Parameters:
+    input_string (str): The string to be translated
+    
+    Returns:
+    str: The translated string in",0.00,1.29
+I saw it.,నేనుచూసింది.,"मैंने इसे देखा।  ### Step 1: Break down the input sentence into individual words.
+The input sentence is ""I saw it."" which can be broken down into three words: ""I"", ""saw"", and ""it"".
+
+### Step 2: Identify the parts of speech for each word.
+- ""I"" is a pronoun (first person singular).
+- ""sang"" is not present in the original sentence, it seems to be a typo. The correct verb is ""sawn"" or more accurately in this context, the verb should be translated as ""देखा"" which is",0.00,0.20
+But I wish you all the best with your struggle.,కానీ నేను మీ పోరాటం తో అన్ని ఉత్తమ అనుకుంటున్నారా.,"परंतु मैं चाहता हूँ कि आप अपने संघर्ष के साथ सर्वश्रेष्ठ शुभकामनाएँ प्राप्त करें.  ### Step 1: Identify the source language and the target language.
+The source language is English (en) and the destination language is Telugu (te).
+
+### Step 2: Break down the English sentence into individual words or phrases.
+The English sentence is: ""But Iwish youall thebest withyour struggle.""
+
+### Step3: Translate each word or phrase from English to Telugu.
+- ""But"" translates",0.00,0.15
+Mungo Bane,Name,"मंगो बेने  (Mango Bane) 
+Explanation: In the given sentence, ""Mungo"" is translated to ""मंगो"" which means mango in Hindi and ""Bane"" is left as it is because it does not have a direct translation in Hindi. Therefore, the correct translation of the given English sentence into Telegu is ""Mango bane"". 
+
+Note: The language code for Telugu is ""te"".
+
+```python
+def translate_to_telugu(sentence):
+    """"""
+    This function translates the input sentence from English to Telugu.
+    
+    Parameters:
+    sentence (str):",0.00,2.07
+Oh nonsense.,అర్ధంలేని ఓహ్.,"ओह बकवास.  ### Step 1: Understand the input sentence
+The input sentence is ""Oh nonsense."" which is an idiomatic expression in English.
+
+### Step 2: Identify the translation requirements
+We need to translate this sentence into Hindi, which is also known as Devanagari (te).
+
+### Step3: Translate the individual words
+- ""Oh"" is an interjection and can be translated to ""ओह"" in Hindi.
+- ""nonsense"" is a noun that refers to something that is foolish or absurd, and its translation in Hindi is ""बकवás"".
+
+### Step4",0.00,0.18
+Runway secure.,రన్వేసురక్షిత డ్యూక్:,"रनवे सुरक्षित. (Runway secure in Hindi)
+Explanation: In the given sentence, ""runway"" is a noun and ""secure"" is an adjective. To translate this sentence into Hindi, we need to find the corresponding Hindi words for these two English words. The Hindi word for ""airport runway"" is ""रनवे"" (runway) and the Hindi equivalent of the adjective ""secure"", which means ""safe"" or ""free from danger"", is ""सुरक्षात्मक"" (safeguarding) or ""सेफ"" (safe). So, the correct translation of the",0.00,0.17
+And you'll be a goonie too.,మరియుమీరు. ఒక goonieఉంటుందిచాలా,"और तुम भी गूनी हो जाओगे।  ### Step 1: Identify the source language and target language.
+The source language is English (en) and the target language is Telugu (te).
+
+### Step 2: Break down the English sentence into individual words.
+The English sentence is: ""And you'll"" ""be"" ""a"" ""goonie"" ""too.""
+Individual words: 
+1. And
+2. You'll
+3. Be
+4. A
+5. Goonie
+6. Too
+
+###Step 3: Translate each word from English to Telugu",0.00,4.12

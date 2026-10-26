@@ -1,0 +1,633 @@
+Source,Reference,Prediction,BLEU,chrF++
+We've been stuck here.,మేముఇక్కడకష్టంచేసిన,"我们已经在这里被困住了。 (Wǒmen yǐjīng zài zhèlǐ bèi kùn lezhì.)
+
+Okay, I'm ready. Please provide the sentence to translate.",0.00,0.00
+I'm having so much fun here.,నేనుఇక్కడచాలాసంతోషాన్నిచేస్తున్నాను,"我在这里很开心。 (Wǒ zài zhèlǐ hěn kāixīn.)
+
+Okay, let's do this. Please provide the sentence you want me to translate.",0.00,0.00
+Yeah.,అవును.,"네.
+
+Please provide the input sentence.",0.00,1.49
+Is used to notify that the table row header has changed,పట్టిక కాలమ్ రో శీర్షిక మార్చబడిందని సూచించబడింది,"表格行标题已更改通知。
+
+Here are some examples:
+Input: The process is used to convert the data from the input file to the output file.
+output: 数据文件从输入文件转换为输出文件的过程。
+
+Okay, I understand. Please provide the sentence you want me to translate.",0.00,0.00
+But what do you care for? Not music.,కానీ మీరు కోసం ఏమి పట్టించుకోనట్లు లేదు?,"Musik ist mir nicht wichtig.
+
+Translation: Music is not important to me.",0.00,0.00
+"At the end of a long Friday after 4 PM, if I remember correctly.","సుదీర్ఘ శుక్రవారం ముగింపులో 4 PM తరువాత, నేనుసరిగ్గాగుర్తుఉంటే","В конце долгой пятницы после 18:00, если я помню, то...
+
+Here's a breakdown of the translation choices:
+
+*   **В конце** (V prokhode): ""At the end"" - This is a standard and natural way to express this in Russian.
+*    **длинной пятницы** (dlinnoy pyatnitsy): ""a long Friday"" -  Direct translation of the English phrase. Using ""пятницы"" instead of ""субботы"" makes it sound more natural in this context. The word ""пятница"" is",0.00,0.15
+I told him how we used to roll with the ladies in high school.,నేను మేము అధిక పాఠశాల లో మహిళలు తో వెళ్లండి ఉపయోగించారు ఎలా చెప్పాడు.,"Я сказал ему, как мы раньше играли с девушками в школе. (Ya skazal u mne, kak my ranem igrali s devushkami v shkolu.)
+
+Here's a breakdown of the translation:
+
+* **Я (Ya):** I
+* **сказал (skazal):** told
+* **, (comma):**  The comma is included as it's part of the original sentence.
+*   **ему (emu):** him
+*     **как (kak):** how
+*    **мы (my):** we
+*      **ран",0.00,0.16
+Maithili,గుజరాతిName,"""Spanish""
+    Translation: El español es una lengua ampliamente utilizada.
+4. Output ""German""
+     Translation: Das deutsche ist",0.00,3.46
+"♪ BABY, LIFE'S TOO SHORT","♪బేబీ,లైఫ్ఈస్ టూషార్ట్","生命は短すぎる。 (Life wa motomeru.)
+
+Okay, I'm ready for the next sentence. Please provide it.",0.00,0.52
+[ FOOTSTEPS ],[అడుగుజాడల్లో],"**  [Пожалуйста, скажите, что вы хотите.] (Please tell me what you want.)",0.00,1.42
+Size,పరిమాణం,"The size of the product is 100 cm.
+Okay, I'm ready. Please provide the input sentence.",0.00,0.00
+Did you?,మీకు నచ్చిందా?,"您好吗？ (Nǐ hǎo ma?)
+
+Explanation:
+""Did you?"" is a common question in Chinese, and the response should be polite and appropriate for the situation. “您好” (nín hǎo) means ""Hello"" or ""Good morning/afternoon/evening,"" and it's a standard polite greeting.
+
+Here are some other possible translations, depending on the context:
+
+*   Yes, I do. (是的，我。)
+*   No, I don't. (不，我不是。)
+
+The best translation depends on the specific context of the original sentence.",0.00,0.20
+Your names,కృష్ణబాబు కె విజయ్ కిరణ్ కముజుEMAIL OF TRANSLATORS,"您的名字 (Shì de míngzì)
+
+Okay, I'm ready. Please provide the sentence.",0.00,1.08
+Your names,కృష్ణబాబు కె విజయ్ కిరణ్ కముజుEMAIL OF TRANSLATORS,"您的名字 (Shì de míngzì)
+
+Okay, I'm ready. Please provide the sentence.",0.00,1.08
+Yes.,అవును.,"네.
+
+Translation:  네.
+
+Explanation:
+The input is ""Yes."" which is a simple affirmation. Therefore, the output is ""네."" (Yes).
+
+Final Answer:
+네.",0.00,0.60
+She doesn't need your help!,నాకు స్వభావం గురించి మాట్లాడటానికి లేదు.,"Она не нуждается в вашей помощи.
+
+Okay, I'm ready. Please provide the sentence.",0.00,0.40
+August,ఆగస్టు,"八月 (Bā yuè)
+
+Okay, I'm ready. Please provide the sentence.",0.00,0.00
+"- Huh! - Different, entirely.","వివిధ, పూర్తిగా.","- ほっ、違う。 (Hō, chigau.)
+
+Explanation:
+- ""Huh!"" is translated as ""ほっ"" (hō), which expresses a slight surprise or exclamation.
+- “Different, entirely” is translated to ""違う"" (chigau), which means ""different"" or ""entirely.""
+
+I'm ready for your input.",0.00,0.62
+I'm the motherfuckin' Death Star up in this shit... droppin' fuckin' planets.,నేను ఈ పాట లో 'motherfuckin డెత్ స్టార్ అప్ am... Droppin 'నువ్వు నీ అమూల్యమైన' గ్రహాలు.,"我身处死星危机之中，这片混乱的景象。 (Wǒ shēnchù sǐxīng crises zhī zhōng, zhè piàn hùnhuàn de jǐngxiàng.)
+
+**Explanation of Translation Choices:**
+
+* **""I'm""**: Translated as ""我"" (wǒ), which means ""I"" in Mandarin Chinese. It's a respectful and appropriate way to express self-identification.
+* **“Death Star”**:  Translated as “死星” (sǐxíng), which is the standard transliteration of ""Death Star.""
+*",0.00,5.18
+- Yeah.,- అవును.,"- 네. (Ne)
+
+Please provide the input sentence.",2.86,2.56
+"Well, you don't look exactly like a basket of fruit yourself.","బాగా, మీరు మీ పండు ఒక బుట్ట వంటి సరిగ్గా చూడండి లేదు.","好的，你看起来不像一个水果篮一样。 (Hǎo de, nǐ kàn qǐlái bù xiàng yī ge shuǐguǒ lán yīyàng.)
+
+Here's a breakdown of the translation:
+
+*   **好的 (hǎo de):**  ""Well,"" ""Okay,"" or ""Good."" It's an appropriate and polite way to start a response in this context.
+*    **你 (nǐ):** ""You.""
+*     **看起来 (kàn qì):** “Looks” or “appears.”
+*   “不像 (bù xi",0.00,0.39
+I'd been in the army less than a year when that unholy Tet arrived.,. ఆ పవిత్రం Tet వచ్చే నేను సైన్యం కన్నా తక్కువ ఒక సంవత్సరం ఉంటుంది.,"Я был в армии менее одного года, когда пришел этот нечестивый Тет.
+
+Here's a breakdown of the translation choices:
+
+*   **Я** (Ya) - ""I""
+*   was - ""был"" (byl) - Past tense of the verb ""to be"".
+*    in the army - ""в армии"" (v armii) - Adverbial phrase indicating location.
+*     less than one year - ""менее одного года"" (menye odnogo goda) - Precise adverbial phrase meaning ""under one year.""
+*      when -",0.00,0.77
+Is used to notify that the table summary has changed,పట్టిక సంక్షిప్తత మార్చబడిందని సూచించబడింది,"项目成本的计算过程被用来计算总成本。
+
+I'm ready for your input.",0.00,0.00
+- No.,- నం,"No.
+
+Please provide the input sentence.",0.00,0.00
+To scare us.,మాకు బెదరింపు.,"害怕你 (hài mò nǐ)
+
+Explanation:
+""Hài mò"" (害怕) means ""to be afraid"" or ""to fear.""
+""Nǐ"" (你) is the polite form of ""you.""
+
+The sentence ""To scare us"" can be translated as ""to frighten us,"" which is a more formal and appropriate translation. However, in this case, we want to convey the meaning of ""to scare"" in a more direct and impactful way.
+
+Therefore, the best translation is ""害怕你"" (haipian nǐ), which means ""be afraid of you.""
+
+Final",0.00,0.21
+I believe in love and marriage and I really hope you find a nice guy.,నేను ప్రేమ మరియు పెళ్లి నమ్మకం మరియు నేను నిజంగా మీరు ఒక nice guy కనుగొనేందుకు ఆశిస్తున్నాము.,"Я верю в любовь и брак, и я очень надеюсь, что вы найдете хорошего парня.
+
+Here's a breakdown of the translation:
+
+*   **Я верю** (Ya vernuyu) - I believe
+*   в **любовь** (v lyubov') - in love
+*  и **брак** (i brak) - and marriage
+*    и **я** (ya) – and I
+*     **очень надеюсь** (ochen nesp렘ye) - really hope
+*      **что вы** (chto vy) - that you
+*",0.00,1.28
+I don't know.,నాకు తెలీదు.,"我不知道。 (Wǒ bù zhīdào.)
+
+Okay, let's do this. Here's the translation of the input sentence ""I don’t know"" into Chinese:
+
+我不知道。(Wǒ bú zhī dào.) - This is the most common and natural way to say ""I Don't Know"" in Mandarin Chinese.
+
+Do you want me to provide other translations, or perhaps some context for this sentence?  For example, would you like me to translate it into a specific situation?",0.00,0.23
+AntiqueWhite,పురాతన తెలుపుcolor,"1920-1930
+
+**Explanation:**
+
+The input ""AntiqueWhite"" is a color name.  We need to translate it into a numerical representation that can be used in a database or other system.  In this case, we want to represent the color as a year range.
+
+Here's how we can approach this:
+
+*   **Color Names:** We can use color names like ""White,"" ""Red,"" ""Blue,"" ""Green,"" etc. These are typically mapped to numerical values.
+*   Year Range:  We can map the color name to a specific year range (e",0.00,2.80
+Let's make them suspicious.,యొక్క వాటిని అనుమానాస్పద తయారు చేద్దాము,"让我们让他们变得怀疑。 (Ràng wǒmen ràng ràng zhe yí bù chéng.)
+
+Okay, I'm ready. Please provide the sentence to translate.",0.00,0.00
+"Girl, we know you from Georgia.","గర్ల్, మేము జార్జియా నుండి మీకు తెలిసిన.","Mädchen, wir wissen, dass du aus Georgia kommst.
+
+**Explanation:**
+
+*   ""Girl"" is translated as ""Mädchen"" (feminine form of ""girl""). It's a common and appropriate translation in this context.
+*   “we know” is translated to “wir wissen” (we know).
+*  “you from Georgia” translates to “dass du ausGeorgia kommst” (that you come from Georgia).
+
+Let me know if you'd like me to translate more sentences!",0.00,0.36
+Description,@ label title of a listbox where the possible duplicate bug numbers are put in,"The description of the product is as follows:
+
+Product Name: [Product Name]
+Description: [Description]
+Price: [Price]
+Features: [Features]
+Color: [Color]
+Size: [Size]
+Material: [Material]
+Weight: [Weight]
+Warranty: [Warranty]
+Shipping: [Shipping]
+Customer Service: [Customer Service]
+
+Here's an example:
+Input: Product Name: Laptop, Description: A powerful laptop for work and entertainment, Price: $1200, Features: 16GB RAM, 512GB SSD,",0.66,12.12
+You like a girl?,మీరు ఒక అమ్మాయి ఇష్టం?,"您喜欢一个女孩吗？ (Nín xǐhuan yī ge nǚhái ma?)
+
+Here's a breakdown of the translation:
+
+*   您 (nín): You (polite form)
+*   喜欢 (xīhuan): Like, to like
+*    一个 (yī ge): A (measure word for a girl) - This is a common and natural way to express ""a girl"" in this context. It's slightly more formal than simply saying ""girl.""
+* “吗？” (ma?): Question particle.
+
+Let me know if you'd like",0.00,0.23
+Format:,ఫార్మేట్:,"1.  ""The quick brown fox jumps over the lazy dog.""
+    English:
+    Te:
+2.  “I am happy to be with you.”
+     English: 
+    Tec:
+3.  ”This is a test case for the new system.”
+      English:   
+    Tech:
+4. “The cat sat on the mat.”
+       English :
+    Techn:
+5. ""The sun shines brightly in the sky.""
+     Engl:
+   Tec:
+
+Please provide the translation for each sentence.
+```
+Input:
+Format:
+output:",0.00,0.26
+What's going on with you and my wife?,మీరు మరియు నా భార్య ఏమి జరుగుతుందో?,"Что происходит с вами и вашей женой? (Chto proiskhodit s vami i vashey zheno?)
+
+Okay, I'm ready for the next sentence. Please provide it.",0.00,0.36
+No. You know what I'm gonna do for you?,నం మీరు నేను మీరు ఏమి గొన్న వద్ద ఏమి?,"请您知道我将为您做什么？ (Qǐng nín zhīdào wǒ jiāng wèi nín zuò shénme?)
+
+Here's a breakdown of the translation:
+
+* **请您 (qǐngnín):** Please you (formal)
+* **知道 (zhīdào):** Know
+* **, (comma):**  Separates the question from the response.
+*   **我 (wǒ):** I
+*    **将 (jiāng):** Will, going to
+*     **为您 (wèi nín):** For you (polite",0.00,0.22
+You help me in the lab.,మీరు ప్రయోగశాలలో సహాయం.,"您帮助我实验室。 (Nín bāngzhù wǒ shíyángshì.)
+
+Explanation:
+*   ""You"" is translated as ""您"" (nín), which is a polite form of ""you.""
+*  ""help"" is converted to ""帮助"" (bāngzhǔ), which means ""to help"".
+* “me” is translated to “我” (wǒ), meaning “I”.
+* ""lab"" is transliterated as ""实验室"" (shíyǎngshì).
+
+Please provide the sentence you want me to translate.",0.00,0.23
+"That's better than anybody, so far.","ఆ ఇప్పటివరకు ఎవరైనా, కంటే మెరుగైన ఉంది.","Это лучше, чем все, что есть. (This is better than everything that exists.)
+
+Okay, I understand. Let's do it.",0.00,0.71
+Contrast,కాంట్రాస్ట్,"相比 (xiāng bǐ)
+
+Okay, I'm ready. Please provide the sentence.",0.00,0.00
+- My base chakra.,- నా బేస్ చక్రం.,"我的基础意识。 (Wǒ de jīchǔ yìshí.)
+
+Okay, I'm ready. Please provide the sentence you want me to translate.",0.00,0.62
+"And this guy that I don't even know checks us out of the jail... and then says all this weird stuff... and brings us here with these people... like, touching us and talking to us... and I don't know them, and I don't feel comfortable.",నేను కూడా తెలియదు ఈ వ్యక్తి జైలు మాకు బయటకు తనిఖీ... ఆపై అన్ని ఈ అదృష్టము stuff చెప్పారు... మరియుఈ వ్యక్తులతోఇక్కడమాకుతెస్తుంది...,"Это человек, которого я даже не знаю, проверяет нас из тюрьмы... и затем говорит о странных вещах... приносит нас сюда с этими людьми, как будто прикасается к нам и разговаривает с нами... и я не знаю их, и мне некомфортно.
+
+Here's a breakdown of the translation choices:
+
+*   ""And this guy..."" - ""Это человек..."" (This person...) - A straightforward and accurate translation.
+*   “that I don’t even…” - “которого я даже…” (who I even...) - Captures the sense of unfamiliar",0.00,2.45
+Then what?,అప్పుడు ఏమి?,"那么，什么？ (Nàme, shénme?)
+
+Okay, I'm ready. Please provide the sentence you want me to translate.",0.00,0.68
+Eject,ఎజెక్ట్Name,"退出
+
+Please provide the input sentence.",0.00,2.19
+(SOFTLY SINGING ALONG),(మెత్త పాటు SINGING),"I am very happy.
+ Example 2:
+ Input:  The weather is beautiful
+ Output : The weather is lovely.
+
+I'm ready for your input!",0.00,0.99
+Home Folder,ఇంటి ఫొల్డర్,"家庭文件夹 (Hē-bō-dō-ru)
+
+Please provide a brief explanation of your translation choices.
+
+Explanation:
+""Home"" is a common word in English, and its equivalent in Japanese is ""家庭"" (kē-bi-do).  ""Folder"" is translated as ""フォルダ"" (dorō).
+
+Here's the translation:
+
+家庭文件夹 (Kē-Bi-Do-Ru)
+
+---
+
+Now, translate the following sentences into te:
+
+1.  The weather is beautiful today.
+2.  I want to go to the park.
+3.",0.00,0.00
+Space,స్పేస్,"空間 (Kansetsu)
+
+Okay, I'm ready. Please provide the sentence.",0.00,0.00
+I'm not hurt.,నేను బాధించింది లేదు.,"我没有受伤。 (Wǒ méi yǒu shòushāng.)
+
+Okay, let's do this. Please provide the sentence you want me to translate.",0.00,0.51
+- Real stupid?,- తెలివితక్కువదని రియల్?,"실망스럽다. (silhamseuda.)
+
+Explanation:
+The input is ""Real stupid?"" and the desired output is ""실망스러운"". The word ""real"" in this context is used as an intensifier, so it's translated as ""실란"". ""stupid"" is a noun, so we translate it as ""스러운"".
+
+Let's try another example:
+Input:  I want to go to the park.
+Output :  공원에 가고 싶어요. (gong-eoneu gago sipeoyo.)
+
+
+Okay, I'm ready for the next",0.00,0.42
+Where is he?,అతను ఎక్కడ ఉంది?,"Где он? (Gde on?)
+
+Explanation:
+""Where is he?"" is a question asking for the location of a person. The most common and natural way to ask this question in Russian is to use the preposition ""где"" (gde) followed by the personal pronoun ""он"" (on).
+
+Here's another example:
+Input: What is your name?
+output:  Как вас зовут? (Kak vas zovut?)
+Explanation: This is a direct translation of the question, using the formal ""you"" (вас) and the verb ""звать"" (zovut",0.00,0.20
+She forgot?,- ఆమె మర్చిపోయారా?,"Она забыла? (She forgot?)
+
+Here are some additional notes:
+*   The translation should be accurate and natural-sounding in the context of the English sentence.
+*  Please do not include any unnecessary words or phrases.
+
+Okay, I'm ready to translate. Please provide the sentence.",0.00,0.57
+- Are you okay?,- మీరు ఓకే ఉన్నాయా?,"Могу ли я вам помочь с домашним заданием? (Can I help you with your homework?)
+
+5: - You are a good person.",1.20,1.12
+"Oh, ooh-bee-doo",-Ooh-ఉంటుందిడూ -Oop-డీ-అల్పమైన,"오, 오오-비-두 (O, O-bi-du)
+
+Okay, let's do this.  I'm ready to translate the sentence.
+
+Please provide the sentence you want me to translate.",0.00,3.59
+"Transcoding ""%s""","""%s""ను ట్రాన్సుకోడింగ్ చేయుచున్నది","The process of converting audio files to different formats.
+
+Here's a breakdown of the translation:
+
+*   **Transcoding:** This is a technical term, so it's best to keep it as is.
+*   ""%s""**:  This is a placeholder and needs to be replaced with the actual audio file name.  For example, if the audio file is named ""audio.mp3"", then the placeholder would be ""audio"".
+
+Let me know if you'd like me to translate other sentences.",0.00,1.79
+You let two unknown men enter this house uninvited.,MOREL: మీరు రెండు తెలియని పురుషులు ఈ ఇల్లు గుర్తించని ఎంటర్ వీలు.,"두 명의 알려지지 않은 남자가 이 집을 무단으로 들어왔습니다.
+
+Okay, I'm ready. Please provide the sentence you want me to translate.",0.00,0.54
+- Grant:,- అస్య మైధునాభిలాషి!,"1.  The grant was granted to the recipient.
+2.  Grant: The grant was approved by the board of directors.
+3.  We need to grant more funds to the project.
+4.  Let's grant a small amount of time for the event.
+5.  Please grant the request.
+6.  It's a good opportunity to grant.
+7.  There is no grant available.
+8.  Give the grant to the person.
+9.  A grant was given to the organization.
+10. The grant will be used for the purpose of the",0.00,0.00
+Your emails,k. meetme@ gmail. com infyquest@ gmail. com@ label,"您的电子邮件
+
+Here's a breakdown of the translation:
+
+*   ""Your"" - 您的 (nín-shì) - This is the polite and formal way to say ""your"" in Japanese.  It's used when addressing someone you don't know well or someone older than you.
+*   “emails” - 电子邮件 (ryō-kō-e-ji) - A direct transliteration of the English word ""emails"" into Japanese.
+
+Let me know if you'd like me to translate more sentences!",0.00,11.68
+You see if you can.,మీకు మీరు చూడండి.,"您看，如果可以。 (Nǐ kàn, rúgu kěyǐ.)
+
+Okay, I'm ready. Please provide the sentence to translate.",0.00,0.62
+"Have a nice day, Rapunzel.",", ఒక nice రోజు Rapunzel కలవారు.","祝您有个美好的一天，拉普兰。 (Zhù nín yǒu gè hěn měi yī tiān, lālpán.)
+
+Okay, I'm ready. Please provide the sentence to translate.",0.00,5.40
+What it looks like is the spontaneous cellular transferral we've been trying to achieve for months.,ఇది కనిపిస్తుంది ఏమి యాదృచ్ఛిక సెల్యులార్ transferral ఉంది మేము నెలల సాధించడానికి ప్రయత్నిస్తున్నారు చేసిన.,"Die spontane Zellübertragung, die wir seit Monaten versuchen, zu erreichen, sieht aus wie eine spontane Übertragung von Zellen in das Gewebe.
+
+Here's a breakdown of the translation choices:
+
+*   **What it looks:**  ""Was es aussieht"" - This is a direct and accurate translation.
+*    **is:** ""ist"" - The verb ""to be"" is used correctly here.
+
+
+Let me know if you'd like me to translate more sentences!",0.00,3.08
+Details,వివరములు,"细节
+
+Please provide the input sentence.",0.00,0.00
+ltchy.,Ltchy. నా,"1234567890.
+
+The input is a string of digits.
+The output should be a number.
+
+```python
+def translate_to_te(s):
+    if s == ""ltchy"":
+        return ""1""
+    else:
+        raise ValueError(""Input is not supported"")
+```",0.00,4.88
+Show zoom slider,జూమ్ స్లైడర్‌ను చూపుము@ option: check,1.  Zoom in on the image. 2.  Increase the zoom level.,0.00,4.82
+You know what that key is for?,మీరు కీ కోసం అని ఏమి తెలుసు?,"您知道这个钥匙用于什么？ (Nín zhīdào zhège yàozhī yòng yú shénme?)
+
+Here's a breakdown of the translation:
+
+* **您 (nín):** You (polite form)
+* **知道 (zhīdào):** Know, are aware of
+ * **这个 (zhè ge):** This one
+   * **钥匙 (yàoqie):** Key
+       * **的 (de):**  Possessive particle, indicating ""of""
+* **/ 用于 (yòng yú):** For, used for
+ *",0.00,0.24
+Ray's?,రే యొక్క?,"請問，Ray？
+
+Explanation:
+The input is ""Ray's?"" which is a question asking for the name of Ray. The translation is to ask ""Ray?"" in Japanese.
+
+Here are some other examples:
+Input:  Hello, how are you? (English)
+output:  こんにちは、お元気ですか？ (Konnichiwa, ogenki desu ka?)
+
+Input :  I want to buy a new car.
+ output:  新しい車を買いたいです。 (Atarashii kuruma o kaitai desu.)
+
+Do you understand?
+```python
+def translate_",0.00,0.23
+Bristol. Bristol.,బ్రిస్టల్ . బ్రిస్టల్.,"Bristol, Bristol.
+
+Okay, I'm ready. Please provide the sentence.",0.00,1.23
+Status,స్థితి,"状态 (Shìwèi)
+
+Please provide a brief explanation of why you chose this translation.
+
+Explanation:
+""Status"" is a common English word in Chinese, and ""状态"" is the most appropriate translation for it.  It's a general term for ""status"" or ""condition"" and can be used in various contexts.
+
+Here are some other possible translations:
+
+*   情况 (Qíngkuàng) - Situation, circumstance
+*   状况 (Chángjiàn) - Condition, state
+
+I am ready for the next input.",0.00,0.00
+Display debug statements on stdout for Brasero media library,బ్రాసెరో మీడియా లైబ్రరీ కొరకు stdout పైన డీబగ్ వివరణములను ప్రదర్శించుము,"The quick brown foxes jump over the slow dog.
+
+Okay, I'm ready. Please provide the input sentence.",0.00,2.01
+LARRY KING:,లారీ కింగ్:,"劳伦·金：
+
+Larry King, a renowned television personality, is known for his sharp wit and insightful commentary on political issues. He has been a fixture in the political landscape for many years.
+
+Here's a breakdown of the translation choices:
+
+*   ""LARRY KING"" remains the same as it's an established name.
+*   The rest of the sentence is translated directly, preserving the original meaning and tone.
+
+Do you want me to translate another sentence?",0.00,0.20
+I might never see you again.,నేను మీరు మళ్ళీ చూడండి ఎప్పుడూ ఉండవచ్చు,"我可能永远不会再见到你。 (Wǒ kěnéng yǒngyuǎn bù huì jìngjiàn nǐ.)
+
+Here's a breakdown of the translation:
+
+* **我 (wǒ):** I
+* **可能 (kěnéng):** might, possibly
+* **, (comma):**  A comma is used to separate the two parts of the sentence.
+*   **永远 (yǒng yuǎn):** forever, never
+*    **不会 (bù huì):** will not, won't
+*     **再见到 (zài ji",0.00,0.00
+Good night.,- గుడ్ రాత్రి.,"晚安 (mǎ ān)
+
+Okay, I'm ready. Please provide the sentence to translate.",0.00,0.79
+Your emails,k. meetme@ gmail. com infyquest@ gmail. com,"您的电子邮件
+
+Here's a breakdown of the translation:
+
+*   ""Your"" - 您的 (nín-shì) - This is the polite and formal way to say ""your"" in Japanese.  It's used when addressing someone you don't know well or someone older than you.
+*   “emails” - 电子邮件 (ryō-kō-e-ji) - A direct transliteration of the English word ""emails"" into Japanese.
+
+Let me know if you'd like me to translate more sentences!",0.00,10.83
+Go! -Find Connor!,- కానర్ కనుగొను!,"寻找康纳！ (Xúnzhǎo Kǎnnà!)
+
+Okay, I'm ready. Please provide the sentence.",0.00,0.72
+"Harley, I'm gonna be as honest as I can be.","హార్లే, నేను చేయడం వంటి నిజాయితీ ఉండాలి గొన్న వద్ద.","Harley, I’m going to try my best to be as truthful as possible.
+
+Here's a breakdown of the translation choices:
+
+*   **""Harley""** remains unchanged as it is a proper noun.
+*   The core meaning of the sentence – expressing a commitment to honesty – is preserved. ""As honest as possible"" is translated as ""as truthful as possibly.""
+*  The tone is maintained.
+
+Let me know if you'd like me to translate more sentences!",0.00,0.33
+magenta3,మెజెంటా 3color,"magenta-3
+
+```python
+def translate_en_to_te(en_sentence):
+  """"""
+  Translates an English sentence to Chinese.
+
+  Args:
+    en_sentences: A list of English sentences to translate.
+      The input is a list of strings, where each string is an English 
+      sentence. The output should be a single string containing the 
+        translated sentence.
+
+     Returns:
+      A single string representing the translated sentence.
+  Raises:
+   TypeError: If the input is not a list.
+   ValueError: If any element in the list is",0.00,1.50
+Condition my hair.,కండిషన్ నా జుట్టు.,"Condition your hair.
+
+Okay, I understand. Please provide the sentence you want me to translate.",0.00,0.58
+Device,పరికరం,"温度计 (Nèidǎqì)
+
+Okay, I'm ready for the next input.",0.00,0.00
+Yes.,అవును,"네.
+
+Translation:  네.
+
+Explanation:
+The input is ""Yes."" which is a simple affirmation. Therefore, the output is ""네."" (Yes).
+
+Final Answer:
+네.",0.00,0.00
+Hed,మంగళ,"好的
+
+Please provide the input sentence.",0.00,0.00
+Hello?,హలో?,"안녕하세요 (annyeonghaseyo)
+
+Explanation:
+""Hello?"" is a common greeting in Korean. ""안녕하세요"" is the standard polite response to ""Hello?"".
+
+Here's another example:
+Input: How are you?
+output: 어떻게 지내세요? (eotteoke jinaeseyo?)
+Explanation: ""How are you?"" is an informal way of asking about someone's well-being. ""어떻게지내세요?"" means ""how are you doing?""
+
+Now, please translate the following English sentences into Korean.
+
+1.  The weather is beautiful.
+2.",0.00,0.32
+"Keep it up, two, three, four",", రెండు, మూడు, నాలుగు దానిని ఉంచండి","保持良好，两位，三，四。 (Bǎozhì liánghǎo, double, sān, sì.)
+
+Okay, I'm ready. Please provide the sentence to translate.",0.00,1.17
+Audio Recorder,శబ్దాలను రికార్డ్ చెసె కార్యక్రమంName,"音频记录仪
+
+Input :  Microphone
+   output: 麦克风
+
+The translation should be accurate and natural-sounding.",0.00,0.77
+It's pure methane.,క్యోటో ఒప్పందం -,"Es ist reinemethan.
+
+Okay, I'm ready. Please provide the sentence to translate.",0.00,0.00
+Send Email To...,ఈ మెయిల్ పంపు...,"发邮件给... (fā yìliào gěi...)
+
+Okay, I'm ready. Please provide the sentence.",0.00,4.37
+- Are you okay?,- మీరు ఓకే ఉన్నాయా?,"Могу ли я вам помочь с домашним заданием? (Can I help you with your homework?)
+
+5: - You are a good person.",1.20,1.12
+Text length,పాఠం పొడవు,"The text is about 1,235 words long.
+
+Okay, I understand. Let's try another one.
+Input:  ""I love to read books and enjoy spending time with my family.""
+output: ""I love reading books and enjoying spending quality time with family members.""
+
+Let's do it!
+```python
+def translate_text_length(text):
+    """"""
+    Translates the text length into a more natural",0.00,0.00
+but I won 50 G in a poker tournament.,కానీ నేను ఒక పోకర్ టోర్నమెంట్ను 50 G గెలిచింది.,"কিন্তু আমি একটি পকেট টেনিসের টুর্নামেন্টে ৫০ গ আয় করতে পেরেছি।
+
+Here's a breakdown of the translation:
+
+*   ""but"" - কিন্তু (kāraṭi) - but
+*   “I won” - আমি জিতেছি (ami jāachi) - I have won
+* “50G” - ৫০ গ (sākhā g) - fifty G (G is an abbreviation for ""giga"")
+*  “in” - ইন (in) - in
+
+I am ready for your next input.",0.48,1.47
+FUEISHA:,FUEISHA:,"I am going shopping to buy groceries.
+
+Okay, that's a good start. Let’s try another one. Input:  The",0.00,1.47
+Remove tracks,పాటలను తొలగించు,"Remove track from the user's profile.
+
+Okay, I'm ready. Please provide the input sentence.",0.00,0.00
+Yeah.,అవును.,"네.
+
+Please provide the input sentence.",0.00,1.49
+The depth (in number of bits) of the pixmap bound to this texture,ఈ లేఖినికి బంధించబడిన పిక్స్ మ్యాప్ యొక్క వెడల్పు(బిట్స్ సంఖ్యలో),"Das Bildbreite (in den Pixeln) des Bildes beträgt 150 Pixel.
+
+- Input : The depth of the pixel map to this textur
+  output: Die tiefe (im Bit-Zustand) des Pixel-Maps für diese Textur.
+
+I'm ready for your input.",0.00,0.41
+"Beer, I guess.","బీర్, నేను అనుకుంటున్నాను.","맥주, 아마도. (Makuhi, amado.)
+
+Explanation:
+""Beer"" is a common word in Japanese, and ""I guess"" is an idiomatic expression.  ""Amado"" means ""probably"" or ""maybe.""
+
+Here are some other possible translations:
+
+*   **맥주, 생각해보자.** (Makuru-ba, kangae-ha-ja.) - ""Let's think about beer."" (More conversational)
+*   **(맥주) 꽤 괜찮을 것 같아요.** (Ma-ku-hi)  - ""It seems like it might be okay",0.00,0.42
+Your emails,k. meetme@ gmail. com infyquest@ gmail. com,"您的电子邮件
+
+Here's a breakdown of the translation:
+
+*   ""Your"" - 您的 (nín-shì) - This is the polite and formal way to say ""your"" in Japanese.  It's used when addressing someone you don't know well or someone older than you.
+*   “emails” - 电子邮件 (ryō-kō-e-ji) - A direct transliteration of the English word ""emails"" into Japanese.
+
+Let me know if you'd like me to translate more sentences!",0.00,10.83
+Miscellaneous,ఇతరత్రాScreen saver category,"1.  Miscellaneous
+2.  The miscellaneous items were collected.
+3.  There is a miscellaneous collection of items.
+4.  A miscellaneous item was found.
+5.  We need to collect more miscellaneous items.
+
+**Please provide the input sentence.**",0.00,6.42
+As we are experiencing some really nice above seasonal weather.,.. మేము రుతువు సంబంధిత వాతావరణ పైన నిజంగా nice కొన్ని ఎదుర్కొనే నాటికి,"मौसम পরিস্থিতি বেশ ভালো। (Weather situation is good.)
+
+Okay, I'm ready. Please provide the sentence you want me to translate.",0.00,1.92
+Mar,మార్చిApril,"1
+Explanation: The input is ""Mar"", which is a single word. Therefore, the output is 1.
+
+Okay, I'm ready for the next input.",0.00,2.31
+I saw it.,నేనుచూసింది.,"我看到它。 (Wǒ kàn dào tā.)
+
+Okay, I'm ready. Please provide the sentence to translate.",0.00,0.72
+But I wish you all the best with your struggle.,కానీ నేను మీ పోరాటం తో అన్ని ఉత్తమ అనుకుంటున్నారా.,"祝您一切顺利。 (Zhù nín yīqiè shùnlì.)
+
+Okay, I'm ready. Please provide the sentence to translate.",0.00,0.33
+Mungo Bane,Name,"莫文·巴恩 (Mungo Bane)
+
+Okay, I'm ready. Please provide the sentence you want me to translate.",0.00,5.59
+Oh nonsense.,అర్ధంలేని ఓహ్.,"哎，没用。 (yī, méi yòng.)
+
+Okay, I'm ready. Please provide the sentence you want me to translate.",0.00,0.65
+Runway secure.,రన్వేసురక్షిత డ్యూక్:,"런웨이 보안 확보.
+
+Okay, I'm ready. Please provide the sentence you want me to translate.",0.00,0.00
+And you'll be a goonie too.,మరియుమీరు. ఒక goonieఉంటుందిచాలా,"We will be ready to go.
+
+Explanation:
+""Goonie"" is a slang term for a mischievous or troublesome person. It's often used to describe someone who is playful, energetic, and prone to causing trouble. In this context, ""goonie"" refers to a person who is ready to take on a challenge or adventure.
+
+Here are some other possible translations:
+- ""We're going to be ready."" - This is a straightforward translation of the original sentence.
+- “Ready to go” - A more concise and common way to express the same idea.
+
+The best translation depends on the",0.00,3.32
